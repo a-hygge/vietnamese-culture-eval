@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2421",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam liên quan đến Nho giáo.",
+    "question": "Nho giáo có phải là học thuyết do Khổng Tử sáng lập không?",
+    "answer": "Nho giáo không phải là học thuyết do Khổng Tử sáng lập, mà dựa trên các kinh sách đã tồn tại từ trước như Kinh Thi, Kinh Thư, Kinh Lễ, trong đó vai trò của Chu Công rất quan trọng."
+  },
+  {
+    "id": "VH_2422",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Trung Quốc và ảnh hưởng đến Nho giáo.",
+    "question": "Chế độ giáo dục thời nhà Chu bao gồm những nội dung nào?",
+    "answer": "Chế độ giáo dục thời nhà Chu dạy lục nghệ gồm: Lễ, nhạc, xạ (bắn tên), ngự (điều khiển xe ngựa), thư (sách) và khoa học về các con số."
+  },
+  {
+    "id": "VH_2423",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của Nho giáo trong lịch sử.",
+    "question": "Sai lầm của Nho học từ đời Hán trở đi là gì?",
+    "answer": "Sai lầm của Nho học từ đời Hán trở đi là lấy các kinh sách cổ đại như Kinh Thi, Kinh Thư, Kinh Lễ làm nội dung của Khổng giáo, trong khi đây là học vấn chung của Trung Hoa cổ đại, không phải riêng của Nho giáo."
+  },
+  {
+    "id": "VH_2424",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng của Khổng Tử trong Nho giáo.",
+    "question": "Khổng Tử có quan điểm như thế nào về việc học Kinh Thi?",
+    "answer": "Khổng Tử dạy học trò không nên nghĩ xằng bậy khi học Kinh Thi, khuyến khích tránh tin vào những chuyện quỷ thần, dị đoan, và tập trung vào ý nghĩa thực tế của kinh sách."
+  },
+  {
+    "id": "VH_2425",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tính chất văn hóa Trung Hoa cổ đại.",
+    "question": "Tại sao văn hóa Trung Hoa cổ đại mang tính chất quý tộc?",
+    "answer": "Văn hóa Trung Hoa cổ đại mang tính chất quý tộc vì chế độ giáo dục thời Chu rất công phu và tốn kém, chỉ dành cho tầng lớp quý tộc và những gia đình chuyên nghiệp."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_771",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của Nguyễn Ái Quốc trong phong trào cách mạng quốc tế.",
+    "question": "Nguyễn Ái Quốc đã tham gia thành lập tổ chức nào tại Thái Lan vào năm 1930?",
+    "answer": "Nguyễn Ái Quốc đã tham gia thành lập Đảng Cộng sản Thái Lan vào năm 1930."
+  },
+  {
+    "id": "VH_772",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng cách mạng của Nguyễn Ái Quốc.",
+    "question": "Nguyễn Ái Quốc nhấn mạnh điều gì trong tư tưởng cách mạng của mình?",
+    "answer": "Nguyễn Ái Quốc nhấn mạnh truyền thống đạo đức phương Đông trong tư tưởng cách mạng của mình."
+  },
+  {
+    "id": "VH_773",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt tư tưởng giữa Nguyễn Ái Quốc và các nhà tư tưởng phương Tây.",
+    "question": "Điểm khác biệt chính trong tư tưởng của Nguyễn Ái Quốc so với Mác và Ăng-ghen là gì?",
+    "answer": "Nguyễn Ái Quốc nhấn mạnh tu dưỡng đạo đức, trong khi Mác và Ăng-ghen tập trung vào các vấn đề kinh tế."
+  },
+  {
+    "id": "VH_774",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hoạt động của Nguyễn Ái Quốc trong cộng đồng quốc tế.",
+    "question": "Nguyễn Ái Quốc đã làm gì tại Singapore năm 1928?",
+    "answer": "Nguyễn Ái Quốc đã củng cố Hội Minh Cộng sản Nam Hải trong cộng đồng di dân Trung Quốc tại Singapore năm 1928."
+  },
+  {
+    "id": "VH_775",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa truyền thống đạo đức phương Đông và phương Tây.",
+    "question": "Truyền thống đạo đức phương Đông và phương Tây khác nhau ở điểm nào?",
+    "answer": "Truyền thống phương Đông nhấn mạnh đạo đức và tu dưỡng cá nhân, còn phương Tây tập trung vào quyền lợi kinh tế."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1196",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nhân thân trong luật dân sự.",
+    "question": "Quyền nhân thân trong luật dân sự được chia thành các loại nào?",
+    "answer": "Quyền nhân thân được chia thành quyền không gắn với tài sản và quyền nhân thân gắn với tài sản."
+  },
+  {
+    "id": "PL_1197",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực pháp luật dân sự của cá nhân.",
+    "question": "Thời điểm bắt đầu và kết thúc năng lực pháp luật dân sự của cá nhân được xác định như thế nào?",
+    "answer": "Năng lực pháp luật dân sự của cá nhân bắt đầu từ khi người đó sinh ra và chấm dứt khi người đó chết."
+  },
+  {
+    "id": "PL_1198",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực hành vi dân sự của cá nhân theo luật dân sự.",
+    "question": "Năng lực hành vi dân sự của cá nhân được hiểu là gì?",
+    "answer": "Năng lực hành vi dân sự của cá nhân là khả năng của cá nhân bằng hành vi của mình xác lập, thực hiện quyền và nghĩa vụ dân sự."
+  },
+  {
+    "id": "PL_1199",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phương pháp điều chỉnh của luật dân sự.",
+    "question": "Những phương pháp điều chỉnh nào được áp dụng trong luật dân sự?",
+    "answer": "Luật dân sự áp dụng ba phương pháp điều chỉnh: bình đẳng, thoả thuận và tự chịu trách nhiệm bằng tài sản."
+  },
+  {
+    "id": "PL_1200",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền tác giả trong luật dân sự.",
+    "question": "Quyền đứng tên tác giả của tác phẩm thuộc loại quyền nào trong luật dân sự?",
+    "answer": "Quyền đứng tên tác giả của tác phẩm thuộc loại quyền nhân thân không thể tách rời và không thể chuyển giao của người sáng tạo."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_891",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tiếp xúc văn hóa trong lịch sử Việt Nam.",
+    "question": "Điểm khác biệt chính giữa sự tiếp xúc văn hóa Việt Nam với Trung Quốc và với Pháp là gì?",
+    "answer": "Sự tiếp xúc với Trung Quốc diễn ra giữa hai nền kinh tế tự cung tự cấp với nhiều điểm tương đồng, thay đổi chủ yếu về hình thức hơn là nội dung. Trong khi đó, sự tiếp xúc với Pháp là giữa một nền văn minh nông nghiệp và một nền văn minh công nghiệp, đòi hỏi thay đổi cả về hình thức lẫn nội dung."
+  },
+  {
+    "id": "VH_892",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của văn hóa Trung Quốc đối với Việt Nam.",
+    "question": "Vì sao sự tiếp xúc văn hóa giữa Việt Nam và Trung Quốc chủ yếu dẫn đến thay đổi về hình thức?",
+    "answer": "Do hai nước có nhiều điểm tương đồng trong nền kinh tế tự cung tự cấp và văn hóa, nên sự tiếp xúc chủ yếu thay đổi về mặt hình thức thay vì nội dung."
+  },
+  {
+    "id": "VH_893",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của văn hóa phương Tây đối với Việt Nam.",
+    "question": "Khi tiếp xúc với văn hóa Pháp, Việt Nam đã phải thay đổi những khía cạnh nào?",
+    "answer": "Việt Nam phải thay đổi cả về hình thức lẫn nội dung, bao gồm việc chấp nhận các cách lý giải mới, giải quyết các vấn đề từ hệ tư tưởng mới, và xem xét lại các cách làm truyền thống."
+  },
+  {
+    "id": "VH_894",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giao lưu văn học giữa Việt Nam và các nền văn hóa khác.",
+    "question": "Sự tiếp xúc văn học Việt Nam với Pháp có đặc điểm gì khác biệt so với Trung Quốc?",
+    "answer": "Sự tiếp xúc văn học với Pháp mang tính chất toàn cầu, trong khi sự tiếp xúc với Trung Quốc diễn ra giữa hai nước có nhiều điểm tương đồng về văn hóa và kinh tế."
+  },
+  {
+    "id": "VH_895",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự thay đổi văn hóa Việt Nam khi tiếp xúc với phương Tây.",
+    "question": "Vì sao Việt Nam cần phải Tây phương hóa văn học khi giao lưu với văn hóa phương Tây?",
+    "answer": "Việt Nam cần Tây phương hóa văn học để thích nghi với tình hình mới, chấp nhận các cách lý giải khác biệt với kinh nghiệm trước đây và giải quyết các vấn đề mới từ hệ tư tưởng phương Tây."
+  }
+]

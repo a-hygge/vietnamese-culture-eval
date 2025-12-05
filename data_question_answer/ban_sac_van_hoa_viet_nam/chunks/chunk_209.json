@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1041",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa các loại hình văn học.",
+    "question": "Điểm khác biệt chính giữa văn học quà tặng và văn học hàng hóa là gì?",
+    "answer": "Văn học quà tặng thay đổi chậm về nội dung và hình thức, trong khi văn học hàng hóa thay đổi nhanh để đáp ứng nhu cầu đa dạng của độc giả."
+  },
+  {
+    "id": "VH_1042",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghề nghiệp của nhà văn tại Việt Nam.",
+    "question": "Vì sao các nhà văn ở Việt Nam thường phải viết nhiều thể loại khác nhau?",
+    "answer": "Vì số lượng độc giả ở Việt Nam không lớn, nên các nhà văn phải viết nhiều thể loại, đồng thời làm thêm các công việc như báo chí, dịch thuật và phê bình để đảm bảo thu nhập."
+  },
+  {
+    "id": "VH_1043",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tầm quan trọng của báo chí đối với các nhà văn.",
+    "question": "Báo chí tiếng Việt đóng vai trò gì trong việc hỗ trợ các nhà văn?",
+    "answer": "Báo chí tiếng Việt giúp các nhà văn có cơ hội kiếm sống bằng nghề viết thông qua việc làm báo hoặc cộng tác viết bài."
+  },
+  {
+    "id": "VH_1044",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của tiếp xúc văn hóa trong văn học.",
+    "question": "Tiếp xúc văn hóa giữa Việt Nam và Pháp trong văn học được nhấn mạnh ở khía cạnh nào?",
+    "answer": "Tiếp xúc văn hóa giữa Việt Nam và Pháp trong văn học được nhấn mạnh ở khía cạnh phương pháp làm việc, thay vì tập trung vào các sự kiện hay thực trạng cụ thể của từng ngành."
+  },
+  {
+    "id": "VH_1045",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của văn học hàng hóa.",
+    "question": "Tại sao văn học hàng hóa cần thay đổi nhanh chóng về nội dung và hình thức?",
+    "answer": "Văn học hàng hóa cần thay đổi nhanh chóng về nội dung và hình thức để đáp ứng các nhu cầu nội tâm đa dạng của độc giả, kể cả những nhu cầu mà họ không thể diễn đạt rõ ràng."
+  }
+]

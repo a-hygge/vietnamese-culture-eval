@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1266",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp nhân trong pháp luật dân sự Việt Nam.",
+    "question": "Người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của pháp nhân có vai trò gì trong quan hệ dân sự?",
+    "answer": "Người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của pháp nhân nhân danh pháp nhân trong quan hệ dân sự."
+  },
+  {
+    "id": "PL_1267",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của pháp nhân.",
+    "question": "Quyền và nghĩa vụ của pháp nhân được xác định dựa trên yếu tố nào?",
+    "answer": "Quyền và nghĩa vụ của pháp nhân được xác định theo nội dung đăng ký thành lập pháp nhân hoặc theo quy định của luật."
+  },
+  {
+    "id": "PL_1268",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tài sản của pháp nhân theo quy định của pháp luật dân sự.",
+    "question": "Tài sản của pháp nhân bao gồm những loại nào?",
+    "answer": "Tài sản của pháp nhân bao gồm vốn góp của sáng lập viên, thành viên khác của pháp nhân và tài sản mà pháp nhân được xác lập quyền sở hữu theo các căn cứ quy định tại Bộ luật Dân sự và luật khác có liên quan."
+  },
+  {
+    "id": "PL_1269",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tài sản trong pháp luật dân sự Việt Nam.",
+    "question": "Theo pháp luật dân sự, tài sản được định nghĩa là gì?",
+    "answer": "Tài sản là vật, tiền, giấy tờ có giá và quyền tài sản. Tài sản bao gồm bất động sản và động sản."
+  },
+  {
+    "id": "PL_1270",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại tài sản trong pháp luật dân sự Việt Nam.",
+    "question": "Bất động sản trong pháp luật dân sự Việt Nam bao gồm những loại nào?",
+    "answer": "Bất động sản bao gồm: đất đai; nhà, công trình xây dựng gắn liền với đất đai; tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; và tài sản khác theo quy định của pháp luật."
+  }
+]

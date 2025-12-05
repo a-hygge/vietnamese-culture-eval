@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1691",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trợ cấp thôi việc theo quy định của Bộ luật Lao động.",
+    "question": "Thời gian làm việc để tính trợ cấp thôi việc được xác định như thế nào?",
+    "answer": "Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động, trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc."
+  },
+  {
+    "id": "PL_1692",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tiền lương tính trợ cấp thôi việc.",
+    "question": "Tiền lương để tính trợ cấp thôi việc được xác định dựa trên yếu tố nào?",
+    "answer": "Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân theo hợp đồng lao động của 06 tháng liền kề trước khi người lao động thôi việc."
+  },
+  {
+    "id": "PL_1693",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trợ cấp mất việc làm theo Bộ luật Lao động.",
+    "question": "Người sử dụng lao động phải trả trợ cấp mất việc làm trong trường hợp nào?",
+    "answer": "Người sử dụng lao động phải trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên từ 12 tháng trở lên mà bị mất việc làm theo quy định tại Điều 44 và Điều 45 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1694",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mức trợ cấp mất việc làm theo quy định pháp luật.",
+    "question": "Mức trợ cấp mất việc làm được tính như thế nào?",
+    "answer": "Mỗi năm làm việc người lao động được trả 01 tháng tiền lương nhưng ít nhất phải bằng 02 tháng tiền lương."
+  },
+  {
+    "id": "PL_1695",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời gian làm việc để tính trợ cấp mất việc làm.",
+    "question": "Thời gian làm việc để tính trợ cấp mất việc làm được xác định như thế nào?",
+    "answer": "Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động, trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_096",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền công dân.",
+    "question": "Quyền con người và quyền công dân ở Việt Nam được bảo vệ bởi cơ quan nào?",
+    "answer": "Quyền con người và quyền công dân ở Việt Nam được bảo vệ bởi Nhà nước thông qua hệ thống pháp luật và các cơ quan tư pháp."
+  },
+  {
+    "id": "PL_097",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Quốc hội Việt Nam giữ vai trò gì trong bộ máy nhà nước?",
+    "answer": "Quốc hội là cơ quan quyền lực nhà nước cao nhất, thực hiện quyền lập pháp, giám sát và quyết định các vấn đề quan trọng của đất nước."
+  },
+  {
+    "id": "PL_098",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ công dân.",
+    "question": "Công dân Việt Nam có nghĩa vụ gì đối với việc bảo vệ Tổ quốc?",
+    "answer": "Công dân Việt Nam có nghĩa vụ tham gia xây dựng và bảo vệ Tổ quốc, thực hiện nghĩa vụ quân sự theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_099",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp quyền.",
+    "question": "Nguyên tắc pháp quyền có vai trò gì trong tổ chức và hoạt động của nhà nước Việt Nam?",
+    "answer": "Nguyên tắc pháp quyền đảm bảo rằng mọi hoạt động của nhà nước phải tuân theo Hiến pháp và pháp luật, bảo vệ quyền và lợi ích hợp pháp của nhân dân."
+  },
+  {
+    "id": "PL_100",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về Hiến pháp Việt Nam.",
+    "question": "Hiến pháp Việt Nam quy định gì về quyền bình đẳng của công dân?",
+    "answer": "Hiến pháp Việt Nam quy định mọi công dân đều bình đẳng về quyền và nghĩa vụ trước pháp luật, không bị phân biệt đối xử."
+  }
+]

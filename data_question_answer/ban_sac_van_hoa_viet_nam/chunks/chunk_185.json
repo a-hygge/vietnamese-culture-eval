@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_921",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị trong đời sống gia đình của người Việt.",
+    "question": "Người Việt coi trọng những giá trị nào trong gia đình?",
+    "answer": "Người Việt coi trọng cuộc sống yên ổn, sự hài hòa trong gia đình và sự giúp đỡ của bà con, họ hàng."
+  },
+  {
+    "id": "VH_922",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của tổ chức tự quản trong xã hội Việt Nam.",
+    "question": "Tổ chức tự quản mang lại lợi ích gì cho cá nhân trong xã hội Việt Nam?",
+    "answer": "Tổ chức tự quản mang lại cho cá nhân thân phận và phẩm giá dựa trên địa vị trong các tổ chức như tuổi tác, chức vụ, học vấn, nghề nghiệp hoặc gia thế."
+  },
+  {
+    "id": "VH_923",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ cúng tổ tiên trong văn hóa Việt Nam.",
+    "question": "Tín ngưỡng thờ cúng tổ tiên có mối liên hệ với những tổ chức nào trong xã hội Việt Nam?",
+    "answer": "Tín ngưỡng thờ cúng tổ tiên có mối liên hệ với các tổ chức như giáp, các hội về văn học, nghề nghiệp, chức vụ, tôn giáo và tín ngưỡng."
+  },
+  {
+    "id": "VH_924",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa giữa người Việt và các dân tộc khác.",
+    "question": "Điểm khác biệt của người Việt so với nông nô châu Âu và dân Trung Hoa là gì?",
+    "answer": "Người Việt có thân phận và diện mạo nhờ các tổ chức tự quản, trong khi nông nô châu Âu và dân Trung Hoa bị mất thân phận do chế độ áp bức."
+  },
+  {
+    "id": "VH_925",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về yếu tố tạo nên phẩm giá của người Việt trong cộng đồng.",
+    "question": "Những yếu tố nào tạo nên diện mạo và phẩm giá của người Việt trong cộng đồng?",
+    "answer": "Diện mạo và phẩm giá của người Việt được tạo nên từ địa vị trong các tổ chức tự quản dựa trên tiêu chí như tuổi tác, học vấn, nghề nghiệp, chức vụ và gia thế."
+  }
+]

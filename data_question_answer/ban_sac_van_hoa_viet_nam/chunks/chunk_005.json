@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_021",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Vì sao 'đạo gạo' (mễ đạo) được gọi bằng tên này?",
+    "answer": "Tên gọi 'đạo gạo' xuất phát từ việc những người theo đạo phải nộp năm đấu gạo."
+  },
+  {
+    "id": "VH_022",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Trương Giác đã làm gì để sáng lập nên 'Thái bình đạo'?",
+    "answer": "Trương Giác đã học 'Thái bình kinh' và sử dụng bùa chú để chữa bệnh, giúp nhiều người khỏi bệnh."
+  },
+  {
+    "id": "VH_023",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Câu nói 'Trời xanh đã chết, trời vàng ra đời' của 'Thái bình đạo' có ý nghĩa như thế nào?",
+    "answer": "Câu nói này mang ý nghĩa kêu gọi nông dân nổi dậy chống lại chính quyền nhà Hán đang suy yếu và tham nhũng."
+  },
+  {
+    "id": "VH_024",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Phái Khăn Vàng có nguồn gốc từ tổ chức nào?",
+    "answer": "Phái Khăn Vàng bắt nguồn từ 'Thái bình đạo', một tổ chức do Trương Giác sáng lập."
+  },
+  {
+    "id": "VH_025",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Những kinh sách chính của 'Thái bình đạo' bao gồm những gì?",
+    "answer": "Những kinh sách chính của 'Thái bình đạo' bao gồm 'Đạo Đức Kinh', 'Thái Bình Kinh' và 'Lão Tử Tưởng Nghĩ Chú'."
+  }
+]

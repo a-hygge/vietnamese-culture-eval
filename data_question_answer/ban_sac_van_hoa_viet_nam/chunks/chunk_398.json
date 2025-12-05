@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1986",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Chế độ thờ cúng tổ tiên có vai trò gì trong văn hóa Việt Nam?",
+    "answer": "Chế độ thờ cúng tổ tiên đóng vai trò quan trọng trong việc xây dựng đặc điểm văn hóa Việt Nam, thể hiện văn hóa nhân cách luận, tập trung vào mối quan hệ cộng đồng và gia đình."
+  },
+  {
+    "id": "VH_1987",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa giữa Việt Nam và phương Tây.",
+    "question": "Điểm khác biệt giữa văn hóa nhân cách luận của Việt Nam và văn hóa cá nhân luận của phương Tây là gì?",
+    "answer": "Văn hóa nhân cách luận của Việt Nam nhấn mạnh mối quan hệ giữa cá nhân và cộng đồng, trong khi văn hóa cá nhân luận của phương Tây đề cao giá trị cá nhân độc lập, không phụ thuộc vào cộng đồng."
+  },
+  {
+    "id": "VH_1988",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của văn hóa phương Tây.",
+    "question": "Cá nhân luận trong văn hóa phương Tây được hiểu như thế nào?",
+    "answer": "Cá nhân luận trong văn hóa phương Tây nhấn mạnh rằng mỗi cá nhân có giá trị tự thân, độc lập với các yếu tố bên ngoài, và linh hồn của họ tồn tại riêng biệt, không liên quan đến người khác hay thế giới vật chất."
+  },
+  {
+    "id": "VH_1989",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của tôn giáo trong văn hóa phương Tây.",
+    "question": "Thiên Chúa giáo thể hiện quan điểm cá nhân luận như thế nào?",
+    "answer": "Thiên Chúa giáo thể hiện quan điểm cá nhân luận bằng cách khẳng định rằng mỗi người có một linh hồn riêng biệt, và linh hồn đó sẽ chịu trách nhiệm trước Chúa về hành động của mình, quyết định việc lên thiên đường hay xuống địa ngục."
+  },
+  {
+    "id": "VH_1990",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mục tiêu giáo dục trong văn hóa phương Tây.",
+    "question": "Giáo dục theo quan điểm cá nhân luận hướng đến điều gì?",
+    "answer": "Giáo dục theo quan điểm cá nhân luận hướng đến việc xây dựng những cá nhân có ý thức về giá trị bản thân, phát triển tài năng, thể lực, học vấn, tuân thủ pháp luật và khả năng chinh phục thế giới để đạt được sự công nhận của xã hội."
+  }
+]

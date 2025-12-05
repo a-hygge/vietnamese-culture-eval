@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_741",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức nhà nước Việt Nam.",
+    "question": "Những cơ quan nào có quyền trình dự án luật trước Quốc hội?",
+    "answer": "Các cơ quan có quyền trình dự án luật trước Quốc hội bao gồm: Chủ tịch nước, Uỷ ban thường vụ Quốc hội, Hội đồng dân tộc, Uỷ ban của Quốc hội, Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức thành viên của Mặt trận."
+  },
+  {
+    "id": "PL_742",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của đại biểu Quốc hội.",
+    "question": "Đại biểu Quốc hội có quyền gì trong việc trình luật và pháp lệnh?",
+    "answer": "Đại biểu Quốc hội có quyền trình kiến nghị về luật, pháp lệnh và dự án luật, dự án pháp lệnh trước Quốc hội và Ủy ban thường vụ Quốc hội."
+  },
+  {
+    "id": "PL_743",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc biểu quyết của Quốc hội.",
+    "question": "Luật, nghị quyết của Quốc hội cần bao nhiêu phần trăm đại biểu Quốc hội biểu quyết tán thành để được thông qua?",
+    "answer": "Luật, nghị quyết của Quốc hội phải được quá nửa tổng số đại biểu Quốc hội biểu quyết tán thành để được thông qua."
+  },
+  {
+    "id": "PL_744",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Chủ tịch nước.",
+    "question": "Chủ tịch nước có vai trò gì trong Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
+    "answer": "Chủ tịch nước là người đứng đầu Nhà nước, thay mặt nước Cộng hòa xã hội chủ nghĩa Việt Nam về đối nội và đối ngoại."
+  },
+  {
+    "id": "PL_745",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định liên quan đến Hiến pháp.",
+    "question": "Việc sửa đổi Hiến pháp hoặc bãi nhiệm đại biểu Quốc hội cần tỷ lệ biểu quyết như thế nào để được thông qua?",
+    "answer": "Việc sửa đổi Hiến pháp hoặc bãi nhiệm đại biểu Quốc hội phải được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành để được thông qua."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1731",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời giờ làm việc theo quy định pháp luật lao động Việt Nam.",
+    "question": "Thời giờ làm việc bình thường tối đa trong một ngày và một tuần theo quy định là bao nhiêu?",
+    "answer": "Thời giờ làm việc bình thường không quá 08 giờ trong một ngày và 48 giờ trong một tuần."
+  },
+  {
+    "id": "PL_1732",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định làm việc theo tuần trong pháp luật lao động.",
+    "question": "Nếu làm việc theo tuần, thời giờ làm việc bình thường tối đa trong một ngày được quy định như thế nào?",
+    "answer": "Nếu làm việc theo tuần, thời giờ làm việc bình thường không quá 10 giờ trong một ngày, nhưng không quá 48 giờ trong một tuần."
+  },
+  {
+    "id": "PL_1733",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách khuyến khích của nhà nước đối với thời gian làm việc.",
+    "question": "Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc bao nhiêu giờ?",
+    "answer": "Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ."
+  },
+  {
+    "id": "PL_1734",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời giờ làm việc đối với công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.",
+    "question": "Thời giờ làm việc tối đa trong một ngày đối với người làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm được quy định như thế nào?",
+    "answer": "Thời giờ làm việc không quá 06 giờ trong một ngày đối với những người làm các công việc đặc biệt nặng nhọc, độc hại, nguy hiểm."
+  },
+  {
+    "id": "PL_1735",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định giờ làm việc ban đêm theo pháp luật lao động.",
+    "question": "Theo quy định, giờ làm việc ban đêm được tính từ thời gian nào đến thời gian nào?",
+    "answer": "Giờ làm việc ban đêm được tính từ 22 giờ đến 6 giờ sáng ngày hôm sau."
+  }
+]

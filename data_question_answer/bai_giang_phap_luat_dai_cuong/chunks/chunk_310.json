@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1546",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm pháp lý trong tình thế cấp thiết.",
+    "question": "Người gây thiệt hại vượt quá yêu cầu của tình thế cấp thiết sẽ phải chịu trách nhiệm pháp lý nào?",
+    "answer": "Người gây thiệt hại vượt quá yêu cầu của tình thế cấp thiết phải chịu trách nhiệm hình sự."
+  },
+  {
+    "id": "PL_1547",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi bắt giữ người phạm pháp theo quy định pháp luật.",
+    "question": "Trong trường hợp nào hành vi gây thiệt hại khi bắt giữ người phạm pháp không bị coi là tội phạm?",
+    "answer": "Hành vi gây thiệt hại khi bắt giữ người phạm pháp không bị coi là tội phạm nếu không còn cách nào khác ngoài việc sử dụng vũ lực để bắt giữ người phạm pháp."
+  },
+  {
+    "id": "PL_1548",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm hình sự khi sử dụng vũ lực vượt quá mức cần thiết.",
+    "question": "Người sử dụng vũ lực vượt quá mức cần thiết trong khi bắt giữ người phạm pháp phải chịu trách nhiệm gì?",
+    "answer": "Người sử dụng vũ lực vượt quá mức cần thiết trong khi bắt giữ người phạm pháp phải chịu trách nhiệm hình sự."
+  },
+  {
+    "id": "PL_1549",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về pháp luật điều chỉnh rủi ro trong nghiên cứu khoa học và công nghệ.",
+    "question": "Rủi ro phát sinh từ nghiên cứu, thử nghiệm và áp dụng tiến bộ khoa học, kỹ thuật được điều chỉnh bởi loại pháp luật nào?",
+    "answer": "Rủi ro phát sinh từ nghiên cứu, thử nghiệm và áp dụng tiến bộ khoa học, kỹ thuật được điều chỉnh bởi pháp luật hình sự."
+  },
+  {
+    "id": "PL_1550",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật đối với hành vi gây thiệt hại trong các tình huống đặc biệt.",
+    "question": "Pháp luật quy định thế nào về hành vi gây thiệt hại trong trường hợp không còn cách nào khác ngoài việc sử dụng vũ lực để bắt giữ người phạm pháp?",
+    "answer": "Pháp luật quy định rằng hành vi gây thiệt hại trong trường hợp không còn cách nào khác ngoài việc sử dụng vũ lực để bắt giữ người phạm pháp thì không bị coi là tội phạm. Tuy nhiên, nếu gây thiệt hại vượt quá mức cần thiết, người gây thiệt hại phải chịu trách nhiệm hình sự."
+  }
+]

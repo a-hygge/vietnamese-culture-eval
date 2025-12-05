@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1021",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khởi kiện vụ án hành chính.",
+    "question": "Trong những trường hợp nào cá nhân, cơ quan, tổ chức có quyền khởi kiện vụ án hành chính?",
+    "answer": "Cá nhân, cơ quan, tổ chức có quyền khởi kiện vụ án hành chính đối với quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc khi không đồng ý với quyết định hoặc hành vi đó, hoặc khi khiếu nại không được giải quyết hoặc không đồng ý với việc giải quyết khiếu nại. Ngoài ra, họ có quyền khởi kiện quyết định giải quyết khiếu nại liên quan đến xử lý vụ việc cạnh tranh và danh sách cử tri bầu cử trong các trường hợp tương tự."
+  },
+  {
+    "id": "PL_1022",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hiệu khởi kiện vụ án hành chính.",
+    "question": "Thời hiệu khởi kiện vụ án hành chính được hiểu như thế nào?",
+    "answer": "Thời hiệu khởi kiện là thời hạn mà cá nhân, cơ quan, tổ chức được quyền khởi kiện để yêu cầu Tòa án giải quyết vụ án hành chính nhằm bảo vệ quyền và lợi ích hợp pháp bị xâm phạm. Nếu thời hạn đó kết thúc, quyền khởi kiện sẽ bị mất."
+  },
+  {
+    "id": "PL_1023",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khởi kiện liên quan đến danh sách cử tri.",
+    "question": "Khi nào cá nhân có quyền khởi kiện vụ án hành chính về danh sách cử tri?",
+    "answer": "Cá nhân có quyền khởi kiện vụ án hành chính về danh sách cử tri bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân nếu đã khiếu nại với cơ quan có thẩm quyền nhưng khiếu nại không được giải quyết trong thời hạn quy định hoặc đã được giải quyết nhưng không đồng ý với cách giải quyết khiếu nại."
+  },
+  {
+    "id": "PL_1024",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khởi kiện quyết định xử lý vụ việc cạnh tranh.",
+    "question": "Cá nhân, tổ chức có quyền khởi kiện vụ án hành chính liên quan đến quyết định xử lý vụ việc cạnh tranh trong trường hợp nào?",
+    "answer": "Cá nhân, tổ chức có quyền khởi kiện vụ án hành chính đối với quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh nếu không đồng ý với quyết định đó."
+  },
+  {
+    "id": "PL_1025",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khởi kiện trong trường hợp khiếu nại không được giải quyết.",
+    "question": "Trong trường hợp nào cá nhân, cơ quan, tổ chức có quyền khởi kiện vụ án hành chính liên quan đến việc khiếu nại không được giải quyết?",
+    "answer": "Cá nhân, cơ quan, tổ chức có quyền khởi kiện vụ án hành chính nếu đã khiếu nại với người có thẩm quyền nhưng hết thời hạn giải quyết khiếu nại mà khiếu nại không được giải quyết hoặc đã được giải quyết nhưng không đồng ý với cách giải quyết khiếu nại."
+  }
+]

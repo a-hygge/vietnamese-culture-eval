@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1771",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_495.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức của công ty TNHH một thành viên.",
+    "question": "Công ty TNHH một thành viên do cá nhân làm chủ sở hữu có những chức danh nào trong tổ chức?",
+    "answer": "Công ty TNHH một thành viên do cá nhân làm chủ sở hữu có Chủ tịch công ty, giám đốc hoặc tổng giám đốc."
+  },
+  {
+    "id": "PL_1772",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_495.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Chủ tịch công ty trong công ty TNHH một thành viên.",
+    "question": "Chủ tịch công ty TNHH một thành viên có quyền kiêm nhiệm hoặc thuê người khác làm chức vụ nào?",
+    "answer": "Chủ tịch công ty TNHH một thành viên có quyền kiêm nhiệm hoặc thuê người khác làm giám đốc hoặc tổng giám đốc."
+  },
+  {
+    "id": "PL_1773",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_495.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm công ty cổ phần.",
+    "question": "Công ty cổ phần được định nghĩa như thế nào?",
+    "answer": "Công ty cổ phần là doanh nghiệp mà vốn điều lệ được chia thành nhiều phần bằng nhau gọi là cổ phần, và cổ đông có thể là tổ chức hoặc cá nhân."
+  },
+  {
+    "id": "PL_1774",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_495.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về số lượng cổ đông trong công ty cổ phần.",
+    "question": "Công ty cổ phần yêu cầu số lượng cổ đông tối thiểu và tối đa là bao nhiêu?",
+    "answer": "Công ty cổ phần yêu cầu số lượng cổ đông tối thiểu là 03 và không hạn chế số lượng tối đa."
+  },
+  {
+    "id": "PL_1775",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_495.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm tài sản của cổ đông trong công ty cổ phần.",
+    "question": "Cổ đông trong công ty cổ phần chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản của doanh nghiệp trong phạm vi nào?",
+    "answer": "Cổ đông trong công ty cổ phần chỉ chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp trong phạm vi số vốn đã góp vào doanh nghiệp."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_251",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Lòng biết ơn đóng vai trò gì trong tín ngưỡng của người Việt?",
+    "answer": "Lòng biết ơn là nền tảng của đạo đức và tín ngưỡng, là cơ sở của tục thờ cúng tổ tiên và những người có công với làng."
+  },
+  {
+    "id": "VH_252",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ cúng tổ tiên của người Việt.",
+    "question": "Những đối tượng nào thường được thờ cúng trong tín ngưỡng truyền thống Việt Nam?",
+    "answer": "Trong tín ngưỡng truyền thống Việt Nam, người ta thờ cúng tổ tiên, các vị có công dựng làng, tổ sư các nghề, các nhân vật bảo vệ làng, các anh hùng và nhà văn hóa."
+  },
+  {
+    "id": "VH_253",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật thờ cúng trong văn hóa Việt Nam.",
+    "question": "Những nhân vật lịch sử nào được thờ trong điện Tứ phủ?",
+    "answer": "Trong điện Tứ phủ, Đức Thánh Trần (Trần Hưng Đạo), con gái ngài, các tướng của ngài và các anh hùng như Cao Lỗ, Hai Bà Trưng, Bà Triệu, Nguyễn Kim, Phạm Ngũ Lão được thờ cúng."
+  },
+  {
+    "id": "VH_254",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự giao thoa văn hóa trong tín ngưỡng Việt Nam.",
+    "question": "Vì sao Quan Vũ được tôn thờ như một vị thần trong tín ngưỡng Việt Nam?",
+    "answer": "Quan Vũ, vị tướng đời Hán, trở thành vị thần quan trọng do ảnh hưởng của học thuyết Vương Dương Minh đời Minh, đề cao ông như một nhân vật lý tưởng. Tín ngưỡng thờ Quan Vũ từ đó lan khắp châu Á, đặc biệt đến Việt Nam."
+  },
+  {
+    "id": "VH_255",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa huyền thoại và lịch sử trong văn hóa Việt Nam.",
+    "question": "Lý thuyết đầu thai được sử dụng để giải thích điều gì trong tín ngưỡng Việt Nam?",
+    "answer": "Lý thuyết đầu thai được sử dụng để giải thích việc các Thánh Mẫu hóa thân thành những nhân vật lịch sử như Hai Bà Trưng, Bà Triệu, Ỷ Lan và Ngọc Hân."
+  }
+]

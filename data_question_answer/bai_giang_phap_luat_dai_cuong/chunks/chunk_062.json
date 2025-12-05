@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_306",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về ngôn ngữ pháp luật.",
+    "question": "Tại sao pháp luật cần được diễn đạt bằng ngôn ngữ rõ ràng và chính xác?",
+    "answer": "Pháp luật cần được diễn đạt bằng ngôn ngữ rõ ràng và chính xác để tránh tạo ra kẽ hở cho sự chuyên quyền, lạm dụng và các hành vi vi phạm pháp luật như tham ô, lãng phí, phá hoại."
+  },
+  {
+    "id": "PL_307",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính quyền lực bắt buộc của pháp luật.",
+    "question": "Tính quyền lực bắt buộc của pháp luật áp dụng cho những ai?",
+    "answer": "Tính quyền lực bắt buộc của pháp luật áp dụng cho mọi cơ quan, tổ chức và công dân."
+  },
+  {
+    "id": "PL_308",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nhà nước trong việc thực thi pháp luật.",
+    "question": "Nhà nước thực hiện những biện pháp nào để đảm bảo pháp luật được tuân thủ?",
+    "answer": "Nhà nước thực hiện các biện pháp như tổ chức, khuyến khích và áp dụng biện pháp cưỡng chế khi cần thiết để đảm bảo pháp luật được tuân thủ."
+  },
+  {
+    "id": "PL_309",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng điều chỉnh của pháp luật.",
+    "question": "Pháp luật điều chỉnh các quan hệ xã hội như thế nào?",
+    "answer": "Pháp luật điều chỉnh các quan hệ xã hội bằng cách tạo lập hành lang pháp lý, hướng các quan hệ xã hội phát triển trong trật tự và ổn định theo mục tiêu mong muốn."
+  },
+  {
+    "id": "PL_310",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bản chất và giá trị của pháp luật.",
+    "question": "Chức năng của pháp luật thể hiện điều gì về bản chất của pháp luật?",
+    "answer": "Chức năng của pháp luật thể hiện bản chất giai cấp và giá trị xã hội của pháp luật."
+  }
+]

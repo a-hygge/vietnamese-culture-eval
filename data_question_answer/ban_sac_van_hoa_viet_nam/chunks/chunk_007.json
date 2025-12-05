@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_031",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về một phong tục truyền thống trong văn hóa Việt Nam.",
+    "question": "Tục lệ gói bánh chưng vào dịp Tết Nguyên Đán ở Việt Nam mang ý nghĩa gì?",
+    "answer": "Tục lệ gói bánh chưng thể hiện lòng biết ơn tổ tiên và tượng trưng cho đất trời, sự no đủ và đoàn tụ gia đình."
+  },
+  {
+    "id": "VH_032",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về một loại hình nghệ thuật truyền thống của Việt Nam.",
+    "question": "Hát quan họ, một loại hình dân ca nổi tiếng của Việt Nam, thường được biểu diễn ở khu vực nào?",
+    "answer": "Hát quan họ thường được biểu diễn ở vùng Kinh Bắc, thuộc các tỉnh Bắc Ninh và Bắc Giang."
+  },
+  {
+    "id": "VH_033",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về một món ăn truyền thống của Việt Nam.",
+    "question": "Phở, món ăn nổi tiếng của Việt Nam, thường được chế biến với những nguyên liệu chính nào?",
+    "answer": "Phở thường được chế biến từ bánh phở, nước dùng ninh từ xương, thịt bò hoặc gà, cùng các loại gia vị như hành, gừng, quế, hồi."
+  },
+  {
+    "id": "VH_034",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về một lễ hội truyền thống của Việt Nam.",
+    "question": "Lễ hội Chùa Hương, một trong những lễ hội lớn ở Việt Nam, thường diễn ra vào thời gian nào trong năm?",
+    "answer": "Lễ hội Chùa Hương thường diễn ra vào mùa xuân, từ tháng Giêng đến tháng Ba âm lịch."
+  },
+  {
+    "id": "VH_035",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về một biểu tượng văn hóa của Việt Nam.",
+    "question": "Áo dài, trang phục truyền thống của Việt Nam, thường được mặc trong những dịp nào?",
+    "answer": "Áo dài thường được mặc trong các dịp lễ hội, cưới hỏi, lễ tốt nghiệp, hoặc các sự kiện trang trọng khác."
+  }
+]

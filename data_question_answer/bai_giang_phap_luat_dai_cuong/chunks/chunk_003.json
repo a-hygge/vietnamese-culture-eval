@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_011",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật được hiểu là gì?",
+    "answer": "Quy phạm pháp luật là quy tắc xử sự chung do nhà nước ban hành hoặc thừa nhận, có tính bắt buộc và được đảm bảo thực hiện bằng các biện pháp cưỡng chế của nhà nước."
+  },
+  {
+    "id": "PL_012",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấu trúc của quy phạm pháp luật.",
+    "question": "Cấu trúc của một quy phạm pháp luật bao gồm những yếu tố nào?",
+    "answer": "Cấu trúc của một quy phạm pháp luật bao gồm ba yếu tố: giả định (điều kiện áp dụng), quy định (nội dung xử sự), và chế tài (biện pháp xử lý nếu vi phạm)."
+  },
+  {
+    "id": "PL_013",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật là gì?",
+    "answer": "Văn bản quy phạm pháp luật là loại văn bản do cơ quan nhà nước có thẩm quyền ban hành theo trình tự, thủ tục luật định, chứa đựng các quy phạm pháp luật để điều chỉnh các quan hệ xã hội."
+  },
+  {
+    "id": "PL_014",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật được phân loại theo những tiêu chí nào?",
+    "answer": "Văn bản quy phạm pháp luật được phân loại theo tiêu chí cơ quan ban hành, nội dung điều chỉnh, và hiệu lực pháp lý của văn bản."
+  },
+  {
+    "id": "PL_015",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực của văn bản quy phạm pháp luật.",
+    "question": "Hiệu lực của văn bản quy phạm pháp luật được xác định dựa trên các yếu tố nào?",
+    "answer": "Hiệu lực của văn bản quy phạm pháp luật được xác định dựa trên thời gian, không gian và đối tượng áp dụng mà văn bản đó quy định."
+  }
+]

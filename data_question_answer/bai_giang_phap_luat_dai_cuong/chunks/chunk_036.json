@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_176",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của nhà nước.",
+    "question": "Chức năng của nhà nước được quy định bởi yếu tố nào?",
+    "answer": "Chức năng của nhà nước được quy định một cách khách quan bởi cơ sở kinh tế và xã hội của nhà nước."
+  },
+  {
+    "id": "PL_177",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại chức năng của nhà nước.",
+    "question": "Chức năng của nhà nước được phân loại thành những nhóm nào?",
+    "answer": "Chức năng của nhà nước được phân loại thành các chức năng đối nội và các chức năng đối ngoại."
+  },
+  {
+    "id": "PL_178",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng đối nội của nhà nước.",
+    "question": "Chức năng đối nội của nhà nước bao gồm những nội dung cụ thể nào?",
+    "answer": "Chức năng đối nội của nhà nước bao gồm: tổ chức và quản lý nền kinh tế; tổ chức và quản lý nền văn hóa, giáo dục, khoa học – công nghệ."
+  },
+  {
+    "id": "PL_179",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính thống nhất trong chức năng của nhà nước.",
+    "question": "Các chức năng của nhà nước có mối quan hệ như thế nào với nhau?",
+    "answer": "Các chức năng của nhà nước có quan hệ gắn bó hữu cơ với nhau, tạo thành một thể thống nhất."
+  },
+  {
+    "id": "PL_180",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ quan nhà nước thực hiện chức năng.",
+    "question": "Chức năng bảo đảm pháp chế và trật tự pháp luật được giao cho các cơ quan nhà nước nào?",
+    "answer": "Chức năng bảo đảm pháp chế và trật tự pháp luật được giao cho rất nhiều cơ quan nhà nước ở các cấp khác nhau, mỗi cơ quan có chức năng đặc thù riêng để thực hiện chức năng chung này."
+  }
+]

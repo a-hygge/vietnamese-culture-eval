@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_116",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách thuế của nhà nước.",
+    "question": "Những yếu tố nào cần được đảm bảo trong việc xây dựng chính sách thuế để đạt hiệu quả?",
+    "answer": "Những yếu tố cần được đảm bảo trong việc xây dựng chính sách thuế bao gồm tính đúng đắn, công bằng, hợp lý, đơn giản và tiện lợi."
+  },
+  {
+    "id": "PL_117",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của thuế trong nhà nước.",
+    "question": "Mục đích chính của việc thu thuế bởi nhà nước là gì?",
+    "answer": "Mục đích chính của việc thu thuế bởi nhà nước là nuôi dưỡng bộ máy nhà nước, đảm bảo sự phát triển kinh tế, văn hóa, xã hội và giải quyết các công việc chung của xã hội."
+  },
+  {
+    "id": "PL_118",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền quy định thuế trong xã hội có nhà nước.",
+    "question": "Ai có quyền quy định và thu thuế trong xã hội có nhà nước?",
+    "answer": "Trong xã hội có nhà nước, chỉ nhà nước mới có quyền quy định và thu thuế."
+  },
+  {
+    "id": "PL_119",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính giai cấp của nhà nước.",
+    "question": "Tại sao nhà nước được coi là mang tính giai cấp sâu sắc theo chủ nghĩa Mác-Lê nin?",
+    "answer": "Nhà nước được coi là mang tính giai cấp sâu sắc theo chủ nghĩa Mác-Lê nin vì nó chỉ xuất hiện và tồn tại trong xã hội có giai cấp."
+  },
+  {
+    "id": "PL_120",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguồn gốc nhà nước theo chủ nghĩa Mác-Lê nin.",
+    "question": "Nhà nước xuất hiện trong điều kiện nào theo quan điểm của chủ nghĩa Mác-Lê nin?",
+    "answer": "Theo quan điểm của chủ nghĩa Mác-Lê nin, nhà nước chỉ xuất hiện trong xã hội có giai cấp."
+  }
+]

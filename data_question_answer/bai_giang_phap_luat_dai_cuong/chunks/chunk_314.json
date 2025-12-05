@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1566",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình phạt chính đối với pháp nhân phạm tội.",
+    "question": "Hình phạt chính áp dụng cho pháp nhân phạm tội bao gồm những loại nào?",
+    "answer": "Hình phạt chính áp dụng cho pháp nhân phạm tội bao gồm: phạt tiền, tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn, và tước quyền sử dụng giấy phép vĩnh viễn hoặc đình chỉ hoạt động vĩnh viễn."
+  },
+  {
+    "id": "PL_1567",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình phạt bổ sung đối với pháp nhân phạm tội.",
+    "question": "Hình phạt bổ sung đối với pháp nhân phạm tội có thể được tuyên kèm theo hình phạt chính hay không?",
+    "answer": "Hình phạt bổ sung chỉ có thể được tuyên kèm theo hình phạt chính, không được tuyên độc lập."
+  },
+  {
+    "id": "PL_1568",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cách áp dụng hình phạt bổ sung đối với pháp nhân phạm tội.",
+    "question": "Tòa án có thể áp dụng bao nhiêu hình phạt bổ sung đối với một pháp nhân phạm tội?",
+    "answer": "Tòa án có thể áp dụng một hoặc nhiều hình phạt bổ sung nếu điều luật về tội phạm có quy định các hình phạt này."
+  },
+  {
+    "id": "PL_1569",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện áp dụng hình phạt bổ sung đối với pháp nhân phạm tội.",
+    "question": "Điều kiện nào để tòa án có thể áp dụng hình phạt bổ sung đối với pháp nhân phạm tội?",
+    "answer": "Tòa án chỉ có thể áp dụng hình phạt bổ sung nếu điều luật về tội phạm có quy định các hình phạt này."
+  },
+  {
+    "id": "PL_1570",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại hình phạt áp dụng cho pháp nhân phạm tội.",
+    "question": "Hình phạt áp dụng cho pháp nhân phạm tội được chia thành mấy loại chính?",
+    "answer": "Hình phạt áp dụng cho pháp nhân phạm tội được chia thành hai loại chính: hình phạt chính và hình phạt bổ sung."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_216",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng xã hội của nhà nước Việt Nam.",
+    "question": "Lĩnh vực nào được nhà nước Việt Nam coi là quốc sách hàng đầu?",
+    "answer": "Giáo dục đào tạo và phát triển khoa học công nghệ được coi là quốc sách hàng đầu."
+  },
+  {
+    "id": "PL_217",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của khoa học và công nghệ trong phát triển đất nước.",
+    "question": "Khoa học và công nghệ được nhà nước Việt Nam xác định giữ vai trò gì trong sự phát triển kinh tế xã hội?",
+    "answer": "Khoa học và công nghệ được xác định giữ vai trò then chốt trong sự phát triển kinh tế xã hội."
+  },
+  {
+    "id": "PL_218",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách bảo vệ sức khỏe của nhà nước Việt Nam.",
+    "question": "Nhà nước Việt Nam có vai trò gì trong việc bảo vệ sức khỏe của nhân dân?",
+    "answer": "Nhà nước đầu tư phát triển và thống nhất quản lý sự nghiệp bảo vệ sức khỏe của nhân dân."
+  },
+  {
+    "id": "PL_219",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách lao động của nhà nước Việt Nam.",
+    "question": "Nhà nước Việt Nam khuyến khích các cơ sở kinh tế thu hút lao động bằng cách nào?",
+    "answer": "Nhà nước sử dụng các chính sách kinh tế, tài chính và pháp luật lao động để khuyến khích các cơ sở kinh tế mở rộng sản xuất, thu hút lao động."
+  },
+  {
+    "id": "PL_220",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách giải quyết thất nghiệp của nhà nước Việt Nam.",
+    "question": "Nhà nước Việt Nam áp dụng biện pháp gì để giải quyết tình trạng thất nghiệp?",
+    "answer": "Nhà nước tích cực giải quyết vấn đề thất nghiệp và mở rộng dịch vụ giới thiệu việc làm."
+  }
+]

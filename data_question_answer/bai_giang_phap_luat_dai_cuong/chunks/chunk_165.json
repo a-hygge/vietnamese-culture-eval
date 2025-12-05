@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_821",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Hội đồng nhân dân ở địa phương có vai trò gì trong cơ cấu tổ chức nhà nước?",
+    "answer": "Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên."
+  },
+  {
+    "id": "PL_822",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và trách nhiệm của đại biểu Hội đồng nhân dân.",
+    "question": "Đại biểu Hội đồng nhân dân có trách nhiệm gì đối với cử tri địa phương?",
+    "answer": "Đại biểu Hội đồng nhân dân liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử tri, thực hiện chế độ tiếp xúc, báo cáo với cử tri về hoạt động của mình và của Hội đồng nhân dân, trả lời những yêu cầu, kiến nghị của cử tri, xem xét, đôn đốc việc giải quyết khiếu nại, tố cáo."
+  },
+  {
+    "id": "PL_823",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền giám sát của đại biểu Hội đồng nhân dân.",
+    "question": "Đại biểu Hội đồng nhân dân có quyền chất vấn những ai trong cơ quan nhà nước ở địa phương?",
+    "answer": "Đại biểu Hội đồng nhân dân có quyền chất vấn Chủ tịch Ủy ban nhân dân, các thành viên khác của Uỷ ban nhân dân, Chánh án Tòa án nhân dân, Viện trưởng Viện kiểm sát nhân dân và Thủ trưởng cơ quan thuộc Uỷ ban nhân dân."
+  },
+  {
+    "id": "PL_824",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của đại biểu Hội đồng nhân dân.",
+    "question": "Đại biểu Hội đồng nhân dân có nhiệm vụ vận động Nhân dân thực hiện những gì?",
+    "answer": "Đại biểu Hội đồng nhân dân có nhiệm vụ vận động Nhân dân thực hiện Hiến pháp và pháp luật, chính sách của Nhà nước, nghị quyết của Hội đồng nhân dân, động viên Nhân dân tham gia quản lý nhà nước."
+  },
+  {
+    "id": "PL_825",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền kiến nghị của đại biểu Hội đồng nhân dân.",
+    "question": "Người đứng đầu cơ quan, tổ chức, đơn vị ở địa phương có trách nhiệm gì khi nhận được kiến nghị của đại biểu Hội đồng nhân dân?",
+    "answer": "Người đứng đầu cơ quan, tổ chức, đơn vị ở địa phương có trách nhiệm tiếp đại biểu, xem xét, giải quyết kiến nghị của đại biểu."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2946",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Tại sao phú được vua chúa Việt Nam thời xưa coi trọng hơn thơ?",
+    "answer": "Vì phú là thể văn dùng để ca ngợi, hoa mỹ tán dương, khoa trương, rất phù hợp với việc ca ngợi vua chúa và chính sự, nên được đề cao hơn thơ."
+  },
+  {
+    "id": "VH_2947",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa học thuật thời phong kiến Việt Nam.",
+    "question": "Người giỏi làm phú trong thời phong kiến Việt Nam được đánh giá như thế nào?",
+    "answer": "Người giỏi làm phú được xem là người hay chữ, còn người giỏi làm thơ chỉ được coi là người có tài nhưng không xuất sắc bằng người giỏi làm phú."
+  },
+  {
+    "id": "VH_2948",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn chương chữ Hán trong lịch sử Việt Nam.",
+    "question": "Điều gì làm cho việc làm thơ bát cú Đường luật trong thi cử trở nên khó khăn?",
+    "answer": "Khó khăn lớn nhất khi làm thơ bát cú Đường luật trong thi cử là việc phải tuân thủ nghiêm ngặt về vần, bên cạnh các đề mục thường xoay quanh chính sự, điển cố, vịnh cảnh, vịnh sử của Trung Quốc."
+  },
+  {
+    "id": "VH_2949",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng Nho giáo trong văn hóa Việt Nam.",
+    "question": "Tại sao văn hóa thi cử thời phong kiến Việt Nam bị ảnh hưởng sâu sắc bởi Tống Nho?",
+    "answer": "Văn hóa thi cử bị ảnh hưởng sâu sắc bởi Tống Nho vì tư tưởng này nhấn mạnh vào sự khuôn mẫu, nguyên tắc và việc học thuộc lòng kinh điển để thể hiện sự hiểu biết và phục vụ chính quyền."
+  },
+  {
+    "id": "VH_2950",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của điển cố trong văn chương Việt Nam thời phong kiến.",
+    "question": "Điển cố có vai trò như thế nào trong việc làm phú để thi cử thời phong kiến?",
+    "answer": "Điển cố là yếu tố quan trọng trong việc làm phú, vì người làm phú phải sử dụng các điển cố sao cho kêu, sắc sảo và mới lạ để thể hiện tài năng và sự uyên bác của mình."
+  }
+]

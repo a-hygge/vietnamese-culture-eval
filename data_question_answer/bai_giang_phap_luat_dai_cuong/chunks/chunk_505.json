@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1821",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_505.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục thanh lý trong Luật phá sản.",
+    "question": "Doanh nghiệp phải thực hiện nghĩa vụ gì trước khi phân chia tài sản trong thủ tục thanh lý?",
+    "answer": "Doanh nghiệp phải hoàn trả lại giá trị tài sản đã được Nhà nước áp dụng biện pháp đặc biệt trước khi thực hiện việc phân chia tài sản."
+  },
+  {
+    "id": "PL_1822",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_505.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thứ tự phân chia tài sản theo Luật phá sản.",
+    "question": "Thứ tự ưu tiên phân chia tài sản trong thủ tục thanh lý là gì?",
+    "answer": "Thứ tự ưu tiên phân chia tài sản gồm: phí phá sản; các khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội và quyền lợi khác theo thoả ước lao động tập thể và hợp đồng lao động; các khoản nợ không có bảo đảm phải trả cho các chủ nợ trong danh sách chủ nợ."
+  },
+  {
+    "id": "PL_1823",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_505.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của Thẩm phán trong thủ tục phá sản.",
+    "question": "Trách nhiệm của Thẩm phán trong việc mở thủ tục thanh lý đối với doanh nghiệp, hợp tác xã là gì?",
+    "answer": "Thẩm phán có trách nhiệm ra quyết định mở thủ tục thanh lý và giám sát việc phân chia giá trị tài sản của doanh nghiệp, hợp tác xã theo đúng thứ tự ưu tiên quy định trong Luật phá sản."
+  },
+  {
+    "id": "PL_1824",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_505.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của người lao động trong trường hợp doanh nghiệp phá sản.",
+    "question": "Những quyền lợi nào của người lao động được ưu tiên trong thủ tục thanh lý tài sản của doanh nghiệp phá sản?",
+    "answer": "Các quyền lợi của người lao động được ưu tiên gồm: nợ lương, trợ cấp thôi việc, bảo hiểm xã hội và các quyền lợi khác theo thoả ước lao động tập thể và hợp đồng lao động đã ký kết."
+  },
+  {
+    "id": "PL_1825",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_505.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các khoản nợ không có bảo đảm trong Luật phá sản.",
+    "question": "Các khoản nợ không có bảo đảm được thanh toán như thế nào trong thủ tục thanh lý tài sản?",
+    "answer": "Các khoản nợ không có bảo đảm phải được thanh toán cho các chủ nợ trong danh sách chủ nợ theo nguyên tắc nếu giá trị tài sản đủ để thanh toán thì mỗi chủ nợ sẽ nhận được phần tương ứng."
+  }
+]

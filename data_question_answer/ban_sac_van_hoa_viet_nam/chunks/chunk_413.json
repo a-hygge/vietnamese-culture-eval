@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2061",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Cuốn sách 'Việt Nam Văn hóa sử cương' của Đào Duy Anh được xuất bản vào năm nào?",
+    "answer": "Cuốn sách 'Việt Nam Văn hóa sử cương' của Đào Duy Anh được xuất bản vào năm 1938."
+  },
+  {
+    "id": "VH_2062",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghiên cứu văn hóa Việt Nam.",
+    "question": "Tác phẩm 'Góp phần nghiên cứu Văn hóa và Tộc người' của Nguyễn Tử Chi được xuất bản bởi nhà xuất bản nào?",
+    "answer": "Tác phẩm 'Góp phần nghiên cứu Văn hóa và Tộc người' của Nguyễn Tử Chi được xuất bản bởi Nhà xuất bản Văn hóa thông tin."
+  },
+  {
+    "id": "VH_2063",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghiên cứu xã hội và hệ thống đẳng cấp.",
+    "question": "Tác phẩm 'Homo hierarchicus' của L. Dumont tập trung nghiên cứu về vấn đề gì?",
+    "answer": "Tác phẩm 'Homo hierarchicus' của L. Dumont tập trung nghiên cứu về hệ thống đẳng cấp trong xã hội."
+  },
+  {
+    "id": "VH_2064",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học Việt Nam.",
+    "question": "Ai là tác giả của hai tiểu thuyết 'Mảnh trăng Tô Lịch' và 'Bóng chiều Thăng Long'?",
+    "answer": "Tác giả của hai tiểu thuyết 'Mảnh trăng Tô Lịch' và 'Bóng chiều Thăng Long' là Nguyễn Siêu Hải."
+  },
+  {
+    "id": "VH_2065",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bảo tồn nghề truyền thống ở Việt Nam.",
+    "question": "Bài viết 'Bảo tồn và phát triển các làng nghề truyền thống' của Phạm Viết Muôn tập trung vào nội dung gì?",
+    "answer": "Bài viết 'Bảo tồn và phát triển các làng nghề truyền thống' của Phạm Viết Muôn tập trung vào bảo tồn và phát triển các làng nghề truyền thống ở Việt Nam."
+  }
+]

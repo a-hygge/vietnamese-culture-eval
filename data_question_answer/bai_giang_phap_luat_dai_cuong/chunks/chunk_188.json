@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_936",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của viên chức theo pháp luật Việt Nam.",
+    "question": "Viên chức có quyền tham gia các hoạt động kinh tế xã hội không?",
+    "answer": "Có, viên chức được quyền tham gia các hoạt động kinh tế xã hội theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_937",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ và quyền lợi của viên chức.",
+    "question": "Viên chức có được hưởng chính sách ưu đãi về nhà ở không?",
+    "answer": "Có, viên chức được hưởng chính sách ưu đãi về nhà ở theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_938",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của viên chức liên quan đến học tập và phát triển nghề nghiệp.",
+    "question": "Viên chức có được phép học tập và hoạt động nghề nghiệp ở trong nước và nước ngoài không?",
+    "answer": "Có, viên chức được tạo điều kiện học tập và hoạt động nghề nghiệp ở trong nước và nước ngoài theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_939",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hạn chế quyền góp vốn của viên chức trong một số tổ chức.",
+    "question": "Viên chức có được tham gia quản lý hoặc điều hành công ty trách nhiệm hữu hạn, công ty cổ phần không?",
+    "answer": "Không, viên chức chỉ được góp vốn nhưng không được tham gia quản lý hoặc điều hành các tổ chức như công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã, bệnh viện tư, trường học tư và tổ chức nghiên cứu khoa học tư, trừ trường hợp pháp luật chuyên ngành có quy định khác."
+  },
+  {
+    "id": "PL_940",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bảo vệ quyền lợi của viên chức trong trường hợp gặp rủi ro khi thực hiện nhiệm vụ.",
+    "question": "Viên chức bị thương hoặc tử vong do thực hiện công việc hoặc nhiệm vụ sẽ được giải quyết như thế nào?",
+    "answer": "Viên chức bị thương hoặc tử vong do thực hiện công việc hoặc nhiệm vụ sẽ được hưởng quyền lợi theo quy định của pháp luật."
+  }
+]

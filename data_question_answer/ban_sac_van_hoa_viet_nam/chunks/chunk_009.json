@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_041",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Quan Vũ được người Hoa Kiều xem là vị thần bảo hộ trong lĩnh vực nào?",
+    "answer": "Quan Vũ được người Hoa Kiều xem là vị thần bảo hộ trong lĩnh vực kinh doanh và thương mại, và việc thờ ông lan rộng khắp Đông Nam Á."
+  },
+  {
+    "id": "VH_042",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Trung Quốc.",
+    "question": "Mã Tổ được tôn thờ như nữ thần của ngành nghề nào?",
+    "answer": "Mã Tổ được tôn thờ như nữ thần biển, gắn liền với ngành hàng hải và ngư nghiệp của Trung Quốc."
+  },
+  {
+    "id": "VH_043",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phát triển của Đạo giáo.",
+    "question": "Đạo giáo đã trải qua thay đổi gì sau Chiến tranh thuốc phiện năm 1840?",
+    "answer": "Sau Chiến tranh thuốc phiện năm 1840, Đạo giáo bị phân liệt thành nhiều giáo phái, với khoảng 80 giáo phái, trong đó đa số chống lại quân phiệt và đế quốc."
+  },
+  {
+    "id": "VH_044",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự ảnh hưởng toàn cầu của Đạo giáo.",
+    "question": "Những lĩnh vực nào của Đạo giáo được chú ý nhiều nhất ở phương Tây?",
+    "answer": "Ở phương Tây, triết học và cách dưỡng sinh của Đạo giáo được chú ý nhiều nhất."
+  },
+  {
+    "id": "VH_045",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn gốc và ý nghĩa của Đạo giáo.",
+    "question": "Đạo giáo ra đời từ nhu cầu nào trong xã hội Trung Quốc cổ đại?",
+    "answer": "Đạo giáo ra đời từ nhu cầu khẳng định cá nhân trong bối cảnh xã hội bị chi phối bởi bộ máy quan liêu và đất nước rối loạn do tham nhũng."
+  }
+]

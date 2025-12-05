@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_726",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức của Quốc hội Việt Nam.",
+    "question": "Chủ nhiệm Ủy ban của Quốc hội được bầu bởi cơ quan nào?",
+    "answer": "Chủ nhiệm Ủy ban của Quốc hội do Quốc hội bầu."
+  },
+  {
+    "id": "PL_727",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Ủy ban của Quốc hội.",
+    "question": "Ủy ban của Quốc hội có nhiệm vụ thẩm tra những nội dung nào?",
+    "answer": "Ủy ban của Quốc hội thẩm tra dự án luật, kiến nghị về luật, dự án khác và báo cáo được Quốc hội hoặc Ủy ban thường vụ Quốc hội giao."
+  },
+  {
+    "id": "PL_728",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Ủy ban của Quốc hội.",
+    "question": "Ủy ban của Quốc hội thực hiện quyền giám sát trong phạm vi nào?",
+    "answer": "Ủy ban của Quốc hội thực hiện quyền giám sát trong phạm vi nhiệm vụ, quyền hạn do luật định."
+  },
+  {
+    "id": "PL_729",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của đại biểu Quốc hội.",
+    "question": "Đại biểu Quốc hội có trách nhiệm gì đối với cử tri?",
+    "answer": "Đại biểu Quốc hội liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử tri, thu thập và phản ánh trung thực ý kiến, nguyện vọng của cử tri với Quốc hội, các cơ quan, tổ chức hữu quan."
+  },
+  {
+    "id": "PL_730",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền quyết định cơ cấu tổ chức Quốc hội.",
+    "question": "Việc thành lập hoặc giải thể Ủy ban của Quốc hội do cơ quan nào quyết định?",
+    "answer": "Việc thành lập hoặc giải thể Ủy ban của Quốc hội do Quốc hội quyết định."
+  }
+]

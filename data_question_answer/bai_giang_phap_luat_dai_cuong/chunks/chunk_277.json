@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1381",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền giao kết hợp đồng dân sự.",
+    "question": "Người từ đủ 15 tuổi đến chưa đủ 18 tuổi trong trường hợp nào được giao kết hợp đồng dân sự mà không cần sự đồng ý của người đại diện theo pháp luật?",
+    "answer": "Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có tài sản riêng đủ để thanh toán nghĩa vụ thì được giao kết hợp đồng mà không cần sự đồng ý của người đại diện theo pháp luật, trừ trường hợp pháp luật quy định phải đủ 18 tuổi."
+  },
+  {
+    "id": "PL_1382",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức của hợp đồng dân sự.",
+    "question": "Hợp đồng dân sự có thể được giao kết bằng những hình thức nào?",
+    "answer": "Hợp đồng dân sự có thể được giao kết bằng lời nói, văn bản hoặc hành vi cụ thể, trừ trường hợp pháp luật quy định hợp đồng phải được thể hiện bằng văn bản, chứng nhận, chứng thực, đăng ký hoặc xin phép."
+  },
+  {
+    "id": "PL_1383",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nội dung chủ yếu của hợp đồng dân sự.",
+    "question": "Nội dung chủ yếu của hợp đồng dân sự là gì?",
+    "answer": "Nội dung chủ yếu của hợp đồng dân sự là những điều khoản mà thiếu chúng thì hợp đồng không thể giao kết được. Những nội dung này do pháp luật quy định hoặc theo thỏa thuận của các bên nếu pháp luật không quy định."
+  },
+  {
+    "id": "PL_1384",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại nội dung có thể thỏa thuận trong hợp đồng dân sự.",
+    "question": "Các bên có thể thỏa thuận những nội dung nào khi giao kết hợp đồng dân sự?",
+    "answer": "Các bên có thể thỏa thuận các nội dung như: đối tượng hợp đồng (tài sản phải giao, công việc được làm hoặc không được làm), số lượng, chất lượng, giá, phương thức thanh toán, thời hạn, phương thức, địa điểm thực hiện hợp đồng, quyền và nghĩa vụ của các bên, và trách nhiệm do vi phạm hợp đồng."
+  },
+  {
+    "id": "PL_1385",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền giao kết hợp đồng của pháp nhân và các chủ thể khác.",
+    "question": "Pháp nhân và các chủ thể khác tham gia giao kết hợp đồng dân sự theo cách nào?",
+    "answer": "Pháp nhân và các chủ thể khác trong quan hệ hợp đồng dân sự phải thông qua những đại diện hợp pháp của mình để tham gia giao kết hợp đồng."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_566",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Pháp luật được hiểu là gì?",
+    "answer": "Pháp luật là hệ thống các quy tắc xử sự chung, do nhà nước ban hành và đảm bảo thực hiện, nhằm điều chỉnh các quan hệ trong xã hội."
+  },
+  {
+    "id": "PL_567",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật.",
+    "question": "Pháp luật có vai trò gì trong xã hội?",
+    "answer": "Pháp luật có vai trò điều chỉnh hành vi, duy trì trật tự xã hội, bảo vệ quyền và lợi ích hợp pháp của công dân, cũng như đảm bảo công bằng và bình đẳng."
+  },
+  {
+    "id": "PL_568",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ công dân.",
+    "question": "Công dân có quyền và nghĩa vụ gì theo pháp luật Việt Nam?",
+    "answer": "Công dân có quyền được hưởng các quyền tự do, bình đẳng, cũng như các quyền về chính trị, kinh tế, văn hóa, xã hội và phải thực hiện nghĩa vụ tuân thủ pháp luật, đóng góp vào sự phát triển của đất nước."
+  },
+  {
+    "id": "PL_569",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Bộ máy nhà nước Việt Nam bao gồm những cơ quan nào?",
+    "answer": "Bộ máy nhà nước Việt Nam gồm Quốc hội, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân và các cơ quan hành chính nhà nước ở địa phương."
+  },
+  {
+    "id": "PL_570",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp quyền.",
+    "question": "Nguyên tắc pháp quyền được thể hiện như thế nào trong nhà nước Việt Nam?",
+    "answer": "Nguyên tắc pháp quyền trong nhà nước Việt Nam được thể hiện qua việc đảm bảo mọi hoạt động của nhà nước đều dựa trên Hiến pháp và pháp luật, quyền lực nhà nước thống nhất, và bảo vệ quyền con người, quyền công dân."
+  }
+]

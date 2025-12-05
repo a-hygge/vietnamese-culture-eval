@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1786",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_498.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của các thành viên trong công ty hợp danh.",
+    "question": "Thành viên hợp danh trong công ty hợp danh phải chịu trách nhiệm như thế nào về các nghĩa vụ của công ty?",
+    "answer": "Thành viên hợp danh phải chịu trách nhiệm bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty."
+  },
+  {
+    "id": "PL_1787",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_498.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của thành viên góp vốn trong công ty hợp danh.",
+    "question": "Thành viên góp vốn trong công ty hợp danh phải chịu trách nhiệm như thế nào về các khoản nợ của công ty?",
+    "answer": "Thành viên góp vốn chỉ chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn đã góp vào công ty."
+  },
+  {
+    "id": "PL_1788",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_498.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tư cách pháp nhân của công ty hợp danh.",
+    "question": "Công ty hợp danh được công nhận tư cách pháp nhân kể từ thời điểm nào?",
+    "answer": "Công ty hợp danh có tư cách pháp nhân kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "id": "PL_1789",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_498.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc góp vốn trong công ty hợp danh.",
+    "question": "Điều gì xảy ra nếu thành viên góp vốn không góp đủ và đúng hạn số vốn đã cam kết?",
+    "answer": "Số vốn chưa góp đủ được coi là khoản nợ của thành viên đó đối với công ty, và thành viên góp vốn có liên quan có thể bị khai trừ khỏi công ty theo quyết định của Hội đồng thành viên."
+  },
+  {
+    "id": "PL_1790",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_498.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nhận giấy chứng nhận phần vốn góp trong công ty hợp danh.",
+    "question": "Thành viên công ty hợp danh được cấp giấy chứng nhận phần vốn góp vào thời điểm nào?",
+    "answer": "Thành viên được cấp giấy chứng nhận phần vốn góp tại thời điểm góp đủ vốn như đã cam kết."
+  }
+]

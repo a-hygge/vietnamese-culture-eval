@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1276",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật liên quan đến vật chia được và vật không chia được.",
+    "question": "Vật chia được được định nghĩa như thế nào theo pháp luật?",
+    "answer": "Vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu."
+  },
+  {
+    "id": "PL_1277",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật liên quan đến vật tiêu hao và vật không tiêu hao.",
+    "question": "Vì sao vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc cho mượn?",
+    "answer": "Vật tiêu hao khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu, do đó không thể là đối tượng của hợp đồng cho thuê hoặc cho mượn."
+  },
+  {
+    "id": "PL_1278",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật liên quan đến vật cùng loại và vật đặc định.",
+    "question": "Điểm khác biệt cơ bản giữa vật cùng loại và vật đặc định là gì?",
+    "answer": "Vật cùng loại có hình dáng, tính chất, tính năng sử dụng giống nhau và có thể thay thế cho nhau, còn vật đặc định được phân biệt với các vật khác bằng những đặc điểm riêng như ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí."
+  },
+  {
+    "id": "PL_1279",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật liên quan đến vật đồng bộ.",
+    "question": "Vật đồng bộ được định nghĩa như thế nào theo pháp luật?",
+    "answer": "Vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần hoặc các bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng bị giảm sút."
+  },
+  {
+    "id": "PL_1280",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc phân chia vật trong pháp luật dân sự.",
+    "question": "Khi cần phân chia vật không chia được thì phải xử lý như thế nào?",
+    "answer": "Khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia."
+  }
+]

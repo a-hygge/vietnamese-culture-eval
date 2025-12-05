@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_601",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức chính trị - xã hội ở Việt Nam.",
+    "question": "Các tổ chức chính trị - xã hội được thành lập trên cơ sở nào?",
+    "answer": "Các tổ chức chính trị - xã hội được thành lập trên cơ sở tự nguyện, đại diện và bảo vệ quyền, lợi ích hợp pháp, chính đáng của thành viên, hội viên tổ chức mình."
+  },
+  {
+    "id": "PL_602",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Mặt trận Tổ quốc Việt Nam.",
+    "question": "Mặt trận Tổ quốc Việt Nam có vai trò gì trong xã hội?",
+    "answer": "Mặt trận Tổ quốc Việt Nam có vai trò tập hợp, phát huy sức mạnh đại đoàn kết toàn dân tộc, thực hiện dân chủ, tăng cường đồng thuận xã hội, giám sát, phản biện xã hội, và tham gia xây dựng Đảng, Nhà nước, hoạt động đối ngoại nhân dân góp phần xây dựng và bảo vệ Tổ quốc."
+  },
+  {
+    "id": "PL_603",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của tổ chức xã hội.",
+    "question": "Các tổ chức xã hội ở Việt Nam hoạt động trong khuôn khổ nào?",
+    "answer": "Các tổ chức xã hội ở Việt Nam hoạt động trong khuôn khổ Hiến pháp và pháp luật."
+  },
+  {
+    "id": "PL_604",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự phối hợp hành động trong Mặt trận Tổ quốc Việt Nam.",
+    "question": "Các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam phối hợp với nhau như thế nào?",
+    "answer": "Các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam phối hợp và thống nhất hành động trong Mặt trận Tổ quốc Việt Nam."
+  },
+  {
+    "id": "PL_605",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của Nhà nước đối với các tổ chức xã hội.",
+    "question": "Nhà nước có trách nhiệm gì đối với Mặt trận Tổ quốc Việt Nam và các tổ chức xã hội khác?",
+    "answer": "Nhà nước tạo điều kiện để Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và các tổ chức xã hội khác hoạt động."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_396",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật có vai trò gì trong xã hội?",
+    "answer": "Quy phạm pháp luật là công cụ điều chỉnh các quan hệ xã hội, thể hiện ý chí và lợi ích của nhà nước, xã hội và cá nhân."
+  },
+  {
+    "id": "PL_397",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấu trúc của quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật thường bao gồm những bộ phận nào?",
+    "answer": "Quy phạm pháp luật thường bao gồm ba bộ phận: giả định, quy định và chế tài."
+  },
+  {
+    "id": "PL_398",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của giả định trong quy phạm pháp luật.",
+    "question": "Giả định trong quy phạm pháp luật có chức năng gì?",
+    "answer": "Giả định xác định điều kiện, hoàn cảnh hoặc đối tượng mà quy phạm pháp luật áp dụng."
+  },
+  {
+    "id": "PL_399",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của quy định trong quy phạm pháp luật.",
+    "question": "Quy định trong quy phạm pháp luật có nhiệm vụ gì?",
+    "answer": "Quy định nêu rõ các hành vi mà chủ thể phải thực hiện, được thực hiện hoặc không được thực hiện."
+  },
+  {
+    "id": "PL_400",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về ví dụ về chế tài trong pháp luật.",
+    "question": "Chế tài trong pháp luật có thể được minh họa bằng ví dụ nào?",
+    "answer": "Ví dụ về chế tài là quy định xử phạt hành chính đối với hành vi vi phạm giao thông, như phạt tiền khi vượt đèn đỏ."
+  }
+]

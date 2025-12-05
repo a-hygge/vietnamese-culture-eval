@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1816",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_504.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ pháp lý của doanh nghiệp khi phá sản.",
+    "question": "Doanh nghiệp mắc nợ có quyền và nghĩa vụ gì khi nộp đơn yêu cầu tuyên bố phá sản?",
+    "answer": "Doanh nghiệp mắc nợ có quyền nộp đơn yêu cầu tuyên bố phá sản và đây cũng là nghĩa vụ pháp lý của doanh nghiệp trong trường hợp không thể thanh toán các khoản nợ đến hạn."
+  },
+  {
+    "id": "PL_1817",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_504.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thứ tự thanh toán tài sản trong quá trình thanh lý doanh nghiệp.",
+    "question": "Các khoản nợ được bảo đảm bằng tài sản thế chấp hoặc cầm cố được ưu tiên thanh toán như thế nào?",
+    "answer": "Các khoản nợ được bảo đảm bằng tài sản thế chấp hoặc cầm cố sẽ được ưu tiên thanh toán bằng tài sản bảo đảm đó. Nếu giá trị tài sản không đủ thanh toán, phần nợ còn lại sẽ được xử lý trong quá trình thanh lý tài sản. Nếu giá trị tài sản vượt quá số nợ, phần chênh lệch sẽ được nhập vào tài sản còn lại của doanh nghiệp."
+  },
+  {
+    "id": "PL_1818",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_504.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cách xử lý các khoản nợ chưa đến hạn trong thủ tục phá sản.",
+    "question": "Khi Thẩm phán ra quyết định mở thủ tục thanh lý doanh nghiệp, các khoản nợ chưa đến hạn được xử lý như thế nào?",
+    "answer": "Các khoản nợ chưa đến hạn sẽ được xử lý như các khoản nợ đến hạn, nhưng không được tính lãi đối với thời gian chưa đến hạn."
+  },
+  {
+    "id": "PL_1819",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_504.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xử lý nợ trong trường hợp tài sản bảo đảm không đủ thanh toán.",
+    "question": "Nếu giá trị tài sản thế chấp hoặc cầm cố không đủ thanh toán nợ, phần nợ còn lại được xử lý ra sao?",
+    "answer": "Phần nợ còn lại sẽ được thanh toán trong quá trình thanh lý các tài sản khác của doanh nghiệp hoặc hợp tác xã."
+  },
+  {
+    "id": "PL_1820",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_504.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử lý phần chênh lệch giá trị tài sản bảo đảm trong thủ tục phá sản.",
+    "question": "Trong trường hợp giá trị tài sản thế chấp lớn hơn số nợ, phần chênh lệch sẽ được xử lý như thế nào?",
+    "answer": "Phần chênh lệch sẽ được nhập vào giá trị tài sản còn lại của doanh nghiệp hoặc hợp tác xã để tiếp tục thanh lý."
+  }
+]

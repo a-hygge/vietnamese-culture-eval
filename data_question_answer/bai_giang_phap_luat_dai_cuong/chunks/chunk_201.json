@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1001",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm hành chính trong pháp luật Việt Nam.",
+    "question": "Trách nhiệm hành chính có những đặc điểm nào nổi bật?",
+    "answer": "Trách nhiệm hành chính ít nghiêm khắc hơn trách nhiệm hình sự, người chịu trách nhiệm hành chính không mang án tích, được áp dụng chủ yếu bởi các cơ quan hành chính nhà nước, người có thẩm quyền và nằm ngoài trình tự tư pháp."
+  },
+  {
+    "id": "PL_1002",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng chịu trách nhiệm hành chính.",
+    "question": "Những đối tượng nào có thể chịu trách nhiệm hành chính theo pháp luật Việt Nam?",
+    "answer": "Đối tượng chịu trách nhiệm hành chính bao gồm cá nhân (từ đủ 14 tuổi trở lên), cơ quan nhà nước, tổ chức xã hội, đơn vị kinh tế, quân nhân, người thuộc lực lượng vũ trang, cá nhân, tổ chức nước ngoài vi phạm hành chính trong phạm vi lãnh thổ Việt Nam."
+  },
+  {
+    "id": "PL_1003",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền giải quyết khiếu kiện hành chính.",
+    "question": "Những loại khiếu kiện hành chính nào thuộc thẩm quyền giải quyết của Tòa án?",
+    "answer": "Các loại khiếu kiện hành chính thuộc thẩm quyền Tòa án bao gồm: khiếu kiện quyết định hành chính, hành vi hành chính (trừ các quyết định, hành vi thuộc phạm vi bí mật nhà nước hoặc mang tính nội bộ), khiếu kiện về danh sách cử tri bầu cử, khiếu kiện quyết định kỷ luật buộc thôi việc công chức giữ chức vụ từ tổng cục trưởng và tương đương trở xuống, và khiếu kiện quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh."
+  },
+  {
+    "id": "PL_1004",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tố tụng hành chính.",
+    "question": "Khiếu kiện về danh sách cử tri bầu cử thuộc thẩm quyền giải quyết của cơ quan nào?",
+    "answer": "Khiếu kiện về danh sách cử tri bầu cử Đại biểu Quốc hội và danh sách cử tri bầu cử Đại biểu Hội đồng nhân dân thuộc thẩm quyền giải quyết của Tòa án."
+  },
+  {
+    "id": "PL_1005",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giới hạn khiếu kiện hành chính.",
+    "question": "Quyết định hành chính, hành vi hành chính nào không thuộc thẩm quyền giải quyết của Tòa án?",
+    "answer": "Các quyết định hành chính, hành vi hành chính không thuộc thẩm quyền Tòa án bao gồm các quyết định, hành vi thuộc phạm vi bí mật nhà nước trong lĩnh vực quốc phòng, an ninh, ngoại giao theo danh mục do Chính phủ quy định và các quyết định, hành vi mang tính nội bộ của cơ quan, tổ chức."
+  }
+]

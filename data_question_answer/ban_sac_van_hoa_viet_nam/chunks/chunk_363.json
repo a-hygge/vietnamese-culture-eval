@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1811",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Hội An từng được miêu tả như thế nào trong lịch sử thương cảng Việt Nam?",
+    "answer": "Hội An được miêu tả là một thương cảng có hàng hóa rất nhiều, đến mức hàng trăm tàu lớn chuyên chở cùng lúc cũng không hết được."
+  },
+  {
+    "id": "VH_1812",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các làng nghề truyền thống Việt Nam.",
+    "question": "Nguyên nhân nào dẫn đến sự hình thành các làng nghề truyền thống Việt Nam?",
+    "answer": "Các làng nghề truyền thống Việt Nam phần lớn hình thành do những người từ nơi khác đến truyền nghề, bao gồm cả những ông quan đi sứ sang Trung Quốc và trở thành tổ nghề. Ngoài ra, còn do sức ép kinh tế và thiếu đất canh tác."
+  },
+  {
+    "id": "VH_1813",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa nông thôn Việt Nam.",
+    "question": "Tại sao các làng nghề Việt Nam không thể phát triển thành thị trấn hay thành phố?",
+    "answer": "Các làng nghề Việt Nam không thể phát triển thành thị trấn hay thành phố vì văn hóa Việt Nam trước đây mang đậm tính chất nông thôn, có xu hướng kiềm chế thủ công trong khuôn khổ của văn hóa nông thôn."
+  },
+  {
+    "id": "VH_1814",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về kinh tế truyền thống Việt Nam.",
+    "question": "Kinh tế làng nghề Việt Nam trước đây phụ thuộc vào những yếu tố nào?",
+    "answer": "Kinh tế làng nghề phụ thuộc vào vị trí gần đường giao thông, nguồn nguyên liệu, thị trường tiêu thụ và nhu cầu bù đắp thu nhập do ruộng đất ít không đảm bảo được sinh kế."
+  },
+  {
+    "id": "VH_1815",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghề thủ công và giao thương Việt Nam thời xưa.",
+    "question": "Quảng Nam được biết đến với ngành nghề nào trong lịch sử kinh tế Việt Nam?",
+    "answer": "Quảng Nam được biết đến với nghề khai thác mỏ, và nơi đây được xem là xứ sở của vàng."
+  }
+]

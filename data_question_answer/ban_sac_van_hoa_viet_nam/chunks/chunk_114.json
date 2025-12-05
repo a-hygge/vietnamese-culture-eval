@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_566",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Người Việt Nam chọn lãnh đạo dựa trên tiêu chuẩn quan trọng nào?",
+    "answer": "Người Việt Nam chọn lãnh đạo dựa trên tiêu chuẩn là người cứu được dân, được nước."
+  },
+  {
+    "id": "VH_567",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đạo đức lãnh đạo trong văn hóa Việt Nam.",
+    "question": "Người Việt Nam mong muốn phẩm chất đạo đức nào ở người lãnh đạo?",
+    "answer": "Người Việt Nam mong muốn người lãnh đạo phải mẫu mực, anh hùng, đạo đức, cần kiệm, liêm chính, giống như phẩm chất của nhân dân."
+  },
+  {
+    "id": "VH_568",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan niệm chính trị của người Việt Nam.",
+    "question": "Quan niệm chính trị nào được dùng để mô tả con người Việt Nam?",
+    "answer": "Con người Việt Nam được mô tả theo quan niệm tổ quốc luận, không phải kinh tế luận."
+  },
+  {
+    "id": "VH_569",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của nhân dân Việt Nam.",
+    "question": "Nhân dân Việt Nam có tinh thần như thế nào khi đối mặt với chiến tranh kéo dài?",
+    "answer": "Nhân dân Việt Nam sẵn sàng theo kháng chiến trường kỳ dù chiến tranh kéo dài năm năm, mười năm, hai mươi năm hay lâu hơn."
+  },
+  {
+    "id": "VH_570",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa lãnh đạo và nhân dân Việt Nam.",
+    "question": "Câu nói 'Đảng viên đi trước, làng nước theo sau' phản ánh điều gì về mối quan hệ giữa lãnh đạo và nhân dân?",
+    "answer": "Câu nói 'Đảng viên đi trước, làng nước theo sau' phản ánh sự gương mẫu của người lãnh đạo và sự đồng lòng của nhân dân trong các nhiệm vụ chung."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1446",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Viện kiểm sát trong tố tụng dân sự.",
+    "question": "Viện kiểm sát có quyền thực hiện những hành động nào trong quá trình điều tra vụ án dân sự?",
+    "answer": "Viện kiểm sát có quyền yêu cầu tòa án cung cấp thông tin hoặc tự mình tiến hành điều tra, xác minh các vấn đề cần làm rõ trong vụ án."
+  },
+  {
+    "id": "PL_1447",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hòa giải trong tố tụng dân sự.",
+    "question": "Hòa giải trong tố tụng dân sự là gì?",
+    "answer": "Hòa giải là thủ tục trong tố tụng dân sự, trong đó tòa án hỗ trợ các bên đương sự đạt được thỏa thuận về việc giải quyết vụ án."
+  },
+  {
+    "id": "PL_1448",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của tòa án trong hòa giải vụ án dân sự.",
+    "question": "Tòa án có trách nhiệm gì trong quá trình hòa giải vụ án dân sự?",
+    "answer": "Tòa án có trách nhiệm tổ chức hòa giải để hỗ trợ các bên đương sự đạt được thỏa thuận giải quyết vụ án."
+  },
+  {
+    "id": "PL_1449",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục tố tụng dân sự.",
+    "question": "Thủ tục hòa giải trong tố tụng dân sự được thực hiện ở giai đoạn nào?",
+    "answer": "Thủ tục hòa giải được thực hiện trong giai đoạn giải quyết vụ án dân sự trước khi xét xử."
+  },
+  {
+    "id": "PL_1450",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi áp dụng hòa giải trong tố tụng dân sự.",
+    "question": "Có phải tất cả các vụ án dân sự đều phải thực hiện thủ tục hòa giải không?",
+    "answer": "Không, một số loại vụ việc dân sự không áp dụng thủ tục hòa giải theo quy định của pháp luật."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_026",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm Hiến pháp.",
+    "question": "Hiến pháp được hiểu là gì trong hệ thống pháp luật Việt Nam?",
+    "answer": "Hiến pháp là văn bản pháp luật có hiệu lực cao nhất, quy định những vấn đề cơ bản về tổ chức quyền lực nhà nước, chế độ chính trị, quyền con người, quyền và nghĩa vụ cơ bản của công dân."
+  },
+  {
+    "id": "PL_027",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng điều chỉnh của luật Hiến pháp.",
+    "question": "Đối tượng điều chỉnh của luật Hiến pháp là gì?",
+    "answer": "Đối tượng điều chỉnh của luật Hiến pháp bao gồm các vấn đề cơ bản liên quan đến tổ chức quyền lực nhà nước, chế độ chính trị, quyền con người, quyền và nghĩa vụ cơ bản của công dân, và các lĩnh vực kinh tế, văn hóa, xã hội."
+  },
+  {
+    "id": "PL_028",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ cơ bản của công dân.",
+    "question": "Luật Hiến pháp quy định những quyền và nghĩa vụ cơ bản nào của công dân?",
+    "answer": "Luật Hiến pháp quy định các quyền cơ bản như quyền tự do, bình đẳng, quyền sống, quyền học tập, quyền lao động, và nghĩa vụ công dân như bảo vệ Tổ quốc, tuân thủ pháp luật, đóng thuế theo quy định."
+  },
+  {
+    "id": "PL_029",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Cộng hòa Xã hội chủ nghĩa Việt Nam.",
+    "question": "Bộ máy nhà nước Cộng hòa Xã hội chủ nghĩa Việt Nam được tổ chức như thế nào theo luật Hiến pháp?",
+    "answer": "Bộ máy nhà nước bao gồm Quốc hội, Chính phủ, Chủ tịch nước, Tòa án nhân dân, Viện kiểm sát nhân dân, và các cơ quan hành chính, đảm bảo sự thống nhất và hoạt động theo nguyên tắc pháp quyền."
+  },
+  {
+    "id": "PL_030",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phương pháp điều chỉnh của luật Hiến pháp.",
+    "question": "Phương pháp điều chỉnh của luật Hiến pháp là gì?",
+    "answer": "Phương pháp điều chỉnh của luật Hiến pháp là phương pháp quyền uy và phương pháp thỏa thuận, nhằm thiết lập các quy tắc pháp lý cơ bản về tổ chức, hoạt động của nhà nước và quyền con người."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1626",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hợp đồng lao động theo Bộ luật lao động Việt Nam.",
+    "question": "Người sử dụng lao động có được yêu cầu người lao động thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khi giao kết hợp đồng lao động không?",
+    "answer": "Không, người sử dụng lao động không được yêu cầu người lao động thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khi giao kết hợp đồng lao động."
+  },
+  {
+    "id": "PL_1627",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại hợp đồng lao động.",
+    "question": "Hợp đồng lao động không xác định thời hạn được hiểu như thế nào?",
+    "answer": "Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng."
+  },
+  {
+    "id": "PL_1628",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định giao kết hợp đồng lao động theo Bộ luật lao động.",
+    "question": "Người sử dụng lao động có được giữ bản chính giấy tờ tùy thân của người lao động không?",
+    "answer": "Không, người sử dụng lao động không được giữ bản chính giấy tờ tùy thân của người lao động."
+  },
+  {
+    "id": "PL_1629",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người sử dụng lao động đối với việc ký hợp đồng lao động.",
+    "question": "Người sử dụng lao động có thể ký hợp đồng lao động xác định thời hạn nhiều lần với người lao động cao tuổi không?",
+    "answer": "Có, theo quy định của Bộ luật lao động 2019, người sử dụng lao động được phép ký hợp đồng lao động xác định thời hạn nhiều lần với người lao động cao tuổi."
+  },
+  {
+    "id": "PL_1630",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại hợp đồng lao động theo thời hạn.",
+    "question": "Hợp đồng lao động xác định thời hạn được quy định trong khoảng thời gian bao lâu?",
+    "answer": "Hợp đồng lao động xác định thời hạn được quy định trong khoảng thời gian từ đủ 12 tháng đến 36 tháng."
+  }
+]

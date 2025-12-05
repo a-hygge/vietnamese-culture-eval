@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2651",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các đặc điểm của hệ Mặt Trời.",
+    "question": "Hệ Mặt Trời bao gồm những thành phần chính nào?",
+    "answer": "Hệ Mặt Trời bao gồm Mặt Trời, các hành tinh, vệ tinh tự nhiên, tiểu hành tinh, sao chổi và các thiên thể nhỏ khác."
+  },
+  {
+    "id": "VH_2652",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của nước đối với sự sống.",
+    "question": "Tại sao nước được coi là yếu tố quan trọng cho sự sống trên Trái Đất?",
+    "answer": "Nước là dung môi hòa tan nhiều chất cần thiết cho các phản ứng hóa học trong cơ thể, giúp điều hòa nhiệt độ và vận chuyển chất dinh dưỡng cũng như chất thải."
+  },
+  {
+    "id": "VH_2653",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phát triển của công nghệ trí tuệ nhân tạo.",
+    "question": "Trí tuệ nhân tạo (AI) có thể được ứng dụng trong những lĩnh vực nào?",
+    "answer": "Trí tuệ nhân tạo có thể được ứng dụng trong y tế, giáo dục, giao thông, tài chính, sản xuất, và nhiều lĩnh vực khác để cải thiện hiệu quả và tự động hóa các quy trình."
+  },
+  {
+    "id": "VH_2654",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự đa dạng sinh học.",
+    "question": "Sự đa dạng sinh học mang lại những lợi ích gì cho con người và môi trường?",
+    "answer": "Sự đa dạng sinh học cung cấp nguồn thực phẩm, thuốc, nguyên liệu, duy trì cân bằng hệ sinh thái và giúp bảo vệ môi trường khỏi các tác động tiêu cực."
+  },
+  {
+    "id": "VH_2655",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử phát minh điện.",
+    "question": "Ai là người được coi là đã phát minh ra bóng đèn điện và tại sao phát minh này quan trọng?",
+    "answer": "Thomas Edison được coi là người phát minh ra bóng đèn điện. Phát minh này quan trọng vì nó mang lại nguồn sáng nhân tạo, thay đổi cách con người sống và làm việc, đặc biệt vào ban đêm."
+  }
+]

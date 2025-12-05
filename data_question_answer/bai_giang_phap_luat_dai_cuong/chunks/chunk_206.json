@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1026",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hiệu khởi kiện trong tố tụng hành chính.",
+    "question": "Thời hiệu khởi kiện đối với quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc là bao lâu?",
+    "answer": "Thời hiệu khởi kiện là 01 năm kể từ ngày nhận được hoặc biết được quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc."
+  },
+  {
+    "id": "PL_1027",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hiệu khởi kiện trong xử lý vụ việc cạnh tranh.",
+    "question": "Thời hiệu khởi kiện đối với quyết định giải quyết khiếu nại về xử lý vụ việc cạnh tranh là bao nhiêu ngày?",
+    "answer": "Thời hiệu khởi kiện là 30 ngày kể từ ngày nhận được quyết định giải quyết khiếu nại về xử lý vụ việc cạnh tranh."
+  },
+  {
+    "id": "PL_1028",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hiệu khởi kiện liên quan đến danh sách cử tri.",
+    "question": "Thời hiệu khởi kiện liên quan đến khiếu nại danh sách cử tri được tính như thế nào?",
+    "answer": "Thời hiệu khởi kiện tính từ ngày nhận được thông báo kết quả giải quyết khiếu nại của cơ quan lập danh sách cử tri hoặc kết thúc thời hạn giải quyết khiếu nại mà không nhận được thông báo kết quả, đến trước ngày bầu cử 05 ngày."
+  },
+  {
+    "id": "PL_1029",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự kiện bất khả kháng trong thời hiệu khởi kiện.",
+    "question": "Thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan có được tính vào thời hiệu khởi kiện không?",
+    "answer": "Thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hiệu khởi kiện."
+  },
+  {
+    "id": "PL_1030",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cách xác định thời hạn trong tố tụng hành chính.",
+    "question": "Các quy định của Bộ luật dân sự về thời hạn và thời hiệu có được áp dụng trong tố tụng hành chính không?",
+    "answer": "Có, các quy định của Bộ luật dân sự về cách xác định thời hạn và thời hiệu cũng được áp dụng trong tố tụng hành chính."
+  }
+]

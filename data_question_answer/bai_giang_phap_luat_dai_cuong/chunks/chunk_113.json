@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_561",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm pháp luật.",
+    "question": "Vi phạm pháp luật được hiểu là gì?",
+    "answer": "Vi phạm pháp luật là hành vi có lỗi, do cá nhân hoặc tổ chức thực hiện, trái với quy định của pháp luật và gây ra hậu quả pháp lý nhất định."
+  },
+  {
+    "id": "PL_562",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các yếu tố cấu thành hành vi vi phạm pháp luật.",
+    "question": "Các yếu tố cấu thành của hành vi vi phạm pháp luật bao gồm những gì?",
+    "answer": "Các yếu tố cấu thành hành vi vi phạm pháp luật bao gồm: mặt khách quan, mặt chủ quan, chủ thể và khách thể của hành vi."
+  },
+  {
+    "id": "PL_563",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại vi phạm pháp luật.",
+    "question": "Vi phạm pháp luật được phân loại thành những dạng nào?",
+    "answer": "Vi phạm pháp luật được phân thành các dạng chủ yếu: vi phạm hành chính, vi phạm dân sự, vi phạm hình sự và vi phạm kỷ luật."
+  },
+  {
+    "id": "PL_564",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm trách nhiệm pháp lý.",
+    "question": "Trách nhiệm pháp lý được định nghĩa như thế nào?",
+    "answer": "Trách nhiệm pháp lý là nghĩa vụ mà cá nhân hoặc tổ chức phải chịu trước pháp luật do hành vi vi phạm gây ra, nhằm khắc phục hậu quả và bảo đảm trật tự trong xã hội."
+  },
+  {
+    "id": "PL_565",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại trách nhiệm pháp lý.",
+    "question": "Trách nhiệm pháp lý được phân loại thành những loại nào?",
+    "answer": "Trách nhiệm pháp lý được phân loại thành: trách nhiệm hình sự, trách nhiệm hành chính, trách nhiệm dân sự và trách nhiệm kỷ luật."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_926",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của viên chức trong lĩnh vực tiền lương.",
+    "question": "Viên chức được hưởng tiền lương dựa trên những yếu tố nào?",
+    "answer": "Viên chức được hưởng tiền lương tương xứng với vị trí việc làm, chức danh nghề nghiệp, chức vụ quản lý và kết quả thực hiện công việc hoặc nhiệm vụ được giao."
+  },
+  {
+    "id": "PL_927",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ ưu đãi đối với viên chức.",
+    "question": "Viên chức làm việc ở những khu vực nào được hưởng phụ cấp và chính sách ưu đãi?",
+    "answer": "Viên chức làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn hoặc trong ngành nghề có môi trường độc hại, nguy hiểm, lĩnh vực sự nghiệp đặc thù được hưởng phụ cấp và chính sách ưu đãi."
+  },
+  {
+    "id": "PL_928",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của viên chức làm việc trong môi trường đặc thù.",
+    "question": "Những trường hợp nào viên chức được hưởng chính sách ưu đãi khi làm việc?",
+    "answer": "Viên chức được hưởng chính sách ưu đãi khi làm việc trong ngành nghề có môi trường độc hại, nguy hiểm hoặc lĩnh vực sự nghiệp đặc thù."
+  },
+  {
+    "id": "PL_929",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc trả lương cho viên chức.",
+    "question": "Việc trả lương cho viên chức phải đảm bảo nguyên tắc nào?",
+    "answer": "Việc trả lương cho viên chức phải đảm bảo tương xứng với vị trí việc làm, chức danh nghề nghiệp, chức vụ quản lý và kết quả thực hiện công việc hoặc nhiệm vụ được giao."
+  },
+  {
+    "id": "PL_930",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của viên chức làm việc ở vùng đặc biệt khó khăn.",
+    "question": "Viên chức làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền lợi gì liên quan đến tiền lương?",
+    "answer": "Viên chức làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng phụ cấp và chính sách ưu đãi liên quan đến tiền lương."
+  }
+]

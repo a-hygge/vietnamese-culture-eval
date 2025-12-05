@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1236",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền cá nhân đối với hình ảnh.",
+    "question": "Việc sử dụng hình ảnh của cá nhân phải tuân thủ nguyên tắc nào?",
+    "answer": "Việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý; nếu người đó đã chết, mất năng lực hành vi dân sự, chưa đủ 15 tuổi thì phải được cha, mẹ, vợ, chồng, con đã thành niên hoặc người đại diện của người đó đồng ý, trừ trường hợp vì lợi ích của Nhà nước, lợi ích công cộng hoặc pháp luật có quy định khác."
+  },
+  {
+    "id": "PL_1237",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bất khả xâm phạm thân thể.",
+    "question": "Mọi cá nhân có quyền bất khả xâm phạm về thân thể được pháp luật bảo vệ như thế nào?",
+    "answer": "Mọi cá nhân có quyền bất khả xâm phạm về thân thể, được pháp luật bảo hộ về sức khỏe và tính mạng."
+  },
+  {
+    "id": "PL_1238",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm khi phát hiện người bị tai nạn hoặc bệnh tật nguy hiểm.",
+    "question": "Khi phát hiện người bị tai nạn hoặc bệnh tật nguy hiểm, người phát hiện có trách nhiệm gì?",
+    "answer": "Người phát hiện có trách nhiệm đưa người bị tai nạn hoặc bệnh tật nguy hiểm đến cơ sở y tế; cơ sở y tế không được từ chối việc cứu chữa mà phải tận dụng mọi phương tiện, khả năng hiện có để cứu chữa."
+  },
+  {
+    "id": "PL_1239",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đồng ý trong việc thực hiện phương pháp chữa bệnh.",
+    "question": "Việc thực hiện phương pháp chữa bệnh mới trên cơ thể một người cần có sự đồng ý của ai trong trường hợp người đó chưa thành niên hoặc mất năng lực hành vi dân sự?",
+    "answer": "Việc thực hiện phương pháp chữa bệnh mới trên cơ thể một người, nếu người đó chưa thành niên hoặc mất năng lực hành vi dân sự, phải được cha, mẹ, vợ, chồng, con đã thành niên hoặc người giám hộ của người đó đồng ý."
+  },
+  {
+    "id": "PL_1240",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hình ảnh của cá nhân.",
+    "question": "Việc sử dụng hình ảnh của cá nhân có thể bị nghiêm cấm trong trường hợp nào?",
+    "answer": "Việc sử dụng hình ảnh của cá nhân bị nghiêm cấm nếu xâm phạm danh dự, nhân phẩm, uy tín của người có hình ảnh."
+  }
+]

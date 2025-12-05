@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1831",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_507.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phương thức hòa giải trong giải quyết tranh chấp.",
+    "question": "Hòa giải thường được thực hiện như thế nào?",
+    "answer": "Hòa giải là giải pháp tự nguyện, có thể tiến hành ngoài các thủ tục tố tụng hoặc theo các thủ tục tố tụng của tòa án hoặc trọng tài."
+  },
+  {
+    "id": "PL_1832",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_507.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm trọng tài trong giải quyết tranh chấp.",
+    "question": "Trọng tài được hiểu là gì?",
+    "answer": "Trọng tài là hình thức giải quyết tranh chấp thông qua trọng tài viên, bên thứ ba độc lập, đưa ra phán quyết buộc các bên tranh chấp phải thực hiện."
+  },
+  {
+    "id": "PL_1833",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_507.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ sở pháp lý của trọng tài thương mại tại Việt Nam.",
+    "question": "Luật nào điều chỉnh trọng tài thương mại tại Việt Nam?",
+    "answer": "Các tranh chấp giải quyết bằng trọng tài thương mại được điều chỉnh bởi Luật Trọng tài thương mại năm 2010."
+  },
+  {
+    "id": "PL_1834",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_507.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của tòa án trong giải quyết tranh chấp.",
+    "question": "Tòa án có vai trò gì trong giải quyết tranh chấp?",
+    "answer": "Tòa án là hình thức giải quyết tranh chấp do tòa án nhân dân thực hiện."
+  },
+  {
+    "id": "PL_1835",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_507.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về Bộ luật tố tụng dân sự năm 2015.",
+    "question": "Việc giải quyết tranh chấp kinh tế qua tòa án từ ngày 01-06-2016 được thực hiện theo quy định nào?",
+    "answer": "Việc giải quyết các tranh chấp kinh tế thông qua tòa án từ ngày 01-06-2016 được thực hiện theo các quy định tại Bộ luật tố tụng dân sự năm 2015."
+  }
+]

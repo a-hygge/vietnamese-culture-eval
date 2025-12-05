@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1436",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khởi kiện trong tố tụng dân sự.",
+    "question": "Ai có quyền khởi kiện vụ án dân sự?",
+    "answer": "Cá nhân, pháp nhân hoặc chủ thể khác có quyền lợi bị xâm phạm có quyền khởi kiện vụ án dân sự. Tổ chức xã hội cũng có thể khởi kiện một số vụ án để bảo vệ lợi ích chung."
+  },
+  {
+    "id": "PL_1437",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của viện kiểm sát trong tố tụng dân sự.",
+    "question": "Viện kiểm sát có thể khởi tố vụ án dân sự trong trường hợp nào?",
+    "answer": "Viện kiểm sát có quyền khởi tố vụ án dân sự trong trường hợp cần bảo vệ lợi ích chung mà không có ai khởi kiện."
+  },
+  {
+    "id": "PL_1438",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội trong tố tụng dân sự.",
+    "question": "Tổ chức xã hội được phép khởi kiện các vụ án dân sự liên quan đến vấn đề gì?",
+    "answer": "Tổ chức xã hội được phép khởi kiện các vụ án dân sự liên quan đến vi phạm pháp luật gây thiệt hại tài sản xã hội chủ nghĩa, kết hôn trái pháp luật, xác định cha mẹ cho con chưa thành niên ngoài giá thú, và các vấn đề tương tự."
+  },
+  {
+    "id": "PL_1439",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự tố tụng dân sự.",
+    "question": "Giai đoạn khởi kiện hoặc khởi tố vụ án dân sự có ý nghĩa gì?",
+    "answer": "Giai đoạn khởi kiện hoặc khởi tố là bước đầu tiên trong tố tụng dân sự, giúp phát sinh vụ án dân sự tại tòa án và khởi động quá trình giải quyết."
+  },
+  {
+    "id": "PL_1440",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi bị xâm phạm trong tố tụng dân sự.",
+    "question": "Khi nào quyền khởi kiện vụ án dân sự được áp dụng?",
+    "answer": "Quyền khởi kiện vụ án dân sự được thực hiện khi quyền lợi của cá nhân, pháp nhân hoặc chủ thể khác bị xâm phạm."
+  }
+]

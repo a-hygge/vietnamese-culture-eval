@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_426",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn gốc ngày Tết trong văn hóa Việt Nam.",
+    "question": "Ngày Tết âm lịch ở Việt Nam có nguồn gốc từ nền văn hóa nào?",
+    "answer": "Ngày Tết âm lịch ở Việt Nam có nguồn gốc từ văn hóa Hán, khi Trung Quốc thời nhà Hạ đã chọn tháng 11 âm lịch làm ngày đầu năm, sau đó đến đời Hán mới chuyển sang ngày đầu năm như hiện nay."
+  },
+  {
+    "id": "VH_427",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ý nghĩa của ngày Tết trong văn hóa Việt Nam.",
+    "question": "Ngày Tết mang ý nghĩa gì đối với gia đình người Việt?",
+    "answer": "Ngày Tết là dịp để gia đình người Việt đoàn tụ, thăm mộ, thờ cúng tổ tiên, kết nối với họ hàng và làng xóm."
+  },
+  {
+    "id": "VH_428",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong tục chuẩn bị Tết của người Việt.",
+    "question": "Người Việt thường bắt đầu chuẩn bị cho ngày Tết vào thời điểm nào?",
+    "answer": "Người Việt thường bắt đầu chuẩn bị Tết từ tháng Chạp, đặc biệt từ ngày 23 tháng Chạp với lễ tiễn ông Táo về trời."
+  },
+  {
+    "id": "VH_429",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm văn hóa vùng miền trong ngày Tết Việt Nam.",
+    "question": "Sự khác biệt về văn hóa vùng miền trong ngày Tết ở Việt Nam được thể hiện qua những loại hoa và bánh nào?",
+    "answer": "Miền Bắc thường chơi hoa đào và làm bánh chưng, trong khi miền Trung và miền Nam chơi mai vàng và làm bánh tét."
+  },
+  {
+    "id": "VH_430",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong tục ngày 23 tháng Chạp trong văn hóa Tết Việt Nam.",
+    "question": "Người Việt thường làm gì vào ngày 23 tháng Chạp trong dịp Tết?",
+    "answer": "Vào ngày 23 tháng Chạp, người Việt tiễn ông Táo về trời, đi chợ Tết để sắm sửa, chuẩn bị giết lợn, gói bánh chưng hoặc bánh tét, và cả gia đình thường tụ họp để cúng ông Táo."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1711",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa Công giáo và văn hóa Việt Nam.",
+    "question": "Điều gì khiến Công giáo gặp khó khăn trong việc hòa nhập với xã hội Việt Nam truyền thống?",
+    "answer": "Công giáo gặp khó khăn vì trái ngược với tâm thức thờ cúng tổ tiên, quan hệ làng xã và gia đình của người Việt Nam."
+  },
+  {
+    "id": "VH_1712",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử tôn giáo và chính trị Việt Nam.",
+    "question": "Quân Pháp đã thực hiện hành động gì để thúc đẩy sự phát triển của đạo Thiên Chúa tại Việt Nam?",
+    "answer": "Quân Pháp đã ra sức ủng hộ đạo Thiên Chúa để thúc đẩy sự phát triển của tôn giáo này tại Việt Nam."
+  },
+  {
+    "id": "VH_1713",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Người dân Việt Nam đã phản ứng ra sao trước nỗ lực của quân Pháp trong việc lôi kéo họ theo Công giáo?",
+    "answer": "Người dân Việt Nam không bỏ nước để theo quân Pháp, và số người theo Công giáo không tăng lên đáng kể."
+  },
+  {
+    "id": "VH_1714",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa Công giáo và lòng yêu nước ở Việt Nam.",
+    "question": "Công giáo Việt Nam có quan điểm như thế nào về lòng yêu nước?",
+    "answer": "Công giáo Việt Nam cho rằng yêu nước đi đôi với kính Chúa, tức là người Việt Nam vẫn đặt lòng yêu nước lên trước khi là tín đồ Công giáo."
+  },
+  {
+    "id": "VH_1715",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của chính trị đối với tôn giáo tại Việt Nam.",
+    "question": "Vì sao nhiều người Việt Nam phải chuyển sang theo Công giáo trong thời kỳ Mỹ - Diệm?",
+    "answer": "Nhiều người phải theo Công giáo trong thời kỳ Mỹ - Diệm để đảm bảo an toàn và ổn định cuộc sống do chế độ thân Công giáo."
+  }
+]

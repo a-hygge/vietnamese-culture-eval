@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1651",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật lao động Việt Nam.",
+    "question": "Người lao động phải báo trước bao nhiêu ngày khi đơn phương chấm dứt hợp đồng lao động xác định thời hạn?",
+    "answer": "Người lao động phải báo trước ít nhất 30 ngày khi đơn phương chấm dứt hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": "PL_1652",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật lao động Việt Nam.",
+    "question": "Thời gian báo trước tối thiểu là bao lâu đối với hợp đồng lao động theo mùa vụ hoặc công việc dưới 12 tháng?",
+    "answer": "Thời gian báo trước tối thiểu là ít nhất 03 ngày làm việc đối với hợp đồng lao động theo mùa vụ hoặc công việc dưới 12 tháng."
+  },
+  {
+    "id": "PL_1653",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người lao động khi chấm dứt hợp đồng lao động.",
+    "question": "Người lao động cần thực hiện nghĩa vụ gì khi đơn phương chấm dứt hợp đồng lao động?",
+    "answer": "Người lao động cần báo trước cho người sử dụng lao động theo thời gian quy định của pháp luật."
+  },
+  {
+    "id": "PL_1654",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật lao động Việt Nam.",
+    "question": "Thời gian báo trước tối thiểu là bao nhiêu ngày làm việc trong các trường hợp đặc biệt như sức khỏe không đảm bảo hoặc bị ngược đãi?",
+    "answer": "Người lao động phải báo trước ít nhất 3 ngày làm việc trong các trường hợp đặc biệt như sức khỏe không đảm bảo hoặc bị ngược đãi."
+  },
+  {
+    "id": "PL_1655",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật lao động Việt Nam.",
+    "question": "Thời gian báo trước khi chấm dứt hợp đồng lao động có phụ thuộc vào loại hợp đồng lao động không? Nếu có, hãy nêu ví dụ.",
+    "answer": "Có, thời gian báo trước phụ thuộc vào loại hợp đồng lao động. Ví dụ, hợp đồng xác định thời hạn cần báo trước ít nhất 30 ngày, còn hợp đồng theo mùa vụ hoặc công việc dưới 12 tháng cần báo trước ít nhất 03 ngày làm việc."
+  }
+]

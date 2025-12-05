@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1311",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mục đích sở hữu của tổ chức xã hội - nghề nghiệp.",
+    "question": "Mục đích của việc xác định sở hữu trong tổ chức xã hội - nghề nghiệp là gì?",
+    "answer": "Mục đích là để thực hiện mục tiêu chung của các thành viên được quy định trong điều lệ của tổ chức."
+  },
+  {
+    "id": "PL_1312",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời điểm xác lập quyền sở hữu tài sản.",
+    "question": "Khi nào quyền sở hữu tài sản được xác lập đối với tài sản có được từ lao động hoặc hoạt động kinh doanh hợp pháp?",
+    "answer": "Quyền sở hữu tài sản được xác lập từ thời điểm người sở hữu có được tài sản đó."
+  },
+  {
+    "id": "PL_1313",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ sở xác lập quyền sở hữu tài sản theo thỏa thuận.",
+    "question": "Quyền sở hữu tài sản theo thỏa thuận được xác lập dựa trên yếu tố nào?",
+    "answer": "Quyền sở hữu tài sản theo thỏa thuận được xác lập dựa trên sự đồng ý giữa các bên liên quan."
+  },
+  {
+    "id": "PL_1314",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sở hữu của tổ chức chính trị xã hội.",
+    "question": "Sở hữu của tổ chức chính trị xã hội nhằm phục vụ mục đích gì?",
+    "answer": "Sở hữu của tổ chức chính trị xã hội nhằm thực hiện mục tiêu chung của các thành viên trong tổ chức."
+  },
+  {
+    "id": "PL_1315",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản từ hoạt động kinh doanh hợp pháp.",
+    "question": "Người thực hiện hoạt động kinh doanh hợp pháp có quyền sở hữu tài sản từ thời điểm nào?",
+    "answer": "Người thực hiện hoạt động kinh doanh hợp pháp có quyền sở hữu tài sản từ thời điểm họ có được tài sản đó."
+  }
+]

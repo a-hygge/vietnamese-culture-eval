@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_676",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách xã hội của Nhà nước Việt Nam.",
+    "question": "Nhà nước có chính sách gì để đảm bảo mọi người dân có chỗ ở?",
+    "answer": "Nhà nước có chính sách phát triển nhà ở và tạo điều kiện để mọi người dân có chỗ ở."
+  },
+  {
+    "id": "PL_677",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách phát triển văn hóa của Nhà nước Việt Nam.",
+    "question": "Nhà nước và xã hội có trách nhiệm gì trong việc xây dựng và phát triển nền văn hóa Việt Nam?",
+    "answer": "Nhà nước và xã hội chăm lo xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu tinh hoa văn hóa nhân loại."
+  },
+  {
+    "id": "PL_678",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách giáo dục của Nhà nước Việt Nam.",
+    "question": "Giáo dục tiểu học ở Việt Nam có đặc điểm gì theo chính sách của Nhà nước?",
+    "answer": "Giáo dục tiểu học là bắt buộc, Nhà nước không thu học phí."
+  },
+  {
+    "id": "PL_679",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền học tập của người khuyết tật và người nghèo.",
+    "question": "Nhà nước tạo điều kiện gì để người khuyết tật và người nghèo được học tập?",
+    "answer": "Nhà nước tạo điều kiện để người khuyết tật và người nghèo được học văn hóa và học nghề."
+  },
+  {
+    "id": "PL_680",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách phát triển con người Việt Nam.",
+    "question": "Nhà nước và xã hội hướng đến mục tiêu xây dựng con người Việt Nam như thế nào?",
+    "answer": "Nhà nước và xã hội hướng đến mục tiêu xây dựng con người Việt Nam có sức khỏe, văn hóa, giàu lòng yêu nước, có tinh thần đoàn kết, ý thức làm chủ và trách nhiệm công dân."
+  }
+]

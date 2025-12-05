@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_006",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguồn gốc của Nhà nước.",
+    "question": "Nguồn gốc của Nhà nước được hình thành từ đâu?",
+    "answer": "Nguồn gốc của Nhà nước được hình thành từ sự phát triển của xã hội loài người, khi xuất hiện các mâu thuẫn về lợi ích và nhu cầu quản lý xã hội một cách có tổ chức."
+  },
+  {
+    "id": "PL_007",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bản chất của Nhà nước.",
+    "question": "Bản chất của Nhà nước được thể hiện như thế nào?",
+    "answer": "Bản chất của Nhà nước thể hiện ở việc nó là công cụ của một giai cấp nhất định để thực hiện quyền lực và quản lý xã hội theo lợi ích của giai cấp đó."
+  },
+  {
+    "id": "PL_008",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Nhà nước.",
+    "question": "Chức năng của Nhà nước bao gồm những nội dung gì?",
+    "answer": "Chức năng của Nhà nước bao gồm quản lý xã hội, bảo vệ trật tự công cộng, thực hiện các chính sách kinh tế, văn hóa, xã hội và đảm bảo an ninh quốc gia."
+  },
+  {
+    "id": "PL_009",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức Nhà nước.",
+    "question": "Hình thức Nhà nước được phân loại dựa trên những yếu tố nào?",
+    "answer": "Hình thức Nhà nước được phân loại dựa trên các yếu tố như hình thức chính thể, cấu trúc nhà nước và chế độ chính trị."
+  },
+  {
+    "id": "PL_010",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các thuộc tính của pháp luật.",
+    "question": "Các thuộc tính của pháp luật gồm những đặc điểm nào?",
+    "answer": "Các thuộc tính của pháp luật bao gồm tính quy phạm phổ biến, tính quyền lực bắt buộc và tính xác định về hình thức."
+  }
+]

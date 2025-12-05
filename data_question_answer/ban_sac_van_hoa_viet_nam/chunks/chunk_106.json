@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_526",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chiến thuật quân sự trong lịch sử Việt Nam.",
+    "question": "Chiến thuật chủ yếu của quân đội Việt Nam trong lịch sử là gì?",
+    "answer": "Chiến thuật chủ yếu của quân đội Việt Nam là không chấp nhận cách chiến đấu mà đối phương mong đợi, buộc đối phương phải đánh theo lối đánh bất ngờ và luôn bị động."
+  },
+  {
+    "id": "VH_527",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của chiến thuật tiêu diệt trong lịch sử quân sự Việt Nam.",
+    "question": "Tại sao chiến thuật đánh tiêu diệt được xem là then chốt trong chiến tranh của Việt Nam?",
+    "answer": "Chiến thuật đánh tiêu diệt được xem là then chốt vì nó giúp xoay chuyển tình thế, thay đổi tương quan lực lượng, giải phóng đất đai và tiêu diệt ý chí xâm lược của đối phương."
+  },
+  {
+    "id": "VH_528",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các trận đánh lịch sử của Việt Nam.",
+    "question": "Những trận đánh tiêu diệt nổi tiếng trong lịch sử Việt Nam là gì?",
+    "answer": "Những trận đánh tiêu diệt nổi tiếng bao gồm Bạch Đằng, Chi Lăng, Xương Giang, Thăng Long, Đông Khê, và Điện Biên Phủ."
+  },
+  {
+    "id": "VH_529",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chiến dịch giải phóng Biên giới 1950 của Việt Nam.",
+    "question": "Quân đội Việt Nam đã đạt được thành tựu gì trong chiến dịch giải phóng Biên giới 1950 sau khi tiêu diệt vị trí Đông Khê?",
+    "answer": "Sau khi tiêu diệt vị trí Đông Khê, quân đội Việt Nam đã tiếp tục tiêu diệt hai binh đoàn Lơ-pa và Sác-tông, giải phóng toàn bộ đường số 4 từ Cao Bằng đến Tiên Yên, Móng Cái."
+  },
+  {
+    "id": "VH_530",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ý nghĩa của chiến thắng Điện Biên Phủ trong lịch sử Việt Nam.",
+    "question": "Chiến thắng Điện Biên Phủ năm 1954 có ý nghĩa như thế nào đối với Việt Nam?",
+    "answer": "Chiến thắng Điện Biên Phủ giúp quân đội Việt Nam giải phóng một nửa đất nước, trong đó Hà Nội và Hải Phòng được giải phóng mà không tốn một viên đạn và không bị tàn phá."
+  }
+]

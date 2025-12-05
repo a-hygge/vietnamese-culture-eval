@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_016",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Trung Quốc liên quan đến tìm kiếm thuốc trường sinh.",
+    "question": "Tần Thủy Hoàng đã giao nhiệm vụ gì cho Từ Phúc để tìm thuốc trường sinh?",
+    "answer": "Tần Thủy Hoàng đã giao cho Từ Phúc nhiệm vụ dẫn ba ngàn con trai con gái chưa lập gia đình đến đảo Bồng Lai để tìm thuốc trường sinh, nhưng không ai trở về."
+  },
+  {
+    "id": "VH_017",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng và tín ngưỡng trong triều đại nhà Hán.",
+    "question": "Thuyết Hoàng Lão trong triều đại nhà Hán nhấn mạnh điều gì?",
+    "answer": "Thuyết Hoàng Lão nhấn mạnh tư tưởng thành tĩnh - vô vi, tức là nhà vua không can thiệp vào công việc của dân và tìm kiếm sự bất tử."
+  },
+  {
+    "id": "VH_018",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phát triển tôn giáo trong lịch sử Trung Quốc.",
+    "question": "Phật giáo bắt đầu được du nhập vào Trung Quốc vào thời điểm nào?",
+    "answer": "Phật giáo bắt đầu được du nhập vào Trung Quốc vào khoảng năm 67 sau Công nguyên từ Ấn Độ."
+  },
+  {
+    "id": "VH_019",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự hình thành Đạo giáo trong lịch sử Trung Quốc.",
+    "question": "Đạo giáo được hình thành từ phong trào nào trong lịch sử Trung Quốc?",
+    "answer": "Đạo giáo được hình thành từ phong trào 'Đạo năm đấu gạo' và 'Thái bình đạo'."
+  },
+  {
+    "id": "VH_020",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đóng góp của Trương Đạo Lăng trong sự phát triển Đạo giáo.",
+    "question": "Trương Đạo Lăng đã làm gì để sáng lập phái 'Năm đấu gạo' trong Đạo giáo?",
+    "answer": "Trương Đạo Lăng đã sáng lập phái 'Năm đấu gạo' tại Tứ Xuyên, viết các đạo thư và tự xưng là Thái Thanh Huyền Nguyên."
+  }
+]

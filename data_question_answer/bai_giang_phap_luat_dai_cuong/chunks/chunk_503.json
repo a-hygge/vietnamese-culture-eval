@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1811",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_503.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản.",
+    "question": "Ai có trách nhiệm nộp đơn yêu cầu mở thủ tục phá sản?",
+    "answer": "Người đại diện theo pháp luật của doanh nghiệp, hợp tác xã; chủ doanh nghiệp tư nhân; chủ tịch Hội đồng quản trị của công ty cổ phần; chủ tịch Hội đồng thành viên của công ty TNHH hai thành viên trở lên; chủ sở hữu công ty TNHH một thành viên; thành viên hợp danh của công ty hợp danh."
+  },
+  {
+    "id": "PL_1812",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_503.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự giải quyết phá sản.",
+    "question": "Trình tự giải quyết phá sản gồm những bước nào?",
+    "answer": "Trình tự giải quyết phá sản bao gồm: nộp đơn yêu cầu và mở thủ tục phá sản; phục hồi hoạt động kinh doanh; thanh lý tài sản, các khoản nợ; tuyên bố doanh nghiệp, hợp tác xã bị phá sản."
+  },
+  {
+    "id": "PL_1813",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_503.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng áp dụng thủ tục phá sản.",
+    "question": "Thủ tục phá sản áp dụng cho những đối tượng nào?",
+    "answer": "Thủ tục phá sản áp dụng cho doanh nghiệp và hợp tác xã lâm vào tình trạng phá sản."
+  },
+  {
+    "id": "PL_1814",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_503.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Thẩm phán trong thủ tục phá sản.",
+    "question": "Thẩm phán có quyền quyết định gì sau khi mở thủ tục phá sản?",
+    "answer": "Thẩm phán quyết định áp dụng một trong hai thủ tục theo quy định cụ thể của Luật phá sản năm 2014."
+  },
+  {
+    "id": "PL_1815",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_503.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các giai đoạn trong thủ tục phá sản.",
+    "question": "Thủ tục phá sản bao gồm những giai đoạn chính nào?",
+    "answer": "Thủ tục phá sản bao gồm các giai đoạn: nộp đơn yêu cầu và mở thủ tục phá sản; phục hồi hoạt động kinh doanh; thanh lý tài sản, các khoản nợ; tuyên bố doanh nghiệp, hợp tác xã bị phá sản."
+  }
+]

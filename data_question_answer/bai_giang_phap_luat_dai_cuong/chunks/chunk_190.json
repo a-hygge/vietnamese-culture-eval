@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_946",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ và trách nhiệm của viên chức.",
+    "question": "Viên chức có được phép thoái thác công việc hoặc nhiệm vụ được giao không?",
+    "answer": "Không, viên chức không được phép thoái thác công việc hoặc nhiệm vụ được giao."
+  },
+  {
+    "id": "PL_947",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi bị cấm đối với viên chức.",
+    "question": "Viên chức có được phép tham gia đình công không?",
+    "answer": "Không, viên chức không được phép tham gia đình công."
+  },
+  {
+    "id": "PL_948",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định đạo đức nghề nghiệp của viên chức.",
+    "question": "Viên chức có được phép gây bè phái, mất đoàn kết trong cơ quan không?",
+    "answer": "Không, viên chức không được phép gây bè phái, mất đoàn kết trong cơ quan."
+  },
+  {
+    "id": "PL_949",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi trốn tránh trách nhiệm của viên chức.",
+    "question": "Viên chức có được phép trốn tránh trách nhiệm trong công việc không?",
+    "answer": "Không, viên chức không được phép trốn tránh trách nhiệm trong công việc."
+  },
+  {
+    "id": "PL_950",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi tự ý bỏ việc của viên chức.",
+    "question": "Viên chức có được phép tự ý bỏ việc không?",
+    "answer": "Không, viên chức không được phép tự ý bỏ việc."
+  }
+]

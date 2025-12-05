@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2031",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của cán bộ trong văn hóa cách mạng Việt Nam.",
+    "question": "Nhân dân đánh giá cán bộ cách mạng dựa trên những tiêu chuẩn nào?",
+    "answer": "Nhân dân đánh giá cán bộ cách mạng dựa trên tiêu chuẩn nhân cách cách mạng, bao gồm việc họ là những người gương mẫu và đồng thời là đầy tớ của nhân dân."
+  },
+  {
+    "id": "VH_2032",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phẩm chất của cán bộ theo lời dạy của Hồ Chí Minh.",
+    "question": "Hồ Chí Minh nhấn mạnh những phẩm chất nào cần thiết đối với cán bộ cách mạng?",
+    "answer": "Hồ Chí Minh nhấn mạnh các phẩm chất như vui trước sướng sau, chí công vô tư, Kiệm, Liêm, Chính đối với cán bộ cách mạng."
+  },
+  {
+    "id": "VH_2033",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm của Hồ Chí Minh về văn hóa.",
+    "question": "Hồ Chí Minh nhấn mạnh điều gì thay vì tập trung vào văn hóa của giai cấp?",
+    "answer": "Hồ Chí Minh nhấn mạnh những giá trị bất biến trong mọi xã hội, như Kiệm, Liêm, Chính, và khẳng định rằng con người không có những phẩm chất này thì không phải là người."
+  },
+  {
+    "id": "VH_2034",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị của văn hóa truyền thống Việt Nam.",
+    "question": "Những giá trị nào thể hiện chỗ mạnh của văn hóa truyền thống Việt Nam?",
+    "answer": "Chỗ mạnh của văn hóa truyền thống Việt Nam thể hiện qua truyền thống yêu nước, giữ nước, và sự quan tâm đùm bọc lẫn nhau trong khó khăn, nghèo khổ."
+  },
+  {
+    "id": "VH_2035",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt trong cách nhìn nhận văn hóa truyền thống.",
+    "question": "Hồ Chí Minh có đồng tình với quan điểm chỉ trích văn hóa truyền thống là hoàn toàn phản động không?",
+    "answer": "Hồ Chí Minh không đồng tình với quan điểm này và đánh giá cao những giá trị bất biến của văn hóa truyền thống như Kiệm, Liêm, Chính."
+  }
+]

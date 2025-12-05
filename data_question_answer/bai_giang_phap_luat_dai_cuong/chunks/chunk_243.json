@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1211",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Người có khó khăn trong nhận thức, làm chủ hành vi được định nghĩa như thế nào theo pháp luật Việt Nam?",
+    "answer": "Người có khó khăn trong nhận thức, làm chủ hành vi là người thành niên do tình trạng thể chất hoặc tinh thần mà không đủ khả năng nhận thức, làm chủ hành vi nhưng chưa đến mức mất năng lực hành vi dân sự."
+  },
+  {
+    "id": "PL_1212",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự.",
+    "question": "Ai có quyền yêu cầu Tòa án tuyên bố một người là người có khó khăn trong nhận thức, làm chủ hành vi?",
+    "answer": "Người có khó khăn trong nhận thức, làm chủ hành vi, người có quyền, lợi ích liên quan hoặc cơ quan, tổ chức hữu quan có thể yêu cầu Tòa án tuyên bố."
+  },
+  {
+    "id": "PL_1213",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Tòa án trong luật dân sự.",
+    "question": "Tòa án có vai trò gì trong việc xác định người có khó khăn trong nhận thức, làm chủ hành vi?",
+    "answer": "Tòa án có vai trò ra quyết định tuyên bố một người là người có khó khăn trong nhận thức, làm chủ hành vi dựa trên kết luận giám định pháp y tâm thần, đồng thời chỉ định người giám hộ và xác định quyền, nghĩa vụ của người giám hộ."
+  },
+  {
+    "id": "PL_1214",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của người giám hộ.",
+    "question": "Pháp luật quy định gì về quyền và nghĩa vụ của người giám hộ đối với người có khó khăn trong nhận thức, làm chủ hành vi?",
+    "answer": "Quyền và nghĩa vụ của người giám hộ được xác định bởi Tòa án khi chỉ định người giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi."
+  },
+  {
+    "id": "PL_1215",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến giám định pháp y.",
+    "question": "Kết luận giám định pháp y tâm thần có vai trò như thế nào trong việc tuyên bố một người là người có khó khăn trong nhận thức, làm chủ hành vi?",
+    "answer": "Kết luận giám định pháp y tâm thần là căn cứ để Tòa án ra quyết định tuyên bố một người là người có khó khăn trong nhận thức, làm chủ hành vi."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2011",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của gia đình trong xã hội Việt Nam.",
+    "question": "Gia đình có vai trò gì trong việc hình thành nhân cách của mỗi cá nhân ở Việt Nam?",
+    "answer": "Gia đình đóng vai trò quan trọng trong việc xây dựng nhân cách, phẩm chất và đạo đức của mỗi cá nhân ở Việt Nam."
+  },
+  {
+    "id": "VH_2012",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan niệm của người Việt Nam khi qua đời.",
+    "question": "Người Việt Nam coi điều gì là quan trọng nhất để lại sau khi qua đời?",
+    "answer": "Người Việt Nam coi việc để lại tiếng thơm và danh tiếng tốt cho con cháu là điều quan trọng nhất sau khi qua đời."
+  },
+  {
+    "id": "VH_2013",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách đặt tên vua trong lịch sử Việt Nam.",
+    "question": "Tên của các vị vua Việt Nam sau khi qua đời được đặt dựa trên tiêu chí nào?",
+    "answer": "Tên của các vị vua Việt Nam sau khi qua đời được đặt dựa trên cách cai trị của họ, thường phản ánh công lao và niên hiệu trong lịch sử."
+  },
+  {
+    "id": "VH_2014",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ý nghĩa của bài vị trong văn hóa thờ cúng Việt Nam.",
+    "question": "Hiệu bụt trên bài vị của người Việt có ý nghĩa gì?",
+    "answer": "Hiệu bụt trên bài vị của người Việt thể hiện phẩm chất hoặc công đức của người đã khuất, được gia đình và cộng đồng tôn kính."
+  },
+  {
+    "id": "VH_2015",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ý nghĩa của gia phả trong văn hóa Việt Nam.",
+    "question": "Việc ghi tên hiệu vào gia phả có ý nghĩa gì trong đời sống văn hóa của người Việt?",
+    "answer": "Việc ghi tên hiệu vào gia phả giúp lưu giữ và tôn vinh nhân cách, phẩm chất của tổ tiên, thể hiện sự kính trọng đối với cội nguồn."
+  }
+]

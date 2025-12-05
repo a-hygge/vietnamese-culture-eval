@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1076",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phát triển ngôn ngữ Việt Nam.",
+    "question": "Giới từ trong tiếng Việt cổ được sử dụng ra sao?",
+    "answer": "Trong tiếng Việt cổ, giới từ đã được sử dụng nhưng không mang tính công cụ như hiện nay và chỉ xuất hiện trong một số trường hợp ngoại lệ."
+  },
+  {
+    "id": "VH_1077",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ngữ pháp tiếng Việt hiện đại.",
+    "question": "Mạo từ 'các' có vai trò gì trong ngữ pháp tiếng Việt?",
+    "answer": "Mạo từ 'các' trong tiếng Việt được sử dụng như một công cụ ngữ pháp thực sự, tương tự như từ 'les' trong tiếng Pháp, và thường đứng trước danh từ."
+  },
+  {
+    "id": "VH_1078",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của tiếng Pháp đối với tiếng Việt.",
+    "question": "Tiếng Pháp đã tác động như thế nào đến ngữ pháp tiếng Việt?",
+    "answer": "Tiếng Pháp đã tác động đến ngữ pháp tiếng Việt bằng cách du nhập các cụm từ như 'không những... mà còn', 'một khi', 'trên cơ sở', giúp tạo ra các cấu trúc ngữ pháp mới."
+  },
+  {
+    "id": "VH_1079",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ngôn ngữ tư duy khoa học trong tiếng Việt.",
+    "question": "Ngôn ngữ cần có yếu tố gì để trở thành công cụ cho tư duy khoa học?",
+    "answer": "Ngôn ngữ cần có đủ các cấu trúc ngữ pháp chặt chẽ để hỗ trợ tư duy suy luận và khoa học."
+  },
+  {
+    "id": "VH_1080",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự rõ ràng trong cách sử dụng từ ngữ tiếng Việt.",
+    "question": "Người Việt hiện nay làm gì để tránh sự nhập nhằng khi sử dụng từ 'anh em'?",
+    "answer": "Người Việt hiện nay sử dụng các cụm từ như 'anh của em', 'anh và em', 'các anh em' để làm rõ nghĩa và tránh sự nhập nhằng khi dùng từ 'anh em'."
+  }
+]

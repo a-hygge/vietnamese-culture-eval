@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_761",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Chủ tịch nước theo Hiến pháp Việt Nam.",
+    "question": "Chủ tịch nước có quyền yêu cầu Chính phủ thực hiện nhiệm vụ gì?",
+    "answer": "Chủ tịch nước có quyền yêu cầu Chính phủ họp bàn về vấn đề mà Chủ tịch nước xét thấy cần thiết để thực hiện nhiệm vụ và quyền hạn của mình."
+  },
+  {
+    "id": "PL_762",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Phó Chủ tịch nước theo Hiến pháp Việt Nam.",
+    "question": "Phó Chủ tịch nước được giao nhiệm vụ gì khi Chủ tịch nước không làm việc được trong thời gian dài?",
+    "answer": "Khi Chủ tịch nước không làm việc được trong thời gian dài, Phó Chủ tịch nước giữ quyền Chủ tịch nước."
+  },
+  {
+    "id": "PL_763",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức của Chính phủ Việt Nam.",
+    "question": "Chính phủ Việt Nam gồm những thành phần nào?",
+    "answer": "Chính phủ Việt Nam gồm Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+    "id": "PL_764",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa Chính phủ và Quốc hội theo Hiến pháp Việt Nam.",
+    "question": "Chính phủ chịu trách nhiệm và báo cáo công tác trước những cơ quan nào?",
+    "answer": "Chính phủ chịu trách nhiệm trước Quốc hội và báo cáo công tác trước Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước."
+  },
+  {
+    "id": "PL_765",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lực hành pháp tại Việt Nam.",
+    "question": "Chính phủ Việt Nam thực hiện quyền lực gì trong hệ thống nhà nước?",
+    "answer": "Chính phủ Việt Nam thực hiện quyền hành pháp và là cơ quan hành chính nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+  }
+]

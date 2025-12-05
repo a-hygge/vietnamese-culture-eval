@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_201",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Hai tôn giáo lớn nào đã ra đời ở Nam Bộ và thu hút đông đảo tín đồ?",
+    "answer": "Hai tôn giáo lớn đã ra đời ở Nam Bộ và thu hút đông đảo tín đồ là Cao Đài và Hòa Hảo."
+  },
+  {
+    "id": "VH_202",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa vùng miền Việt Nam.",
+    "question": "Người nông dân Nam Bộ gặp những khó khăn gì trong tổ chức làng xã so với nông dân Bắc Bộ?",
+    "answer": "Người nông dân Nam Bộ không được chia ruộng công, tổ chức làng xã bị thực dân xáo trộn và không có truyền thống văn hóa làng để tạo sự gắn bó, dẫn đến thua thiệt so với nông dân Bắc Bộ."
+  },
+  {
+    "id": "VH_203",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguyên nhân hình thành tôn giáo ở Nam Bộ.",
+    "question": "Những yếu tố nào trong đời sống của người nông dân Nam Bộ đã dẫn đến sự xuất hiện của các tôn giáo như Cao Đài và Hòa Hảo?",
+    "answer": "Những yếu tố như sự thua thiệt về thân phận, không được chia ruộng công, làng xã bị xáo trộn và không có truyền thống văn hóa làng đã tạo nên cảm giác hẫng hụt và nhu cầu đoàn kết mới, từ đó dẫn đến sự xuất hiện của các tôn giáo như Cao Đài và Hòa Hảo."
+  },
+  {
+    "id": "VH_204",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của tôn giáo trong đời sống người dân Nam Bộ.",
+    "question": "Tôn giáo ở Nam Bộ có vai trò gì trong việc hỗ trợ đời sống người dân nông thôn?",
+    "answer": "Tôn giáo ở Nam Bộ có vai trò tạo nên sự đoàn kết mới, giúp người dân che chở, nâng đỡ nhau trong bối cảnh xã hội bị xáo trộn và thiếu sự bảo vệ từ tổ chức làng xã."
+  },
+  {
+    "id": "VH_205",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm văn hóa Nam Bộ.",
+    "question": "Tại sao người dân Nam Bộ không có truyền thống văn hóa làng lâu đời như ở Bắc Bộ?",
+    "answer": "Người dân Nam Bộ không có truyền thống văn hóa làng lâu đời vì tổ chức làng xã ở đây vừa mới lập đã bị thực dân xáo trộn, không đủ sức mạnh bảo vệ dân làng và không có thời gian hình thành truyền thống văn hóa làng như ở Bắc Bộ."
+  }
+]

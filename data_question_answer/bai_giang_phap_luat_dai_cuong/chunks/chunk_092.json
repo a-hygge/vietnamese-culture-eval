@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_456",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quan hệ pháp luật.",
+    "question": "Quan hệ pháp luật xuất hiện dựa trên yếu tố nào?",
+    "answer": "Quan hệ pháp luật xuất hiện trên cơ sở sự điều chỉnh của quy phạm pháp luật đối với các quan hệ xã hội tương ứng."
+  },
+  {
+    "id": "PL_457",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của quan hệ pháp luật.",
+    "question": "Những đặc điểm chính của quan hệ pháp luật là gì?",
+    "answer": "Quan hệ pháp luật mang các đặc điểm như: tính ý chí, là một loại quan hệ tư tưởng thuộc kiến trúc thượng tầng xã hội, xuất hiện trên cơ sở quy phạm pháp luật, các bên tham gia mang những quyền và nghĩa vụ pháp lý được quy phạm pháp luật dự kiến trước, được bảo đảm thực hiện bằng nhà nước, và mang tính xác định cụ thể."
+  },
+  {
+    "id": "PL_458",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện hình thành quan hệ pháp luật.",
+    "question": "Những điều kiện cần thiết để hình thành quan hệ pháp luật là gì?",
+    "answer": "Quan hệ pháp luật hình thành khi có đồng thời ba điều kiện: có một quy phạm pháp luật nhất định đã được ban hành, tồn tại những chủ thể xác định cụ thể, và xuất hiện những sự kiện pháp lý cụ thể được dự kiến trong phần giả định của quy phạm pháp luật."
+  },
+  {
+    "id": "PL_459",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của chủ thể trong quan hệ pháp luật.",
+    "question": "Các chủ thể trong quan hệ pháp luật có quyền và nghĩa vụ như thế nào?",
+    "answer": "Các chủ thể tham gia quan hệ pháp luật mang những quyền và nghĩa vụ pháp lý được quy phạm pháp luật quy định trước."
+  },
+  {
+    "id": "PL_460",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nhà nước trong thực hiện quan hệ pháp luật.",
+    "question": "Nhà nước đóng vai trò gì trong việc thực hiện quan hệ pháp luật?",
+    "answer": "Nhà nước bảo đảm thực hiện quan hệ pháp luật bằng cách đảm bảo các quyền và nghĩa vụ pháp lý của các chủ thể được thực hiện đúng theo quy phạm pháp luật."
+  }
+]

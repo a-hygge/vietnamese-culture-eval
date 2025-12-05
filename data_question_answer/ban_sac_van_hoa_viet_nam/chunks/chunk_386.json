@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1926",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của làng xã trong xã hội Việt Nam.",
+    "question": "Làng xã đóng vai trò gì trong việc xác định vị trí của người dân trong xã hội?",
+    "answer": "Làng xã giúp người dân xác định thân phận cụ thể và vị trí của họ trong xã hội."
+  },
+  {
+    "id": "VH_1927",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của nông thôn trong lịch sử cách mạng Việt Nam.",
+    "question": "Vì sao nông thôn Việt Nam trở thành nền tảng quan trọng cho các phong trào cách mạng?",
+    "answer": "Nông thôn Việt Nam trở thành nền tảng quan trọng cho các phong trào cách mạng vì sự áp bức và vi phạm của thực dân đã thúc đẩy người dân phản kháng và tham gia đấu tranh."
+  },
+  {
+    "id": "VH_1928",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách người dân nông thôn Việt Nam xử lý các vấn đề của họ.",
+    "question": "Người dân nông thôn Việt Nam thường sử dụng cách tiếp cận nào để giải quyết các vấn đề trong cuộc sống?",
+    "answer": "Người dân nông thôn Việt Nam thường sử dụng quan điểm cá nhân để giải quyết các vấn đề trong cuộc sống."
+  },
+  {
+    "id": "VH_1929",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự hiểu biết của thực dân đối với văn hóa Việt Nam.",
+    "question": "Tại sao thực dân Pháp và Mỹ không thể hiểu đúng văn hóa Việt Nam?",
+    "answer": "Thực dân Pháp và Mỹ không thể hiểu đúng văn hóa Việt Nam vì họ không có ý định tìm hiểu sâu sắc văn hóa này."
+  },
+  {
+    "id": "VH_1930",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tác động của sự áp bức thực dân đối với người dân nông thôn Việt Nam.",
+    "question": "Sự áp bức của thực dân đã ảnh hưởng như thế nào đến tinh thần phản kháng của người dân nông thôn Việt Nam?",
+    "answer": "Sự áp bức của thực dân đã khơi dậy tinh thần phản kháng của người dân nông thôn, biến họ thành lực lượng nòng cốt trong các phong trào cách mạng."
+  }
+]

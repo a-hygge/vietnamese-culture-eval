@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1141",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của giáo dục trong việc nâng cao nhận thức.",
+    "question": "Giáo dục có vai trò gì trong việc nâng cao nhận thức của cộng đồng?",
+    "answer": "Giáo dục giúp cộng đồng hiểu rõ hơn về các vấn đề xã hội, pháp luật và đạo đức, từ đó nâng cao ý thức trách nhiệm và hành động đúng đắn."
+  },
+  {
+    "id": "PL_1142",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tác động của công nghệ đối với đời sống.",
+    "question": "Công nghệ đã ảnh hưởng như thế nào đến đời sống hàng ngày của con người?",
+    "answer": "Công nghệ làm cho cuộc sống tiện lợi hơn, giúp con người kết nối dễ dàng, nhưng cũng gây ra những thách thức như phụ thuộc quá mức và mất cân bằng xã hội."
+  },
+  {
+    "id": "PL_1143",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự thay đổi khí hậu toàn cầu.",
+    "question": "Nguyên nhân chính dẫn đến sự thay đổi khí hậu toàn cầu là gì?",
+    "answer": "Nguyên nhân chính là do hoạt động của con người như đốt nhiên liệu hóa thạch, phá rừng và phát thải khí nhà kính."
+  },
+  {
+    "id": "PL_1144",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về lợi ích của việc đọc sách.",
+    "question": "Đọc sách mang lại những lợi ích gì cho con người?",
+    "answer": "Đọc sách giúp mở rộng kiến thức, rèn luyện tư duy, cải thiện khả năng tập trung và mang lại sự thư giãn tinh thần."
+  },
+  {
+    "id": "PL_1145",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tầm quan trọng của sức khỏe tinh thần.",
+    "question": "Tại sao sức khỏe tinh thần lại quan trọng đối với con người?",
+    "answer": "Sức khỏe tinh thần ảnh hưởng trực tiếp đến chất lượng cuộc sống, khả năng làm việc và các mối quan hệ xã hội của con người."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1791",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_499.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nội dung của giấy chứng nhận phần vốn góp.",
+    "question": "Giấy chứng nhận phần vốn góp phải có những nội dung chủ yếu nào?",
+    "answer": "Giấy chứng nhận phần vốn góp phải có các nội dung: tên, địa chỉ trụ sở chính của công ty; số và ngày cấp Giấy chứng nhận đăng ký kinh doanh; vốn điều lệ của công ty; thông tin cá nhân của thành viên như tên, địa chỉ thường trú, quốc tịch, số Giấy chứng minh nhân dân, Hộ chiếu hoặc chứng thực cá nhân hợp pháp khác; loại thành viên; giá trị phần vốn góp và loại tài sản góp vốn; số và ngày cấp giấy chứng nhận phần vốn góp; quyền và nghĩa vụ của người sở hữu giấy chứng nhận phần vốn góp; họ, tên, chữ ký của người sở hữu và của các thành viên hợp danh của công ty."
+  },
+  {
+    "id": "PL_1792",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_499.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của thành viên sở hữu giấy chứng nhận phần vốn góp.",
+    "question": "Thành viên sở hữu giấy chứng nhận phần vốn góp có những quyền gì?",
+    "answer": "Thành viên sở hữu giấy chứng nhận phần vốn góp có quyền được ghi nhận giá trị phần vốn góp, loại tài sản góp vốn và các quyền lợi liên quan đến sở hữu phần vốn góp theo giấy chứng nhận."
+  },
+  {
+    "id": "PL_1793",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_499.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp giấy chứng nhận phần vốn góp bị mất hoặc hư hỏng.",
+    "question": "Công ty xử lý như thế nào khi giấy chứng nhận phần vốn góp bị mất, bị rách, bị cháy hoặc bị tiêu hủy dưới hình thức khác?",
+    "answer": "Trong trường hợp giấy chứng nhận phần vốn góp bị mất, bị rách, bị cháy hoặc bị tiêu hủy dưới hình thức khác, thành viên sẽ được công ty cấp lại giấy chứng nhận phần vốn góp."
+  },
+  {
+    "id": "PL_1794",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_499.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người sở hữu giấy chứng nhận phần vốn góp.",
+    "question": "Người sở hữu giấy chứng nhận phần vốn góp có những nghĩa vụ gì?",
+    "answer": "Người sở hữu giấy chứng nhận phần vốn góp có nghĩa vụ thực hiện các cam kết về vốn góp, tuân thủ các quy định của công ty và pháp luật liên quan đến phần vốn góp."
+  },
+  {
+    "id": "PL_1795",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_499.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thông tin cá nhân của thành viên trong giấy chứng nhận phần vốn góp.",
+    "question": "Các thông tin cá nhân nào của thành viên được ghi nhận trong giấy chứng nhận phần vốn góp?",
+    "answer": "Thông tin cá nhân của thành viên được ghi nhận gồm: tên, địa chỉ thường trú, quốc tịch, số Giấy chứng minh nhân dân, Hộ chiếu hoặc chứng thực cá nhân hợp pháp khác."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3291",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Bốn thành tố chính trong tâm thức của lớp nhà Nho xưa là gì?",
+    "answer": "Bốn thành tố chính trong tâm thức của lớp nhà Nho xưa bao gồm Tổ quốc, Gia đình - Làng xã, Diện mạo và Thân phận."
+  },
+  {
+    "id": "VH_3292",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa văn hóa truyền thống và hiện đại.",
+    "question": "Những yếu tố nào của văn hóa hiện đại không có trong tâm thức của lớp nhà Nho xưa?",
+    "answer": "Những yếu tố của văn hóa hiện đại không có trong tâm thức của lớp nhà Nho xưa là tính toán nhân loại, tính duy lý, tự do cá nhân và sự quan tâm tới lợi ích vật chất."
+  },
+  {
+    "id": "VH_3293",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phát triển văn học Việt Nam.",
+    "question": "Văn học Pháp đã tác động như thế nào đến tư duy tại Việt Nam?",
+    "answer": "Văn học Pháp đã mang lại sự đổi mới trong tư duy và tâm thức tại Việt Nam."
+  },
+  {
+    "id": "VH_3294",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm văn hóa Nho giáo tại Việt Nam.",
+    "question": "Tâm thức của lớp nhà Nho xưa phản ánh điều gì về giá trị truyền thống?",
+    "answer": "Tâm thức của lớp nhà Nho xưa phản ánh sự gắn bó với các giá trị truyền thống như Tổ quốc, Gia đình - Làng xã, Diện mạo và Thân phận."
+  },
+  {
+    "id": "VH_3295",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa văn hóa truyền thống và văn minh công nghiệp.",
+    "question": "Văn minh công nghiệp mang lại những yếu tố nào mà văn hóa truyền thống không có?",
+    "answer": "Văn minh công nghiệp mang lại những yếu tố như tính toán nhân loại, tính duy lý, tự do cá nhân và sự quan tâm tới lợi ích vật chất, mà văn hóa truyền thống không có."
+  }
+]

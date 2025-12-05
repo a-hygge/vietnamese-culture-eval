@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_991",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử phạt vi phạm hành chính theo pháp luật Việt Nam.",
+    "question": "Khi nào tổ chức bị xử phạt vi phạm hành chính?",
+    "answer": "Tổ chức bị xử phạt vi phạm hành chính khi có hành vi vi phạm quy định pháp luật gây ra bởi chính tổ chức đó."
+  },
+  {
+    "id": "PL_992",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vi phạm hành chính của cá nhân, tổ chức nước ngoài theo pháp luật Việt Nam.",
+    "question": "Cá nhân, tổ chức nước ngoài vi phạm hành chính tại những khu vực nào sẽ bị xử phạt theo pháp luật Việt Nam?",
+    "answer": "Cá nhân, tổ chức nước ngoài vi phạm hành chính trong lãnh thổ, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa của Việt Nam; hoặc trên tàu bay, tàu biển mang quốc tịch Việt Nam sẽ bị xử phạt theo pháp luật Việt Nam, trừ khi điều ước quốc tế mà Việt Nam tham gia có quy định khác."
+  },
+  {
+    "id": "PL_993",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng áp dụng biện pháp xử lý hành chính theo pháp luật Việt Nam.",
+    "question": "Những đối tượng nào có thể bị áp dụng biện pháp xử lý hành chính?",
+    "answer": "Các đối tượng bị áp dụng biện pháp xử lý hành chính bao gồm cá nhân được quy định tại các điều 90, 92, 94 và 96 của Luật xử lý vi phạm hành chính."
+  },
+  {
+    "id": "PL_994",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền xử phạt vi phạm hành chính theo quy định của pháp luật Việt Nam.",
+    "question": "Chính phủ có vai trò gì trong việc quy định thẩm quyền xử phạt vi phạm hành chính?",
+    "answer": "Chính phủ quy định các hành vi vi phạm hành chính, hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả, thẩm quyền xử phạt, mức phạt tiền cụ thể theo từng chức danh, và thẩm quyền lập biên bản đối với vi phạm hành chính trong từng lĩnh vực quản lý nhà nước."
+  },
+  {
+    "id": "PL_995",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm trách nhiệm hành chính trong pháp luật Việt Nam.",
+    "question": "Trách nhiệm hành chính được định nghĩa như thế nào?",
+    "answer": "Trách nhiệm hành chính là một loại trách nhiệm pháp lý được áp dụng trong hoạt động quản lý và hành chính nhà nước theo quy định của luật hành chính."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3171",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Tại sao nghệ thuật phục vụ tôn giáo được coi là cao quý trong văn hóa Việt Nam?",
+    "answer": "Nghệ thuật phục vụ tôn giáo được coi là cao quý vì nó gắn liền với các công trình thiêng liêng như việc tạc tượng Phật và xây dựng chùa chiền, thể hiện sự kính ngưỡng và tâm linh sâu sắc của người Việt."
+  },
+  {
+    "id": "VH_3172",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Người Việt Nam tiếp nhận văn hóa Hán theo cách nào để phù hợp với bản sắc dân tộc?",
+    "answer": "Người Việt Nam có xu hướng thu hẹp văn hóa Hán vào khuôn khổ phù hợp với một nước nhỏ, đặc biệt là trong khuôn khổ làng xã."
+  },
+  {
+    "id": "VH_3173",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng và quan niệm sống của người Việt.",
+    "question": "Người Việt Nam có quan điểm gì về các cuộc tranh luận liên quan đến linh hồn và cuộc sống vĩnh hằng?",
+    "answer": "Người Việt Nam không dành thời gian cho các cuộc tranh luận tư biện về linh hồn, tâm lý, tính khí hay cuộc sống muôn đời, thể hiện sự thực tế trong tư duy và quan niệm sống."
+  },
+  {
+    "id": "VH_3174",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Người Việt Nam được biết đến với điều gì trong lịch sử nhưng không phải là lựa chọn chủ động?",
+    "answer": "Người Việt Nam nổi tiếng về chiến đấu trong lịch sử, nhưng điều này thường mang tính bất đắc dĩ, không phải là lựa chọn chủ động."
+  },
+  {
+    "id": "VH_3175",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa làng xã Việt Nam.",
+    "question": "Văn hóa làng xã đã tác động ra sao đến cách người Việt tiếp thu văn hóa Hán?",
+    "answer": "Văn hóa làng xã đã ảnh hưởng đến việc tiếp thu văn hóa Hán bằng cách thu hẹp và điều chỉnh văn hóa Hán vào khuôn khổ phù hợp với đặc trưng và quy mô của làng xã Việt Nam."
+  }
+]

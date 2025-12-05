@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1991",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn gốc từ ngữ trong văn hóa.",
+    "question": "Từ 'nhân cách' có nguồn gốc từ đâu và ý nghĩa ban đầu của nó là gì?",
+    "answer": "Từ 'nhân cách' bắt nguồn từ chữ 'persona' trong tiếng Latinh, có nghĩa đen là cái mặt nạ diễn viên mang khi đóng kịch."
+  },
+  {
+    "id": "VH_1992",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật tuồng trong văn hóa Việt Nam.",
+    "question": "Trong nghệ thuật tuồng, diễn viên thể hiện vai trò của mình thông qua cách nào?",
+    "answer": "Trong nghệ thuật tuồng, diễn viên bôi mặt theo nhân cách của vai diễn, và nhân cách này không thay đổi trong toàn bộ vở kịch, thể hiện rõ nét vai trò của người trung hay kẻ nịnh."
+  },
+  {
+    "id": "VH_1993",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò trong mối quan hệ gia đình Việt Nam.",
+    "question": "Một người cần thể hiện nhân cách như thế nào trong các mối quan hệ gia đình?",
+    "answer": "Một người cần giữ đúng vai trò của mình trong các mối quan hệ gia đình, như làm cha với con, làm chồng với vợ, làm cháu với ông, thể hiện nhân cách cao thông qua việc thực hiện đúng vai trò."
+  },
+  {
+    "id": "VH_1994",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan niệm tu thân trong văn hóa Việt Nam.",
+    "question": "Vì sao việc tu thân được xem là quan trọng trong văn hóa Việt Nam?",
+    "answer": "Việc tu thân được xem là quan trọng trong văn hóa Việt Nam vì nó nhằm thay đổi xã hội thông qua giáo dục và sự tu dưỡng không ngừng của cá nhân."
+  },
+  {
+    "id": "VH_1995",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tiêu chuẩn đánh giá nhân cách trong xã hội Việt Nam.",
+    "question": "Nhân cách của một người trong xã hội Việt Nam được đánh giá dựa trên những tiêu chuẩn nào?",
+    "answer": "Nhân cách của một người trong xã hội Việt Nam được đánh giá dựa trên các tiêu chuẩn khách quan do hoàn cảnh xã hội quy định và khả năng giữ đúng vai trò của mình trong từng mối quan hệ."
+  }
+]

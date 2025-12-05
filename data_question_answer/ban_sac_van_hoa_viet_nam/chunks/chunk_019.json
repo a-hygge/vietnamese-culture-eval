@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_091",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của nữ giới trong Đạo giáo Việt Nam.",
+    "question": "Điểm khác biệt lớn về vai trò giới tính trong thiên đình Đạo giáo Việt Nam so với Đạo giáo Trung Hoa là gì?",
+    "answer": "Thiên đình Đạo giáo Việt Nam do nữ giới làm chủ, trong khi thiên đình Đạo giáo Trung Hoa hầu như chỉ có đàn ông."
+  },
+  {
+    "id": "VH_092",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của Nho giáo đối với xã hội Việt Nam.",
+    "question": "Nho giáo đã ảnh hưởng như thế nào đến vai trò của phụ nữ trong xã hội Việt Nam?",
+    "answer": "Nho giáo nhấn mạnh ưu thế của nam giới, đẩy phụ nữ ra khỏi chính quyền, văn học chính thống, hoạt động đình làng, múa đôi và phần nào vai trò chỉ đạo trong thờ cúng tổ tiên."
+  },
+  {
+    "id": "VH_093",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và vai trò của phụ nữ trong văn hóa Đông Nam Á.",
+    "question": "Ở Đông Nam Á, vai trò của nữ giới trong tín ngưỡng được bù đắp như thế nào trước sự bất bình đẳng?",
+    "answer": "Vai trò của nữ giới được bù đắp bằng những tổ chức mà nữ giới giữ vai trò quyết định, đồng thời họ được tôn thờ và làm chủ thế giới siêu nhiên."
+  },
+  {
+    "id": "VH_094",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lễ hội và nghi lễ trong văn hóa Việt Nam.",
+    "question": "Nữ giới tham gia như thế nào trong các nghi lễ, hội hè và hoạt động tín ngưỡng ở Việt Nam?",
+    "answer": "Nữ giới được ca ngợi và tham dự chính vào các nghi lễ, hội hè, trò chơi, hát múa, và người đến các chùa, điện thờ Đạo giáo chủ yếu là nữ."
+  },
+  {
+    "id": "VH_095",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa thờ cúng tổ tiên ở Việt Nam.",
+    "question": "Trong trường hợp nào phụ nữ được chủ tế việc thờ cúng tổ tiên ở Việt Nam?",
+    "answer": "Phụ nữ chỉ được chủ tế việc thờ cúng tổ tiên khi không có đàn ông hoặc con trai trong gia đình."
+  }
+]

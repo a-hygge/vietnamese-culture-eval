@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1371",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến thừa kế thế vị.",
+    "question": "Thừa kế thế vị được áp dụng trong trường hợp nào?",
+    "answer": "Thừa kế thế vị được áp dụng khi con của người để lại di sản chết trước hoặc cùng thời điểm với người để lại di sản. Trong trường hợp này, cháu sẽ được hưởng phần di sản mà cha hoặc mẹ của cháu được hưởng nếu còn sống."
+  },
+  {
+    "id": "PL_1372",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến phân chia di sản thừa kế.",
+    "question": "Những người thừa kế có thể thỏa thuận về các vấn đề gì sau khi di chúc được công bố?",
+    "answer": "Những người thừa kế có thể thỏa thuận về việc cử người quản lý di sản, người phân chia di sản, xác định quyền và nghĩa vụ của những người này (nếu người để lại di sản không chỉ định trong di chúc), và cách thức phân chia di sản."
+  },
+  {
+    "id": "PL_1373",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến việc lập thỏa thuận thừa kế.",
+    "question": "Thỏa thuận của những người thừa kế về việc phân chia di sản phải được thực hiện dưới hình thức nào?",
+    "answer": "Thỏa thuận của những người thừa kế về việc phân chia di sản phải được lập thành văn bản."
+  },
+  {
+    "id": "PL_1374",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền thừa kế của chắt theo quy định thừa kế thế vị.",
+    "question": "Trong trường hợp cháu chết trước hoặc cùng thời điểm với người để lại di sản, chắt sẽ được hưởng phần di sản nào?",
+    "answer": "Chắt sẽ được hưởng phần di sản mà cha hoặc mẹ của chắt được hưởng nếu còn sống."
+  },
+  {
+    "id": "PL_1375",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến quản lý di sản thừa kế.",
+    "question": "Nếu người để lại di sản không chỉ định người quản lý di sản trong di chúc, những người thừa kế có quyền làm gì?",
+    "answer": "Nếu người để lại di sản không chỉ định người quản lý di sản trong di chúc, những người thừa kế có quyền họp mặt để thỏa thuận cử người quản lý di sản và xác định quyền, nghĩa vụ của người này."
+  }
+]

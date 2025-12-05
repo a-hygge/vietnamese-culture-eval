@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1951",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của Đảng trong cuộc kháng chiến Việt Nam.",
+    "question": "Đảng có vai trò gì trong việc lãnh đạo cuộc kháng chiến ở Việt Nam?",
+    "answer": "Đảng giữ vai trò lãnh đạo duy nhất, giúp người dân đoàn kết và nhận thức được sức mạnh của mình trong công cuộc giải phóng dân tộc."
+  },
+  {
+    "id": "VH_1952",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ý nghĩa của cải cách ruộng đất trong lịch sử cách mạng Trung Quốc.",
+    "question": "Cải cách ruộng đất đã mang lại ý nghĩa gì cho cách mạng Trung Quốc?",
+    "answer": "Cải cách ruộng đất thu hút nông dân ủng hộ Đảng Cộng sản, tạo sự đoàn kết và là cơ sở cho thắng lợi của cách mạng."
+  },
+  {
+    "id": "VH_1953",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự hi sinh của người dân trong cuộc kháng chiến Việt Nam.",
+    "question": "Người dân Việt Nam hi sinh vì mục tiêu nào trong cuộc kháng chiến?",
+    "answer": "Người dân hi sinh để giành lại nhân cách làm người và tự do sau những bất công đã trải qua."
+  },
+  {
+    "id": "VH_1954",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt trong chiến lược cách mạng giữa Việt Nam và Trung Quốc.",
+    "question": "Chiến lược cách mạng của Việt Nam khác Trung Quốc ở điểm nào?",
+    "answer": "Việt Nam có Đảng Cộng sản lãnh đạo duy nhất, trong khi Trung Quốc có chiến lược riêng phù hợp với tình hình của họ."
+  },
+  {
+    "id": "VH_1955",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nhận thức của người dân lao động Việt Nam về chủ nghĩa xã hội.",
+    "question": "Người dân lao động Việt Nam hiểu chủ nghĩa xã hội ra sao?",
+    "answer": "Họ hiểu chủ nghĩa xã hội là hệ thống mang lại công bằng và giá trị nhân cách mà họ luôn khao khát."
+  }
+]

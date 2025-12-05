@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1471",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục giám đốc thẩm trong tố tụng dân sự.",
+    "question": "Khi nào thủ tục giám đốc thẩm được áp dụng?",
+    "answer": "Thủ tục giám đốc thẩm được áp dụng khi bản án hoặc quyết định đã có hiệu lực pháp luật bị kháng nghị do phát hiện vi phạm pháp luật trong quá trình giải quyết vụ án, như điều tra không đầy đủ, kết luận không phù hợp với tình tiết khách quan, vi phạm nghiêm trọng thủ tục tố tụng, hoặc sai lầm nghiêm trọng trong việc áp dụng pháp luật."
+  },
+  {
+    "id": "PL_1472",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục tái thẩm trong tố tụng dân sự.",
+    "question": "Điều kiện nào dẫn đến việc áp dụng thủ tục tái thẩm?",
+    "answer": "Thủ tục tái thẩm được áp dụng khi bản án hoặc quyết định đã có hiệu lực pháp luật bị kháng nghị do phát hiện tình tiết quan trọng mới làm thay đổi nội dung vụ án, như tình tiết mới mà đương sự không thể biết, giả mạo bằng chứng, lời khai hoặc kết luận sai sự thật, hành vi làm sai lệch hồ sơ vụ án, hoặc bản án/quyết định liên quan bị hủy."
+  },
+  {
+    "id": "PL_1473",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xét xử trong thủ tục giám đốc thẩm.",
+    "question": "Phiên tòa giám đốc thẩm có được tổ chức công khai không?",
+    "answer": "Phiên tòa giám đốc thẩm không được tổ chức công khai."
+  },
+  {
+    "id": "PL_1474",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về căn cứ kháng nghị trong thủ tục giám đốc thẩm.",
+    "question": "Căn cứ nào có thể dẫn đến kháng nghị trong thủ tục giám đốc thẩm?",
+    "answer": "Căn cứ kháng nghị trong thủ tục giám đốc thẩm bao gồm sai lầm nghiêm trọng trong việc áp dụng pháp luật."
+  },
+  {
+    "id": "PL_1475",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về căn cứ kháng nghị trong thủ tục tái thẩm.",
+    "question": "Một trong những căn cứ kháng nghị trong thủ tục tái thẩm là gì?",
+    "answer": "Một trong những căn cứ kháng nghị là phát hiện tình tiết quan trọng mới của vụ án mà đương sự không thể biết được."
+  }
+]

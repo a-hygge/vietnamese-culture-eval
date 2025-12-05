@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_766",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Ai là người đứng đầu Chính phủ Việt Nam?",
+    "answer": "Thủ tướng Chính phủ là người đứng đầu Chính phủ Việt Nam."
+  },
+  {
+    "id": "PL_767",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn và trách nhiệm của Thủ tướng Chính phủ.",
+    "question": "Thủ tướng Chính phủ chịu trách nhiệm trước cơ quan nào về hoạt động của Chính phủ?",
+    "answer": "Thủ tướng Chính phủ chịu trách nhiệm trước Quốc hội về hoạt động của Chính phủ."
+  },
+  {
+    "id": "PL_768",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Phó Thủ tướng Chính phủ.",
+    "question": "Phó Thủ tướng Chính phủ thực hiện nhiệm vụ theo sự phân công của ai?",
+    "answer": "Phó Thủ tướng Chính phủ thực hiện nhiệm vụ theo sự phân công của Thủ tướng Chính phủ."
+  },
+  {
+    "id": "PL_769",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc làm việc của Chính phủ Việt Nam.",
+    "question": "Chính phủ Việt Nam làm việc theo chế độ nào?",
+    "answer": "Chính phủ Việt Nam làm việc theo chế độ tập thể, quyết định theo đa số."
+  },
+  {
+    "id": "PL_770",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức Chính phủ Việt Nam.",
+    "question": "Cơ cấu, số lượng thành viên Chính phủ do cơ quan nào quyết định?",
+    "answer": "Cơ cấu, số lượng thành viên Chính phủ do Quốc hội quyết định."
+  }
+]

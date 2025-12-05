@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_951",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm văn học cổ Việt Nam.",
+    "question": "Văn học cổ Việt Nam có đặc điểm gì nổi bật về yếu tố tôn giáo?",
+    "answer": "Văn học cổ Việt Nam thường phản ánh đời sống thực tế và các giá trị nhân văn, không tập trung vào yếu tố thượng đế hay tôn giáo."
+  },
+  {
+    "id": "VH_952",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của gia đình trong văn học Pháp và Việt Nam.",
+    "question": "Vai trò của gia đình trong văn học Pháp khác biệt như thế nào so với văn học Việt Nam?",
+    "answer": "Văn học Pháp thường tập trung vào cá nhân, trong khi văn học Việt Nam nhấn mạnh vai trò quan trọng của gia đình trong đời sống và xã hội."
+  },
+  {
+    "id": "VH_953",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tính chất của văn học hiện sinh Pháp.",
+    "question": "Văn học hiện sinh Pháp thể hiện thân phận con người ra sao?",
+    "answer": "Văn học hiện sinh Pháp thể hiện thân phận con người như một tình trạng phi lý, không có nguyên nhân rõ ràng và không có lối thoát."
+  },
+  {
+    "id": "VH_954",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nội dung và cách thể hiện trong văn học Pháp.",
+    "question": "Văn học Pháp phản ánh tính toàn nhân loại như thế nào?",
+    "answer": "Văn học Pháp tìm cách diễn đạt đặc biệt để phản ánh các vấn đề chung của toàn nhân loại, không chỉ tập trung vào nội dung đặc thù của nước Pháp."
+  },
+  {
+    "id": "VH_955",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của Mông-te-nhơ trong văn học Pháp.",
+    "question": "Mông-te-nhơ có đóng góp gì cho văn học Pháp thế kỷ XVI?",
+    "answer": "Mông-te-nhơ tiên phong khám phá bản chất nhân loại thông qua cái tôi cá nhân, mở đầu cho một trào lưu mới trong văn học Pháp thế kỷ XVI."
+  }
+]

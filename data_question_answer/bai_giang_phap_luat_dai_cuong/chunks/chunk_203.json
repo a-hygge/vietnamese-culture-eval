@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1011",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền giải quyết khiếu kiện hành chính.",
+    "question": "Tòa án nào xử lý khi người khởi kiện không có nơi cư trú, nơi làm việc hoặc trụ sở tại Việt Nam?",
+    "answer": "Tòa án nơi cơ quan hoặc người có thẩm quyền ra quyết định hành chính hoặc thực hiện hành vi hành chính sẽ xử lý."
+  },
+  {
+    "id": "PL_1012",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền giải quyết khiếu kiện hành chính tại địa phương.",
+    "question": "Khiếu kiện quyết định hành chính của cơ quan cấp tỉnh được giải quyết ở đâu?",
+    "answer": "Được giải quyết tại Tòa án trên cùng phạm vi địa giới hành chính với cơ quan đó."
+  },
+  {
+    "id": "PL_1013",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền giải quyết khiếu kiện liên quan đến cơ quan ngang Bộ.",
+    "question": "Khiếu kiện quyết định hành chính của cơ quan ngang Bộ được xử lý ở đâu nếu người khởi kiện có nơi cư trú cùng địa giới hành chính?",
+    "answer": "Được xử lý tại Tòa án trên cùng phạm vi địa giới hành chính với cơ quan ngang Bộ hoặc cơ quan có thẩm quyền ra quyết định hành chính."
+  },
+  {
+    "id": "PL_1014",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền giải quyết khiếu kiện hành chính ở nước ngoài.",
+    "question": "Thẩm quyền giải quyết khiếu kiện quyết định hành chính của cơ quan đại diện ngoại giao Việt Nam ở nước ngoài thuộc về đâu?",
+    "answer": "Thuộc về Tòa án nơi người khởi kiện có nơi cư trú trên cùng phạm vi địa giới hành chính với cơ quan đại diện ngoại giao đó."
+  },
+  {
+    "id": "PL_1015",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền giải quyết khiếu kiện hành chính liên quan đến các cơ quan thuộc Chính phủ.",
+    "question": "Khiếu kiện hành vi hành chính của cơ quan thuộc Chính phủ được xử lý ở đâu khi người khởi kiện có nơi cư trú cùng địa giới hành chính?",
+    "answer": "Được xử lý tại Tòa án trên cùng phạm vi địa giới hành chính với cơ quan thuộc Chính phủ hoặc người có thẩm quyền thực hiện hành vi hành chính."
+  }
+]

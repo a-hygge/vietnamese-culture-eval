@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1696",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trợ cấp mất việc làm theo pháp luật Việt Nam.",
+    "question": "Tiền lương để tính trợ cấp mất việc làm được xác định như thế nào?",
+    "answer": "Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân theo hợp đồng lao động của 06 tháng liền kề trước khi người lao động mất việc làm."
+  },
+  {
+    "id": "PL_1697",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm thỏa ước lao động tập thể.",
+    "question": "Thỏa ước lao động tập thể được định nghĩa là gì?",
+    "answer": "Thỏa ước lao động tập thể là văn bản thoả thuận giữa tập thể lao động và người sử dụng lao động về các điều kiện lao động mà hai bên đã đạt được thông qua thương lượng tập thể."
+  },
+  {
+    "id": "PL_1698",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại thỏa ước lao động tập thể.",
+    "question": "Các loại thỏa ước lao động tập thể gồm những gì?",
+    "answer": "Thỏa ước lao động tập thể gồm thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành và hình thức thỏa ước lao động tập thể khác do Chính phủ quy định."
+  },
+  {
+    "id": "PL_1699",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về yêu cầu đối với nội dung thỏa ước lao động tập thể.",
+    "question": "Nội dung thỏa ước lao động tập thể phải tuân thủ quy định nào?",
+    "answer": "Nội dung thỏa ước lao động tập thể không được trái với quy định của pháp luật và phải có lợi hơn cho người lao động so với quy định của pháp luật."
+  },
+  {
+    "id": "PL_1700",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến trợ cấp thôi việc.",
+    "question": "Thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc có ảnh hưởng như thế nào đến bảo hiểm thất nghiệp?",
+    "answer": "Thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc không được tính vào thời gian tham gia bảo hiểm thất nghiệp theo quy định của Luật bảo hiểm xã hội."
+  }
+]

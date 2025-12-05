@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_406",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật là gì?",
+    "answer": "Văn bản quy phạm pháp luật là văn bản chứa đựng các quy tắc xử sự chung mang tính bắt buộc, được áp dụng nhiều lần trong đời sống xã hội khi có những sự kiện pháp lý xảy ra, và việc thực hiện văn bản không làm chấm dứt hiệu lực của nó."
+  },
+  {
+    "id": "PL_407",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa văn bản quy phạm pháp luật và văn bản không có tính quy phạm.",
+    "question": "Sự khác biệt giữa văn bản quy phạm pháp luật và văn bản không có tính quy phạm là gì?",
+    "answer": "Văn bản quy phạm pháp luật chứa các quy tắc xử sự chung áp dụng nhiều lần trong đời sống xã hội, trong khi văn bản không có tính quy phạm (văn bản cá biệt) chỉ áp dụng một lần và chỉ đối với cá nhân, tổ chức cụ thể được ghi đích danh trong văn bản."
+  },
+  {
+    "id": "PL_408",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về văn bản cá biệt trong pháp luật Việt Nam.",
+    "question": "Văn bản cá biệt được áp dụng trong trường hợp nào?",
+    "answer": "Văn bản cá biệt được áp dụng một lần, chỉ trong các quan hệ đối với cá nhân hoặc tổ chức cụ thể được ghi đích danh trong văn bản, ví dụ như quyết định đề bạt, bổ nhiệm cán bộ hoặc quyết định của tòa án."
+  },
+  {
+    "id": "PL_409",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định liên quan đến văn bản quy phạm pháp luật.",
+    "question": "Tên gọi, nội dung và trình tự ban hành văn bản quy phạm pháp luật được quy định ở đâu?",
+    "answer": "Tên gọi, nội dung và trình tự ban hành văn bản quy phạm pháp luật được quy định cụ thể trong luật ban hành văn bản quy phạm pháp luật."
+  },
+  {
+    "id": "PL_410",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền ban hành văn bản luật tại Việt Nam.",
+    "question": "Cơ quan nào có thẩm quyền ban hành các văn bản luật tại Việt Nam?",
+    "answer": "Các văn bản luật do Quốc hội – cơ quan đại biểu cao nhất của nhân dân, cơ quan quyền lực nhà nước cao nhất nước ta ban hành."
+  }
+]

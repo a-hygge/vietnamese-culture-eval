@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1331",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu đối với vật nhặt được.",
+    "question": "Vật nhặt được có giá trị đến mười tháng lương tối thiểu sẽ thuộc về ai nếu sau một năm không xác định được chủ sở hữu?",
+    "answer": "Vật nhặt được có giá trị đến mười tháng lương tối thiểu sẽ thuộc sở hữu của người nhặt được nếu sau một năm không xác định được chủ sở hữu hoặc chủ sở hữu không đến nhận."
+  },
+  {
+    "id": "PL_1332",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu đối với vật nhặt được có giá trị lớn.",
+    "question": "Người nhặt được vật có giá trị lớn hơn mười tháng lương tối thiểu sẽ được hưởng những gì sau một năm không có ai đến nhận?",
+    "answer": "Người nhặt được sẽ được hưởng giá trị bằng mười tháng lương tối thiểu và 50% giá trị của phần vượt quá mười tháng lương tối thiểu, sau khi trừ chi phí bảo quản; phần giá trị còn lại thuộc Nhà nước."
+  },
+  {
+    "id": "PL_1333",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu đối với di tích lịch sử, văn hóa bị đánh rơi hoặc bỏ quên.",
+    "question": "Vật bị đánh rơi, bị bỏ quên là di tích lịch sử, văn hóa sẽ thuộc về ai nếu sau một năm không có người đến nhận?",
+    "answer": "Vật bị đánh rơi, bị bỏ quên là di tích lịch sử, văn hóa sẽ thuộc Nhà nước, và người nhặt được sẽ được hưởng một khoản tiền thưởng theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_1334",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ khi bắt được gia súc bị thất lạc.",
+    "question": "Người bắt được gia súc bị thất lạc cần làm gì để chủ sở hữu có thể nhận lại?",
+    "answer": "Người bắt được gia súc bị thất lạc phải nuôi giữ và báo cho Ủy ban nhân dân xã, phường, thị trấn nơi cư trú để thông báo công khai cho chủ sở hữu biết mà nhận lại."
+  },
+  {
+    "id": "PL_1335",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chi phí khi nhận lại gia súc bị thất lạc.",
+    "question": "Chủ sở hữu gia súc bị thất lạc phải chịu những chi phí gì khi nhận lại gia súc?",
+    "answer": "Chủ sở hữu gia súc bị thất lạc phải thanh toán tiền công nuôi giữ và các chi phí khác cho người đã bắt được gia súc."
+  }
+]

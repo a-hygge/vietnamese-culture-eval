@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_461",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm năng lực pháp luật.",
+    "question": "Năng lực pháp luật của chủ thể trong quan hệ pháp luật được hiểu là gì?",
+    "answer": "Năng lực pháp luật là khả năng của chủ thể có được các quyền chủ thể và nghĩa vụ pháp lý mà nhà nước thừa nhận, được quy định trong pháp luật."
+  },
+  {
+    "id": "PL_462",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm năng lực hành vi.",
+    "question": "Năng lực hành vi của chủ thể trong quan hệ pháp luật là gì?",
+    "answer": "Năng lực hành vi là khả năng của chủ thể được nhà nước thừa nhận, thể hiện qua hành vi thực tế để thực hiện các quyền chủ thể và nghĩa vụ pháp lý, tức là tham gia vào các quan hệ pháp luật."
+  },
+  {
+    "id": "PL_463",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các chủ thể của quan hệ pháp luật.",
+    "question": "Chủ thể của quan hệ pháp luật bao gồm những ai?",
+    "answer": "Chủ thể của quan hệ pháp luật bao gồm công dân, người nước ngoài, người không có quốc tịch và các tổ chức."
+  },
+  {
+    "id": "PL_464",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền chủ thể trong quan hệ pháp luật.",
+    "question": "Quyền chủ thể trong quan hệ pháp luật có những đặc điểm nào?",
+    "answer": "Quyền chủ thể có ba đặc điểm: khả năng hành động trong khuôn khổ pháp luật quy định trước, khả năng yêu cầu bên kia thực hiện nghĩa vụ của họ, và khả năng yêu cầu cơ quan nhà nước áp dụng chế tài khi quyền bị vi phạm."
+  },
+  {
+    "id": "PL_465",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ pháp lý trong quan hệ pháp luật.",
+    "question": "Nghĩa vụ pháp lý trong quan hệ pháp luật được hiểu như thế nào?",
+    "answer": "Nghĩa vụ pháp lý là cách xử sự bắt buộc đã được quy phạm pháp luật xác định trước, mà một bên phải thực hiện nhằm đáp ứng việc thực hiện quyền chủ thể của bên kia."
+  }
+]

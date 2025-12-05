@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_866",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm cán bộ theo pháp luật Việt Nam.",
+    "question": "Cán bộ theo pháp luật Việt Nam được định nghĩa như thế nào?",
+    "answer": "Cán bộ là công dân Việt Nam, được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở các cấp từ Trung ương đến cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước."
+  },
+  {
+    "id": "PL_867",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm công chức theo pháp luật Việt Nam.",
+    "question": "Công chức theo pháp luật Việt Nam được định nghĩa như thế nào?",
+    "answer": "Công chức là công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng cộng sản Việt Nam, tổ chức chính trị - xã hội ở các cấp từ Trung ương đến cấp huyện và trong các đơn vị thuộc Quân đội nhân dân, Công an nhân dân, hoặc bộ máy lãnh đạo, quản lý của các đơn vị sự nghiệp công lập, trong biên chế và hưởng lương từ ngân sách nhà nước hoặc quỹ lương của đơn vị sự nghiệp công lập."
+  },
+  {
+    "id": "PL_868",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc quản lý cán bộ, công chức.",
+    "question": "Cán bộ, công chức phải tuân theo nguyên tắc quản lý nào trong pháp luật Việt Nam?",
+    "answer": "Cán bộ, công chức phải tuân theo các nguyên tắc quản lý được quy định trong pháp luật, bao gồm việc đảm bảo đúng quy trình tuyển dụng, bổ nhiệm, bầu cử và chịu sự quản lý trong biên chế, hưởng lương từ ngân sách nhà nước hoặc quỹ lương của đơn vị sự nghiệp công lập theo quy định pháp luật."
+  },
+  {
+    "id": "PL_869",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân biệt cán bộ và công chức theo pháp luật Việt Nam.",
+    "question": "Điểm khác biệt giữa cán bộ và công chức theo pháp luật Việt Nam là gì?",
+    "answer": "Cán bộ được bầu cử, phê chuẩn, bổ nhiệm theo nhiệm kỳ và giữ chức vụ trong cơ quan ở các cấp, trong khi công chức được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh và làm việc trong các cơ quan, tổ chức hoặc đơn vị sự nghiệp công lập, hưởng lương từ ngân sách nhà nước hoặc quỹ lương của đơn vị sự nghiệp công lập."
+  },
+  {
+    "id": "PL_870",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của công chức trong đơn vị sự nghiệp công lập.",
+    "question": "Công chức làm việc trong đơn vị sự nghiệp công lập được hưởng lương từ nguồn nào?",
+    "answer": "Công chức làm việc trong bộ máy lãnh đạo, quản lý của đơn vị sự nghiệp công lập được hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật."
+  }
+]

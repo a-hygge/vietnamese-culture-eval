@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_391",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Phần giả định trong quy phạm pháp luật có vai trò gì?",
+    "answer": "Phần giả định trong quy phạm pháp luật mô tả rõ ràng những điều kiện, hoàn cảnh cần thiết để áp dụng quy phạm đó một cách chính xác và phù hợp với thực tế."
+  },
+  {
+    "id": "PL_392",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng pháp luật.",
+    "question": "Tại sao tính xác định được coi là tiêu chuẩn hàng đầu của phần giả định trong quy phạm pháp luật?",
+    "answer": "Tính xác định được coi là tiêu chuẩn hàng đầu vì nó đảm bảo phần giả định sát hợp với thực tế, giúp áp dụng các quy phạm pháp luật một cách chính xác và nhất quán."
+  },
+  {
+    "id": "PL_393",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy phạm pháp luật.",
+    "question": "Điều kiện nào cần thiết để phần giả định trong quy phạm pháp luật được áp dụng hiệu quả?",
+    "answer": "Phần giả định cần mô tả rõ ràng, cụ thể và sát hợp với thực tế để đảm bảo áp dụng quy phạm pháp luật một cách hiệu quả."
+  },
+  {
+    "id": "PL_394",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật cần đáp ứng yêu cầu gì để đảm bảo tính chính xác trong áp dụng?",
+    "answer": "Quy phạm pháp luật cần có phần giả định rõ ràng, sát hợp với thực tế để đảm bảo tính chính xác trong áp dụng."
+  },
+  {
+    "id": "PL_395",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc quản lý pháp luật.",
+    "question": "Tính nhất quán trong việc áp dụng quy phạm pháp luật phụ thuộc vào yếu tố nào của phần giả định?",
+    "answer": "Tính nhất quán phụ thuộc vào việc phần giả định được mô tả rõ ràng, chính xác và phù hợp với thực tế."
+  }
+]

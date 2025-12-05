@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1596",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự giám đốc thẩm trong luật hình sự Việt Nam.",
+    "question": "Trình tự giám đốc thẩm được áp dụng trong trường hợp nào?",
+    "answer": "Trình tự giám đốc thẩm được áp dụng khi phát hiện sai lầm về pháp luật trong các bản án và quyết định đã có hiệu lực pháp luật của tòa án."
+  },
+  {
+    "id": "PL_1597",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự tái thẩm trong luật hình sự Việt Nam.",
+    "question": "Trình tự tái thẩm được áp dụng trong tình huống nào?",
+    "answer": "Trình tự tái thẩm được áp dụng khi phát hiện các tình tiết mới làm thay đổi tính chất của vụ án."
+  },
+  {
+    "id": "PL_1598",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính khách quan trong giải quyết vụ án hình sự.",
+    "question": "Pháp luật quy định những biện pháp nào để bảo đảm tính khách quan trong giải quyết vụ án hình sự?",
+    "answer": "Pháp luật quy định rằng các bản án và quyết định đã có hiệu lực pháp luật sẽ được xét lại theo trình tự giám đốc thẩm hoặc tái thẩm nếu phát hiện sai lầm về pháp luật hoặc tình tiết mới làm thay đổi tính chất của vụ án."
+  },
+  {
+    "id": "PL_1599",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bản án và quyết định đã có hiệu lực pháp luật.",
+    "question": "Các bản án và quyết định đã có hiệu lực pháp luật có thể bị xét lại theo những trình tự nào?",
+    "answer": "Các bản án và quyết định đã có hiệu lực pháp luật có thể bị xét lại theo trình tự giám đốc thẩm hoặc tái thẩm."
+  },
+  {
+    "id": "PL_1600",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục giải quyết vụ án hình sự.",
+    "question": "Hai trình tự xét lại các vụ án hình sự đã có hiệu lực pháp luật là gì?",
+    "answer": "Hai trình tự xét lại các vụ án hình sự đã có hiệu lực pháp luật là trình tự giám đốc thẩm và trình tự tái thẩm."
+  }
+]

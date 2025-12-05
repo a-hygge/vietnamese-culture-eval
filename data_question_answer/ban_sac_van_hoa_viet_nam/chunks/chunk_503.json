@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2511",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng của Khổng Tử trong giáo dục.",
+    "question": "Khổng Tử nhấn mạnh điều gì là nền tảng quan trọng trong quá trình học tập?",
+    "answer": "Khổng Tử nhấn mạnh rằng tu thân là nền tảng quan trọng trong quá trình học tập, thay vì chỉ tập trung vào chữ nghĩa và văn chương."
+  },
+  {
+    "id": "VH_2512",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của Nho giáo trong xã hội thời nhà Hán.",
+    "question": "Nho giáo được sử dụng như thế nào để hỗ trợ chế độ quân chủ thời nhà Hán?",
+    "answer": "Nho giáo được sử dụng như một công cụ hỗ trợ chế độ quân chủ chuyên chế, thông qua việc gắn liền với chế độ khoa cử và đào tạo đội ngũ quan liêu phục vụ nhà vua."
+  },
+  {
+    "id": "VH_2513",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của Nho học thời nhà Hán.",
+    "question": "Nho học thời nhà Hán tập trung vào lĩnh vực nào và phương pháp học tập nào?",
+    "answer": "Nho học thời nhà Hán tập trung vào Kinh học, với phương pháp giải thích nghĩa từng chữ, từng câu trong các Kinh, tạo nên cái học Huấn hỗ và chú trọng khảo chứng."
+  },
+  {
+    "id": "VH_2514",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phát triển của Nho học qua các triều đại.",
+    "question": "Điểm khác biệt chính giữa Nho học thời nhà Hán và Nho học thời nhà Đường là gì?",
+    "answer": "Nho học thời nhà Hán tập trung vào Kinh học và phân tích nghĩa từng chữ, từng câu, trong khi Nho học thời nhà Đường chuyển hướng sang tử phú và văn chương, biến các nhà Nho thành văn sĩ."
+  },
+  {
+    "id": "VH_2515",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chế độ khoa cử trong lịch sử áp dụng Nho giáo.",
+    "question": "Chế độ khoa cử dưới các triều đại áp dụng Nho giáo dựa trên nội dung học tập nào?",
+    "answer": "Chế độ khoa cử dưới các triều đại áp dụng Nho giáo dựa trên các sách kinh điển của Nho giáo, yêu cầu người học thuộc lòng và trình bày một cách văn vẻ, đúng quy tắc."
+  }
+]

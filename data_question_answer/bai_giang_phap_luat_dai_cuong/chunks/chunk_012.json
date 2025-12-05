@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_056",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm phá sản doanh nghiệp.",
+    "question": "Phá sản doanh nghiệp được hiểu là gì theo pháp luật Việt Nam?",
+    "answer": "Phá sản doanh nghiệp là tình trạng doanh nghiệp không có khả năng thanh toán các khoản nợ khi đến hạn và bị tòa án tuyên bố phá sản theo quy định pháp luật."
+  },
+  {
+    "id": "PL_057",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự, thủ tục giải quyết phá sản doanh nghiệp.",
+    "question": "Trình tự và thủ tục giải quyết phá sản doanh nghiệp bao gồm những bước nào?",
+    "answer": "Trình tự và thủ tục giải quyết phá sản doanh nghiệp bao gồm nộp đơn yêu cầu mở thủ tục phá sản, thụ lý đơn, xác định các khoản nợ, tổ chức hội nghị chủ nợ và quyết định tuyên bố phá sản hoặc phương án phục hồi hoạt động kinh doanh."
+  },
+  {
+    "id": "PL_058",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử lý các khoản nợ trong quá trình phá sản doanh nghiệp.",
+    "question": "Thứ tự ưu tiên thanh toán tài sản của doanh nghiệp khi phá sản được quy định ra sao?",
+    "answer": "Thứ tự ưu tiên thanh toán tài sản của doanh nghiệp khi phá sản được thực hiện theo quy định pháp luật, ưu tiên thanh toán các khoản chi phí phá sản, lương người lao động, nghĩa vụ thuế và các khoản nợ khác lần lượt theo thứ tự ưu tiên."
+  },
+  {
+    "id": "PL_059",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tranh chấp trong kinh doanh.",
+    "question": "Tranh chấp trong kinh doanh được định nghĩa như thế nào?",
+    "answer": "Tranh chấp trong kinh doanh là mâu thuẫn, xung đột phát sinh giữa các bên trong hoạt động thương mại, kinh doanh hoặc đầu tư, liên quan đến việc thực hiện quyền và nghĩa vụ kinh doanh theo hợp đồng hoặc quy định pháp luật."
+  },
+  {
+    "id": "PL_060",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức giải quyết tranh chấp trong kinh doanh.",
+    "question": "Những hình thức nào được sử dụng để giải quyết tranh chấp trong kinh doanh?",
+    "answer": "Những hình thức được sử dụng để giải quyết tranh chấp trong kinh doanh bao gồm thương lượng, hòa giải, trọng tài và khởi kiện tại tòa án theo quy định pháp luật."
+  }
+]

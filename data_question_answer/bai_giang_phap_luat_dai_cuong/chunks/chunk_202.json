@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1006",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Tòa án nhân dân cấp huyện.",
+    "question": "Tòa án nhân dân cấp huyện giải quyết những loại khiếu kiện nào theo thủ tục sơ thẩm?",
+    "answer": "Tòa án nhân dân cấp huyện giải quyết theo thủ tục sơ thẩm các khiếu kiện: quyết định hành chính, hành vi hành chính của cơ quan nhà nước hoặc cá nhân có thẩm quyền từ cấp huyện trở xuống; quyết định kỷ luật buộc thôi việc của người đứng đầu cơ quan, tổ chức từ cấp huyện trở xuống đối với công chức thuộc quyền quản lý; và khiếu kiện về danh sách cử tri bầu cử Đại biểu quốc hội, Hội đồng nhân dân của cơ quan lập danh sách cử tri trên cùng phạm vi địa giới hành chính."
+  },
+  {
+    "id": "PL_1007",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Tòa án nhân dân cấp huyện trong quản lý hành chính.",
+    "question": "Khiếu kiện đối với quyết định hành chính của cơ quan nhà nước nào thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
+    "answer": "Thẩm quyền giải quyết thuộc Tòa án nhân dân cấp huyện đối với khiếu kiện quyết định hành chính, hành vi hành chính của cơ quan nhà nước từ cấp huyện trở xuống trên cùng phạm vi địa giới hành chính với tòa án hoặc của người có thẩm quyền trong cơ quan nhà nước đó."
+  },
+  {
+    "id": "PL_1008",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Tòa án nhân dân cấp huyện trong xử lý kỷ luật công chức.",
+    "question": "Tòa án nhân dân cấp huyện có thẩm quyền giải quyết khiếu kiện về quyết định kỷ luật buộc thôi việc đối với ai?",
+    "answer": "Tòa án nhân dân cấp huyện có thẩm quyền giải quyết khiếu kiện về quyết định kỷ luật buộc thôi việc của người đứng đầu cơ quan, tổ chức từ cấp huyện trở xuống đối với công chức thuộc quyền quản lý của cơ quan, tổ chức đó."
+  },
+  {
+    "id": "PL_1009",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Tòa án nhân dân cấp huyện trong việc giải quyết khiếu kiện danh sách cử tri.",
+    "question": "Khiếu kiện danh sách cử tri bầu cử thuộc thẩm quyền của Tòa án nhân dân cấp huyện trong trường hợp nào?",
+    "answer": "Khiếu kiện danh sách cử tri bầu cử Đại biểu quốc hội, danh sách cử tri bầu cử Đại biểu Hội đồng nhân dân của cơ quan lập danh sách cử tri trên cùng phạm vi địa giới hành chính với Tòa án thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện."
+  },
+  {
+    "id": "PL_1010",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền phân cấp giữa Tòa án nhân dân cấp huyện và cấp tỉnh.",
+    "question": "Thẩm quyền giải quyết theo thủ tục sơ thẩm của Tòa án nhân dân cấp huyện khác gì so với Tòa án nhân dân cấp tỉnh?",
+    "answer": "Tòa án nhân dân cấp huyện giải quyết các khiếu kiện liên quan đến quyết định hành chính, kỷ luật buộc thôi việc, và danh sách cử tri thuộc phạm vi địa giới hành chính từ cấp huyện trở xuống; trong khi thẩm quyền của Tòa án nhân dân cấp tỉnh bao gồm các khiếu kiện thuộc phạm vi địa giới hành chính từ cấp tỉnh trở lên."
+  }
+]

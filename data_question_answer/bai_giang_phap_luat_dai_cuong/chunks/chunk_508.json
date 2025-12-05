@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1836",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_508.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật kinh doanh.",
+    "question": "Luật kinh doanh điều chỉnh những đối tượng nào và sử dụng các phương pháp gì?",
+    "answer": "Luật kinh doanh điều chỉnh các quan hệ kinh tế phát sinh trong quá trình tổ chức và hoạt động kinh doanh. Các phương pháp điều chỉnh bao gồm phương pháp mệnh lệnh và phương pháp thỏa thuận."
+  },
+  {
+    "id": "PL_1837",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_508.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm doanh nghiệp.",
+    "question": "Doanh nghiệp được định nghĩa như thế nào và có những loại hình nào phổ biến?",
+    "answer": "Doanh nghiệp là tổ chức kinh tế có tên riêng, có tài sản, trụ sở giao dịch, được thành lập để thực hiện các hoạt động kinh doanh. Các loại hình phổ biến bao gồm: doanh nghiệp tư nhân, công ty cổ phần, công ty trách nhiệm hữu hạn, công ty hợp danh và doanh nghiệp nhà nước."
+  },
+  {
+    "id": "PL_1838",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_508.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của hợp tác xã.",
+    "question": "Hợp tác xã có những quyền và nghĩa vụ cơ bản nào theo quy định pháp luật?",
+    "answer": "Hợp tác xã có quyền tự chủ trong hoạt động kinh doanh, sở hữu tài sản, ký kết hợp đồng, và phân phối lợi nhuận. Nghĩa vụ của hợp tác xã bao gồm tuân thủ pháp luật, thực hiện đầy đủ nghĩa vụ tài chính, và bảo đảm quyền lợi của các thành viên."
+  },
+  {
+    "id": "PL_1839",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_508.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phá sản doanh nghiệp.",
+    "question": "Phá sản doanh nghiệp được hiểu như thế nào và khác biệt ra sao so với giải thể?",
+    "answer": "Phá sản là tình trạng doanh nghiệp không có khả năng thanh toán các khoản nợ đến hạn. Phá sản khác với giải thể ở chỗ giải thể là việc chấm dứt hoạt động một cách tự nguyện hoặc theo quyết định của cơ quan nhà nước, không liên quan đến mất khả năng thanh toán."
+  },
+  {
+    "id": "PL_1840",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_508.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tranh chấp trong kinh doanh.",
+    "question": "Tranh chấp trong kinh doanh là gì và có những đặc điểm nổi bật nào?",
+    "answer": "Tranh chấp trong kinh doanh là mâu thuẫn phát sinh giữa các chủ thể kinh doanh về quyền và nghĩa vụ trong hợp đồng hoặc hoạt động thương mại. Đặc điểm nổi bật là tính tự nguyện tham gia, tính pháp lý và thường liên quan đến lợi ích kinh tế."
+  }
+]

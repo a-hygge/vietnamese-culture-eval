@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1776",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Vai trò của làng xã trong đời sống cộng đồng người Việt Nam là gì?",
+    "answer": "Làng xã đóng vai trò là tổ chức cộng đồng gắn bó mọi người dân, giúp điều hòa quyền lợi và là tài sản chung của mọi người trong làng."
+  },
+  {
+    "id": "VH_1777",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Yếu tố nào giúp làng xã Việt Nam tồn tại bền vững qua hàng ngàn năm?",
+    "answer": "Làng xã tồn tại bền vững nhờ được hình thành trong môi trường sinh thái phù hợp, do người dân xây dựng và quản lý, trở thành tài sản chung, không phụ thuộc vào vua chúa hay bộ máy quan lại."
+  },
+  {
+    "id": "VH_1778",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quyền lực và tổ chức xã hội trong văn hóa Việt Nam.",
+    "question": "Người dân Việt Nam phản ứng thế nào khi vua không đáp ứng được trách nhiệm quản lý?",
+    "answer": "Người dân sẽ thay đổi vua hoặc triều đại để tìm một bộ máy quản lý phù hợp hơn."
+  },
+  {
+    "id": "VH_1779",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tinh thần đoàn kết trong văn hóa Việt Nam.",
+    "question": "Tiêu chí nào được người dân Việt Nam ưu tiên khi chọn lãnh đạo?",
+    "answer": "Người dân ưu tiên chọn lãnh đạo dựa trên sự hy sinh lớn nhất để bảo vệ đất nước, không quan tâm đến gia thế, tài sản hay nguồn gốc xuất thân."
+  },
+  {
+    "id": "VH_1780",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa tự quản của làng xã Việt Nam.",
+    "question": "Người dân trong làng xã Việt Nam hành động ra sao khi không có lãnh đạo?",
+    "answer": "Khi không có lãnh đạo, người dân tự đứng lên để bảo vệ làng xóm của mình."
+  }
+]

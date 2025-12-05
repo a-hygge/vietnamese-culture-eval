@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_851",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật hành chính.",
+    "question": "Quan hệ xã hội mang tính chất chấp hành và điều hành trong luật hành chính phát sinh từ đâu?",
+    "answer": "Quan hệ xã hội mang tính chất chấp hành và điều hành phát sinh từ hoạt động của các cơ quan nhà nước hoặc các tổ chức xã hội được nhà nước trao quyền thực hiện chức năng quản lý nhà nước."
+  },
+  {
+    "id": "PL_852",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phương pháp điều chỉnh của luật hành chính.",
+    "question": "Phương pháp điều chỉnh chính của luật hành chính là gì?",
+    "answer": "Phương pháp điều chỉnh chính của luật hành chính là phương pháp mệnh lệnh phục tùng."
+  },
+  {
+    "id": "PL_853",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bản chất của hoạt động quản lý nhà nước trong luật hành chính.",
+    "question": "Bản chất của hoạt động quản lý nhà nước trong luật hành chính là gì?",
+    "answer": "Bản chất của hoạt động quản lý nhà nước trong luật hành chính là tính quyền uy, do các bên tham gia quan hệ có địa vị không bình đẳng về ý chí: một bên ra lệnh và bên kia phải phục tùng."
+  },
+  {
+    "id": "PL_854",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp đặc biệt trong luật hành chính.",
+    "question": "Trong trường hợp nào luật hành chính sử dụng phương pháp thỏa thuận thay vì phương pháp mệnh lệnh phục tùng?",
+    "answer": "Luật hành chính sử dụng phương pháp thỏa thuận trong các trường hợp đặc biệt như ban hành các quyết định liên tịch, ký kết và thực hiện các hợp đồng hành chính."
+  },
+  {
+    "id": "PL_855",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của các tổ chức xã hội trong luật hành chính.",
+    "question": "Các tổ chức xã hội có vai trò gì trong việc thực hiện chức năng quản lý nhà nước theo luật hành chính?",
+    "answer": "Các tổ chức xã hội có vai trò thực hiện chức năng quản lý nhà nước khi được nhà nước trao quyền."
+  }
+]

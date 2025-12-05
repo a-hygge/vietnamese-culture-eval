@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1001",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Vì sao trí thức Việt Nam sẵn sàng từ bỏ các giá trị văn hóa truyền thống để tiếp nhận cái mới?",
+    "answer": "Trí thức Việt Nam sẵn sàng từ bỏ các giá trị văn hóa truyền thống để tiếp nhận cái mới vì họ mong muốn tìm ra biện pháp cứu nước trước tình hình đất nước lâm nguy."
+  },
+  {
+    "id": "VH_1002",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Huỳnh Thúc Kháng thể hiện điều gì về sự tiếp nối văn hóa Việt Nam?",
+    "answer": "Huỳnh Thúc Kháng thể hiện tính liên tục của văn hóa Việt Nam trong quá trình lịch sử, dù trải qua nhiều biến động."
+  },
+  {
+    "id": "VH_1003",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống yêu nước của dân tộc Việt Nam.",
+    "question": "Truyền thống yêu nước của người Việt Nam được thể hiện qua những hành động nào?",
+    "answer": "Truyền thống yêu nước của người Việt Nam được thể hiện qua việc luôn bất khuất trước ngoại xâm và sẵn sàng tìm giải pháp khác để bảo vệ độc lập dân tộc."
+  },
+  {
+    "id": "VH_1004",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của các nền văn hóa đối với Việt Nam.",
+    "question": "Thực dân Pháp đã thực hiện những biện pháp gì để giảm ảnh hưởng văn hóa Trung Quốc tại Việt Nam?",
+    "answer": "Thực dân Pháp đã phổ biến văn hóa Pháp, hủy bỏ chế độ khoa cử vào năm 1919 và khiến chữ Hán cùng chữ Nôm dần biến mất từ năm 1920."
+  },
+  {
+    "id": "VH_1005",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử chế độ thực dân tại Việt Nam.",
+    "question": "Nguyên nhân nào khiến thực dân Pháp không thể duy trì chế độ thuộc địa tại Việt Nam?",
+    "answer": "Thực dân Pháp không thể duy trì chế độ thuộc địa tại Việt Nam vì đã đánh giá thấp truyền thống yêu nước và tinh thần bất khuất của nhân dân Việt Nam, dẫn đến việc người Việt tìm cách xóa bỏ chế độ thuộc địa."
+  }
+]

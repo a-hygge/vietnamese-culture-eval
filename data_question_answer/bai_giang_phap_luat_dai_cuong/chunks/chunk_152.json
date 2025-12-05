@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_756",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Hội đồng quốc phòng và an ninh gồm những thành phần nào?",
+    "answer": "Hội đồng quốc phòng và an ninh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên."
+  },
+  {
+    "id": "PL_757",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Danh sách thành viên Hội đồng quốc phòng và an ninh được phê chuẩn bởi cơ quan nào?",
+    "answer": "Danh sách thành viên Hội đồng quốc phòng và an ninh do Chủ tịch nước trình Quốc hội phê chuẩn."
+  },
+  {
+    "id": "PL_758",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc hoạt động của Hội đồng quốc phòng và an ninh.",
+    "question": "Hội đồng quốc phòng và an ninh làm việc theo chế độ nào?",
+    "answer": "Hội đồng quốc phòng và an ninh làm việc theo chế độ tập thể và quyết định theo đa số."
+  },
+  {
+    "id": "PL_759",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Hội đồng quốc phòng và an ninh.",
+    "question": "Hội đồng quốc phòng và an ninh trình cơ quan nào để quyết định tình trạng chiến tranh?",
+    "answer": "Hội đồng quốc phòng và an ninh trình Quốc hội quyết định tình trạng chiến tranh; trong trường hợp Quốc hội không thể họp được thì trình Ủy ban thường vụ Quốc hội quyết định."
+  },
+  {
+    "id": "PL_760",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Hội đồng quốc phòng và an ninh.",
+    "question": "Hội đồng quốc phòng và an ninh có quyền làm gì trong trường hợp cần huy động nguồn lực?",
+    "answer": "Hội đồng quốc phòng và an ninh có quyền động viên mọi lực lượng và khả năng."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2931",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức kỳ thi Hương trong lịch sử Việt Nam.",
+    "question": "Ai chịu trách nhiệm quản lý toàn bộ kỳ thi Hương?",
+    "answer": "Quan Đề điệu chịu trách nhiệm quản lý toàn bộ kỳ thi Hương."
+  },
+  {
+    "id": "VH_2932",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cấu trúc trường thi trong kỳ thi Hương.",
+    "question": "Trường thi được chia thành bao nhiêu phần và chúng được gọi là gì?",
+    "answer": "Trường thi được chia thành bốn phần đều nhau, gọi là bốn vi."
+  },
+  {
+    "id": "VH_2933",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về an ninh trong kỳ thi Hương.",
+    "question": "Có bao nhiêu binh sĩ được phân bổ để trông coi trường thi cho mỗi 1.000 thí sinh?",
+    "answer": "Cứ trung bình 1.000 thí sinh sẽ có 300 lính cùng với voi ngựa trông coi trường thi."
+  },
+  {
+    "id": "VH_2934",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thời gian tổ chức kỳ thi Hương.",
+    "question": "Kỳ thi Hương thường được tổ chức vào mùa nào?",
+    "answer": "Kỳ thi Hương thường được tổ chức vào mùa hạ."
+  },
+  {
+    "id": "VH_2935",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quy định dự thi trong kỳ thi Hương.",
+    "question": "Thí sinh có được phép dự thi ở bất kỳ trường thi nào không?",
+    "answer": "Thí sinh không được phép dự thi ở bất kỳ trường thi nào, mà chỉ được thi ở khu vực mà họ sinh sống."
+  }
+]

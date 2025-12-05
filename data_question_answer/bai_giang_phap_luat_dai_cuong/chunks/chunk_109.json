@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_541",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm pháp luật.",
+    "question": "Vi phạm pháp luật được xác định dựa trên những yếu tố nào?",
+    "answer": "Vi phạm pháp luật là sự thống nhất của 4 yếu tố, nhưng trong nhiều trường hợp có thể chỉ cần xác định 3 dấu hiệu: hành vi, tính chất trái pháp luật và có lỗi của hành vi."
+  },
+  {
+    "id": "PL_542",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực hành vi và trách nhiệm pháp lý.",
+    "question": "Năng lực hành vi trách nhiệm pháp lý của con người phụ thuộc vào những yếu tố nào?",
+    "answer": "Năng lực hành vi trách nhiệm pháp lý của con người phụ thuộc vào độ tuổi, tình trạng sức khỏe (có bị bệnh làm mất hoặc hạn chế khả năng nhận thức hành vi của mình hay không) và từng loại trách nhiệm pháp lý được pháp luật quy định cụ thể."
+  },
+  {
+    "id": "PL_543",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại vi phạm pháp luật.",
+    "question": "Vi phạm hình sự là gì và được quy định ở đâu?",
+    "answer": "Vi phạm hình sự (tội phạm) là những hành vi nguy hiểm cho xã hội và được quy định trong Bộ luật hình sự."
+  },
+  {
+    "id": "PL_544",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vi phạm hành chính.",
+    "question": "Vi phạm hành chính có đặc điểm gì so với vi phạm hình sự?",
+    "answer": "Vi phạm hành chính là hành vi trái pháp luật, có lỗi, mức độ nguy hiểm cho xã hội ít hơn so với vi phạm hình sự và xâm phạm các quan hệ xã hội do các văn bản pháp luật về hành chính bảo vệ."
+  },
+  {
+    "id": "PL_545",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vi phạm dân sự.",
+    "question": "Vi phạm dân sự là hành vi như thế nào?",
+    "answer": "Vi phạm dân sự là hành vi trái pháp luật, có lỗi, xâm hại tới các quan hệ tài sản và quan hệ nhân thân phi tài sản."
+  }
+]

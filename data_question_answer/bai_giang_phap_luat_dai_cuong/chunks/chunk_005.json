@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_021",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm pháp luật.",
+    "question": "Vi phạm pháp luật được hiểu là gì?",
+    "answer": "Vi phạm pháp luật là hành vi trái với quy định của pháp luật, gây thiệt hại hoặc đe dọa đến lợi ích của nhà nước, tổ chức, cá nhân, và bị xử lý theo quy định pháp luật."
+  },
+  {
+    "id": "PL_022",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại vi phạm pháp luật.",
+    "question": "Có bao nhiêu loại vi phạm pháp luật theo quy định?",
+    "answer": "Vi phạm pháp luật được chia thành các loại chính, bao gồm: vi phạm hành chính, vi phạm hình sự, vi phạm dân sự, và vi phạm kỷ luật."
+  },
+  {
+    "id": "PL_023",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm trách nhiệm pháp lý.",
+    "question": "Trách nhiệm pháp lý là gì?",
+    "answer": "Trách nhiệm pháp lý là nghĩa vụ pháp lý mà cá nhân, tổ chức phải chịu khi có hành vi vi phạm pháp luật, được áp dụng nhằm bảo đảm trật tự xã hội và bảo vệ quyền lợi hợp pháp."
+  },
+  {
+    "id": "PL_024",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của trách nhiệm pháp lý.",
+    "question": "Trách nhiệm pháp lý có những đặc điểm chính nào?",
+    "answer": "Trách nhiệm pháp lý có các đặc điểm chính như: chỉ phát sinh khi có hành vi vi phạm pháp luật, được áp dụng bởi cơ quan có thẩm quyền, và nhằm mục đích răn đe, giáo dục, phục hồi trật tự pháp luật."
+  },
+  {
+    "id": "PL_025",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mục đích của trách nhiệm pháp lý.",
+    "question": "Mục đích của việc áp dụng trách nhiệm pháp lý là gì?",
+    "answer": "Mục đích của trách nhiệm pháp lý là bảo vệ trật tự pháp luật, bảo vệ quyền và lợi ích hợp pháp của nhà nước, tổ chức, cá nhân cũng như ngăn ngừa hành vi vi phạm pháp luật."
+  }
+]

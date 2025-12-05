@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1046",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tham nhũng theo pháp luật Việt Nam.",
+    "question": "Tham nhũng được định nghĩa là gì theo Luật phòng chống tham nhũng?",
+    "answer": "Tham nhũng là hành vi của người có chức vụ, quyền hạn sử dụng chức vụ, quyền hạn của mình làm trái pháp luật để mưu cầu lợi ích riêng."
+  },
+  {
+    "id": "PL_1047",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện để một người có thể thực hiện hành vi tham nhũng.",
+    "question": "Người thực hiện hành vi tham nhũng phải đáp ứng điều kiện gì về chức vụ và quyền hạn?",
+    "answer": "Người thực hiện hành vi tham nhũng phải là người có chức vụ, quyền hạn."
+  },
+  {
+    "id": "PL_1048",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về lý do liên quan giữa chức vụ, quyền hạn và hành vi tham nhũng.",
+    "question": "Tại sao chỉ người có chức vụ, quyền hạn mới có khả năng thực hiện hành vi tham nhũng?",
+    "answer": "Chỉ người có chức vụ, quyền hạn mới có thể lợi dụng chức vụ, quyền hạn của mình để thực hiện hành vi tham nhũng."
+  },
+  {
+    "id": "PL_1049",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi áp dụng của Luật phòng chống tham nhũng.",
+    "question": "Luật phòng chống tham nhũng áp dụng đối với những đối tượng nào?",
+    "answer": "Luật phòng chống tham nhũng áp dụng đối với những người có chức vụ, quyền hạn."
+  },
+  {
+    "id": "PL_1050",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tình hình tham nhũng tại Việt Nam.",
+    "question": "Tình hình tham nhũng tại Việt Nam hiện nay được đánh giá như thế nào?",
+    "answer": "Tình hình tham nhũng tại Việt Nam hiện nay được đánh giá là có những diễn biến rất phức tạp."
+  }
+]

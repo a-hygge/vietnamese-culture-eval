@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_051",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật lao động Việt Nam.",
+    "question": "Kỷ luật lao động được quy định nhằm mục đích gì trong pháp luật Việt Nam?",
+    "answer": "Kỷ luật lao động được quy định nhằm đảm bảo trật tự, hiệu quả trong quá trình lao động, đồng thời yêu cầu người lao động tuân thủ các nội quy, quy định của doanh nghiệp."
+  },
+  {
+    "id": "PL_052",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về pháp luật bảo hiểm xã hội.",
+    "question": "Bảo hiểm xã hội có vai trò gì trong việc hỗ trợ người lao động khi gặp rủi ro?",
+    "answer": "Bảo hiểm xã hội đóng vai trò bảo vệ quyền lợi người lao động bằng cách cung cấp các chế độ hỗ trợ khi họ gặp rủi ro như ốm đau, tai nạn, thai sản hoặc nghỉ hưu."
+  },
+  {
+    "id": "PL_053",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi người lao động.",
+    "question": "Quy định về thời giờ làm việc và thời giờ nghỉ ngơi nhằm đảm bảo điều gì cho người lao động?",
+    "answer": "Quy định này nhằm đảm bảo quyền lợi của người lao động, duy trì sức khỏe, cân bằng giữa công việc và cuộc sống."
+  },
+  {
+    "id": "PL_054",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về pháp luật công đoàn.",
+    "question": "Công đoàn có vai trò như thế nào trong việc bảo vệ quyền lợi của người lao động?",
+    "answer": "Công đoàn có vai trò đại diện, bảo vệ quyền lợi hợp pháp của người lao động, tham gia xây dựng chính sách lao động, giám sát và hỗ trợ giải quyết tranh chấp lao động."
+  },
+  {
+    "id": "PL_055",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật kinh doanh tại Việt Nam.",
+    "question": "Luật kinh doanh được định nghĩa như thế nào trong hệ thống pháp luật Việt Nam?",
+    "answer": "Luật kinh doanh là hệ thống các quy phạm pháp luật điều chỉnh hoạt động kinh doanh, bao gồm tổ chức, vận hành và quản lý các loại hình doanh nghiệp, nhằm đảm bảo trật tự và phát triển kinh tế."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1416",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật tố tụng dân sự.",
+    "question": "Luật tố tụng dân sự là gì?",
+    "answer": "Luật tố tụng dân sự là tổng hợp các quy phạm pháp luật điều chỉnh các quan hệ xã hội phát sinh giữa toà án, viện kiểm sát và những người tham gia tố tụng trong quá trình giải quyết vụ án dân sự."
+  },
+  {
+    "id": "PL_1417",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của luật tố tụng dân sự.",
+    "question": "Luật tố tụng dân sự điều chỉnh những quan hệ nào?",
+    "answer": "Luật tố tụng dân sự điều chỉnh các quan hệ xã hội phát sinh giữa toà án, viện kiểm sát và những người tham gia tố tụng trong quá trình giải quyết vụ án dân sự."
+  },
+  {
+    "id": "PL_1418",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các cơ quan tham gia vào tố tụng dân sự.",
+    "question": "Những cơ quan nào tham gia vào tố tụng dân sự?",
+    "answer": "Các cơ quan tham gia vào quá trình tố tụng dân sự bao gồm toà án và viện kiểm sát."
+  },
+  {
+    "id": "PL_1419",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các đối tượng tham gia tố tụng dân sự.",
+    "question": "Ai có thể tham gia vào quá trình tố tụng dân sự?",
+    "answer": "Những người tham gia vào quá trình tố tụng dân sự bao gồm các cá nhân và tổ chức liên quan trực tiếp đến vụ án dân sự."
+  },
+  {
+    "id": "PL_1420",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi áp dụng của luật tố tụng dân sự.",
+    "question": "Luật tố tụng dân sự áp dụng trong trường hợp nào?",
+    "answer": "Luật tố tụng dân sự được áp dụng trong quá trình toà án giải quyết các vụ án dân sự."
+  }
+]

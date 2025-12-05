@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1121",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Kẽ hở trong quy định pháp luật được hiểu như thế nào?",
+    "answer": "Kẽ hở trong quy định pháp luật là các điểm bất cập, thiếu minh bạch, không rõ ràng hoặc thiếu hướng dẫn trong các quy định pháp luật, tạo điều kiện cho việc lợi dụng để thực hiện hành vi tiêu cực."
+  },
+  {
+    "id": "PL_1122",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ công dân.",
+    "question": "Công dân cần làm gì để góp phần đảm bảo tính minh bạch của pháp luật?",
+    "answer": "Công dân cần tuân thủ pháp luật, đồng thời phản ánh và đóng góp ý kiến để hoàn thiện các quy định pháp luật, nhằm đảm bảo tính minh bạch và rõ ràng."
+  },
+  {
+    "id": "PL_1123",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quản lý tài sản công.",
+    "question": "Những hạn chế phổ biến trong quản lý tài sản công là gì?",
+    "answer": "Những hạn chế phổ biến trong quản lý tài sản công bao gồm quy định chưa rõ ràng, thiếu minh bạch, và không khả thi, dẫn đến việc lạm dụng, gây khó khăn trong thực hiện công vụ và phát sinh hành vi tiêu cực."
+  },
+  {
+    "id": "PL_1124",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật trong quản lý xã hội.",
+    "question": "Tính thống nhất trong việc áp dụng pháp luật mang lại lợi ích gì?",
+    "answer": "Tính thống nhất trong việc áp dụng pháp luật mang lại lợi ích như tránh sự tùy tiện, đảm bảo công bằng, minh bạch và hiệu quả trong quản lý xã hội, đồng thời hạn chế các hành vi lợi dụng kẽ hở pháp luật."
+  },
+  {
+    "id": "PL_1125",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp quyền.",
+    "question": "Hậu quả của việc thiếu văn bản hướng dẫn thực thi pháp luật là gì?",
+    "answer": "Hậu quả của việc thiếu văn bản hướng dẫn thực thi pháp luật là áp dụng pháp luật không thống nhất, tạo sự tùy tiện, phát sinh hành vi tiêu cực và làm giảm hiệu quả của pháp luật trong quản lý xã hội."
+  }
+]

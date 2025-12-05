@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3081",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Tại sao việc viết gia phả được coi là quan trọng trong văn hóa gia đình Việt Nam?",
+    "answer": "Việc viết gia phả được coi là quan trọng vì nó giúp ghi lại lịch sử dòng họ, tạo sự gắn kết giữa các thế hệ và duy trì truyền thống văn hóa lâu đời của người Việt."
+  },
+  {
+    "id": "VH_3082",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Điểm khác biệt nổi bật giữa văn hóa Việt Nam và các nước Đông Nam Á khác liên quan đến gia phả là gì?",
+    "answer": "Điểm khác biệt nổi bật là văn hóa Việt Nam chú trọng viết và duy trì gia phả một cách chi tiết qua nhiều thế hệ, điều này không phổ biến trong văn hóa các nước Đông Nam Á khác."
+  },
+  {
+    "id": "VH_3083",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Truyền thống viết gia phả ở Việt Nam có nguồn gốc từ đâu?",
+    "answer": "Truyền thống viết gia phả ở Việt Nam có nguồn gốc từ văn hóa Hán, nơi các dòng họ như họ Khổng Tử đã duy trì gia phả qua hàng nghìn năm."
+  },
+  {
+    "id": "VH_3084",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Vì sao số lượng gia phả thực tế ở Việt Nam thường không được ghi nhận đầy đủ?",
+    "answer": "Số lượng gia phả thực tế thường không được ghi nhận đầy đủ vì người dân thường giữ lại bản sao cho gia đình thay vì nộp cho nhà nước, dẫn đến nhiều gia phả không được liệt kê trong các thư mục chính thức."
+  },
+  {
+    "id": "VH_3085",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Giai đoạn nào phong trào dịch gia phả từ chữ Hán sang chữ quốc ngữ bị gián đoạn?",
+    "answer": "Phong trào dịch gia phả từ chữ Hán sang chữ quốc ngữ bị gián đoạn trong giai đoạn 1945 - 1975."
+  }
+]

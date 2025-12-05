@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_786",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ và quyền hạn của Thủ tướng Chính phủ.",
+    "question": "Thủ tướng Chính phủ có quyền lãnh đạo và chịu trách nhiệm về hoạt động của hệ thống hành chính nhà nước như thế nào?",
+    "answer": "Thủ tướng Chính phủ lãnh đạo và chịu trách nhiệm về hoạt động của hệ thống hành chính nhà nước từ trung ương đến địa phương, bảo đảm tính thống nhất và thông suốt của nền hành chính quốc gia."
+  },
+  {
+    "id": "PL_787",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Thủ tướng Chính phủ trong việc bãi bỏ văn bản pháp luật.",
+    "question": "Thủ tướng Chính phủ có quyền đình chỉ hoặc bãi bỏ những loại văn bản nào?",
+    "answer": "Thủ tướng Chính phủ có quyền đình chỉ việc thi hành hoặc bãi bỏ văn bản của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà nước cấp trên; đồng thời đình chỉ việc thi hành nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà nước cấp trên, và đề nghị Ủy ban thường vụ Quốc hội bãi bỏ."
+  },
+  {
+    "id": "PL_788",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Thủ tướng Chính phủ trong việc bổ nhiệm, miễn nhiệm cán bộ.",
+    "question": "Thủ tướng Chính phủ có quyền bổ nhiệm, miễn nhiệm, cách chức những chức vụ nào?",
+    "answer": "Thủ tướng Chính phủ có quyền trình Quốc hội phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ; bổ nhiệm, miễn nhiệm, cách chức Thứ trưởng, chức vụ tương đương thuộc bộ, cơ quan ngang bộ; phê chuẩn việc bầu, miễn nhiệm và quyết định điều động, cách chức Chủ tịch, Phó Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương."
+  },
+  {
+    "id": "PL_789",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của Thủ tướng Chính phủ trong việc xây dựng chính sách.",
+    "question": "Thủ tướng Chính phủ có nhiệm vụ gì trong việc xây dựng chính sách và tổ chức thi hành pháp luật?",
+    "answer": "Thủ tướng Chính phủ lãnh đạo việc xây dựng chính sách và tổ chức thi hành pháp luật."
+  },
+  {
+    "id": "PL_790",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của Thủ tướng Chính phủ trong lĩnh vực điều ước quốc tế.",
+    "question": "Thủ tướng Chính phủ có thẩm quyền gì liên quan đến điều ước quốc tế?",
+    "answer": "Thủ tướng Chính phủ quyết định và chỉ đạo việc đàm phán, chỉ đạo việc ký, gia nhập điều ước quốc tế thuộc nhiệm vụ, quyền hạn của Chính phủ; tổ chức thực hiện điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+  }
+]

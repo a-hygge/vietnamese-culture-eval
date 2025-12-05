@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1301",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền định đoạt tài sản.",
+    "question": "Người không phải là chủ sở hữu tài sản có thể thực hiện quyền định đoạt tài sản trong trường hợp nào?",
+    "answer": "Người không phải là chủ sở hữu tài sản chỉ có quyền định đoạt tài sản theo ủy quyền của chủ sở hữu hoặc theo quy định của luật."
+  },
+  {
+    "id": "PL_1302",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hạn chế quyền định đoạt tài sản.",
+    "question": "Quyền định đoạt tài sản bị hạn chế trong trường hợp nào?",
+    "answer": "Quyền định đoạt tài sản chỉ bị hạn chế trong trường hợp do luật quy định, ví dụ như khi tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa."
+  },
+  {
+    "id": "PL_1303",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền ưu tiên mua tài sản.",
+    "question": "Nhà nước có quyền ưu tiên mua tài sản trong trường hợp nào?",
+    "answer": "Nhà nước có quyền ưu tiên mua tài sản khi tài sản đem bán là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa."
+  },
+  {
+    "id": "PL_1304",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền ưu tiên mua của cá nhân hoặc pháp nhân.",
+    "question": "Cá nhân hoặc pháp nhân được quyền ưu tiên mua trong trường hợp nào?",
+    "answer": "Cá nhân hoặc pháp nhân có quyền ưu tiên mua trong trường hợp tài sản được bán và họ có quyền ưu tiên theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_1305",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về Luật di sản văn hóa.",
+    "question": "Luật di sản văn hóa quy định gì về việc mua bán tài sản thuộc di tích lịch sử - văn hóa?",
+    "answer": "Theo Luật di sản văn hóa, khi tài sản thuộc di tích lịch sử - văn hóa được đem bán, Nhà nước có quyền ưu tiên mua."
+  }
+]

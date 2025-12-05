@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_596",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc bầu cử tại Việt Nam.",
+    "question": "Việc bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân tại Việt Nam được tiến hành theo những nguyên tắc nào?",
+    "answer": "Việc bầu cử được tiến hành theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín."
+  },
+  {
+    "id": "PL_597",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bãi nhiệm đại biểu.",
+    "question": "Ai có quyền bãi nhiệm đại biểu Quốc hội và đại biểu Hội đồng nhân dân khi họ không còn xứng đáng với sự tín nhiệm?",
+    "answer": "Cử tri, Quốc hội hoặc Hội đồng nhân dân có quyền bãi nhiệm đại biểu Quốc hội và đại biểu Hội đồng nhân dân khi họ không còn xứng đáng với sự tín nhiệm."
+  },
+  {
+    "id": "PL_598",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc tổ chức và hoạt động của nhà nước Việt Nam.",
+    "question": "Nhà nước Việt Nam được tổ chức và hoạt động dựa trên nguyên tắc nào?",
+    "answer": "Nhà nước Việt Nam được tổ chức và hoạt động theo Hiến pháp, pháp luật và thực hiện nguyên tắc tập trung dân chủ."
+  },
+  {
+    "id": "PL_599",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của cơ quan nhà nước và cán bộ, công chức.",
+    "question": "Cán bộ, công chức, viên chức tại Việt Nam có trách nhiệm gì đối với Nhân dân?",
+    "answer": "Họ phải tôn trọng Nhân dân, tận tụy phục vụ Nhân dân, liên hệ chặt chẽ với Nhân dân, lắng nghe ý kiến và chịu sự giám sát của Nhân dân; kiên quyết đấu tranh chống tham nhũng, lãng phí và các biểu hiện quan liêu, hách dịch, cửa quyền."
+  },
+  {
+    "id": "PL_600",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Mặt trận Tổ quốc Việt Nam.",
+    "question": "Mặt trận Tổ quốc Việt Nam có vai trò gì trong hệ thống chính trị Việt Nam?",
+    "answer": "Mặt trận Tổ quốc Việt Nam là tổ chức liên minh chính trị, liên hiệp tự nguyện, là cơ sở chính trị của chính quyền nhân dân, đại diện và bảo vệ quyền, lợi ích hợp pháp của Nhân dân."
+  }
+]

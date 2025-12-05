@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_771",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức Chính phủ Việt Nam.",
+    "question": "Phó Thủ tướng có vai trò gì khi được Thủ tướng giao nhiệm vụ?",
+    "answer": "Phó Thủ tướng thay mặt Thủ tướng lãnh đạo công tác của Chính phủ."
+  },
+  {
+    "id": "PL_772",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của các thành viên Chính phủ.",
+    "question": "Thành viên Chính phủ chịu trách nhiệm trước ai về lĩnh vực được giao?",
+    "answer": "Thành viên Chính phủ chịu trách nhiệm trước Thủ tướng, Chính phủ và Quốc hội."
+  },
+  {
+    "id": "PL_773",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc hoạt động của Chính phủ.",
+    "question": "Chính phủ hoạt động dựa trên nguyên tắc nào?",
+    "answer": "Chính phủ hoạt động dựa trên nguyên tắc tập thể lãnh đạo, cá nhân phụ trách."
+  },
+  {
+    "id": "PL_774",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ của Bộ trưởng.",
+    "question": "Bộ trưởng có trách nhiệm gì đối với ngành được phân công?",
+    "answer": "Bộ trưởng chịu trách nhiệm trước Thủ tướng, Chính phủ và Quốc hội về ngành được phân công."
+  },
+  {
+    "id": "PL_775",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Phó Thủ tướng.",
+    "question": "Phó Thủ tướng thực hiện nhiệm vụ gì khi được Thủ tướng giao?",
+    "answer": "Phó Thủ tướng lãnh đạo công tác của Chính phủ khi được Thủ tướng giao."
+  }
+]

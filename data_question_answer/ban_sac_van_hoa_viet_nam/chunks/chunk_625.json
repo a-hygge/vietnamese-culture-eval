@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3121",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Thầy mo ở miền núi Việt Nam có đặc điểm gì nổi bật trong việc học tập và sử dụng tri thức?",
+    "answer": "Thầy mo ở miền núi Việt Nam thường có học vấn vững chãi hơn về Hán học nhờ tiếp cận một số sách từ Trung Quốc."
+  },
+  {
+    "id": "VH_3122",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng văn hóa Trung Quốc đến Việt Nam.",
+    "question": "Người Việt Nam thời xưa đã tiếp thu tư tưởng Trung Quốc bằng cách nào?",
+    "answer": "Người Việt Nam thời xưa tiếp thu tư tưởng Trung Quốc thông qua việc nghiên cứu và học hỏi từ các sách Hán học."
+  },
+  {
+    "id": "VH_3123",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Hán học đã ảnh hưởng như thế nào đến đời sống văn hóa tín ngưỡng của người Việt?",
+    "answer": "Hán học đã giúp nâng cao học vấn, mở rộng tri thức và đóng vai trò quan trọng trong việc định hình văn hóa tín ngưỡng của người Việt."
+  },
+  {
+    "id": "VH_3124",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và triết học ở Việt Nam.",
+    "question": "Thư mục 'Nhogiáo' bao gồm bao nhiêu quyển sách?",
+    "answer": "Thư mục 'Nhogiáo' bao gồm 129 quyển sách."
+  },
+  {
+    "id": "VH_3125",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Việc tiếp thu tư tưởng Trung Quốc có ý nghĩa gì đối với sự phát triển văn hóa Việt Nam?",
+    "answer": "Việc tiếp thu tư tưởng Trung Quốc đã giúp mở rộng tri thức, xây dựng nền tảng văn hóa, tín ngưỡng và triết học của dân tộc Việt Nam."
+  }
+]

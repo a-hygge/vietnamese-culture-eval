@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1181",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các đặc điểm của hệ sinh thái rừng nhiệt đới.",
+    "question": "Hệ sinh thái rừng nhiệt đới có đặc điểm nổi bật nào về đa dạng sinh học?",
+    "answer": "Hệ sinh thái rừng nhiệt đới có đa dạng sinh học cao, với nhiều loài động thực vật phong phú và độc đáo."
+  },
+  {
+    "id": "PL_1182",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nước trong cơ thể con người.",
+    "question": "Tại sao nước được coi là yếu tố quan trọng đối với sự sống của con người?",
+    "answer": "Nước quan trọng vì nó tham gia vào hầu hết các quá trình sinh học, giúp điều hòa nhiệt độ cơ thể, vận chuyển chất dinh dưỡng và loại bỏ chất thải."
+  },
+  {
+    "id": "PL_1183",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân của biến đổi khí hậu.",
+    "question": "Nguyên nhân chính nào dẫn đến hiện tượng biến đổi khí hậu toàn cầu?",
+    "answer": "Nguyên nhân chính là sự gia tăng khí nhà kính trong khí quyển, chủ yếu do hoạt động của con người như đốt nhiên liệu hóa thạch và phá rừng."
+  },
+  {
+    "id": "PL_1184",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của giáo dục trong phát triển xã hội.",
+    "question": "Giáo dục đóng vai trò gì trong việc thúc đẩy sự phát triển của xã hội?",
+    "answer": "Giáo dục giúp nâng cao tri thức, kỹ năng và ý thức công dân, từ đó thúc đẩy sự tiến bộ kinh tế, văn hóa và xã hội."
+  },
+  {
+    "id": "PL_1185",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các yếu tố ảnh hưởng đến sức khỏe con người.",
+    "question": "Những yếu tố nào có thể ảnh hưởng tiêu cực đến sức khỏe con người?",
+    "answer": "Các yếu tố như ô nhiễm môi trường, thói quen ăn uống không lành mạnh, thiếu vận động và căng thẳng có thể ảnh hưởng tiêu cực đến sức khỏe con người."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1441",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người khởi kiện trong vụ án dân sự.",
+    "question": "Người khởi kiện cần cung cấp những thông tin gì trong đơn khởi kiện?",
+    "answer": "Người khởi kiện cần ghi rõ họ tên, địa chỉ của mình, của bị đơn, người có quyền lợi nghĩa vụ liên quan; nội dung sự việc; yêu cầu của mình và những tài liệu, lý lẽ chứng minh cho yêu cầu đó."
+  },
+  {
+    "id": "PL_1442",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy trình thụ lý vụ án tại tòa án.",
+    "question": "Tòa án thụ lý vụ án khi nào?",
+    "answer": "Tòa án thụ lý vụ án khi người khởi kiện nộp cho tòa án biên lai nộp tiền tạm ứng án phí hoặc khi người khởi kiện được miễn hoặc không phải nộp tiền tạm ứng án phí và tòa án nhận được đơn khởi kiện cùng tài liệu chứng cứ kèm theo."
+  },
+  {
+    "id": "PL_1443",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của thẩm phán trong việc lập hồ sơ vụ án.",
+    "question": "Thẩm phán được phân công giải quyết vụ án có trách nhiệm gì trong việc lập hồ sơ vụ án?",
+    "answer": "Thẩm phán có trách nhiệm lập hồ sơ vụ án, bao gồm việc tiến hành các biện pháp điều tra như lấy lời khai của các đương sự hoặc người làm chứng, yêu cầu cung cấp bằng chứng, xem xét tại chỗ, trưng cầu giám định, yêu cầu định giá hoặc lập hội đồng định giá tài sản có tranh chấp."
+  },
+  {
+    "id": "PL_1444",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền yêu cầu của thẩm phán trong quá trình điều tra vụ án.",
+    "question": "Thẩm phán có quyền yêu cầu những cơ quan, tổ chức hoặc cá nhân nào cung cấp bằng chứng trong quá trình điều tra vụ án?",
+    "answer": "Thẩm phán có quyền yêu cầu cơ quan nhà nước, tổ chức xã hội hữu quan hoặc công dân cung cấp bằng chứng có ý nghĩa cho việc giải quyết vụ án."
+  },
+  {
+    "id": "PL_1445",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc ủy thác điều tra giữa các tòa án.",
+    "question": "Khi cần điều tra ngoài địa hạt của mình, tòa án có thể thực hiện biện pháp nào?",
+    "answer": "Khi cần điều tra ngoài địa hạt của mình, tòa án có thể ủy thác cho tòa án nơi cần phải điều tra thực hiện việc điều tra."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2091",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa chữ viết.",
+    "question": "Vì sao chữ viết được coi là công cụ quan trọng trong việc duy trì sự thống nhất của Trung Hoa?",
+    "answer": "Chữ viết được coi là công cụ quan trọng trong việc duy trì sự thống nhất của Trung Hoa vì nó không bị ảnh hưởng bởi sự phân chia về chính trị, kinh tế hay văn hóa, mà tạo ra sự kết nối xuyên suốt qua hàng ngàn năm lịch sử."
+  },
+  {
+    "id": "VH_2092",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của hệ thống chữ viết Hán tự.",
+    "question": "Đặc điểm nào của chữ Hán giúp người am hiểu Hán cổ có thể đọc được các văn kiện từ thời Tần đến nay?",
+    "answer": "Chữ Hán không dựa trên phiên âm, điều này giúp người am hiểu Hán cổ có thể đọc được các văn kiện từ thời Tần đến nay mà không bị ảnh hưởng bởi sự thay đổi ngôn ngữ theo thời gian."
+  },
+  {
+    "id": "VH_2093",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của chữ Hán trong văn hóa Đông Á.",
+    "question": "Chữ Hán đã đóng vai trò gì trong việc kết nối văn hóa giữa các quốc gia Đông Á?",
+    "answer": "Chữ Hán đã lan rộng ra khu vực Đông Á, tạo điều kiện để các quốc gia như Việt Nam, Triều Tiên và Nhật Bản giao tiếp và chia sẻ văn hóa thông qua một hệ thống chữ viết chung."
+  },
+  {
+    "id": "VH_2094",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về việc học chữ Hán trong văn hóa Việt Nam cổ.",
+    "question": "Người Việt Nam thời xưa thường học và sử dụng những kiểu chữ Hán nào?",
+    "answer": "Người Việt Nam thời xưa thường học chữ chân và một số chữ thảo. Đối với chữ triện và chữ lệ, họ thường phải tra cứu để hiểu rõ hơn."
+  },
+  {
+    "id": "VH_2095",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa chữ Hán và các hệ chữ viết theo ngữ âm.",
+    "question": "Chữ Hán khác biệt như thế nào so với các hệ chữ viết dựa trên ngữ âm?",
+    "answer": "Chữ Hán không dựa trên ngữ âm, cho phép người đọc hiểu các văn bản cổ qua nhiều thời kỳ lịch sử, trong khi các hệ chữ viết dựa trên ngữ âm thường không thể đọc được các văn bản cổ do sự thay đổi ngữ âm theo thời gian."
+  }
+]

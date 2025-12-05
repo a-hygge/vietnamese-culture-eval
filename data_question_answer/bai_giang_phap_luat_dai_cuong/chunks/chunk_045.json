@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_221",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của nhà nước trong đảm bảo an ninh chính trị.",
+    "question": "Nhà nước áp dụng những biện pháp nào để duy trì an ninh chính trị?",
+    "answer": "Nhà nước áp dụng các biện pháp như phòng ngừa, ngăn chặn các âm mưu gây rối, bảo vệ an ninh quốc gia và trấn áp các thế lực thù địch nhằm củng cố sự ổn định chính trị."
+  },
+  {
+    "id": "PL_222",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách xã hội của nhà nước.",
+    "question": "Nhà nước hỗ trợ người về hưu và các đối tượng chính sách bằng cách nào?",
+    "answer": "Nhà nước thực hiện các chính sách chăm sóc, hỗ trợ vật chất và tinh thần để giảm bớt khó khăn cho người về hưu và các đối tượng chính sách."
+  },
+  {
+    "id": "PL_223",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nhà nước trong việc giải quyết các vấn đề xã hội.",
+    "question": "Nhà nước làm gì để giải quyết các vấn đề xã hội như người già cô đơn hay trẻ em lang thang?",
+    "answer": "Nhà nước hỗ trợ người già cô đơn, trẻ em lang thang không nơi nương tựa và xử lý các tệ nạn xã hội nhằm đảm bảo an sinh xã hội."
+  },
+  {
+    "id": "PL_224",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng đối ngoại của nhà nước Việt Nam.",
+    "question": "Chức năng đối ngoại của nhà nước Việt Nam tập trung vào những nhiệm vụ nào?",
+    "answer": "Chức năng đối ngoại tập trung vào bảo vệ Tổ quốc xã hội chủ nghĩa và ngăn ngừa nguy cơ xâm lăng từ bên ngoài."
+  },
+  {
+    "id": "PL_225",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc sử dụng sức mạnh bạo lực của nhà nước.",
+    "question": "Nguyên tắc nào được áp dụng khi nhà nước sử dụng sức mạnh bạo lực?",
+    "answer": "Nhà nước chỉ sử dụng sức mạnh bạo lực trong phạm vi, hình thức và biện pháp được quy định chặt chẽ bởi pháp luật."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_196",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật trong bảo vệ quyền công dân.",
+    "question": "Nhà nước Việt Nam thực hiện những biện pháp gì để đảm bảo các quyền tự do dân chủ của công dân?",
+    "answer": "Nhà nước tạo cơ sở pháp lý vững chắc để bảo đảm các quyền tự do dân chủ của công dân, như quyền tự do tư tưởng, tự do báo chí, hội họp, tín ngưỡng, quyền bất khả xâm phạm về thân thể, nhà ở và các quyền khác."
+  },
+  {
+    "id": "PL_197",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của nhà nước trong lĩnh vực văn hóa-xã hội.",
+    "question": "Nhà nước Việt Nam thực hiện những chính sách nào để giải quyết các vấn đề xã hội?",
+    "answer": "Nhà nước quan tâm giải quyết các vấn đề như việc làm, thất nghiệp, chăm sóc người già cô đơn, trẻ em mồ côi, đấu tranh chống các tệ nạn xã hội, phát triển giáo dục, khoa học công nghệ, bảo vệ sức khỏe nhân dân."
+  },
+  {
+    "id": "PL_198",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của nhà nước trong bảo vệ an ninh quốc gia.",
+    "question": "Nhà nước Việt Nam có những biện pháp nào để bảo vệ an ninh quốc gia và quyền lợi của công dân?",
+    "answer": "Nhà nước kiên quyết trừng trị các hành vi phá hoại, lật đổ, xâm hại đến an ninh quốc gia; đồng thời bảo vệ các quyền và lợi ích hợp pháp của công dân, đấu tranh chống các vi phạm pháp luật."
+  },
+  {
+    "id": "PL_199",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách đối ngoại của nhà nước Việt Nam.",
+    "question": "Nhà nước Việt Nam thực hiện chính sách đối ngoại như thế nào?",
+    "answer": "Nhà nước thực hiện chính sách đối ngoại hòa bình, hữu nghị, mở rộng giao lưu và hợp tác với tất cả các nước trên thế giới, không phân biệt chế độ chính trị."
+  },
+  {
+    "id": "PL_200",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mục tiêu của nền kinh tế thị trường trong xã hội chủ nghĩa.",
+    "question": "Mục tiêu của nền kinh tế thị trường trong định hướng xã hội chủ nghĩa là gì?",
+    "answer": "Nền kinh tế thị trường là phương tiện cần thiết để nhà nước và xã hội đạt được mục tiêu 'dân giàu, nước mạnh, xã hội công bằng, văn minh'."
+  }
+]

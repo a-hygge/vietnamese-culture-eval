@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1206",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực hành vi dân sự của người chưa thành niên.",
+    "question": "Người từ đủ sáu tuổi đến chưa đủ mười tám tuổi cần điều kiện gì để thực hiện giao dịch dân sự?",
+    "answer": "Người từ đủ sáu tuổi đến chưa đủ mười tám tuổi khi thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch nhằm phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi hoặc pháp luật có quy định khác."
+  },
+  {
+    "id": "PL_1207",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực hành vi dân sự của người chưa thành niên.",
+    "question": "Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể tự mình thực hiện giao dịch dân sự trong trường hợp nào?",
+    "answer": "Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể tự mình thực hiện giao dịch dân sự nếu có tài sản riêng bảo đảm thực hiện nghĩa vụ, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "id": "PL_1208",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực hành vi dân sự của người chưa thành niên.",
+    "question": "Người chưa đủ sáu tuổi có năng lực hành vi dân sự không?",
+    "answer": "Người chưa đủ sáu tuổi không có năng lực hành vi dân sự. Giao dịch dân sự của họ phải do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "id": "PL_1209",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mất năng lực hành vi dân sự.",
+    "question": "Khi nào một người bị tuyên bố mất năng lực hành vi dân sự?",
+    "answer": "Một người bị tuyên bố mất năng lực hành vi dân sự khi bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ hành vi của mình, trên cơ sở kết luận của tổ chức giám định và quyết định của Toà án theo yêu cầu của người có quyền, lợi ích liên quan."
+  },
+  {
+    "id": "PL_1210",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về huỷ bỏ quyết định mất năng lực hành vi dân sự.",
+    "question": "Quyết định tuyên bố mất năng lực hành vi dân sự sẽ được huỷ bỏ trong trường hợp nào?",
+    "answer": "Quyết định tuyên bố mất năng lực hành vi dân sự sẽ được huỷ bỏ khi không còn căn cứ để tuyên bố mất năng lực hành vi dân sự, theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan."
+  }
+]

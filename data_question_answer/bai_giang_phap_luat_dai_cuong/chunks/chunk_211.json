@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1051",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Người có chức vụ, quyền hạn bao gồm những nhóm đối tượng nào?",
+    "answer": "Người có chức vụ, quyền hạn bao gồm: a) Cán bộ, công chức, viên chức; b) Sĩ quan, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng, người làm công tác cơ yếu trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn - kỹ thuật trong cơ quan, đơn vị thuộc Công an nhân dân; c) Người đại diện phần vốn nhà nước tại doanh nghiệp; người giữ chức danh quản lý trong doanh nghiệp; d) Những người khác được giao thực hiện nhiệm vụ, công vụ và có quyền hạn trong khi thực hiện nhiệm vụ, công vụ đó."
+  },
+  {
+    "id": "PL_1052",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi tham nhũng theo pháp luật Việt Nam.",
+    "question": "Hành vi tham nhũng khác với các hành vi vi phạm pháp luật khác ở điểm nào?",
+    "answer": "Hành vi tham nhũng khác ở chỗ nó được thực hiện bởi người có chức vụ, quyền hạn, lợi dụng chức vụ, quyền hạn của mình làm trái pháp luật để mưu cầu lợi ích riêng, trong khi các hành vi vi phạm pháp luật khác không liên quan đến chức vụ, quyền hạn."
+  },
+  {
+    "id": "PL_1053",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lực nhà nước và cơ cấu tổ chức.",
+    "question": "Quyền lực nhà nước liên quan đến những cơ quan nào?",
+    "answer": "Quyền lực nhà nước liên quan đến các cơ quan lập pháp, cơ quan hành pháp, cơ quan tư pháp, các tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức kinh tế nhà nước hoặc lực lượng vũ trang nhân dân từ trung ương đến địa phương."
+  },
+  {
+    "id": "PL_1054",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về pháp luật chống tham nhũng.",
+    "question": "Người có chức vụ, quyền hạn sử dụng chức vụ như thế nào để tham nhũng?",
+    "answer": "Người có chức vụ, quyền hạn sử dụng chức vụ, quyền hạn của mình làm trái pháp luật để mưu cầu lợi ích riêng, biến chức vụ, quyền hạn thành công cụ thực hiện hành vi trái pháp luật."
+  },
+  {
+    "id": "PL_1055",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật hành chính liên quan đến quản lý cán bộ.",
+    "question": "Chức vụ, quyền hạn của người có chức vụ được xác định bằng cách nào?",
+    "answer": "Chức vụ, quyền hạn của người có chức vụ được xác định thông qua các phương thức như: bầu cử, bổ nhiệm, hợp đồng, và phải gắn liền với quyền lực nhà nước trong các lĩnh vực và cơ quan khác nhau."
+  }
+]

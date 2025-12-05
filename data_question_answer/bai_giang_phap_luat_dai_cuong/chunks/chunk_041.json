@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_201",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+    "question": "Chức năng của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam phụ thuộc vào yếu tố nào?",
+    "answer": "Chức năng của Nhà nước phụ thuộc vào bản chất của Nhà nước."
+  },
+  {
+    "id": "PL_202",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng đối nội của Nhà nước Việt Nam.",
+    "question": "Chức năng đối nội của Nhà nước Việt Nam bao gồm những lĩnh vực nào?",
+    "answer": "Chức năng đối nội bao gồm các lĩnh vực như kinh tế, xã hội và an ninh quốc gia."
+  },
+  {
+    "id": "PL_203",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Nhà nước trong nền kinh tế thị trường.",
+    "question": "Nhà nước Việt Nam có nhiệm vụ gì trong nền kinh tế thị trường với nhiều thành phần kinh tế?",
+    "answer": "Nhà nước Việt Nam có nhiệm vụ quản lý, thúc đẩy sự phát triển kinh tế và đảm bảo sự phát triển bền vững của nền kinh tế quốc dân."
+  },
+  {
+    "id": "PL_204",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự thay đổi vai trò kinh tế của Nhà nước Việt Nam.",
+    "question": "Sự thay đổi vai trò kinh tế của Nhà nước Việt Nam từ nền kinh tế tập trung sang nền kinh tế thị trường được thể hiện như thế nào?",
+    "answer": "Trong nền kinh tế tập trung, Nhà nước trực tiếp quản lý mọi mặt của đời sống kinh tế. Trong nền kinh tế thị trường, Nhà nước chuyển sang vai trò quản lý và điều tiết, với trách nhiệm nặng nề hơn trong việc phát triển kinh tế quốc dân."
+  },
+  {
+    "id": "PL_205",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc trong quan hệ quốc tế của Nhà nước Việt Nam.",
+    "question": "Nguyên tắc nào được Nhà nước Việt Nam tuân thủ trong quan hệ quốc tế?",
+    "answer": "Nhà nước Việt Nam tuân thủ nguyên tắc tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ, các bên bình đẳng và cùng có lợi."
+  }
+]

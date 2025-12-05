@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3011",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về một bộ sách quan trọng trong văn học Hán Nôm Việt Nam.",
+    "question": "Bộ 'Di sản Hán Nôm Việt Nam, thư mục đề yếu' liệt kê bao nhiêu quyển sách?",
+    "answer": "Bộ 'Di sản Hán Nôm Việt Nam, thư mục đề yếu' liệt kê 5038 quyển sách."
+  },
+  {
+    "id": "VH_3012",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nội dung sách liên quan đến thi cử trong văn học Hán Nôm.",
+    "question": "Có bao nhiêu quyển sách về thi cử được liệt kê trong bộ 'Di sản Hán Nôm Việt Nam, thư mục đề yếu'?",
+    "answer": "Có 194 quyển sách về thi cử được liệt kê trong bộ 'Di sản Hán Nôm Việt Nam, thư mục đề yếu'."
+  },
+  {
+    "id": "VH_3013",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thể loại sách trong văn học Hán Nôm Việt Nam.",
+    "question": "Thể loại 'Văn thơ hợp biên' trong bộ 'Di sản Hán Nôm Việt Nam, thư mục đề yếu' được hiểu như thế nào?",
+    "answer": "Thể loại 'Văn thơ hợp biên' là những tuyển tập gồm nhiều tác giả, mỗi tác giả có một hoặc hai bài, thường là các bài thơ văn hay để bắt chước khi đi thi."
+  },
+  {
+    "id": "VH_3014",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong cách văn học trong văn học Hán Nôm.",
+    "question": "Văn xuôi và văn biền ngẫu trong bộ 'Di sản Hán Nôm Việt Nam, thư mục đề yếu' có điểm gì đặc biệt?",
+    "answer": "Văn xuôi và văn biền ngẫu chủ yếu là những bài văn của tiền nhân viết theo phong cách thi cử, mặc dù không phải trực tiếp làm trong các trường thi."
+  },
+  {
+    "id": "VH_3015",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về số lượng sách thơ trong văn học Hán Nôm Việt Nam.",
+    "question": "Có bao nhiêu quyển sách thơ được liệt kê trong bộ 'Di sản Hán Nôm Việt Nam, thư mục đề yếu'?",
+    "answer": "Có 845 quyển sách thơ được liệt kê, gồm những bài thơ theo nhiều thể loại."
+  }
+]

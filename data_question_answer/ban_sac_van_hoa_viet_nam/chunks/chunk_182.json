@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_906",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của Nho giáo trong xã hội Việt Nam.",
+    "question": "Việc đào tạo quan liêu qua con đường khoa cử theo Nho giáo có đặc điểm gì nổi bật?",
+    "answer": "Việc đào tạo quan liêu qua con đường khoa cử theo Nho giáo chú trọng học thuộc lòng kinh điển, tập trung vào lợi ích cá nhân mà ít quan tâm đến trách nhiệm đối với quần chúng lao động."
+  },
+  {
+    "id": "VH_907",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của Nho giáo trong chế độ quân chủ chuyên chế.",
+    "question": "Nho giáo đã được sử dụng như một công cụ trong chế độ quân chủ chuyên chế ra sao?",
+    "answer": "Nho giáo được sử dụng như một công cụ trong chế độ quân chủ chuyên chế bằng cách áp đặt lối lý giải một chiều, tuyệt đối hóa mối quan hệ giữa người dưới và người trên, loại bỏ sự tương tác qua lại giữa hai bên."
+  },
+  {
+    "id": "VH_908",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự thay đổi trong tư tưởng Nho giáo qua thời gian.",
+    "question": "Những khái niệm nào trong Khổng học đã bị loại bỏ trong quá trình thay đổi tư tưởng Nho giáo?",
+    "answer": "Những khái niệm bị loại bỏ trong Khổng học là chữ 'thời' và chữ 'trung dung', tức là sự thích nghi với hoàn cảnh lịch sử cụ thể và việc giữ mức độ hợp lý vừa phải."
+  },
+  {
+    "id": "VH_909",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách Nho giáo được áp dụng trong thực tế.",
+    "question": "Nho giáo đã bị bóp méo như thế nào trong việc giải thích các hiện tượng và ứng xử?",
+    "answer": "Nho giáo bị bóp méo khi các hiện tượng được giải thích theo lý thuyết bói toán âm dương, ngũ hành, Kinh Dịch, biến thành công cụ giáo điều vạn năng trái với bản chất bất khả tri luận của Khổng Tử."
+  },
+  {
+    "id": "VH_910",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ trong tư tưởng Nho giáo.",
+    "question": "Lối giải thích giáo điều về mối quan hệ giữa người trên và người dưới có đặc điểm gì?",
+    "answer": "Lối giải thích giáo điều chỉ chấp nhận cách lý giải một chiều, tuyệt đối hóa quyền lực của người trên, loại bỏ hoàn toàn sự qua lại và điều kiện tương hỗ giữa hai bên."
+  }
+]

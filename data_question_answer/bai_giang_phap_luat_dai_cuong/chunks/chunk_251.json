@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1251",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền về đời sống riêng tư của công dân.",
+    "question": "Việc vào chỗ ở của một người có cần sự đồng ý của người đó không?",
+    "answer": "Việc vào chỗ ở của một người phải được người đó đồng ý, trừ trường hợp luật quy định."
+  },
+  {
+    "id": "PL_1252",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc thực hiện khám xét chỗ ở theo pháp luật Việt Nam.",
+    "question": "Trong trường hợp nào việc khám xét chỗ ở của một người được thực hiện?",
+    "answer": "Việc khám xét chỗ ở của một người chỉ được thực hiện trong trường hợp luật quy định và phải theo trình tự, thủ tục do luật quy định."
+  },
+  {
+    "id": "PL_1253",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bảo vệ bí mật cá nhân, gia đình theo pháp luật Việt Nam.",
+    "question": "Đời sống riêng tư, bí mật cá nhân, bí mật gia đình được pháp luật bảo vệ như thế nào?",
+    "answer": "Đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và được pháp luật bảo vệ."
+  },
+  {
+    "id": "PL_1254",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc thu thập thông tin liên quan đến đời sống riêng tư của công dân.",
+    "question": "Việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến đời sống riêng tư của một người cần điều kiện gì?",
+    "answer": "Việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến đời sống riêng tư phải được người đó đồng ý."
+  },
+  {
+    "id": "PL_1255",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bí mật cá nhân theo pháp luật Việt Nam.",
+    "question": "Bí mật cá nhân, bí mật gia đình có thể bị xâm phạm không?",
+    "answer": "Bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và không thể bị xâm phạm theo pháp luật."
+  }
+]

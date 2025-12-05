@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_696",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Quốc hội có quyền cách chức những ai trong Chính phủ?",
+    "answer": "Quốc hội có quyền cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và các thành viên khác của Chính phủ."
+  },
+  {
+    "id": "PL_697",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Quốc hội có thẩm quyền gì đối với Thẩm phán Tòa án nhân dân tối cao?",
+    "answer": "Quốc hội có thẩm quyền cách chức Thẩm phán Tòa án nhân dân tối cao."
+  },
+  {
+    "id": "PL_698",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Quốc hội có quyền phê chuẩn danh sách thành viên của những hội đồng nào?",
+    "answer": "Quốc hội có quyền phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia."
+  },
+  {
+    "id": "PL_699",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Quốc hội trong quản lý nhà nước.",
+    "question": "Quốc hội có quyền phê chuẩn danh sách thành viên Hội đồng bầu cử quốc gia không?",
+    "answer": "Có, Quốc hội có quyền phê chuẩn danh sách thành viên Hội đồng bầu cử quốc gia."
+  },
+  {
+    "id": "PL_700",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Quốc hội trong bộ máy nhà nước.",
+    "question": "Quyền cách chức của Quốc hội đối với các chức vụ trong Chính phủ có mục đích gì?",
+    "answer": "Quyền cách chức của Quốc hội nhằm đảm bảo sự giám sát, kiểm soát quyền lực và trách nhiệm của các chức vụ trong Chính phủ."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_891",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của cán bộ, công chức làm việc tại khu vực đặc biệt.",
+    "question": "Cán bộ, công chức làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng các quyền lợi nào?",
+    "answer": "Cán bộ, công chức làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng phụ cấp, chính sách ưu đãi, tiền làm thêm giờ, tiền làm đêm, công tác phí và các chế độ khác theo quy định pháp luật."
+  },
+  {
+    "id": "PL_892",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nghỉ ngơi của cán bộ, công chức.",
+    "question": "Cán bộ, công chức được hưởng các quyền nghỉ ngơi nào?",
+    "answer": "Cán bộ, công chức được nghỉ hàng năm, nghỉ lễ, nghỉ để giải quyết việc riêng theo quy định. Nếu không sử dụng hoặc sử dụng không hết số ngày nghỉ hàng năm, ngoài tiền lương, họ còn được thanh toán thêm một khoản tiền bằng tiền lương cho những ngày không nghỉ."
+  },
+  {
+    "id": "PL_893",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền học tập và nghiên cứu khoa học của cán bộ, công chức.",
+    "question": "Cán bộ, công chức có quyền học tập và nghiên cứu khoa học như thế nào?",
+    "answer": "Cán bộ, công chức được bảo đảm quyền học tập, nghiên cứu khoa học và tham gia các hoạt động kinh tế, xã hội theo quy định pháp luật."
+  },
+  {
+    "id": "PL_894",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách ưu đãi dành cho cán bộ, công chức.",
+    "question": "Cán bộ, công chức được hưởng các chính sách ưu đãi nào?",
+    "answer": "Cán bộ, công chức được hưởng chính sách ưu đãi về nhà ở, phương tiện đi lại, chế độ bảo hiểm xã hội, bảo hiểm y tế theo quy định pháp luật."
+  },
+  {
+    "id": "PL_895",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của cán bộ, công chức khi bị thương hoặc hy sinh.",
+    "question": "Cán bộ, công chức bị thương hoặc hy sinh trong khi thi hành công vụ được hưởng quyền lợi gì?",
+    "answer": "Cán bộ, công chức bị thương hoặc hy sinh trong khi thi hành công vụ được xem xét hưởng các quyền lợi theo quy định pháp luật."
+  }
+]

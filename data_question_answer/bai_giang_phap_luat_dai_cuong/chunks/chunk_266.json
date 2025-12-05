@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1326",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu đối với vật tìm thấy.",
+    "question": "Vật tìm thấy là di tích lịch sử, văn hoá sẽ thuộc về ai?",
+    "answer": "Vật tìm thấy là di tích lịch sử, văn hoá thuộc quyền sở hữu của Nhà nước, và người tìm thấy được hưởng một khoản tiền thưởng theo quy định."
+  },
+  {
+    "id": "PL_1327",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu đối với vật tìm thấy không phải di tích lịch sử, văn hoá.",
+    "question": "Vật tìm thấy không phải di tích lịch sử, văn hoá và có giá trị nhỏ hơn hoặc bằng mười tháng lương tối thiểu sẽ thuộc về ai?",
+    "answer": "Vật tìm thấy không phải di tích lịch sử, văn hoá và có giá trị nhỏ hơn hoặc bằng mười tháng lương tối thiểu thuộc về người tìm thấy."
+  },
+  {
+    "id": "PL_1328",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu đối với vật có giá trị lớn hơn mười tháng lương tối thiểu.",
+    "question": "Người tìm thấy vật có giá trị lớn hơn mười tháng lương tối thiểu sẽ được hưởng phần giá trị như thế nào?",
+    "answer": "Người tìm thấy vật có giá trị lớn hơn mười tháng lương tối thiểu được hưởng giá trị bằng mười tháng lương tối thiểu và 50% phần vượt quá; phần còn lại thuộc Nhà nước."
+  },
+  {
+    "id": "PL_1329",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ khi nhặt được vật của người khác.",
+    "question": "Người nhặt được vật của người khác phải làm gì nếu biết địa chỉ của chủ sở hữu?",
+    "answer": "Người nhặt được vật của người khác phải thông báo hoặc trả lại vật cho chủ sở hữu nếu biết địa chỉ của họ."
+  },
+  {
+    "id": "PL_1330",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của cơ quan nhà nước khi nhận vật nhặt được.",
+    "question": "Cơ quan nhà nước phải làm gì khi nhận vật nhặt được từ người giao nộp?",
+    "answer": "Cơ quan nhà nước phải thông báo công khai để chủ sở hữu nhận lại và thông báo kết quả xác định chủ sở hữu cho người giao nộp."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1631",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định hợp đồng lao động theo Bộ luật Lao động Việt Nam.",
+    "question": "Hình thức giao kết hợp đồng lao động thông qua phương tiện nào được coi là có giá trị như hợp đồng lao động bằng văn bản?",
+    "answer": "Hình thức giao kết hợp đồng lao động thông qua phương tiện điện tử được coi là có giá trị như hợp đồng lao động bằng văn bản."
+  },
+  {
+    "id": "PL_1632",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định đối với người lao động cao tuổi.",
+    "question": "Người sử dụng lao động có thể giao kết hợp đồng lao động với người cao tuổi theo cách nào?",
+    "answer": "Người sử dụng lao động có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn với người cao tuổi."
+  },
+  {
+    "id": "PL_1633",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hợp đồng lao động.",
+    "question": "Khi nào một thỏa thuận giữa hai bên được coi là hợp đồng lao động dù có tên gọi khác?",
+    "answer": "Khi thỏa thuận có nội dung thể hiện việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên thì được coi là hợp đồng lao động."
+  },
+  {
+    "id": "PL_1634",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nội dung chủ yếu của hợp đồng lao động.",
+    "question": "Những thông tin nào về người lao động cần được ghi trong hợp đồng lao động?",
+    "answer": "Hợp đồng lao động cần ghi họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số chứng minh nhân dân hoặc giấy tờ hợp pháp khác của người lao động."
+  },
+  {
+    "id": "PL_1635",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nội dung bắt buộc trong hợp đồng lao động.",
+    "question": "Hợp đồng lao động cần bao gồm những nội dung chính nào theo quy định?",
+    "answer": "Hợp đồng lao động cần bao gồm tên và địa chỉ người sử dụng lao động hoặc người đại diện hợp pháp; họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số chứng minh nhân dân hoặc giấy tờ hợp pháp khác của người lao động; công việc và địa điểm làm việc; thời hạn của hợp đồng lao động; mức lương, hình thức trả lương, thời hạn trả lương, phụ cấp lương và các khoản bổ sung khác; chế độ nâng bậc, nâng lương."
+  }
+]

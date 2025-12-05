@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3126",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của Nho giáo trong văn hóa học thuật Việt Nam.",
+    "question": "Người Việt thời xưa học đạo Nho với mục đích chính là gì?",
+    "answer": "Người Việt thời xưa học đạo Nho chủ yếu nhằm mục đích thi cử."
+  },
+  {
+    "id": "VH_3127",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách tiếp cận Nho giáo tại Việt Nam.",
+    "question": "Người Việt đã làm gì để dễ dàng tiếp cận các sách Ngũ Kinh và Tứ Thư?",
+    "answer": "Người Việt đã lược bớt các nội dung trong sách Ngũ Kinh và Tứ Thư để dễ học."
+  },
+  {
+    "id": "VH_3128",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống phân loại tài liệu Nho giáo tại Việt Nam.",
+    "question": "Ý nghĩa của các mã số và ký hiệu như 'n', 'giải', 'm' trong tài liệu Nho giáo của Việt Nam là gì?",
+    "answer": "Các mã số dùng để chỉ tài liệu cụ thể, còn các ký hiệu như 'n' là bản dịch ra chữ Nôm, 'giải' là giảng giải, 'm' là bài văn mẫu để tiện cho thi cử."
+  },
+  {
+    "id": "VH_3129",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về việc sử dụng chữ Nôm trong tài liệu Nho giáo Việt Nam.",
+    "question": "Ký hiệu nào được sử dụng để biểu thị các sách Nho giáo đã được dịch ra chữ Nôm?",
+    "answer": "Ký hiệu 'n' được sử dụng để chỉ các sách Nho giáo đã dịch ra chữ Nôm."
+  },
+  {
+    "id": "VH_3130",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nội dung các sách Nho giáo trong văn hóa Việt Nam.",
+    "question": "Tài liệu nào trong sách Luận Ngữ được sử dụng làm bài văn mẫu?",
+    "answer": "Tài liệu được đánh mã số 2051 trong sách Luận Ngữ được dùng làm bài văn mẫu (ký hiệu 'm')."
+  }
+]

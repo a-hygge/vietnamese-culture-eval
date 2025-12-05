@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1281",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ trong hợp đồng dân sự.",
+    "question": "Khi thực hiện nghĩa vụ chuyển giao vật đồng bộ, cần phải chuyển giao những gì?",
+    "answer": "Cần phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thoả thuận khác."
+  },
+  {
+    "id": "PL_1282",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản theo pháp luật dân sự Việt Nam.",
+    "question": "Quyền chiếm hữu tài sản được định nghĩa như thế nào?",
+    "answer": "Quyền chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản."
+  },
+  {
+    "id": "PL_1283",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại quyền chiếm hữu tài sản.",
+    "question": "Chiếm hữu bao gồm những loại nào theo pháp luật dân sự?",
+    "answer": "Chiếm hữu bao gồm chiếm hữu của chủ sở hữu và chiếm hữu của người không phải là chủ sở hữu."
+  },
+  {
+    "id": "PL_1284",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền chiếm hữu của chủ sở hữu.",
+    "question": "Quyền chiếm hữu của chủ sở hữu tài sản thuộc về ai?",
+    "answer": "Quyền chiếm hữu của chủ sở hữu thuộc về người có quyền sở hữu đối với tài sản đó."
+  },
+  {
+    "id": "PL_1285",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến chuyển giao tài sản.",
+    "question": "Trường hợp nào có thể không cần chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành của vật đồng bộ?",
+    "answer": "Trường hợp có thoả thuận khác giữa các bên tham gia."
+  }
+]

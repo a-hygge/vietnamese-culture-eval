@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_996",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật hành chính.",
+    "question": "Trách nhiệm hành chính trong pháp luật hành chính được hiểu là gì?",
+    "answer": "Trách nhiệm hành chính là sự áp dụng các biện pháp cưỡng chế hành chính mang tính chất xử phạt hoặc khôi phục quyền, lợi ích bị xâm hại, được quy định trong chế tài của quy phạm pháp luật hành chính."
+  },
+  {
+    "id": "PL_997",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của trách nhiệm hành chính.",
+    "question": "Cơ sở của trách nhiệm hành chính là gì?",
+    "answer": "Cơ sở của trách nhiệm hành chính là hành vi vi phạm hành chính."
+  },
+  {
+    "id": "PL_998",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hậu quả pháp lý của trách nhiệm hành chính.",
+    "question": "Hậu quả pháp lý mà chủ thể vi phạm hành chính phải gánh chịu là gì?",
+    "answer": "Chủ thể vi phạm hành chính phải chịu những hậu quả bất lợi, bị thiệt hại về vật chất hoặc tinh thần."
+  },
+  {
+    "id": "PL_999",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của nhà nước trong xử lý vi phạm hành chính.",
+    "question": "Phản ứng của nhà nước đối với hành vi vi phạm hành chính được thể hiện như thế nào?",
+    "answer": "Phản ứng của nhà nước đối với hành vi vi phạm hành chính được thể hiện qua việc áp dụng các biện pháp cưỡng chế hành chính đối với chủ thể vi phạm để xử phạt hoặc khôi phục quyền lợi bị xâm hại."
+  },
+  {
+    "id": "PL_1000",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp cưỡng chế hành chính.",
+    "question": "Biện pháp cưỡng chế hành chính nhằm mục đích gì?",
+    "answer": "Biện pháp cưỡng chế hành chính nhằm xử phạt hành vi vi phạm hoặc khôi phục lại quyền và lợi ích bị xâm hại của các chủ thể."
+  }
+]

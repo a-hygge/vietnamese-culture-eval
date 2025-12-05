@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1451",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hòa giải trong tố tụng dân sự.",
+    "question": "Khi nào tòa án ra quyết định công nhận sự thỏa thuận của các đương sự?",
+    "answer": "Tòa án ra quyết định công nhận sự thỏa thuận của các đương sự nếu trong thời hạn 15 ngày kể từ ngày lập biên bản hòa giải thành, không có đương sự thay đổi ý kiến hoặc không có viện kiểm sát hay tổ chức xã hội phản đối sự thỏa thuận đó vì lợi ích chung."
+  },
+  {
+    "id": "PL_1452",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục xét xử sơ thẩm trong tố tụng dân sự.",
+    "question": "Những ai bắt buộc phải tham gia phiên tòa sơ thẩm trong tố tụng dân sự?",
+    "answer": "Những người bắt buộc phải tham gia phiên tòa sơ thẩm gồm các đương sự, người đại diện, người bảo vệ quyền lợi của đương sự, người làm chứng, người giám định, người phiên dịch. Nếu viện kiểm sát khởi tố hoặc tổ chức xã hội khởi kiện vì lợi ích chung, thì đại diện viện kiểm sát và đại diện tổ chức xã hội cũng phải tham gia."
+  },
+  {
+    "id": "PL_1453",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc hòa giải không thành trong tố tụng dân sự.",
+    "question": "Tòa án sẽ làm gì nếu hòa giải không thành?",
+    "answer": "Nếu hòa giải không thành, tòa án sẽ lập biên bản hòa giải không thành và quyết định đưa vụ án ra xét xử."
+  },
+  {
+    "id": "PL_1454",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các trường hợp khiếu nại và xác định pháp lý.",
+    "question": "Những trường hợp nào liên quan đến khiếu nại hoặc xác định pháp lý trong tố tụng dân sự?",
+    "answer": "Các trường hợp liên quan gồm: khiếu nại cơ quan hộ tịch, khiếu nại về danh sách cử tri, xác định công dân mất tích hoặc đã chết, và các vấn đề phát sinh từ giao dịch trái pháp luật."
+  },
+  {
+    "id": "PL_1455",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của viện kiểm sát trong thủ tục hòa giải.",
+    "question": "Viện kiểm sát có quyền hạn gì trong thủ tục hòa giải thành trong tố tụng dân sự?",
+    "answer": "Viện kiểm sát nhận bản sao biên bản hòa giải thành và có quyền phản đối sự thỏa thuận của các đương sự trong thời hạn 15 ngày kể từ ngày lập biên bản hòa giải thành nếu thấy không phù hợp với pháp luật hoặc lợi ích chung."
+  }
+]

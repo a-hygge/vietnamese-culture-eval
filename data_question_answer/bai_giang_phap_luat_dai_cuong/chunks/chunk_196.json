@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_976",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật xử lý vi phạm hành chính.",
+    "question": "Mức phạt tiền tối đa áp dụng cho cá nhân trong xử phạt vi phạm hành chính là bao nhiêu?",
+    "answer": "Mức phạt tiền tối đa đối với cá nhân trong xử phạt vi phạm hành chính là 1.000.000.000 đồng, trừ trường hợp quy định tại khoản 3 Điều 24 của Luật xử lý vi phạm hành chính."
+  },
+  {
+    "id": "PL_977",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật xử lý vi phạm hành chính.",
+    "question": "Mức phạt tiền tối đa áp dụng cho tổ chức trong xử phạt vi phạm hành chính là bao nhiêu?",
+    "answer": "Mức phạt tiền tối đa đối với tổ chức trong xử phạt vi phạm hành chính là 2.000.000.000 đồng, trừ trường hợp quy định tại khoản 3 Điều 24 của Luật xử lý vi phạm hành chính."
+  },
+  {
+    "id": "PL_978",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức xử phạt trong luật xử lý vi phạm hành chính.",
+    "question": "Hình thức tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn được áp dụng trong trường hợp nào?",
+    "answer": "Hình thức tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn được áp dụng khi cá nhân, tổ chức vi phạm nghiêm trọng các hoạt động được ghi trong giấy phép, chứng chỉ hành nghề."
+  },
+  {
+    "id": "PL_979",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ khi bị xử phạt hành chính.",
+    "question": "Trong thời gian bị tước quyền sử dụng giấy phép, chứng chỉ hành nghề, cá nhân hoặc tổ chức có được tiếp tục hoạt động theo giấy phép không?",
+    "answer": "Không, trong thời gian bị tước quyền sử dụng giấy phép, chứng chỉ hành nghề, cá nhân, tổ chức không được tiến hành các hoạt động ghi trong giấy phép, chứng chỉ hành nghề."
+  },
+  {
+    "id": "PL_980",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật xử lý vi phạm hành chính.",
+    "question": "Mức phạt tiền tối thiểu áp dụng cho cá nhân trong xử phạt vi phạm hành chính là bao nhiêu?",
+    "answer": "Mức phạt tiền tối thiểu đối với cá nhân trong xử phạt vi phạm hành chính là 50.000 đồng."
+  }
+]

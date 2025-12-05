@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_501",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống quân sự Việt Nam.",
+    "question": "Trần Hưng Đạo đã cảnh báo điều gì về chiến lược của quân địch?",
+    "answer": "Trần Hưng Đạo cảnh báo rằng quân địch tấn công ồ ạt thì không đáng sợ, nhưng nếu chúng sử dụng chiến lược 'tằm ăn lá dâu' thì rất đáng sợ."
+  },
+  {
+    "id": "VH_502",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử Việt Nam thời nhà Hồ.",
+    "question": "Nguyên nhân chính khiến nhà Hồ thất bại trong việc bảo vệ đất nước là gì?",
+    "answer": "Nhà Hồ thất bại vì lo giữ thành, dốc chủ lực đánh trong khi chưa tạo được sự thống nhất về tư tưởng trong nhân dân, và các chủ trương cải cách bị thi hành lệch lạc gây rối loạn."
+  },
+  {
+    "id": "VH_503",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử đối phó với thực dân Pháp ở Việt Nam.",
+    "question": "Triều đình Huế đã mắc sai lầm gì trong việc đối phó với thực dân Pháp vào nửa cuối thế kỷ XIX?",
+    "answer": "Sai lầm của triều đình là cắt đất cầu hòa, chống lại phong trào khởi nghĩa của nhân dân, xây thành vô dụng, không chịu đổi mới, không hiểu rõ về địch mà muốn dùng ngoại giao để địch rút quân."
+  },
+  {
+    "id": "VH_504",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa và truyền thống quân sự Việt Nam.",
+    "question": "Truyền thống quân sự của Việt Nam được thể hiện như thế nào trong các cuộc kháng chiến?",
+    "answer": "Truyền thống quân sự Việt Nam được thể hiện rõ nhất qua các cuộc kháng chiến trường kỳ, dựa trên tinh thần đoàn kết toàn dân và ý thức bảo vệ độc lập dân tộc."
+  },
+  {
+    "id": "VH_505",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bài học lịch sử từ truyền thống quân sự Việt Nam.",
+    "question": "Hậu quả của việc từ bỏ truyền thống quân sự dân tộc trong lịch sử là gì?",
+    "answer": "Thất bại xảy ra khi từ bỏ truyền thống quân sự dân tộc, bởi điều này làm mất đi sự đoàn kết và sức mạnh của nhân dân trong việc chống lại kẻ thù."
+  }
+]

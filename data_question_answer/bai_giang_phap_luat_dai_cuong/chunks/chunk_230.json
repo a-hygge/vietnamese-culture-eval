@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1146",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người đứng đầu cơ quan trong hoạt động phòng, chống tham nhũng.",
+    "question": "Người đứng đầu cơ quan có thể gây ảnh hưởng gì đến tình trạng tham nhũng?",
+    "answer": "Sự nể nang, né tránh, dung túng, bao che cho tham nhũng của những người đứng đầu cơ quan, tổ chức, đơn vị là nguyên nhân khiến tình hình tham nhũng thêm trầm trọng."
+  },
+  {
+    "id": "PL_1147",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ chế phối hợp trong phòng, chống tham nhũng.",
+    "question": "Điều gì làm giảm hiệu quả phối hợp giữa các cơ quan và tổ chức xã hội?",
+    "answer": "Thiếu một cơ chế phối hợp có hiệu quả giữa các cơ quan nhà nước với các tổ chức chính trị, tổ chức chính trị-xã hội, tổ chức xã hội-nghề nghiệp làm giảm hiệu quả phòng, chống tham nhũng."
+  },
+  {
+    "id": "PL_1148",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tư tưởng và đạo đức của cán bộ, công chức trong quản lý hành chính.",
+    "question": "Những hành vi nào từ thời kỳ quan liêu vẫn tồn tại ở một số cán bộ, công chức hiện nay?",
+    "answer": "Một số cán bộ, công chức vẫn duy trì thái độ tiêu cực như hách dịch, cửa quyền, sách nhiễu, gây khó khăn cho người dân."
+  },
+  {
+    "id": "PL_1149",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi tiêu cực trong quan hệ giữa người dân và cán bộ công chức.",
+    "question": "Người dân thường làm gì khi không muốn tiếp xúc trực tiếp với cán bộ, công chức?",
+    "answer": "Người dân thường sử dụng các hình thức tiêu cực như đưa hối lộ hoặc thông qua môi giới đưa hối lộ để giải quyết công việc."
+  },
+  {
+    "id": "PL_1150",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đạo đức và phẩm chất của cán bộ, công chức.",
+    "question": "Sự xuống cấp về đạo đức của cán bộ, công chức ảnh hưởng thế nào đến công việc?",
+    "answer": "Sự xuống cấp về đạo đức, phẩm chất khiến cán bộ, công chức có hành vi tiêu cực như hách dịch, sách nhiễu, gây khó khăn cho người dân, làm giảm niềm tin của người dân vào bộ máy nhà nước."
+  }
+]

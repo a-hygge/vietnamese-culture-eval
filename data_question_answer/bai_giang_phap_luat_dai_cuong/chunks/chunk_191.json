@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_951",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các hành vi viên chức không được làm theo quy định pháp luật.",
+    "question": "Viên chức không được thực hiện những hành vi nào liên quan đến việc lợi dụng hoạt động nghề nghiệp?",
+    "answer": "Viên chức không được lợi dụng hoạt động nghề nghiệp để tuyên truyền chống lại chủ trương, đường lối, chính sách của Đảng, pháp luật của Nhà nước hoặc gây phương hại đối với thuần phong, mỹ tục, đời sống văn hóa, tinh thần của nhân dân và xã hội."
+  },
+  {
+    "id": "PL_952",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các hành vi trái pháp luật của viên chức.",
+    "question": "Viên chức có được phép xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực hiện công việc không?",
+    "answer": "Viên chức không được phép xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực hiện công việc."
+  },
+  {
+    "id": "PL_953",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm hành chính.",
+    "question": "Vi phạm hành chính được hiểu như thế nào theo quy định pháp luật Việt Nam?",
+    "answer": "Vi phạm hành chính là hành vi có lỗi do cá nhân, tổ chức thực hiện vi phạm quy định của pháp luật về quản lý nhà nước mà không phải là tội phạm và theo quy định của pháp luật phải bị xử phạt vi phạm hành chính."
+  },
+  {
+    "id": "PL_954",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các đặc điểm của vi phạm hành chính.",
+    "question": "Những dấu hiệu đặc trưng nào giúp nhận biết một hành vi vi phạm hành chính?",
+    "answer": "Vi phạm hành chính là hành vi trái pháp luật, thực hiện ngược lại với quy định pháp luật, có thể bao gồm hành động bị pháp luật hành chính cấm hoặc không thực hiện hành động mà pháp luật hành chính buộc phải thực hiện."
+  },
+  {
+    "id": "PL_955",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về ví dụ minh họa cho hành vi vi phạm hành chính.",
+    "question": "Bạn có thể đưa ra một ví dụ cụ thể về hành vi vi phạm hành chính không?",
+    "answer": "Ví dụ về hành vi vi phạm hành chính là điều khiển xe gắn máy nhưng không đội mũ bảo hiểm."
+  }
+]

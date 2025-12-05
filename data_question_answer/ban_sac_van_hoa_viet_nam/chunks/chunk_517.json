@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2581",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Thờ cúng tổ tiên có ý nghĩa gì đối với lòng biết ơn trong văn hóa Việt Nam?",
+    "answer": "Thờ cúng tổ tiên thể hiện lòng biết ơn và sự tôn kính đối với những người đi trước trong gia đình."
+  },
+  {
+    "id": "VH_2582",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Vai trò của Nho giáo trong việc duy trì truyền thống gia đình là gì?",
+    "answer": "Nho giáo giúp duy trì sự gắn kết giữa các thế hệ và tạo nên thái độ tôn trọng đối với người lớn tuổi."
+  },
+  {
+    "id": "VH_2583",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Thờ cúng tổ tiên có ảnh hưởng gì đến sự đoàn kết trong cộng đồng?",
+    "answer": "Thờ cúng tổ tiên góp phần tạo nên sự đoàn kết và hòa hợp trong cộng đồng thông qua việc duy trì các giá trị truyền thống."
+  },
+  {
+    "id": "VH_2584",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa phương Tây.",
+    "question": "Đặc điểm nổi bật của văn hóa phương Tây là gì?",
+    "answer": "Văn hóa phương Tây đề cao tự do cá nhân và xây dựng các mối quan hệ dựa trên quyền lợi kinh tế."
+  },
+  {
+    "id": "VH_2585",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa giữa phương Đông và phương Tây.",
+    "question": "Điểm khác biệt chính giữa văn hóa phương Đông và phương Tây là gì?",
+    "answer": "Văn hóa phương Đông chú trọng vào gia đình và sự hòa hợp xã hội, trong khi văn hóa phương Tây đề cao cá nhân và quyền lợi kinh tế."
+  }
+]

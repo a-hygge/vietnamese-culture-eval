@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1841",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Nguyên nhân chính dẫn đến xung đột giữa các thế hệ trong gia đình Việt Nam là gì?",
+    "answer": "Nguyên nhân chính dẫn đến xung đột giữa các thế hệ trong gia đình Việt Nam là sự khác biệt về quan điểm và hoàn cảnh sống giữa các thế hệ."
+  },
+  {
+    "id": "VH_1842",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Vì sao trong thời chiến, xung đột giữa thế hệ cha chú và thế hệ con cái ít xảy ra?",
+    "answer": "Trong thời chiến, xung đột giữa thế hệ cha chú và thế hệ con cái ít xảy ra vì cả hai thế hệ đều tập trung vào việc bảo vệ đất nước trước các đế quốc xâm lược."
+  },
+  {
+    "id": "VH_1843",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của nông thôn trong sự phát triển của Việt Nam.",
+    "question": "Tại sao uy tín của Đảng ở nông thôn lại có vai trò quan trọng đối với sự phát triển đất nước?",
+    "answer": "Uy tín của Đảng ở nông thôn có vai trò quan trọng vì nó đảm bảo sự ổn định xã hội và đồng thuận, tạo điều kiện thuận lợi cho việc phát triển đất nước."
+  },
+  {
+    "id": "VH_1844",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự thay đổi trong bối cảnh toàn cầu.",
+    "question": "Những thách thức nào khiến việc đổi mới thành thị trở nên khó khăn trong bối cảnh thế giới thay đổi nhanh chóng?",
+    "answer": "Việc đổi mới thành thị trở nên khó khăn do sự thay đổi phức tạp và tốc độ cao của thế giới, đòi hỏi khả năng thích nghi linh hoạt và tránh các sai lầm trong quá trình thực hiện."
+  },
+  {
+    "id": "VH_1845",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Tại sao gia đình Việt Nam không thể đạt được hạnh phúc trọn vẹn khi đất nước bị nô dịch?",
+    "answer": "Gia đình Việt Nam không thể đạt được hạnh phúc trọn vẹn khi đất nước bị nô dịch vì áp lực xã hội và cuộc sống khó khăn làm giảm sự hòa hợp và an vui trong gia đình."
+  }
+]

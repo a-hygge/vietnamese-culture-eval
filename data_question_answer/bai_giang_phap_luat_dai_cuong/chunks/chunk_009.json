@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_041",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật dân sự.",
+    "question": "Luật dân sự được hiểu là gì?",
+    "answer": "Luật dân sự là một ngành luật trong hệ thống pháp luật Việt Nam, quy định về các quan hệ pháp luật giữa các cá nhân, tổ chức trong lĩnh vực dân sự, bao gồm tài sản, hợp đồng, thừa kế, quyền và nghĩa vụ dân sự."
+  },
+  {
+    "id": "PL_042",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế định thừa kế trong luật dân sự.",
+    "question": "Chế định thừa kế trong luật dân sự quy định về nội dung gì?",
+    "answer": "Chế định thừa kế trong luật dân sự quy định về việc chuyển giao tài sản, quyền và nghĩa vụ của người chết cho người thừa kế theo di chúc hoặc theo pháp luật."
+  },
+  {
+    "id": "PL_043",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật tố tụng dân sự.",
+    "question": "Luật tố tụng dân sự là gì?",
+    "answer": "Luật tố tụng dân sự là ngành luật quy định trình tự, thủ tục giải quyết các tranh chấp dân sự, bảo vệ quyền và lợi ích hợp pháp của các bên tại Tòa án."
+  },
+  {
+    "id": "PL_044",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật hình sự.",
+    "question": "Luật hình sự được hiểu như thế nào?",
+    "answer": "Luật hình sự là ngành luật quy định về tội phạm, hình phạt và các biện pháp xử lý đối với hành vi vi phạm pháp luật nhằm bảo vệ trật tự xã hội, quyền và lợi ích của Nhà nước và công dân."
+  },
+  {
+    "id": "PL_045",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật tố tụng hình sự.",
+    "question": "Luật tố tụng hình sự có chức năng gì?",
+    "answer": "Luật tố tụng hình sự quy định trình tự, thủ tục điều tra, truy tố và xét xử các vụ án hình sự nhằm đảm bảo việc xử lý đúng người, đúng tội, đúng pháp luật."
+  }
+]

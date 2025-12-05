@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1701",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thỏa ước lao động tập thể.",
+    "question": "Thỏa ước lao động tập thể được ký kết giữa những ai?",
+    "answer": "Thỏa ước lao động tập thể được ký kết giữa đại diện tập thể lao động với người sử dụng lao động hoặc đại diện người sử dụng lao động."
+  },
+  {
+    "id": "PL_1702",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện ký kết thỏa ước lao động tập thể.",
+    "question": "Điều kiện để ký kết thỏa ước lao động tập thể doanh nghiệp là gì?",
+    "answer": "Điều kiện để ký kết thỏa ước lao động tập thể doanh nghiệp là có trên 50% số người của tập thể lao động biểu quyết tán thành nội dung thương lượng tập thể đã đạt được."
+  },
+  {
+    "id": "PL_1703",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực của thỏa ước lao động tập thể.",
+    "question": "Ngày có hiệu lực của thỏa ước lao động tập thể được xác định như thế nào?",
+    "answer": "Ngày có hiệu lực của thỏa ước lao động tập thể được ghi trong thỏa ước. Trường hợp thỏa ước không ghi ngày có hiệu lực thì có hiệu lực kể từ ngày các bên ký kết."
+  },
+  {
+    "id": "PL_1704",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người sử dụng lao động sau khi ký kết thỏa ước lao động tập thể.",
+    "question": "Người sử dụng lao động phải làm gì sau khi thỏa ước lao động tập thể được ký kết?",
+    "answer": "Người sử dụng lao động phải công bố thỏa ước lao động tập thể cho mọi người lao động của mình biết."
+  },
+  {
+    "id": "PL_1705",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tiền lương.",
+    "question": "Tiền lương được định nghĩa như thế nào?",
+    "answer": "Tiền lương là khoản tiền mà người sử dụng lao động trả cho người lao động để thực hiện công việc theo thỏa thuận, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2171",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Trung Quốc.",
+    "question": "Văn hóa Trung Quốc hiện nay bắt nguồn từ thời kỳ nào?",
+    "answer": "Văn hóa Trung Quốc hiện nay được khái niệm hóa và hoàn tất vào thế kỷ thứ X."
+  },
+  {
+    "id": "VH_2172",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm văn hóa Trung Quốc.",
+    "question": "Đặc điểm nổi bật của văn hóa Trung Quốc trong cách quản lý tư duy và sáng tạo là gì?",
+    "answer": "Văn hóa Trung Quốc mang tính phép tắc khắt khe, có tính ma thuật và không khuyến khích phá vỡ cái cũ do sự tồn tại của ngục văn tự."
+  },
+  {
+    "id": "VH_2173",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối liên hệ giữa lịch sử và văn hóa Trung Quốc.",
+    "question": "Tình trạng phân liệt và xâm chiếm trong lịch sử đã tác động như thế nào đến văn hóa Trung Quốc?",
+    "answer": "Tình trạng phân liệt và xâm chiếm khiến trí thức Trung Quốc không thể giải thích thực tế, dẫn đến việc chuyển hướng sang lý giải vũ trụ và sáng tạo nền nghệ thuật mới."
+  },
+  {
+    "id": "VH_2174",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguyên nhân hình thành văn hóa Trung Quốc.",
+    "question": "Điều gì đã dẫn đến việc hình thành một nền văn hóa mang tính phép tắc và ma thuật ở Trung Quốc?",
+    "answer": "Nguyên nhân là do sự bất lực trong cuộc sống thực tế, khiến người ta chuyển sang xây dựng một nền văn hóa với các phép tắc khắt khe và tính ma thuật."
+  },
+  {
+    "id": "VH_2175",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ văn hóa giữa Việt Nam và Trung Quốc.",
+    "question": "Tại sao trí thức Việt Nam không thể học theo văn hóa Trung Quốc?",
+    "answer": "Trí thức Việt Nam không thể học văn hóa Trung Quốc vì lịch sử và hoàn cảnh của Việt Nam khác biệt, không phù hợp với nền văn hóa mang tính phép tắc và ma thuật đó."
+  }
+]

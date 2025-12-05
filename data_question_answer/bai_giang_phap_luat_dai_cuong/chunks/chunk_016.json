@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_076",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm chế độ công xã nguyên thủy.",
+    "question": "Chế độ công xã nguyên thủy có đặc điểm kinh tế xã hội gì nổi bật?",
+    "answer": "Chế độ công xã nguyên thủy là hình thái kinh tế xã hội đầu tiên không tồn tại giai cấp và Nhà nước, trong đó mọi tư liệu sản xuất và sản phẩm lao động đều thuộc sở hữu chung của mọi thành viên trong cộng đồng."
+  },
+  {
+    "id": "PL_077",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội trong chế độ công xã nguyên thủy.",
+    "question": "Nguyên tắc nào được áp dụng để cấu thành tổ chức xã hội trong chế độ công xã nguyên thủy?",
+    "answer": "Tổ chức xã hội trong chế độ công xã nguyên thủy được cấu thành theo nguyên tắc huyết thống, lúc đầu theo dòng mẹ (thị tộc mẫu hệ) và về sau theo dòng cha (thị tộc phụ hệ)."
+  },
+  {
+    "id": "PL_078",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi và địa vị xã hội trong chế độ công xã nguyên thủy.",
+    "question": "Các thành viên trong chế độ công xã nguyên thủy có quyền lợi và địa vị xã hội như thế nào?",
+    "answer": "Trong chế độ công xã nguyên thủy, mỗi thành viên của thị tộc đều bình đẳng về quyền lợi và địa vị xã hội, không tồn tại đặc quyền, đặc lợi hay sự phân hóa giàu nghèo."
+  },
+  {
+    "id": "PL_079",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hệ thống quản lý trong chế độ công xã nguyên thủy.",
+    "question": "Hệ thống quản lý của công xã thị tộc trong chế độ công xã nguyên thủy bao gồm những ai?",
+    "answer": "Hệ thống quản lý của công xã thị tộc gồm Hội đồng thị tộc và tù trưởng. Hội đồng thị tộc là tổ chức quyền lực cao nhất, hợp thành bởi tất cả các thành viên đã trưởng thành trong thị tộc, còn tù trưởng được bầu từ những người nhiều tuổi, có kinh nghiệm và uy tín trong cộng đồng."
+  },
+  {
+    "id": "PL_080",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Hội đồng thị tộc trong chế độ công xã nguyên thủy.",
+    "question": "Hội đồng thị tộc trong chế độ công xã nguyên thủy đóng vai trò gì trong cộng đồng?",
+    "answer": "Hội đồng thị tộc là tổ chức quyền lực cao nhất trong thị tộc, gồm tất cả các thành viên đã trưởng thành của thị tộc."
+  }
+]

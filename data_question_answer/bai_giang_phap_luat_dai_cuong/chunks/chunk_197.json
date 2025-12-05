@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_981",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử phạt vi phạm hành chính.",
+    "question": "Tịch thu tang vật, phương tiện vi phạm hành chính có ý nghĩa gì?",
+    "answer": "Tịch thu tang vật, phương tiện vi phạm hành chính là việc sung vào ngân sách nhà nước các vật, tiền, hàng hoá, phương tiện liên quan trực tiếp đến vi phạm hành chính, áp dụng đối với vi phạm nghiêm trọng do lỗi cố ý của cá nhân, tổ chức."
+  },
+  {
+    "id": "PL_982",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức xử phạt đối với người nước ngoài vi phạm hành chính.",
+    "question": "Hình thức trục xuất được áp dụng đối với đối tượng nào?",
+    "answer": "Trục xuất là hình thức xử phạt buộc người nước ngoài có hành vi vi phạm hành chính tại Việt Nam phải rời khỏi lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+  },
+  {
+    "id": "PL_983",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện áp dụng hình thức xử phạt vi phạm hành chính.",
+    "question": "Trong trường hợp nào hình thức tịch thu tang vật, phương tiện vi phạm hành chính được áp dụng?",
+    "answer": "Hình thức tịch thu tang vật, phương tiện vi phạm hành chính được áp dụng đối với các vi phạm hành chính nghiêm trọng do lỗi cố ý của cá nhân, tổ chức."
+  },
+  {
+    "id": "PL_984",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử lý tang vật vi phạm hành chính.",
+    "question": "Sau khi tịch thu tang vật vi phạm hành chính, các tang vật này sẽ được xử lý ra sao?",
+    "answer": "Khi tịch thu tang vật vi phạm hành chính, các tang vật sẽ được sung vào ngân sách nhà nước."
+  },
+  {
+    "id": "PL_985",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức xử phạt đối với vi phạm hành chính nghiêm trọng.",
+    "question": "Hành vi vi phạm hành chính nghiêm trọng do lỗi cố ý sẽ bị xử lý như thế nào?",
+    "answer": "Hành vi vi phạm hành chính nghiêm trọng do lỗi cố ý có thể bị xử lý bằng hình thức tịch thu tang vật, phương tiện vi phạm hành chính."
+  }
+]

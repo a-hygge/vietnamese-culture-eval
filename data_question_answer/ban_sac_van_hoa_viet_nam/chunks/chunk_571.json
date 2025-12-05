@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2851",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Văn Miếu được xây dựng vào thời vua nào và nhằm mục đích gì?",
+    "answer": "Văn Miếu được xây dựng vào thời vua Lý Thánh Tông với mục đích làm nơi thờ Khổng Tử và các bậc hiền triết, đồng thời là nơi học tập cho Hoàng Thái Tử và thể hiện sự coi trọng Nho học."
+  },
+  {
+    "id": "VH_2852",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử giáo dục thời phong kiến Việt Nam.",
+    "question": "Khoa thi đầu tiên ở Việt Nam được tổ chức vào năm nào và có bao nhiêu người đỗ?",
+    "answer": "Khoa thi đầu tiên ở Việt Nam được tổ chức vào năm 1075 và có 3 người đỗ."
+  },
+  {
+    "id": "VH_2853",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng văn hóa Trung Quốc trong lịch sử Việt Nam.",
+    "question": "Nguyên nhân nào khiến Việt Nam tiếp thu văn hóa Hán trong lịch sử?",
+    "answer": "Việt Nam tiếp thu văn hóa Hán trong lịch sử để học hỏi và củng cố độc lập bằng văn hóa, đồng thời thể hiện khả năng cạnh tranh về học thuật và văn hóa với Trung Quốc."
+  },
+  {
+    "id": "VH_2854",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của Viện Hàn lâm trong lịch sử Việt Nam.",
+    "question": "Viện Hàn lâm trong lịch sử Việt Nam đảm nhận những nhiệm vụ gì?",
+    "answer": "Viện Hàn lâm trong lịch sử Việt Nam đảm nhận nhiệm vụ soạn thảo các công văn, chiếu, biểu, chế của nhà vua, với vai trò quan trọng trong việc truyền đạt ý chỉ của triều đình."
+  },
+  {
+    "id": "VH_2855",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học và nghệ thuật ngôn ngữ trong văn hóa Việt Nam.",
+    "question": "Vì sao người giỏi chữ nghĩa mới được chọn làm thư ký và vào Viện Hàn lâm?",
+    "answer": "Người giỏi chữ nghĩa mới được chọn làm thư ký và vào Viện Hàn lâm vì họ cần diễn đạt công văn phù hợp với từng đối tượng, tuân thủ các phong cách và quy tắc ngôn ngữ phức tạp, đòi hỏi sự tinh tế và chính xác."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1531",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm trách nhiệm hình sự.",
+    "question": "Trách nhiệm hình sự là gì?",
+    "answer": "Trách nhiệm hình sự là sự phản ứng của nhà nước đối với người thực hiện tội phạm, thể hiện tập trung ở sự áp dụng hình phạt với chủ thể đó, khiến người phạm tội phải gánh chịu những hậu quả bất lợi nhất định."
+  },
+  {
+    "id": "PL_1532",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hiệu truy cứu trách nhiệm hình sự.",
+    "question": "Thời hiệu truy cứu trách nhiệm hình sự được quy định như thế nào?",
+    "answer": "Thời hiệu truy cứu trách nhiệm hình sự được quy định như sau: 5 năm đối với tội phạm ít nghiêm trọng, 10 năm đối với tội phạm nghiêm trọng, 15 năm đối với tội phạm rất nghiêm trọng, và 20 năm đối với tội phạm đặc biệt nghiêm trọng."
+  },
+  {
+    "id": "PL_1533",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định thời gian trốn tránh trách nhiệm hình sự.",
+    "question": "Thời gian trốn tránh trách nhiệm hình sự được tính ra sao khi người phạm tội cố tình trốn tránh?",
+    "answer": "Trong trường hợp người phạm tội cố tình trốn tránh và có lệnh truy nã, thời gian trốn tránh không được tính vào thời hiệu truy cứu trách nhiệm hình sự."
+  },
+  {
+    "id": "PL_1534",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các trường hợp loại trừ trách nhiệm hình sự.",
+    "question": "Những trường hợp nào được loại trừ trách nhiệm hình sự?",
+    "answer": "Những trường hợp loại trừ trách nhiệm hình sự là các hành vi có đầy đủ dấu hiệu của tội phạm nhưng có một số tình tiết nhất định làm mất tính chất nguy hiểm cho xã hội của hành vi, khiến hành vi ấy không bị coi là tội phạm."
+  },
+  {
+    "id": "PL_1535",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện để truy cứu trách nhiệm hình sự.",
+    "question": "Những trường hợp nào bị truy cứu trách nhiệm hình sự theo luật hình sự Việt Nam?",
+    "answer": "Luật hình sự Việt Nam chỉ truy cứu trách nhiệm hình sự đối với những người thực hiện các hành vi nguy hiểm cho xã hội và bị coi là tội phạm."
+  }
+]

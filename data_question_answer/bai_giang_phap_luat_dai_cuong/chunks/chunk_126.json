@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_626",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền con người trong pháp luật Việt Nam.",
+    "question": "Pháp luật Việt Nam quy định như thế nào về quyền sống của con người?",
+    "answer": "Pháp luật Việt Nam bảo hộ tính mạng con người, mọi người có quyền sống, không ai bị tước đoạt tính mạng trái luật."
+  },
+  {
+    "id": "PL_627",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bất khả xâm phạm thân thể.",
+    "question": "Quyền bất khả xâm phạm về thân thể của con người được pháp luật Việt Nam bảo vệ như thế nào?",
+    "answer": "Mọi người không bị tra tấn, bạo lực, truy bức, nhục hình hay bất kỳ hình thức đối xử nào khác xâm phạm thân thể, sức khỏe, xúc phạm danh dự, nhân phẩm."
+  },
+  {
+    "id": "PL_628",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền riêng tư trong pháp luật Việt Nam.",
+    "question": "Pháp luật Việt Nam quy định như thế nào về quyền bất khả xâm phạm đời sống riêng tư và bí mật cá nhân?",
+    "answer": "Mọi người có quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình; thông tin về đời sống riêng tư, bí mật cá nhân, bí mật gia đình được pháp luật bảo đảm an toàn."
+  },
+  {
+    "id": "PL_629",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bí mật thư tín, điện thoại và các hình thức trao đổi thông tin.",
+    "question": "Pháp luật Việt Nam quy định gì về quyền bí mật thư tín, điện thoại và các hình thức trao đổi thông tin riêng tư?",
+    "answer": "Mọi người có quyền bí mật thư tín, điện thoại, điện tín và các hình thức trao đổi thông tin riêng tư khác; không ai được bóc mở, kiểm soát, thu giữ trái luật những thông tin này."
+  },
+  {
+    "id": "PL_630",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bất khả xâm phạm chỗ ở.",
+    "question": "Pháp luật Việt Nam quy định như thế nào về quyền bất khả xâm phạm chỗ ở?",
+    "answer": "Mọi người có quyền bất khả xâm phạm về chỗ ở và công dân có quyền có nơi ở hợp pháp."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1056",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ngữ pháp tiếng Việt.",
+    "question": "Danh từ tập hợp trong tiếng Việt được hiểu như thế nào?",
+    "answer": "Danh từ tập hợp trong tiếng Việt dùng để chỉ một nhóm người, sự vật hoặc hiện tượng có mối liên hệ nhất định, ví dụ như 'gia đình', 'đội nhóm'."
+  },
+  {
+    "id": "VH_1057",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm từ loại tiếng Việt.",
+    "question": "Từ kép trong tiếng Việt có thể mang ý nghĩa gì khi được dùng như một tính từ?",
+    "answer": "Từ kép khi được dùng như một tính từ thường mang ý nghĩa miêu tả đặc điểm, tính chất, ví dụ như 'xinh đẹp', 'to lớn'."
+  },
+  {
+    "id": "VH_1058",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách sử dụng từ trong tiếng Việt.",
+    "question": "Từ kép trong tiếng Việt có ý nghĩa gì khi được sử dụng như một động từ?",
+    "answer": "Khi được sử dụng như một động từ, từ kép trong tiếng Việt thường diễn tả hành động hoặc trạng thái, ví dụ như 'chơi đùa', 'học tập'."
+  },
+  {
+    "id": "VH_1059",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của ngữ pháp nước ngoài đến tiếng Việt.",
+    "question": "Tiếng Việt đã chịu ảnh hưởng của ngữ pháp châu Âu như thế nào?",
+    "answer": "Tiếng Việt chịu ảnh hưởng của ngữ pháp châu Âu, đặc biệt là ngữ pháp Pháp, thông qua việc vay mượn các cấu trúc ngữ pháp và cách tạo từ mới bằng phương pháp dẫn xuất."
+  },
+  {
+    "id": "VH_1060",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về kiến trúc ngôn ngữ tiếng Việt.",
+    "question": "Điều gì xảy ra khi tiếng Việt không phân biệt rõ ràng giữa kiến trúc từ pháp và kiến trúc cú pháp?",
+    "answer": "Khi tiếng Việt không phân biệt rõ ràng giữa kiến trúc từ pháp và kiến trúc cú pháp, điều này có thể gây khó khăn trong việc phân tích ngữ pháp và xây dựng các ứng dụng ngôn ngữ học hiện đại."
+  }
+]

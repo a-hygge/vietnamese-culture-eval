@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1206",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Ai có mối quan hệ thân thiết với các nhà văn, nghệ sĩ nổi tiếng như Văn Cao, Thế Lữ, Tô Ngọc Vân?",
+    "answer": "Người làm việc ở Vụ Văn học nghệ thuật năm 1952 và có quan hệ thân thiết với các nhà văn, nghệ sĩ nổi tiếng."
+  },
+  {
+    "id": "VH_1207",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Ý nghĩa của màu đỏ và màu lục trong nghệ thuật là gì?",
+    "answer": "Màu đỏ gợi lên hình ảnh mặt trời và lửa, tạo cảm giác nóng, còn màu lục gợi lên hình ảnh lá cây, tạo cảm giác mát."
+  },
+  {
+    "id": "VH_1208",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mỹ học và nghệ thuật.",
+    "question": "Các sách mỹ học thường thiếu sót ở điểm nào?",
+    "answer": "Các sách mỹ học thường không đề cập đến tâm lý học các giác quan."
+  },
+  {
+    "id": "VH_1209",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư duy sáng tạo trong nghệ thuật.",
+    "question": "Điều gì khiến tác giả bất ngờ khi tìm hiểu cách sáng tác của các bậc đàn anh?",
+    "answer": "Các bậc đàn anh không thể giải thích tại sao hoặc bằng cách nào họ đã tạo nên những tác phẩm thành công."
+  },
+  {
+    "id": "VH_1210",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quá trình nghiên cứu nghệ thuật.",
+    "question": "Điều gì đã dẫn đến việc tác giả nghiên cứu khái niệm 'thao tác' trong nghệ thuật?",
+    "answer": "Tác giả muốn lý giải cảm xúc của mình qua các lý thuyết nghệ thuật và tìm hiểu cách sáng tác của các bậc đàn anh, từ đó đi sâu vào tâm lý học các giác quan để tìm câu trả lời."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_961",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm hành chính.",
+    "question": "Vi phạm hành chính được hiểu là gì?",
+    "answer": "Vi phạm hành chính là hành vi có lỗi được thực hiện dưới hai hình thức: cố ý và vô ý."
+  },
+  {
+    "id": "PL_962",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chủ thể vi phạm hành chính.",
+    "question": "Những chủ thể nào có thể thực hiện vi phạm hành chính theo pháp luật Việt Nam?",
+    "answer": "Chủ thể thực hiện vi phạm hành chính có thể là cá nhân hoặc tổ chức. Cá nhân phải là người có năng lực hành vi, còn tổ chức phải xác định lỗi của những người trực tiếp gây ra vi phạm để truy cứu trách nhiệm."
+  },
+  {
+    "id": "PL_963",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc xử phạt đối với người nước ngoài tại Việt Nam.",
+    "question": "Người nước ngoài vi phạm hành chính tại Việt Nam sẽ bị xử phạt như thế nào?",
+    "answer": "Người nước ngoài, người không có quốc tịch, tổ chức nước ngoài vi phạm hành chính tại Việt Nam sẽ bị xử phạt như công dân hoặc tổ chức Việt Nam. Nếu thuộc diện hưởng quyền ưu đãi và miễn trừ, việc xử lý sẽ được giải quyết qua con đường ngoại giao."
+  },
+  {
+    "id": "PL_964",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các hình thức xử phạt vi phạm hành chính.",
+    "question": "Các hình thức xử phạt vi phạm hành chính theo pháp luật Việt Nam bao gồm những gì?",
+    "answer": "Các hình thức xử phạt vi phạm hành chính bao gồm: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép hoặc chứng chỉ hành nghề có thời hạn, đình chỉ hoạt động có thời hạn, tịch thu tang vật, phương tiện vi phạm hành chính và trục xuất."
+  },
+  {
+    "id": "PL_965",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng xử phạt vi phạm hành chính.",
+    "question": "Nguyên tắc áp dụng xử phạt vi phạm hành chính được thực hiện như thế nào?",
+    "answer": "Xử phạt vi phạm hành chính được thực hiện bởi người có thẩm quyền, áp dụng hình thức xử phạt và biện pháp khắc phục hậu quả đối với cá nhân, tổ chức vi phạm theo quy định pháp luật về xử phạt vi phạm hành chính."
+  }
+]

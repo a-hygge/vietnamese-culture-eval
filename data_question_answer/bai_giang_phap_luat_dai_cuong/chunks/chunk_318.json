@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1586",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của cơ quan điều tra trong tố tụng hình sự.",
+    "question": "Cơ quan điều tra có trách nhiệm gì khi kết thúc điều tra vụ án hình sự?",
+    "answer": "Cơ quan điều tra làm bản kết luận điều tra và đề nghị truy tố nếu có đủ chứng cứ, hoặc đình chỉ điều tra nếu có một trong các căn cứ quy định tại Điều 89 Bộ luật tố tụng hình sự hoặc đã hết thời hạn điều tra mà không chứng minh được bị can là người thực hiện tội phạm."
+  },
+  {
+    "id": "PL_1587",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xét xử sơ thẩm vụ án hình sự.",
+    "question": "Xét xử sơ thẩm vụ án hình sự được thực hiện theo những nguyên tắc nào?",
+    "answer": "Xét xử sơ thẩm được thực hiện theo nguyên tắc xét xử trực tiếp bằng lời nói và liên tục, chỉ xét xử những bị cáo, những hành vi theo tội danh mà Viện kiểm sát truy tố và Tòa án đã có quyết định đưa ra xét xử."
+  },
+  {
+    "id": "PL_1588",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự xét xử sơ thẩm vụ án hình sự.",
+    "question": "Trình tự xét xử tại phiên tòa sơ thẩm vụ án hình sự bao gồm những bước nào?",
+    "answer": "Trình tự xét xử tại phiên tòa bao gồm khai mạc, xét hỏi, tranh luận trước tòa, nghị án và tuyên án."
+  },
+  {
+    "id": "PL_1589",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền xét xử phúc thẩm vụ án hình sự.",
+    "question": "Thẩm quyền xét xử phúc thẩm vụ án hình sự thuộc về cơ quan nào?",
+    "answer": "Thẩm quyền xét xử phúc thẩm thuộc về Tòa án cấp trên trực tiếp."
+  },
+  {
+    "id": "PL_1590",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mục đích của xét xử phúc thẩm án hình sự.",
+    "question": "Mục đích của xét xử phúc thẩm án hình sự là gì?",
+    "answer": "Mục đích của xét xử phúc thẩm là xét xử lại những bản án hoặc quyết định sơ thẩm chưa có hiệu lực pháp luật bị kháng cáo hoặc kháng nghị."
+  }
+]

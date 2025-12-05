@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1346",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản theo quy định pháp luật.",
+    "question": "Khi nào người chiếm hữu tài sản thuộc sở hữu nhà nước không thể trở thành chủ sở hữu tài sản đó?",
+    "answer": "Người chiếm hữu không có căn cứ pháp luật thì dù ngay tình, liên tục, công khai và thời gian chiếm hữu bao lâu cũng không thể trở thành chủ sở hữu tài sản đó."
+  },
+  {
+    "id": "PL_1347",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các trường hợp dẫn đến việc chấm dứt quyền sở hữu tài sản.",
+    "question": "Những tình huống nào có thể dẫn đến việc chấm dứt quyền sở hữu tài sản?",
+    "answer": "Quyền sở hữu tài sản chấm dứt trong các trường hợp: chủ sở hữu chuyển giao quyền sở hữu, từ bỏ quyền sở hữu, tài sản được người khác xác lập quyền sở hữu, xử lý tài sản để thực hiện nghĩa vụ của chủ sở hữu, tài sản bị tiêu hủy, bị trưng mua hoặc bị tịch thu."
+  },
+  {
+    "id": "PL_1348",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm thừa kế theo pháp luật Việt Nam.",
+    "question": "Theo pháp luật Việt Nam, thừa kế được định nghĩa như thế nào?",
+    "answer": "Thừa kế là việc chuyển dịch tài sản của người chết cho những người còn sống."
+  },
+  {
+    "id": "PL_1349",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về người để lại di sản thừa kế theo quy định pháp luật.",
+    "question": "Người để lại di sản thừa kế được hiểu là gì theo quy định pháp luật Việt Nam?",
+    "answer": "Người để lại di sản thừa kế là người mà sau khi chết có tài sản để lại cho người khác theo trình tự thừa kế theo di chúc hoặc theo pháp luật."
+  },
+  {
+    "id": "PL_1350",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện để trở thành người thừa kế theo quy định pháp luật.",
+    "question": "Cá nhân cần đáp ứng điều kiện gì để trở thành người thừa kế theo quy định pháp luật?",
+    "answer": "Cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1976",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội truyền thống Việt Nam.",
+    "question": "Lý dịch và hào mục trong làng xã Việt Nam đảm nhận vai trò gì?",
+    "answer": "Lý dịch chịu trách nhiệm điều hành bộ máy quản lý trong làng, trong khi hào mục là những người có địa vị cao hơn dân thường và tham gia vào việc quản lý làng xã."
+  },
+  {
+    "id": "VH_1977",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội truyền thống Việt Nam.",
+    "question": "Vì sao chỉ tầng lớp hào mục mới có thể trở thành lý trưởng trong làng xã Việt Nam?",
+    "answer": "Chỉ tầng lớp hào mục được tham gia bầu cử và ứng cử vào các vị trí lãnh đạo trong làng, trong khi các tầng lớp khác như bần nông không được phép tham gia."
+  },
+  {
+    "id": "VH_1978",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong tục truyền thống Việt Nam.",
+    "question": "Tục khao vọng trong làng xã Việt Nam có ý nghĩa gì?",
+    "answer": "Tục khao vọng nhằm công nhận địa vị mới của người tổ chức trước cộng đồng và yêu cầu mọi người đối xử với họ theo địa vị mới này."
+  },
+  {
+    "id": "VH_1979",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội truyền thống Việt Nam.",
+    "question": "Vì sao quyền lực của các chức sắc trong làng xã chỉ giới hạn trong nội bộ làng?",
+    "answer": "Quyền lực của các chức sắc như Tường, Nhiêu, Xã, Cai chỉ áp dụng trong phạm vi làng, không có ảnh hưởng ngoài khu vực làng."
+  },
+  {
+    "id": "VH_1980",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội truyền thống Việt Nam.",
+    "question": "Tại sao việc đóng góp tiền lớn để gia nhập hội đồng hào mục lại phổ biến?",
+    "answer": "Đóng góp tiền lớn là điều kiện để gia nhập hội đồng hào mục, từ đó người tham gia có thể đạt được địa vị và quyền lực trong làng xã."
+  }
+]

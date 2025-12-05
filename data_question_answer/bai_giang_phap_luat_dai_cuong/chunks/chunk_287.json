@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1431",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Viện kiểm sát trong tố tụng.",
+    "question": "Viện kiểm sát thực hiện chức năng gì trong quá trình tòa án giải quyết vụ án?",
+    "answer": "Viện kiểm sát thực hiện chức năng kiểm sát việc tuân theo pháp luật trong quá trình tòa án giải quyết vụ án."
+  },
+  {
+    "id": "PL_1432",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của tổ chức xã hội trong tố tụng.",
+    "question": "Tổ chức xã hội khởi kiện vì lợi ích chung có quyền và nghĩa vụ nào?",
+    "answer": "Tổ chức xã hội khởi kiện vì lợi ích chung có quyền và nghĩa vụ như nguyên đơn, trừ quyền hòa giải."
+  },
+  {
+    "id": "PL_1433",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người làm chứng trong tố tụng.",
+    "question": "Nghĩa vụ của người làm chứng trong tố tụng là gì?",
+    "answer": "Người làm chứng có nghĩa vụ khai trung thực tất cả những gì mà mình biết về vụ án."
+  },
+  {
+    "id": "PL_1434",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người giám định trong tố tụng.",
+    "question": "Người giám định có những quyền gì khi tham gia tố tụng?",
+    "answer": "Người giám định có quyền tìm hiểu tài liệu của vụ án liên quan đến đối tượng giám định, yêu cầu cơ quan trưng cầu giám định cung cấp tài liệu cần thiết, tham dự vào việc xét hỏi và đặt câu hỏi về những vấn đề liên quan đến đối tượng giám định."
+  },
+  {
+    "id": "PL_1435",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của người phiên dịch trong tố tụng.",
+    "question": "Người phiên dịch được yêu cầu tham gia tố tụng trong trường hợp nào?",
+    "answer": "Người phiên dịch được yêu cầu tham gia tố tụng khi có người tham gia tố tụng không sử dụng được tiếng Việt."
+  }
+]

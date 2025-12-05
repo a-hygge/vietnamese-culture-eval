@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_171",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phương pháp cai trị của nhà nước.",
+    "question": "Hai phương pháp cai trị chính mà các giai cấp cầm quyền thường sử dụng là gì?",
+    "answer": "Hai phương pháp cai trị chính là phương pháp dân chủ và phương pháp phản dân chủ."
+  },
+  {
+    "id": "PL_172",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ dân chủ trong nhà nước.",
+    "question": "Chế độ dân chủ trong nhà nước tôn trọng những quyền nào của công dân?",
+    "answer": "Chế độ dân chủ tôn trọng các quyền cơ bản của công dân, được đảm bảo trong thực tế bằng việc pháp luật bảo vệ."
+  },
+  {
+    "id": "PL_173",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ phản dân chủ trong nhà nước.",
+    "question": "Chế độ phản dân chủ có tác động gì đến quyền tự do của công dân?",
+    "answer": "Chế độ phản dân chủ chà đạp lên quyền tự do dân chủ của công dân."
+  },
+  {
+    "id": "PL_174",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của nhà nước.",
+    "question": "Chức năng của nhà nước được hiểu như thế nào?",
+    "answer": "Chức năng của nhà nước là những phương diện, loại hoạt động cơ bản của nhà nước nhằm thực hiện những nhiệm vụ đặt ra trước nhà nước."
+  },
+  {
+    "id": "PL_175",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của nhà nước xã hội chủ nghĩa Việt Nam.",
+    "question": "Nhà nước xã hội chủ nghĩa Việt Nam thực hiện chức năng dựa trên cơ sở kinh tế nào?",
+    "answer": "Nhà nước xã hội chủ nghĩa thực hiện chức năng dựa trên cơ sở kinh tế là chế độ công hữu về tư liệu sản xuất."
+  }
+]

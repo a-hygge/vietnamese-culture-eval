@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_386",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật là gì?",
+    "answer": "Quy phạm pháp luật là những quy tắc xử sự có tính bắt buộc, được nhà nước ban hành hoặc thừa nhận, nhằm điều chỉnh các quan hệ xã hội."
+  },
+  {
+    "id": "PL_387",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật có những đặc điểm nào?",
+    "answer": "Quy phạm pháp luật mang tính bắt buộc chung, thể hiện ý chí của nhà nước, và được nhà nước bảo đảm thực hiện."
+  },
+  {
+    "id": "PL_388",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu của quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật gồm mấy phần chính?",
+    "answer": "Quy phạm pháp luật gồm 3 phần chính: giả định, quy định, và chế tài."
+  },
+  {
+    "id": "PL_389",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bộ phận giả định trong quy phạm pháp luật.",
+    "question": "Bộ phận giả định trong quy phạm pháp luật có chức năng gì?",
+    "answer": "Bộ phận giả định xác định các điều kiện, hoàn cảnh hoặc chủ thể áp dụng quy phạm pháp luật."
+  },
+  {
+    "id": "PL_390",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nhà nước trong thực hiện quy phạm pháp luật.",
+    "question": "Nhà nước thực hiện quy phạm pháp luật bằng cách nào?",
+    "answer": "Nhà nước thực hiện quy phạm pháp luật bằng cách ban hành, bảo đảm thực hiện và áp dụng biện pháp cưỡng chế khi cần thiết."
+  }
+]

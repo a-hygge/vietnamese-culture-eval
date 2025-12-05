@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1256",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền riêng tư cá nhân.",
+    "question": "Việc thu thập, sử dụng thông tin liên quan đến bí mật gia đình phải đáp ứng điều kiện nào?",
+    "answer": "Việc thu thập, sử dụng thông tin liên quan đến bí mật gia đình phải được các thành viên gia đình đồng ý, trừ trường hợp luật có quy định khác."
+  },
+  {
+    "id": "PL_1257",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bảo đảm an toàn thông tin cá nhân.",
+    "question": "Những hình thức trao đổi thông tin riêng tư nào của cá nhân được pháp luật bảo đảm an toàn và bí mật?",
+    "answer": "Thư tín, điện thoại, điện tín, cơ sở dữ liệu điện tử và các hình thức trao đổi thông tin riêng tư khác của cá nhân được pháp luật bảo đảm an toàn và bí mật."
+  },
+  {
+    "id": "PL_1258",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm bảo mật trong hợp đồng.",
+    "question": "Các bên trong hợp đồng có trách nhiệm gì đối với thông tin đời sống riêng tư, bí mật cá nhân của nhau?",
+    "answer": "Các bên trong hợp đồng không được tiết lộ thông tin về đời sống riêng tư, bí mật cá nhân, bí mật gia đình của nhau mà mình đã biết được trong quá trình xác lập, thực hiện hợp đồng, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "id": "PL_1259",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp nhân.",
+    "question": "Pháp nhân được định nghĩa như thế nào theo quy định của pháp luật Việt Nam?",
+    "answer": "Pháp nhân là một chủ thể được thành lập hoặc được thừa nhận theo quy định của Bộ luật dân sự và các luật khác có liên quan, có cơ cấu tổ chức, tài sản độc lập và tự chịu trách nhiệm bằng tài sản của mình."
+  },
+  {
+    "id": "PL_1260",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại pháp nhân.",
+    "question": "Pháp nhân thương mại được định nghĩa và phân loại như thế nào?",
+    "answer": "Pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận, và lợi nhuận được chia cho các thành viên. Pháp nhân thương mại bao gồm doanh nghiệp và các tổ chức kinh tế khác."
+  }
+]

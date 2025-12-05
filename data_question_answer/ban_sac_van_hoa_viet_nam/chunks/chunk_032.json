@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_156",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và quan niệm phong thủy trong văn hóa Việt Nam.",
+    "question": "Cao Biền được cho là đã làm gì để ảnh hưởng đến long mạch ở Giao Chỉ?",
+    "answer": "Cao Biền được cho là đã tìm cách cắt đứt các long mạch để đất Giao Chỉ không thể sinh vương, nhằm duy trì ách đô hộ lâu dài."
+  },
+  {
+    "id": "VH_157",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của phong thủy trong lịch sử Việt Nam.",
+    "question": "Phong thủy được sử dụng như thế nào trong việc chọn đất để xây dựng kinh đô ở Việt Nam?",
+    "answer": "Phong thủy được sử dụng để chọn đất thích hợp cho việc định đô và xây dựng kinh đô, thể hiện qua các tài liệu như Chiếu dời đô của Lý Thái Tổ và thư của Quang Trung gửi La Sơn phu tử."
+  },
+  {
+    "id": "VH_158",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nhân vật lịch sử nổi tiếng trong lĩnh vực phong thủy Việt Nam.",
+    "question": "Ai là nhân vật nổi tiếng nhất về phong thủy ở Việt Nam và quê quán của ông ở đâu?",
+    "answer": "Nhân vật nổi tiếng nhất về phong thủy ở Việt Nam là Nguyễn Hữu Huyên, còn được gọi là cụ Tả Ao, quê ở làng Tả Ao, tỉnh Hà Tĩnh."
+  },
+  {
+    "id": "VH_159",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về việc áp dụng phong thủy trong xây dựng kinh đô Huế.",
+    "question": "Vì sao vua Minh Mạng vẫn tuân theo các quy tắc phong thủy khi xây dựng kinh đô Huế dù ông không tin vào nó?",
+    "answer": "Vua Minh Mạng tuân theo các quy tắc phong thủy khi xây dựng kinh đô Huế vì ông thấy rằng việc làm này không gây hại gì."
+  },
+  {
+    "id": "VH_160",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đóng góp của cụ Tả Ao trong lĩnh vực phong thủy.",
+    "question": "Cụ Tả Ao có những đóng góp gì đáng chú ý trong lĩnh vực phong thủy ở Việt Nam?",
+    "answer": "Cụ Tả Ao nổi tiếng với các cách đặt hướng đình, mồ mả và nhiều câu chuyện liên quan đến phong thủy. Có đến 70 tài liệu trong thư mục Hán Nôm liên quan đến ông."
+  }
+]

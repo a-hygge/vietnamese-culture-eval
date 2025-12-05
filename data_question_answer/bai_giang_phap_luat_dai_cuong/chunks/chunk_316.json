@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1576",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp tư pháp đối với pháp nhân thương mại phạm tội.",
+    "question": "Những biện pháp tư pháp nào có thể được áp dụng để xử lý pháp nhân thương mại phạm tội?",
+    "answer": "Biện pháp tư pháp bao gồm: tịch thu vật, tiền trực tiếp liên quan đến tội phạm; trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi; khôi phục lại tình trạng ban đầu; thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra."
+  },
+  {
+    "id": "PL_1577",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp khắc phục hậu quả đối với pháp nhân thương mại phạm tội.",
+    "question": "Pháp nhân thương mại phạm tội cần thực hiện những biện pháp gì để ngăn chặn hậu quả tiếp tục xảy ra?",
+    "answer": "Pháp nhân thương mại phạm tội phải thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra."
+  },
+  {
+    "id": "PL_1578",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm dân sự của pháp nhân thương mại phạm tội.",
+    "question": "Pháp nhân thương mại phạm tội có trách nhiệm gì trong việc bồi thường thiệt hại?",
+    "answer": "Pháp nhân thương mại phạm tội có trách nhiệm trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại, và buộc công khai xin lỗi."
+  },
+  {
+    "id": "PL_1579",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp khôi phục tình trạng ban đầu trong xử lý pháp nhân thương mại phạm tội.",
+    "question": "Biện pháp khôi phục tình trạng ban đầu được áp dụng nhằm mục đích gì đối với pháp nhân thương mại phạm tội?",
+    "answer": "Biện pháp khôi phục tình trạng ban đầu nhằm trả lại hiện trạng trước khi xảy ra tội phạm đối với pháp nhân thương mại phạm tội."
+  },
+  {
+    "id": "PL_1580",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật tố tụng hình sự.",
+    "question": "Luật tố tụng hình sự được định nghĩa như thế nào?",
+    "answer": "Luật tố tụng hình sự là một lĩnh vực pháp luật quy định trình tự, thủ tục giải quyết các vụ án hình sự và việc thi hành các biện pháp xử lý đối với hành vi phạm tội."
+  }
+]

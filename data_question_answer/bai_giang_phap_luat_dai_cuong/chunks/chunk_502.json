@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1806",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_502.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện mở thủ tục phá sản theo Luật Phá sản 2014.",
+    "question": "Điều kiện để Tòa án ra quyết định mở thủ tục phá sản của doanh nghiệp hoặc hợp tác xã là gì?",
+    "answer": "Điều kiện để Tòa án ra quyết định mở thủ tục phá sản là doanh nghiệp hoặc hợp tác xã có khoản nợ và không thanh toán khoản nợ đó khi đến thời điểm Tòa án xem xét."
+  },
+  {
+    "id": "PL_1807",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_502.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tiêu chí mất khả năng thanh toán trong Luật Phá sản 2014.",
+    "question": "Mất khả năng thanh toán được xác định dựa trên tiêu chí nào theo Luật Phá sản 2014?",
+    "answer": "Mất khả năng thanh toán được xác định khi doanh nghiệp hoặc hợp tác xã không thanh toán bất kỳ khoản nợ nào đến hạn, không phụ thuộc vào số lượng khoản nợ."
+  },
+  {
+    "id": "PL_1808",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_502.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền yêu cầu mở thủ tục phá sản theo Luật Phá sản 2014.",
+    "question": "Ai có quyền nộp đơn yêu cầu mở thủ tục phá sản theo quy định của Luật Phá sản 2014?",
+    "answer": "Những người có quyền nộp đơn yêu cầu mở thủ tục phá sản gồm: chủ nợ không có bảo đảm, chủ nợ có bảo đảm một phần, người lao động, công đoàn cơ sở, cổ đông hoặc nhóm cổ đông sở hữu cổ phần phổ thông theo quy định, và người đại diện theo pháp luật của hợp tác xã hoặc liên hiệp hợp tác xã."
+  },
+  {
+    "id": "PL_1809",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_502.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi các khoản nợ trong thủ tục phá sản theo Luật Phá sản 2014.",
+    "question": "Luật Phá sản 2014 quy định như thế nào về các loại khoản nợ có thể được xem xét trong thủ tục phá sản?",
+    "answer": "Luật Phá sản 2014 quy định rằng bất kỳ khoản nợ nào, bao gồm nợ lương, nợ thuế, nợ bảo hiểm xã hội, hoặc khoản nợ phát sinh từ hợp đồng, đều có thể được xem xét trong thủ tục phá sản."
+  },
+  {
+    "id": "PL_1810",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_502.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản theo Luật Phá sản 2014.",
+    "question": "Theo Luật Phá sản 2014, những ai có nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản?",
+    "answer": "Theo Luật Phá sản 2014, những người có nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản bao gồm thành viên hợp tác xã hoặc người đại diện theo pháp luật của hợp tác xã."
+  }
+]

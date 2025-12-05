@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2006",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Gia phong trong gia đình Việt Nam có ý nghĩa gì?",
+    "answer": "Gia phong là đạo đức gia đình, quý hơn cả tài sản, giúp giữ gìn nhân cách và diện mạo con người, tránh làm điều trái với đạo nghĩa."
+  },
+  {
+    "id": "VH_2007",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Nghệ thuật truyền thống Việt Nam được duy trì nhờ yếu tố nào?",
+    "answer": "Nghệ thuật truyền thống Việt Nam tồn tại nhờ phục vụ nhân cách luận, đề cao những nhân cách phù hợp với văn hóa, bất chấp hoàn cảnh khó khăn."
+  },
+  {
+    "id": "VH_2008",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghề thủ công truyền thống Việt Nam.",
+    "question": "Các nghề thủ công truyền thống Việt Nam có đặc điểm gì nổi bật?",
+    "answer": "Các nghề thủ công truyền thống nổi bật bởi sự tinh xảo và gắn liền với đời sống văn hóa tâm linh."
+  },
+  {
+    "id": "VH_2009",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Tại sao gia phong được xem là quan trọng trong văn hóa Việt Nam?",
+    "answer": "Gia phong được xem là quan trọng vì nó đại diện cho đạo đức gia đình, giữ gìn nhân cách và diện mạo của con người."
+  },
+  {
+    "id": "VH_2010",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Yếu tố nào giúp nghệ thuật Việt Nam xưa phát triển bền vững?",
+    "answer": "Nghệ thuật Việt Nam xưa phát triển bền vững nhờ gắn liền với việc bảo vệ nhân cách và phục vụ nhân cách luận."
+  }
+]

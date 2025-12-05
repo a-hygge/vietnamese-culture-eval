@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2801",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa làng xã trong lịch sử Việt Nam.",
+    "question": "Nền văn hóa nào được coi là nền tảng của tâm thức người Việt Nam?",
+    "answer": "Nền văn hóa làng xã được coi là nền tảng của tâm thức người Việt Nam, chứ không phải Nho giáo."
+  },
+  {
+    "id": "VH_2802",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của văn hóa công xã trong tư tưởng người Việt.",
+    "question": "Hệ tư tưởng nào đã ảnh hưởng đến người Việt trước khi Nho giáo xuất hiện?",
+    "answer": "Hệ tư tưởng công xã đã ảnh hưởng đến người Việt, được thể hiện qua ca dao, hò vè, tục ngữ, truyện Nôm, hát ví, lễ hội, khoán ước và các cuộc họp ở đình."
+  },
+  {
+    "id": "VH_2803",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giáo dục và văn hóa truyền thống Việt Nam.",
+    "question": "Trước khi tiếp cận sách Nho, người Việt học các quy tắc ứng xử từ đâu?",
+    "answer": "Người Việt học các quy tắc ứng xử từ ca dao, đồng dao, ngâm vè, các chuyện kể về thần tích, tổ tiên và sinh hoạt hội làng tế lễ."
+  },
+  {
+    "id": "VH_2804",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của nhà Nho trong xã hội Việt Nam.",
+    "question": "Điểm khác biệt của nhà Nho Việt Nam so với nhà Nho Trung Quốc là gì?",
+    "answer": "Nhà Nho Việt Nam không trở thành một đẳng cấp riêng như ở Trung Quốc và luôn ghi nhớ vai trò của dân làng, với quan niệm 'Quan nhất thời, dân vạn đại'."
+  },
+  {
+    "id": "VH_2805",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa quan trường và làng xã trong văn hóa Việt Nam.",
+    "question": "Các nhà Nho Việt Nam thường làm gì khi gặp khó khăn trong quan trường?",
+    "answer": "Khi gặp khó khăn trong quan trường, các nhà Nho Việt Nam thường trở về làng để tìm nơi an ủi."
+  }
+]

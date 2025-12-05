@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_466",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Tại sao Tổ quốc Việt Nam được coi là thành quả của nhân dân Việt Nam?",
+    "answer": "Tổ quốc Việt Nam được coi là thành quả của nhân dân vì họ đã phải đấu tranh giành lấy từ thiên nhiên và bảo vệ qua các cuộc chiến chống thiên tai như hạn hán, lũ lụt để tồn tại và phát triển."
+  },
+  {
+    "id": "VH_467",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa làng xã Việt Nam.",
+    "question": "Vì sao tinh thần đoàn kết và hỗ trợ lẫn nhau là yếu tố quan trọng trong làng xã Việt Nam?",
+    "answer": "Tinh thần đoàn kết và hỗ trợ lẫn nhau là yếu tố quan trọng vì nghề trồng lúa nước yêu cầu sự hợp tác trong việc quản lý nguồn nước và chia sẻ lợi ích, giúp cộng đồng cùng phát triển bền vững."
+  },
+  {
+    "id": "VH_468",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm nghề nông ở Việt Nam.",
+    "question": "Người dân Việt Nam cần làm gì để thích nghi với điều kiện tự nhiên trong nghề trồng lúa nước?",
+    "answer": "Người dân cần chủ động tưới nước khi thiếu, tháo nước khi thừa và xây dựng hệ thống thủy lợi để đảm bảo sự phát triển của cây lúa."
+  },
+  {
+    "id": "VH_469",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa và phong tục làng xã Việt Nam.",
+    "question": "Vai trò của văn hóa và phong tục trong việc duy trì đời sống cộng đồng ở làng xã Việt Nam là gì?",
+    "answer": "Văn hóa và phong tục đóng vai trò củng cố tinh thần đoàn kết, giúp quản lý các hoạt động chung và duy trì sự ổn định trong cộng đồng làng xã."
+  },
+  {
+    "id": "VH_470",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa con người và thiên nhiên trong văn hóa Việt Nam.",
+    "question": "Người dân Việt Nam đã làm gì để khai thác và bảo vệ đất đai trước tác động của thiên nhiên?",
+    "answer": "Người dân đã không ngừng chống lại các tác động của thiên nhiên như hạn hán, lũ lụt để khai thác và bảo vệ đất đai phục vụ sản xuất và cuộc sống."
+  }
+]

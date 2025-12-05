@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_526",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm pháp luật.",
+    "question": "Vi phạm pháp luật cần hội đủ những dấu hiệu nào?",
+    "answer": "Vi phạm pháp luật cần hội đủ ba dấu hiệu: hành vi, tính trái pháp luật và lỗi."
+  },
+  {
+    "id": "PL_527",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấu thành vi phạm pháp luật.",
+    "question": "Cấu thành vi phạm pháp luật gồm những yếu tố nào?",
+    "answer": "Cấu thành vi phạm pháp luật gồm bốn yếu tố, trong đó có mặt khách quan với dấu hiệu là hành vi thể hiện bằng hành động hoặc không hành động."
+  },
+  {
+    "id": "PL_528",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của hành vi trong vi phạm pháp luật.",
+    "question": "Hành vi đóng vai trò gì trong dấu hiệu của vi phạm pháp luật?",
+    "answer": "Hành vi đóng vai trò dấu hiệu hình thức và dấu hiệu chung trong vi phạm pháp luật."
+  },
+  {
+    "id": "PL_529",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính chất của hành vi trong vi phạm pháp luật.",
+    "question": "Tính trái pháp luật và lỗi được xem là gì trong vi phạm pháp luật?",
+    "answer": "Tính trái pháp luật và lỗi được xem là tính chất của hành vi vi phạm pháp luật."
+  },
+  {
+    "id": "PL_530",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mặt khách quan của vi phạm pháp luật.",
+    "question": "Mặt khách quan trong cấu thành vi phạm pháp luật bao gồm dấu hiệu nào?",
+    "answer": "Mặt khách quan trong cấu thành vi phạm pháp luật bao gồm dấu hiệu hành vi thể hiện bằng hành động hoặc không hành động."
+  }
+]

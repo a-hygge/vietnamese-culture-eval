@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_281",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về xã hội và văn hóa trong quá khứ.",
+    "question": "Những nhóm người nào được mô tả là có tiền nhưng sống trong hoàn cảnh đặc biệt?",
+    "answer": "Những nhóm người được mô tả là các bà vợ Pháp, các cô gái trẻ trải qua cuộc đời sóng gió, và các thương nhân sống trong cảnh bấp bênh của thị trường."
+  },
+  {
+    "id": "VH_282",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong cách trang phục liên quan đến xã hội.",
+    "question": "Điều gì đã góp phần làm cho trang phục trở nên lộng lẫy hơn?",
+    "answer": "Hoàn cảnh sống đặc biệt của các bà, các cô, như việc bị tách khỏi quan hệ quen thuộc, đã khiến họ chú trọng hơn đến trang phục, làm cho trang phục trở nên lộng lẫy hơn."
+  },
+  {
+    "id": "VH_283",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm xã hội của một nhóm người.",
+    "question": "Cuộc đời của các cô gái trẻ được miêu tả như thế nào?",
+    "answer": "Cuộc đời của các cô gái trẻ được miêu tả là đầy sóng gió."
+  },
+  {
+    "id": "VH_284",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm kinh tế của một nhóm người.",
+    "question": "Các thương nhân được mô tả có tình trạng kinh tế ra sao?",
+    "answer": "Các thương nhân được mô tả là sống trong cảnh bấp bênh của thị trường."
+  },
+  {
+    "id": "VH_285",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa xã hội và trang phục.",
+    "question": "Hoàn cảnh xã hội ảnh hưởng như thế nào đến trang phục của các nhân vật?",
+    "answer": "Hoàn cảnh xã hội đặc biệt, như việc bị tách khỏi quan hệ quen thuộc hoặc sống trong cảnh bấp bênh, đã khiến các nhân vật chú trọng hơn đến trang phục, làm cho chúng trở nên lộng lẫy hơn."
+  }
+]

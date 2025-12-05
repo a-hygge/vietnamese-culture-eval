@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_101",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm Nhà nước.",
+    "question": "Nhà nước được định nghĩa như thế nào?",
+    "answer": "Nhà nước là một tổ chức đặc biệt của quyền lực chính trị, một bộ máy chuyên làm nhiệm vụ cưỡng chế và thực hiện các chức năng quản lý đặc biệt nhằm duy trì trật tự xã hội, thực hiện mục đích bảo vệ địa vị của giai cấp thống trị."
+  },
+  {
+    "id": "PL_102",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tiền đề kinh tế và xã hội cho sự ra đời của Nhà nước.",
+    "question": "Các tiền đề kinh tế và xã hội nào dẫn đến sự ra đời của Nhà nước?",
+    "answer": "Tiền đề kinh tế cho sự ra đời của Nhà nước là chế độ tư hữu tài sản. Tiền đề xã hội là sự phân hóa xã hội thành các giai cấp, các tầng lớp có lợi ích đối lập nhau và mâu thuẫn giữa các giai cấp, các tầng lớp ấy gay gắt đến mức không thể điều hòa được."
+  },
+  {
+    "id": "PL_103",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Nhà nước.",
+    "question": "Những chức năng chính của Nhà nước là gì?",
+    "answer": "Chức năng của Nhà nước là duy trì trật tự xã hội và thực hiện mục đích bảo vệ địa vị của giai cấp thống trị."
+  },
+  {
+    "id": "PL_104",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự chuyển biến xã hội dẫn đến sự xuất hiện của Nhà nước.",
+    "question": "Những điều kiện xã hội nào dẫn đến sự xuất hiện của Nhà nước?",
+    "answer": "Điều kiện kinh tế – xã hội là cơ sở tồn tại của xã hội công xã nguyên thủy bị phá vỡ, sự phân hóa xã hội thành các giai cấp với lợi ích đối lập và mâu thuẫn gay gắt đã đòi hỏi sự xuất hiện của một tổ chức quyền lực mới để duy trì trật tự và quản lý xã hội."
+  },
+  {
+    "id": "PL_105",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của giai cấp thống trị trong sự hình thành Nhà nước.",
+    "question": "Giai cấp thống trị đóng vai trò gì trong sự hình thành Nhà nước?",
+    "answer": "Giai cấp thống trị tổ chức ra Nhà nước để thực hiện sự thống trị giai cấp, dập tắt xung đột công khai giữa các giai cấp, giữ các xung đột ấy trong một vòng trật tự và bảo vệ lợi ích, địa vị của mình."
+  }
+]

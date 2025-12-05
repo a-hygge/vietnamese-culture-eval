@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1366",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật thừa kế theo pháp luật Việt Nam.",
+    "question": "Diện thừa kế được xác định dựa trên những mối quan hệ nào?",
+    "answer": "Diện thừa kế được xác định dựa trên quan hệ hôn nhân, quan hệ huyết thống và quan hệ nuôi dưỡng giữa người thừa kế và người để lại thừa kế."
+  },
+  {
+    "id": "PL_1367",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định hàng thừa kế trong luật thừa kế.",
+    "question": "Hàng thừa kế thứ nhất theo quy định pháp luật gồm những ai?",
+    "answer": "Hàng thừa kế thứ nhất gồm: Vợ, chồng, cha mẹ đẻ, cha mẹ nuôi, con đẻ, con nuôi của người chết."
+  },
+  {
+    "id": "PL_1368",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định phân chia di sản thừa kế.",
+    "question": "Nguyên tắc phân chia di sản thừa kế giữa những người cùng hàng thừa kế là gì?",
+    "answer": "Những người thừa kế cùng hàng được hưởng phần di sản bằng nhau."
+  },
+  {
+    "id": "PL_1369",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện hưởng di sản thừa kế theo pháp luật.",
+    "question": "Khi nào người ở hàng thừa kế sau được hưởng di sản thừa kế?",
+    "answer": "Người ở hàng thừa kế sau chỉ được hưởng di sản thừa kế nếu không còn ai ở hàng thừa kế trước, hoặc người ở hàng thừa kế trước không có quyền hưởng di sản, bị truất quyền hưởng di sản, hoặc từ chối nhận di sản."
+  },
+  {
+    "id": "PL_1370",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật thừa kế và quyền thừa kế.",
+    "question": "Người được chỉ định trong di chúc không thể hưởng thừa kế trong các trường hợp nào?",
+    "answer": "Người được chỉ định trong di chúc không thể hưởng thừa kế nếu chết trước người có di sản, bị tước quyền thừa kế hoặc khước từ hưởng thừa kế."
+  }
+]

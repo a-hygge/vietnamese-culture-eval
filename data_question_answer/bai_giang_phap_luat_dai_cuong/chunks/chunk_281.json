@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1401",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ dân sự theo pháp luật Việt Nam.",
+    "question": "Những căn cứ nào có thể dẫn đến việc phát sinh nghĩa vụ dân sự?",
+    "answer": "Căn cứ phát sinh nghĩa vụ dân sự bao gồm: Hợp đồng dân sự; Hành vi pháp lý đơn phương; Thực hiện công việc không có uỷ quyền; Chiếm hữu, sử dụng tài sản hoặc được lợi về tài sản không có căn cứ pháp luật; Gây thiệt hại do hành vi trái pháp luật; Những căn cứ khác do pháp luật quy định."
+  },
+  {
+    "id": "PL_1402",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp đảm bảo thực hiện nghĩa vụ dân sự.",
+    "question": "Cầm cố tài sản được quy định như thế nào trong nghĩa vụ dân sự?",
+    "answer": "Cầm cố tài sản là việc bên có nghĩa vụ giao tài sản là động sản thuộc sở hữu của mình cho bên có quyền để đảm bảo thực hiện nghĩa vụ dân sự. Cầm cố tài sản phải được lập thành văn bản, có thể lập riêng hoặc ghi trong hợp đồng chính."
+  },
+  {
+    "id": "PL_1403",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp đảm bảo thực hiện nghĩa vụ dân sự.",
+    "question": "Thế chấp tài sản được hiểu như thế nào theo pháp luật?",
+    "answer": "Thế chấp tài sản là việc bên có nghĩa vụ giao giấy tờ chứng nhận quyền sở hữu bất động sản của mình cho bên có quyền để bảo đảm thực hiện nghĩa vụ dân sự. Thế chấp tài sản phải được lập thành văn bản."
+  },
+  {
+    "id": "PL_1404",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ trong thực hiện nghĩa vụ dân sự.",
+    "question": "Nếu bên có nghĩa vụ không thông báo cho bên có quyền, họ phải chịu trách nhiệm gì?",
+    "answer": "Bên có nghĩa vụ phải bồi thường thiệt hại phát sinh nếu không thông báo cho bên có quyền, trừ trường hợp có thỏa thuận khác hoặc do nguyên nhân khách quan không thể thông báo."
+  },
+  {
+    "id": "PL_1405",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thực hiện đúng thời hạn nghĩa vụ dân sự.",
+    "question": "Việc hoãn thực hiện nghĩa vụ dân sự có ảnh hưởng gì đến thời hạn thực hiện nghĩa vụ?",
+    "answer": "Việc thực hiện nghĩa vụ dân sự khi được hoãn vẫn được coi là thực hiện đúng thời hạn nếu bên có quyền đồng ý cho hoãn."
+  }
+]

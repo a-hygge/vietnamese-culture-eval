@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_531",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm pháp luật.",
+    "question": "Hành vi như thế nào được xem là trái pháp luật?",
+    "answer": "Hành vi trái pháp luật là hành vi không tuân thủ các yêu cầu của quy phạm pháp luật, dưới hình thức hành động hoặc không hành động, gây thiệt hại cho xã hội hoặc cho từng cá nhân cụ thể."
+  },
+  {
+    "id": "PL_532",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khách thể của vi phạm pháp luật.",
+    "question": "Khách thể của vi phạm pháp luật là gì?",
+    "answer": "Khách thể của vi phạm pháp luật là những quan hệ xã hội được pháp luật điều chỉnh và bảo vệ, bị xâm hại bởi hành vi trái pháp luật."
+  },
+  {
+    "id": "PL_533",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mặt chủ quan của hành vi vi phạm pháp luật.",
+    "question": "Mặt chủ quan của hành vi vi phạm pháp luật được thể hiện như thế nào?",
+    "answer": "Mặt chủ quan của hành vi vi phạm pháp luật được thể hiện qua lỗi của chủ thể, bao gồm lỗi cố ý trực tiếp, lỗi cố ý gián tiếp, lỗi vô ý do quá tự tin và lỗi vô ý do cẩu thả, khinh suất."
+  },
+  {
+    "id": "PL_534",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối quan hệ nhân quả trong hành vi vi phạm pháp luật.",
+    "question": "Mối quan hệ nhân quả giữa hành vi và hậu quả được hiểu ra sao trong vi phạm pháp luật?",
+    "answer": "Mối quan hệ nhân quả giữa hành vi và hậu quả là thiệt hại xảy ra cho xã hội phải là kết quả tất yếu từ hành vi trái pháp luật."
+  },
+  {
+    "id": "PL_535",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về lỗi cố ý trực tiếp trong vi phạm pháp luật.",
+    "question": "Lỗi cố ý trực tiếp trong vi phạm pháp luật được định nghĩa như thế nào?",
+    "answer": "Lỗi cố ý trực tiếp là trường hợp chủ thể vi phạm nhận thấy trước hậu quả thiệt hại cho xã hội do hành vi của mình gây ra và mong muốn điều đó xảy ra."
+  }
+]

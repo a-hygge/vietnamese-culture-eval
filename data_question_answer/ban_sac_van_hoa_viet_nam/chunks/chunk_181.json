@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_901",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Tại sao chủ nghĩa thực dân Pháp bị coi là sự bóp méo văn hóa Pháp?",
+    "answer": "Vì nó lợi dụng văn hóa Pháp để phục vụ mục đích chính trị và thống trị, không phản ánh đúng bản chất của văn hóa này."
+  },
+  {
+    "id": "VH_902",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết học Nho giáo trong văn hóa Việt Nam.",
+    "question": "Khổng tử xem vai trò của Nho giáo trong xã hội như thế nào?",
+    "answer": "Ông xem Nho giáo là học thuyết dành cho thiểu số có ý thức, nhằm mang lại sự hài hòa trong xã hội."
+  },
+  {
+    "id": "VH_903",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng văn hóa trong chính trị và xã hội Việt Nam.",
+    "question": "Nho giáo đã thay đổi như thế nào dưới chế độ quân chủ chuyên chế?",
+    "answer": "Nho giáo bị biến thành công cụ hỗ trợ mở rộng đất đai bằng võ lực, thay vì lôi cuốn thiên hạ bằng văn hóa."
+  },
+  {
+    "id": "VH_904",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa văn hóa và chính trị.",
+    "question": "Vì sao nghiên cứu văn hóa gắn với chính trị thường gặp khó khăn?",
+    "answer": "Vì chính trị có thể gây ra sự xuyên tạc và bóp méo bản chất thực sự của văn hóa."
+  },
+  {
+    "id": "VH_905",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nhận thức luận trong triết học Nho giáo.",
+    "question": "Tại sao nhiều nghiên cứu về Nho giáo không phản ánh đúng tư tưởng của Khổng tử?",
+    "answer": "Vì chúng không xét đến mặt nhận thức luận và bỏ qua những tư tưởng cốt lõi trong các tác phẩm như 'Luận ngữ'."
+  }
+]

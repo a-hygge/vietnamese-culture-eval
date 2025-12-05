@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2231",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Bản sắc văn hóa được hiểu như thế nào trong văn hóa Việt Nam?",
+    "answer": "Bản sắc văn hóa là phần ổn định trong văn hóa, được hình thành từ các mối quan hệ và không thể nhìn thấy bằng mắt thường."
+  },
+  {
+    "id": "VH_2232",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa bản sắc văn hóa và sự thay đổi.",
+    "question": "Tại sao việc duy trì bản sắc văn hóa không đồng nghĩa với việc khép kín?",
+    "answer": "Duy trì bản sắc văn hóa không đồng nghĩa với việc khép kín vì văn hóa cần thích ứng với sự thay đổi và chấp nhận sự giao lưu để tồn tại và phát triển."
+  },
+  {
+    "id": "VH_2233",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bài học lịch sử liên quan đến văn hóa Việt Nam.",
+    "question": "Hậu quả của chính sách văn hóa tự túc thời Tự Đức là gì?",
+    "answer": "Chính sách văn hóa tự túc thời Tự Đức đã dẫn đến việc mất nước."
+  },
+  {
+    "id": "VH_2234",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự thích nghi trong giao lưu văn hóa.",
+    "question": "Văn hóa Việt Nam cần duy trì yếu tố nào để không bị biến mất trong quá trình giao lưu?",
+    "answer": "Văn hóa Việt Nam cần duy trì một mối quan hệ giống như trọng tâm rơi đúng vào sợi dây của người nhào lộn để không bị tan vỡ hay biến mất."
+  },
+  {
+    "id": "VH_2235",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự giao lưu văn hóa quốc tế.",
+    "question": "Vì sao các nền văn hóa không thể tự phát triển mà không cần giao lưu?",
+    "answer": "Các nền văn hóa không thể tự phát triển mà không cần giao lưu vì cần sự tiếp xúc và quan hệ với các nền văn hóa khác để thích ứng và phát triển."
+  }
+]

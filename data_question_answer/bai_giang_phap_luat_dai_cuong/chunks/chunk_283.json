@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1411",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự.",
+    "question": "Điều kiện để thực hiện bảo lãnh là gì?",
+    "answer": "Việc bảo lãnh phải được lập thành văn bản."
+  },
+  {
+    "id": "PL_1412",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự.",
+    "question": "Ai có quyền thực hiện tín chấp và mục đích của nó là gì?",
+    "answer": "Tín chấp được thực hiện bởi tổ chức chính trị - xã hội ở cơ sở nhằm bảo đảm cho cá nhân, hộ gia đình nghèo vay tiền tại tổ chức tín dụng để sản xuất, kinh doanh, tiêu dùng theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_1413",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự.",
+    "question": "Trong hợp đồng song vụ, khi nào được cầm giữ tài sản?",
+    "answer": "Cầm giữ tài sản được thực hiện trong trường hợp bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ."
+  },
+  {
+    "id": "PL_1414",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự.",
+    "question": "Những trường hợp nào dẫn đến việc chấm dứt nghĩa vụ?",
+    "answer": "Nghĩa vụ chấm dứt trong các trường hợp như nghĩa vụ được hoàn thành, theo thỏa thuận của các bên, bên có quyền miễn việc thực hiện nghĩa vụ, nghĩa vụ được thay thế bằng nghĩa vụ khác, nghĩa vụ được bù trừ, bên có quyền và bên có nghĩa vụ hòa nhập làm một, thời hiệu miễn trừ nghĩa vụ đã hết, hoặc các trường hợp khác do pháp luật quy định."
+  },
+  {
+    "id": "PL_1415",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự.",
+    "question": "Khi nào nghĩa vụ chấm dứt liên quan đến sự thay đổi của chủ thể?",
+    "answer": "Nghĩa vụ chấm dứt khi bên có nghĩa vụ là cá nhân chết hoặc pháp nhân, chủ thể khác chấm dứt mà nghĩa vụ phải do chính cá nhân, pháp nhân, chủ thể đó thực hiện; hoặc bên có quyền là cá nhân chết mà quyền yêu cầu không thuộc di sản thừa kế, hoặc pháp nhân, chủ thể khác chấm dứt mà quyền yêu cầu không được chuyển giao cho pháp nhân, chủ thể khác."
+  }
+]

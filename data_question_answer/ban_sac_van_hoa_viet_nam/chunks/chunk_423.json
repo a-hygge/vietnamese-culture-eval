@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2111",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm ngôn ngữ và thơ ca Trung Hoa.",
+    "question": "Trong từ đơn tiết Hán, yếu tố nào được xem là có giá trị tương đương với nguyên âm và phụ âm?",
+    "answer": "Thanh điệu, nghĩa là những chuyển điệu của giọng, được xem là có giá trị tương đương với nguyên âm và phụ âm trong từ đơn tiết Hán."
+  },
+  {
+    "id": "VH_2112",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự ảnh hưởng của ngôn ngữ đối với thơ ca Trung Hoa.",
+    "question": "Người Trung Hoa bắt đầu nhận thức rõ tính đặc thù của ngôn ngữ mình vào khoảng thời gian nào?",
+    "answer": "Người Trung Hoa nhận thức rõ tính đặc thù của ngôn ngữ mình vào khoảng thế kỷ thứ V, sau khi tiếp xúc với tiếng Sanscrit – một ngôn ngữ không có yếu tố thanh điệu."
+  },
+  {
+    "id": "VH_2113",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa tổ chức và nghệ thuật của Trung Hoa.",
+    "question": "Điểm nổi bật trong cách tổ chức các lĩnh vực như võ thuật, y học và nghệ thuật của văn hóa Trung Hoa là gì?",
+    "answer": "Văn hóa Trung Hoa nổi bật với các quy phạm chặt chẽ, sự hình thành các trường phái, tổ sư, môn đệ và sự khổ công trau dồi trong các lĩnh vực như võ thuật, y học, kể chuyện, sân khấu, hội họa, chú giải và điêu khắc."
+  },
+  {
+    "id": "VH_2114",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa giữa Việt Nam và Trung Hoa.",
+    "question": "Sự khác biệt về tổ chức truyền thống giữa Việt Nam và Trung Hoa được thể hiện như thế nào?",
+    "answer": "Truyền thống ở Việt Nam thường thu hẹp vào phạm vi làng và gia đình với quy chế lỏng lẻo, trong khi truyền thống Trung Hoa mang tính quy mô, chặt chẽ và rập khuôn theo cơ chế triều đình."
+  },
+  {
+    "id": "VH_2115",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ thầy trò trong văn hóa Việt Nam.",
+    "question": "Trong truyền thống Việt Nam, yếu tố nào được đánh giá là có tính quy chế chặt chẽ?",
+    "answer": "Quy chế thầy trò xưa trong truyền thống Việt Nam được đánh giá là chặt chẽ."
+  }
+]

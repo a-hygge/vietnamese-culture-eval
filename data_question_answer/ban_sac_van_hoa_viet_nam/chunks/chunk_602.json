@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3006",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Truyền thống trí thức của người Việt Nam có đặc điểm gì nổi bật?",
+    "answer": "Truyền thống trí thức của người Việt Nam thể hiện sự độc lập và tự chủ trong tư duy, không vay mượn từ các nền văn hóa khác."
+  },
+  {
+    "id": "VH_3007",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học và giáo dục Việt Nam.",
+    "question": "Chế độ khoa cử đã đóng góp gì cho sự phát triển văn học Việt Nam?",
+    "answer": "Chế độ khoa cử đã tạo ra một nền văn học đặc trưng của Việt Nam, phản ánh tư duy và giá trị văn hóa dân tộc."
+  },
+  {
+    "id": "VH_3008",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa giáo dục Việt Nam.",
+    "question": "Cách học tập trong chế độ khoa cử đã tác động như thế nào đến người trí thức Việt Nam?",
+    "answer": "Cách học tập trong chế độ khoa cử đã rèn đúc tâm thức và tư duy của người trí thức Việt Nam, giúp họ phát triển sự kiên nhẫn và ý chí học hỏi."
+  },
+  {
+    "id": "VH_3009",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn học Việt Nam.",
+    "question": "Nguồn gốc của nền văn học khoa cử ở Việt Nam xuất phát từ đâu?",
+    "answer": "Nguồn gốc của nền văn học khoa cử ở Việt Nam xuất phát từ chế độ khoa cử, một hệ thống giáo dục và thi cử truyền thống."
+  },
+  {
+    "id": "VH_3010",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Truyền thống trí thức của Việt Nam phản ánh điều gì về bản sắc văn hóa dân tộc?",
+    "answer": "Truyền thống trí thức của Việt Nam phản ánh sự độc lập, tự chủ trong tư duy và khẳng định bản sắc văn hóa dân tộc."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_816",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Chính quyền địa phương ở Việt Nam gồm những cơ quan nào?",
+    "answer": "Chính quyền địa phương ở Việt Nam gồm có Hội đồng nhân dân và Ủy ban nhân dân."
+  },
+  {
+    "id": "PL_817",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ của chính quyền địa phương.",
+    "question": "Nhiệm vụ của chính quyền địa phương trong việc thực hiện Hiến pháp và pháp luật là gì?",
+    "answer": "Chính quyền địa phương tổ chức và bảo đảm việc thi hành Hiến pháp và pháp luật tại địa phương."
+  },
+  {
+    "id": "PL_818",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của chính quyền địa phương.",
+    "question": "Quyền hạn của chính quyền địa phương được xác định dựa trên cơ sở nào?",
+    "answer": "Quyền hạn của chính quyền địa phương được xác định trên cơ sở phân định thẩm quyền giữa các cơ quan nhà nước ở trung ương và địa phương và của mỗi cấp chính quyền địa phương."
+  },
+  {
+    "id": "PL_819",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức chính quyền địa phương.",
+    "question": "Chính quyền địa phương được tổ chức phù hợp với những đặc điểm nào?",
+    "answer": "Chính quyền địa phương được tổ chức phù hợp với đặc điểm nông thôn, đô thị, hải đảo, đơn vị hành chính - kinh tế đặc biệt do luật định."
+  },
+  {
+    "id": "PL_820",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của chính quyền địa phương.",
+    "question": "Chính quyền địa phương có thể được giao thực hiện nhiệm vụ của cơ quan nhà nước cấp trên trong trường hợp nào?",
+    "answer": "Trong trường hợp cần thiết, chính quyền địa phương được giao thực hiện một số nhiệm vụ của cơ quan nhà nước cấp trên với các điều kiện bảo đảm thực hiện nhiệm vụ đó."
+  }
+]

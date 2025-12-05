@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2506",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm của Khổng Tử trong Nho giáo.",
+    "question": "Khổng Tử có quan điểm gì về việc bàn chính sự khi không ở đúng địa vị?",
+    "answer": "Khổng Tử cho rằng 'không ở đúng địa vị thì không bàn chính sự của địa vị này'."
+  },
+  {
+    "id": "VH_2507",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự ảnh hưởng của Hán Nho đến Nho giáo.",
+    "question": "Hán Nho đã kết hợp những yếu tố nào vào Nho giáo thông qua 'Kinh Xuân Thu'?",
+    "answer": "Hán Nho đã kết hợp các yếu tố như thuyết âm dương, ngũ hành và sấm ký vào Nho giáo thông qua 'Kinh Xuân Thu'."
+  },
+  {
+    "id": "VH_2508",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa Khổng Tử và 'Kinh Xuân Thu'.",
+    "question": "Vì sao nội dung của 'Kinh Xuân Thu' không được cho là phù hợp với quan điểm của Khổng Tử?",
+    "answer": "Nội dung của 'Kinh Xuân Thu' bao gồm những chuyện quái dị, cướp ngôi và tôi giết vua, trong khi Khổng Tử không bàn về những chuyện không thuộc địa vị của mình."
+  },
+  {
+    "id": "VH_2509",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về 'Kinh Dịch' và Khổng Tử.",
+    "question": "Có bằng chứng nào khẳng định Khổng Tử viết phần 'Thập dực' trong 'Kinh Dịch' không?",
+    "answer": "Không có bằng chứng khẳng định Khổng Tử viết phần 'Thập dực' trong 'Kinh Dịch'. Ngay cả câu nhắc đến 'Kinh Dịch' trong 'Luận ngữ' cũng được giải thích khác nhau và không xác nhận mối liên hệ giữa Khổng Tử và 'Kinh Dịch'."
+  },
+  {
+    "id": "VH_2510",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách diễn giải một câu nói của Khổng Tử trong 'Luận ngữ'.",
+    "question": "Câu nói của Khổng Tử: 'Gia ngã sổ niên, ngũ thập dĩ học Dịch, khả dĩ vô đại quá hỉ' được hiểu như thế nào?",
+    "answer": "Theo Chu Hy, câu này có nghĩa là: 'Cho ta thêm vài năm để ta có thể học 'Kinh Dịch' vào năm 50 tuổi và sẽ không có lỗi lầm lớn.' Tuy nhiên, theo Thanh Nho, chữ 'Dịch' ở đây được hiểu là 'Diệc', nghĩa là: 'Cho ta thêm vài năm nữa để ta có thể học vào năm 50 tuổi cũng sẽ khỏi có lỗi lầm lớn.'"
+  }
+]

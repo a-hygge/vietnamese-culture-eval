@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_826",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam ở địa phương.",
+    "question": "Ủy ban nhân dân ở cấp chính quyền địa phương được thành lập bằng cách nào?",
+    "answer": "Ủy ban nhân dân ở cấp chính quyền địa phương do Hội đồng nhân dân cùng cấp bầu."
+  },
+  {
+    "id": "PL_827",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Ủy ban nhân dân tại địa phương.",
+    "question": "Nhiệm vụ chính của Ủy ban nhân dân tại địa phương là gì?",
+    "answer": "Ủy ban nhân dân tổ chức việc thi hành Hiến pháp và pháp luật ở địa phương, thực hiện nghị quyết của Hội đồng nhân dân, và các nhiệm vụ do cơ quan nhà nước cấp trên giao."
+  },
+  {
+    "id": "PL_828",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quan hệ giữa Ủy ban nhân dân và các tổ chức chính trị - xã hội.",
+    "question": "Ủy ban nhân dân thực hiện việc phối hợp với Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân ở địa phương ra sao?",
+    "answer": "Ủy ban nhân dân phối hợp với Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân động viên Nhân dân cùng Nhà nước thực hiện các nhiệm vụ kinh tế - xã hội, quốc phòng, an ninh ở địa phương."
+  },
+  {
+    "id": "PL_829",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ thông báo tình hình địa phương.",
+    "question": "Hội đồng nhân dân và Ủy ban nhân dân có trách nhiệm gì trong việc thông báo tình hình địa phương?",
+    "answer": "Hội đồng nhân dân và Ủy ban nhân dân thực hiện chế độ thông báo tình hình địa phương cho Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân, lắng nghe ý kiến, kiến nghị từ các tổ chức này."
+  },
+  {
+    "id": "PL_830",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền tham dự kỳ họp Hội đồng nhân dân.",
+    "question": "Ai được mời tham dự các kỳ họp Hội đồng nhân dân ở địa phương?",
+    "answer": "Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam và người đứng đầu tổ chức chính trị - xã hội ở địa phương được mời tham dự các kỳ họp Hội đồng nhân dân."
+  }
+]

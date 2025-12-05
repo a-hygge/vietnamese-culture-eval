@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1701",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của Nho giáo trong văn hóa Việt Nam.",
+    "question": "Nho giáo đã ảnh hưởng như thế nào đến sự phát triển văn hóa Việt Nam?",
+    "answer": "Nho giáo đã góp phần định hình văn hóa Việt Nam theo hình thức Trung Quốc nhưng vẫn giữ được nội dung mang tính dân tộc."
+  },
+  {
+    "id": "VH_1702",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của văn học chữ Hán Việt Nam.",
+    "question": "Đặc điểm nổi bật của văn học chữ Hán ở Việt Nam là gì?",
+    "answer": "Văn học chữ Hán ở Việt Nam nổi bật với tinh thần yêu nước, thể hiện lòng tự hào về truyền thống giữ gìn độc lập dân tộc."
+  },
+  {
+    "id": "VH_1703",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của tầng lớp sĩ phu trong lịch sử Việt Nam.",
+    "question": "Tầng lớp sĩ phu yêu nước đã đóng vai trò gì trong thời kỳ Pháp xâm lược?",
+    "answer": "Tầng lớp sĩ phu yêu nước đã lãnh đạo các phong trào như Cần Vương, phong trào cải cách và nhiều người trong số họ đã hy sinh, bị tù hoặc bị giết."
+  },
+  {
+    "id": "VH_1704",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống trí thức Việt Nam.",
+    "question": "Truyền thống trí thức nổi bật nhất của Việt Nam là gì?",
+    "answer": "Truyền thống trí thức nổi bật nhất của Việt Nam là tinh thần yêu nước."
+  },
+  {
+    "id": "VH_1705",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của Đạo Thiên Chúa khi du nhập vào châu Á.",
+    "question": "Đạo Thiên Chúa đã thay đổi như thế nào khi du nhập vào châu Á?",
+    "answer": "Khi du nhập vào châu Á, Đạo Thiên Chúa không còn là tôn giáo của những người bị áp bức mà trở thành công cụ tinh thần của chế độ thực dân châu Âu."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_806",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ công dân đối với bản án, quyết định của Tòa án.",
+    "question": "Công dân cần thực hiện nghĩa vụ gì đối với bản án, quyết định của Tòa án nhân dân đã có hiệu lực pháp luật?",
+    "answer": "Công dân cần tôn trọng và nghiêm chỉnh chấp hành bản án, quyết định của Tòa án nhân dân đã có hiệu lực pháp luật."
+  },
+  {
+    "id": "PL_807",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Viện kiểm sát nhân dân.",
+    "question": "Chức năng chính của Viện kiểm sát nhân dân trong hệ thống pháp luật Việt Nam là gì?",
+    "answer": "Chức năng chính của Viện kiểm sát nhân dân là thực hành quyền công tố và kiểm sát hoạt động tư pháp."
+  },
+  {
+    "id": "PL_808",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức của Viện kiểm sát nhân dân.",
+    "question": "Hệ thống tổ chức của Viện kiểm sát nhân dân bao gồm những cơ quan nào?",
+    "answer": "Hệ thống tổ chức của Viện kiểm sát nhân dân bao gồm Viện kiểm sát nhân dân tối cao, Viện kiểm sát nhân dân cấp cao, và Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương."
+  },
+  {
+    "id": "PL_809",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của tổ chức, cá nhân đối với bản án, quyết định của Tòa án.",
+    "question": "Tổ chức, cá nhân liên quan cần thực hiện nghĩa vụ gì đối với bản án, quyết định của Tòa án nhân dân đã có hiệu lực pháp luật?",
+    "answer": "Tổ chức, cá nhân liên quan cần nghiêm chỉnh chấp hành các bản án, quyết định của Tòa án nhân dân đã có hiệu lực pháp luật."
+  },
+  {
+    "id": "PL_810",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp luật liên quan đến hoạt động tư pháp.",
+    "question": "Nguyên tắc pháp luật nào quy định việc tôn trọng các bản án, quyết định của Tòa án nhân dân?",
+    "answer": "Nguyên tắc pháp luật quy định rằng các bản án, quyết định của Tòa án nhân dân có hiệu lực pháp luật phải được cơ quan, tổ chức, cá nhân tôn trọng."
+  }
+]

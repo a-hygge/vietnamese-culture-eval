@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_601",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chiến lược trong chiến tranh Việt Nam.",
+    "question": "Đặc điểm nổi bật của văn hóa dân tộc Việt Nam trong chiến tranh là gì?",
+    "answer": "Đặc điểm nổi bật của văn hóa dân tộc Việt Nam trong chiến tranh là sự kết hợp giữa đấu tranh quân sự và đàm phán, sử dụng chính sách tâm công để hoàn tất thắng lợi."
+  },
+  {
+    "id": "VH_602",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lý luận xâm lược của các đế quốc.",
+    "question": "Chủ nghĩa Đại Hán của vua chúa Trung Quốc dựa trên lý luận nào để thực hiện các cuộc xâm lược?",
+    "answer": "Chủ nghĩa Đại Hán dựa trên lý luận mở rộng bờ cõi và khuếch trương văn hóa, thường lợi dụng mâu thuẫn chính trị của các nước lân cận để xâm lược."
+  },
+  {
+    "id": "VH_603",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của văn hóa trong chiến tranh.",
+    "question": "Khổng Tử có quan điểm như thế nào về việc sử dụng vũ lực với các dân tộc khác?",
+    "answer": "Khổng Tử không chủ trương sử dụng vũ lực để đàn áp các dân tộc khác, mà khuyến khích việc dùng văn hóa để thu phục và lôi kéo họ."
+  },
+  {
+    "id": "VH_604",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lý luận xâm lược của thực dân Pháp.",
+    "question": "Thực dân Pháp đã sử dụng lý do nào để biện minh cho các hành động xâm lược của mình?",
+    "answer": "Thực dân Pháp sử dụng lý do bảo vệ đạo Thiên Chúa và khai hóa các dân tộc lạc hậu để biện minh cho các hành động xâm lược."
+  },
+  {
+    "id": "VH_605",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mâu thuẫn trong lý luận của các đế quốc.",
+    "question": "Lý luận xâm lược của thực dân Pháp mâu thuẫn với những giá trị văn hóa nào của chính quốc gia này?",
+    "answer": "Lý luận xâm lược của thực dân Pháp mâu thuẫn với các giá trị văn hóa cốt lõi của nước Pháp, bao gồm Tự do, Bình đẳng, Bác ái và truyền thống hòa bình."
+  }
+]

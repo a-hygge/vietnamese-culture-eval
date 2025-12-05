@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_736",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và trách nhiệm của đại biểu Quốc hội.",
+    "question": "Đại biểu Quốc hội có quyền và trách nhiệm gì trong việc tham gia hoạt động của Quốc hội?",
+    "answer": "Đại biểu Quốc hội có quyền tham gia làm thành viên của Hội đồng dân tộc hoặc Ủy ban của Quốc hội và có trách nhiệm thực hiện đầy đủ nhiệm vụ đại biểu."
+  },
+  {
+    "id": "PL_737",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức kỳ họp Quốc hội.",
+    "question": "Ai có thẩm quyền đề nghị Quốc hội họp kín?",
+    "answer": "Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội có thẩm quyền đề nghị Quốc hội họp kín."
+  },
+  {
+    "id": "PL_738",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ họp của Quốc hội.",
+    "question": "Quốc hội họp bao nhiêu kỳ mỗi năm và trong trường hợp nào Quốc hội họp bất thường?",
+    "answer": "Quốc hội họp mỗi năm hai kỳ. Quốc hội họp bất thường khi Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội yêu cầu."
+  },
+  {
+    "id": "PL_739",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của các cơ quan Nhà nước đối với đại biểu Quốc hội.",
+    "question": "Các cơ quan Nhà nước có trách nhiệm gì để tạo điều kiện cho đại biểu Quốc hội thực hiện nhiệm vụ?",
+    "answer": "Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ, Phó Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ và các cơ quan khác của Nhà nước có trách nhiệm tạo điều kiện để đại biểu Quốc hội làm nhiệm vụ đại biểu."
+  },
+  {
+    "id": "PL_740",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hạn triệu tập kỳ họp đầu tiên của Quốc hội khóa mới.",
+    "question": "Kỳ họp đầu tiên của Quốc hội khóa mới được triệu tập trong thời hạn bao lâu kể từ ngày bầu cử đại biểu Quốc hội?",
+    "answer": "Kỳ họp đầu tiên của Quốc hội khóa mới được triệu tập chậm nhất là sáu mươi ngày kể từ ngày bầu cử đại biểu Quốc hội."
+  }
+]

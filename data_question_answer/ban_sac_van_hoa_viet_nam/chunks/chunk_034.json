@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_166",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn gốc và ảnh hưởng văn hóa của tử vi.",
+    "question": "Nguồn gốc của tử vi bắt nguồn từ đâu?",
+    "answer": "Nguồn gốc của tử vi bắt nguồn từ nền văn minh Lưỡng Hà."
+  },
+  {
+    "id": "VH_167",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa và tâm lý trong tử vi.",
+    "question": "Bản đồ lá số trong tử vi phản ánh điều gì?",
+    "answer": "Bản đồ lá số trong tử vi phản ánh tư tưởng, tâm lý, ham muốn và sợ hãi của con người."
+  },
+  {
+    "id": "VH_168",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của các tôn giáo trong lịch sử Việt Nam.",
+    "question": "Ba tôn giáo nào được kết hợp trong khoa thi tam giáo thời Lý-Trần?",
+    "answer": "Ba tôn giáo được kết hợp trong khoa thi tam giáo thời Lý-Trần là Nho giáo, Phật giáo và Đạo giáo."
+  },
+  {
+    "id": "VH_169",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự thay đổi trong hệ thống thi cử thời phong kiến Việt Nam.",
+    "question": "Hệ thống thi cử thời Lê tập trung vào lĩnh vực nào?",
+    "answer": "Hệ thống thi cử thời Lê tập trung vào Nho giáo."
+  },
+  {
+    "id": "VH_170",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa các tôn giáo trong việc cai trị.",
+    "question": "Tại sao việc hiểu Phật giáo và Đạo giáo lại cần thiết trong việc trị nước?",
+    "answer": "Việc hiểu Phật giáo và Đạo giáo cần thiết trong việc trị nước vì chúng đáp ứng nhu cầu tâm linh của nhân dân, điều mà Nho giáo không cung cấp."
+  }
+]

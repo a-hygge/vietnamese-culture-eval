@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1321",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật liên quan đến vật vô chủ.",
+    "question": "Vật vô chủ được hiểu như thế nào theo quy định?",
+    "answer": "Vật vô chủ là vật mà chủ sở hữu đã từ bỏ quyền sở hữu đối với nó."
+  },
+  {
+    "id": "PL_1322",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản vô chủ.",
+    "question": "Người phát hiện vật vô chủ là động sản có quyền gì?",
+    "answer": "Người phát hiện vật vô chủ là động sản có quyền sở hữu tài sản đó."
+  },
+  {
+    "id": "PL_1323",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu bất động sản vô chủ.",
+    "question": "Vật vô chủ là bất động sản sẽ thuộc về ai?",
+    "answer": "Vật vô chủ là bất động sản sẽ thuộc về Nhà nước."
+  },
+  {
+    "id": "PL_1324",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu vật bị chôn giấu hoặc chìm đắm.",
+    "question": "Quyền sở hữu vật bị chôn giấu hoặc chìm đắm được xác lập ra sao?",
+    "answer": "Vật bị chôn giấu hoặc chìm đắm không xác định được chủ sở hữu sẽ được xác lập quyền sở hữu sau khi trừ chi phí tìm kiếm, bảo quản."
+  },
+  {
+    "id": "PL_1325",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp luật liên quan đến vật không xác định được chủ sở hữu.",
+    "question": "Quyền sở hữu vật không xác định được chủ sở hữu được quy định thế nào?",
+    "answer": "Nếu là động sản, người phát hiện có quyền sở hữu; nếu là bất động sản, vật sẽ thuộc Nhà nước."
+  }
+]

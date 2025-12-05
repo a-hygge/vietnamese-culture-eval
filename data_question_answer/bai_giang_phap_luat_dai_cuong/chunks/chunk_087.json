@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_431",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời điểm bắt đầu có hiệu lực của văn bản quy phạm pháp luật.",
+    "question": "Thời điểm nào được coi là bắt đầu hiệu lực của văn bản quy phạm pháp luật?",
+    "answer": "Thời điểm bắt đầu hiệu lực của văn bản quy phạm pháp luật là từ khi được thông qua hoặc công bố, sau một khoảng thời gian nhất định kể từ khi công bố, hoặc từ thời điểm được quy định trong văn bản hoặc đạo luật phê chuẩn."
+  },
+  {
+    "id": "PL_432",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các trường hợp dẫn đến việc văn bản quy phạm pháp luật hết hiệu lực.",
+    "question": "Những trường hợp nào khiến văn bản quy phạm pháp luật hết hiệu lực?",
+    "answer": "Văn bản quy phạm pháp luật hết hiệu lực khi có văn bản mới chỉ dẫn trực tiếp về việc hết hiệu lực, khi có văn bản mới thay thế, hoặc khi thời hạn hiệu lực được quy định trong văn bản đã hết."
+  },
+  {
+    "id": "PL_433",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng hiệu lực hồi tố trong pháp luật Việt Nam.",
+    "question": "Pháp luật Việt Nam có áp dụng hiệu lực hồi tố không?",
+    "answer": "Pháp luật Việt Nam thường không áp dụng hiệu lực hồi tố, nghĩa là các văn bản quy phạm pháp luật chỉ điều chỉnh các quan hệ xã hội phát sinh sau khi văn bản đó có hiệu lực."
+  },
+  {
+    "id": "PL_434",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cách xác định thời điểm hiệu lực của văn bản quy phạm pháp luật.",
+    "question": "Có những cách nào để xác định thời điểm hiệu lực của văn bản quy phạm pháp luật?",
+    "answer": "Có ba cách để xác định thời điểm hiệu lực của văn bản quy phạm pháp luật: từ thời điểm thông qua hoặc công bố, sau một khoảng thời gian nhất định kể từ khi công bố, hoặc từ thời điểm được quy định trong văn bản hoặc đạo luật phê chuẩn."
+  },
+  {
+    "id": "PL_435",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tác động của văn bản quy phạm pháp luật đối với các chủ thể pháp luật.",
+    "question": "Văn bản quy phạm pháp luật tác động như thế nào đến các chủ thể pháp luật khi có hiệu lực?",
+    "answer": "Khi văn bản quy phạm pháp luật có hiệu lực, các chủ thể pháp luật liên quan phải tuân thủ và thực hiện các quy định trong văn bản một cách bắt buộc."
+  }
+]

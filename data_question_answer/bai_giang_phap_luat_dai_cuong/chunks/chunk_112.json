@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_556",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm kỷ luật trong pháp luật Việt Nam.",
+    "question": "Trách nhiệm kỷ luật được áp dụng trong trường hợp nào?",
+    "answer": "Trách nhiệm kỷ luật được áp dụng đối với cán bộ công nhân viên, người lao động nói chung khi họ vi phạm kỷ luật lao động, kỷ luật nhà nước."
+  },
+  {
+    "id": "PL_557",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế tài của trách nhiệm kỷ luật.",
+    "question": "Các chế tài của trách nhiệm kỷ luật bao gồm những hình thức nào?",
+    "answer": "Các chế tài của trách nhiệm kỷ luật bao gồm: khiển trách, cảnh cáo, hạ bậc lương, cách chức, buộc thôi việc."
+  },
+  {
+    "id": "PL_558",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm vật chất trong pháp luật Việt Nam.",
+    "question": "Trách nhiệm vật chất được áp dụng trong trường hợp nào?",
+    "answer": "Trách nhiệm vật chất được áp dụng khi cán bộ, nhân viên nhà nước có hành vi có lỗi gây thiệt hại cho nhà nước (cơ quan, xí nghiệp…) và buộc họ phải bồi hoàn thiệt hại đó."
+  },
+  {
+    "id": "PL_559",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm công vụ trong pháp luật hành chính.",
+    "question": "Trách nhiệm công vụ được áp dụng đối với các hành vi vi phạm nào?",
+    "answer": "Trách nhiệm công vụ được áp dụng đối với các chủ thể vi phạm quy định công vụ, quy chế công chức gây ra thiệt hại cho quyền, tự do, lợi ích hợp pháp của công dân, tổ chức thông qua các quyết định hành chính hoặc hành vi hành chính."
+  },
+  {
+    "id": "PL_560",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khiếu nại và khiếu kiện trong pháp luật hành chính.",
+    "question": "Trách nhiệm công vụ liên quan đến khiếu nại, khiếu kiện của công dân, tổ chức như thế nào?",
+    "answer": "Trách nhiệm công vụ xảy ra khi công dân, tổ chức khiếu nại, khiếu kiện đòi bồi thường do thiệt hại gây ra bởi các quyết định hành chính hoặc hành vi hành chính vi phạm quy định công vụ."
+  }
+]

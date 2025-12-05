@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_161",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức chính thể của nhà nước.",
+    "question": "Chính thể quân chủ được tổ chức như thế nào?",
+    "answer": "Chính thể quân chủ là hình thức trong đó quyền lực nhà nước tập trung toàn bộ hoặc phần lớn trong tay người đứng đầu nhà nước (Vua, Hoàng đế...) theo nguyên tắc thừa kế."
+  },
+  {
+    "id": "PL_162",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức chính thể của nhà nước.",
+    "question": "Chính thể cộng hòa có đặc điểm gì trong việc thực hiện quyền lực nhà nước?",
+    "answer": "Chính thể cộng hòa thực hiện quyền lực nhà nước thông qua các cơ quan đại diện do dân bầu ra trong một thời gian nhất định."
+  },
+  {
+    "id": "PL_163",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức cấu trúc nhà nước.",
+    "question": "Nhà nước đơn nhất được tổ chức như thế nào?",
+    "answer": "Nhà nước đơn nhất là nhà nước có lãnh thổ toàn vẹn, thống nhất, các đơn vị hành chính lãnh thổ không có chủ quyền quốc gia và có hệ thống các cơ quan nhà nước từ trung ương xuống địa phương."
+  },
+  {
+    "id": "PL_164",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức cấu trúc nhà nước.",
+    "question": "Nhà nước liên bang có đặc điểm gì về hệ thống cơ quan nhà nước và pháp luật?",
+    "answer": "Nhà nước liên bang có hai hệ thống cơ quan nhà nước và hai hệ thống pháp luật: một của chung liên bang và một của từng nhà nước thành viên."
+  },
+  {
+    "id": "PL_165",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại hình thức nhà nước.",
+    "question": "Nhà nước được phân loại theo những hình thức nào?",
+    "answer": "Nhà nước được phân loại theo hai hình thức: hình thức chính thể và hình thức cấu trúc."
+  }
+]

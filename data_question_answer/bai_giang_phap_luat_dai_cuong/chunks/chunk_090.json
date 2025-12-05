@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_446",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng văn bản quy phạm pháp luật.",
+    "question": "Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề, nguyên tắc áp dụng văn bản nào được thực hiện?",
+    "answer": "Nguyên tắc áp dụng là văn bản có hiệu lực pháp lý cao hơn sẽ được thực hiện."
+  },
+  {
+    "id": "PL_447",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng văn bản quy phạm pháp luật do cùng một cơ quan ban hành.",
+    "question": "Nếu các văn bản quy phạm pháp luật về cùng một vấn đề do cùng một cơ quan ban hành nhưng có quy định khác nhau, thì áp dụng văn bản nào?",
+    "answer": "Trong trường hợp này, áp dụng quy định của văn bản được ban hành sau."
+  },
+  {
+    "id": "PL_448",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật có quy định hiệu lực trở về trước được áp dụng trong trường hợp nào?",
+    "answer": "Văn bản quy phạm pháp luật có quy định hiệu lực trở về trước sẽ được áp dụng theo quy định đó."
+  },
+  {
+    "id": "PL_449",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng văn bản mới đối với trách nhiệm pháp lý.",
+    "question": "Văn bản quy phạm pháp luật mới được áp dụng như thế nào đối với trách nhiệm pháp lý của hành vi xảy ra trước ngày văn bản có hiệu lực?",
+    "answer": "Văn bản mới sẽ được áp dụng nếu không quy định trách nhiệm pháp lý hoặc nếu quy định trách nhiệm pháp lý nhẹ hơn đối với hành vi xảy ra trước ngày văn bản có hiệu lực."
+  },
+  {
+    "id": "PL_450",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quan hệ pháp luật.",
+    "question": "Quan hệ pháp luật được hiểu như thế nào?",
+    "answer": "Quan hệ pháp luật là mối quan hệ xã hội được điều chỉnh bởi các quy phạm pháp luật, có tính bắt buộc và được đảm bảo thực hiện thông qua quyền lực nhà nước."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_681",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách phát triển khoa học và công nghệ của Nhà nước Việt Nam.",
+    "question": "Nhà nước Việt Nam có chính sách gì để thúc đẩy nghiên cứu và phát triển khoa học và công nghệ?",
+    "answer": "Nhà nước ưu tiên đầu tư, khuyến khích tổ chức, cá nhân đầu tư nghiên cứu, phát triển, chuyển giao, ứng dụng có hiệu quả thành tựu khoa học và công nghệ; bảo đảm quyền nghiên cứu khoa học và công nghệ; bảo hộ quyền sở hữu trí tuệ."
+  },
+  {
+    "id": "PL_682",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và lợi ích công dân liên quan đến khoa học và công nghệ.",
+    "question": "Nhà nước bảo đảm quyền và lợi ích gì cho mọi người trong lĩnh vực khoa học và công nghệ?",
+    "answer": "Nhà nước bảo đảm quyền nghiên cứu khoa học và công nghệ, tạo điều kiện để mọi người tham gia và được thụ hưởng lợi ích từ các hoạt động khoa học và công nghệ."
+  },
+  {
+    "id": "PL_683",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách bảo vệ môi trường của Nhà nước Việt Nam.",
+    "question": "Nhà nước Việt Nam có chính sách gì trong việc bảo vệ môi trường và sử dụng tài nguyên thiên nhiên?",
+    "answer": "Nhà nước có chính sách bảo vệ môi trường; quản lý, sử dụng hiệu quả, bền vững các nguồn tài nguyên thiên nhiên; bảo tồn thiên nhiên, đa dạng sinh học; chủ động phòng, chống thiên tai, ứng phó với biến đổi khí hậu."
+  },
+  {
+    "id": "PL_684",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khuyến khích các hoạt động liên quan đến môi trường.",
+    "question": "Nhà nước Việt Nam khuyến khích những hoạt động nào để bảo vệ môi trường?",
+    "answer": "Nhà nước khuyến khích mọi hoạt động bảo vệ môi trường, phát triển, sử dụng năng lượng mới, năng lượng tái tạo."
+  },
+  {
+    "id": "PL_685",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của tổ chức, cá nhân trong vấn đề môi trường.",
+    "question": "Tổ chức, cá nhân gây ô nhiễm môi trường hoặc làm suy kiệt tài nguyên thiên nhiên phải chịu trách nhiệm gì theo pháp luật Việt Nam?",
+    "answer": "Tổ chức, cá nhân gây ô nhiễm môi trường hoặc làm suy kiệt tài nguyên thiên nhiên phải chịu trách nhiệm theo quy định của pháp luật Việt Nam."
+  }
+]

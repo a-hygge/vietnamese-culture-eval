@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1556",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hình phạt trong luật hình sự Việt Nam.",
+    "question": "Hình phạt trong luật hình sự Việt Nam được định nghĩa như thế nào?",
+    "answer": "Hình phạt là biện pháp cưỡng chế nhà nước nghiêm khắc nhất, có thể tước bỏ những quyền và lợi ích thiết thân của người bị kết án như: quyền tự do, quyền về tài sản, quyền về chính trị, thậm chí cả quyền sống."
+  },
+  {
+    "id": "PL_1557",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng áp dụng hình phạt trong luật hình sự.",
+    "question": "Hình phạt trong luật hình sự được áp dụng đối với những đối tượng nào?",
+    "answer": "Hình phạt chỉ được áp dụng cho các cá nhân, pháp nhân thương mại đã thực hiện tội phạm."
+  },
+  {
+    "id": "PL_1558",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ quan có thẩm quyền áp dụng hình phạt.",
+    "question": "Cơ quan nào có thẩm quyền áp dụng hình phạt đối với người phạm tội?",
+    "answer": "Toà án nhân dân nhà nước là cơ quan có thẩm quyền áp dụng hình phạt đối với người phạm tội."
+  },
+  {
+    "id": "PL_1559",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức tuyên hình phạt trong luật hình sự.",
+    "question": "Hình phạt trong luật hình sự phải được tuyên như thế nào?",
+    "answer": "Hình phạt phải được tuyên bố công khai bằng một bản án và là kết quả của phiên toà hình sự với các thủ tục được quy định trong luật tố tụng hình sự."
+  },
+  {
+    "id": "PL_1560",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mục đích của hình phạt trong luật hình sự Việt Nam.",
+    "question": "Hình phạt trong luật hình sự Việt Nam nhằm thực hiện nhiệm vụ gì?",
+    "answer": "Hình phạt nhằm đảm bảo cho luật hình sự thực hiện nhiệm vụ bảo vệ, giáo dục, được quy định tại điều 1 Bộ luật hình sự."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_591",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò lãnh đạo của Đảng Cộng sản Việt Nam theo Hiến pháp.",
+    "question": "Đảng Cộng sản Việt Nam được Hiến pháp năm 2013 xác định là lực lượng lãnh đạo gì?",
+    "answer": "Đảng Cộng sản Việt Nam được xác định là lực lượng lãnh đạo Nhà nước và xã hội."
+  },
+  {
+    "id": "PL_592",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lực nhà nước và hình thức thực hiện quyền lực của nhân dân.",
+    "question": "Nhân dân thực hiện quyền lực nhà nước bằng những hình thức nào?",
+    "answer": "Nhân dân thực hiện quyền lực nhà nước bằng dân chủ trực tiếp, dân chủ đại diện thông qua Quốc hội, Hội đồng nhân dân và các cơ quan khác của Nhà nước."
+  },
+  {
+    "id": "PL_593",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc bình đẳng giữa các dân tộc tại Việt Nam.",
+    "question": "Hiến pháp quy định nguyên tắc gì giữa các dân tộc trong nước Việt Nam?",
+    "answer": "Hiến pháp quy định nguyên tắc các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển; nghiêm cấm mọi hành vi kỳ thị, chia rẽ dân tộc."
+  },
+  {
+    "id": "PL_594",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách của Nhà nước đối với các dân tộc thiểu số.",
+    "question": "Nhà nước thực hiện chính sách gì để phát triển các dân tộc thiểu số?",
+    "answer": "Nhà nước thực hiện chính sách phát triển toàn diện và tạo điều kiện để các dân tộc thiểu số phát huy nội lực, cùng phát triển với đất nước."
+  },
+  {
+    "id": "PL_595",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về ngôn ngữ quốc gia theo Hiến pháp năm 2013.",
+    "question": "Hiến pháp năm 2013 quy định ngôn ngữ quốc gia của Việt Nam là gì?",
+    "answer": "Hiến pháp năm 2013 quy định ngôn ngữ quốc gia của Việt Nam là tiếng Việt."
+  }
+]

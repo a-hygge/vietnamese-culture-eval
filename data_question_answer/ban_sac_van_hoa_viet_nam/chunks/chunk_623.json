@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3111",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Mục đích chính của việc cúng tế trong văn hóa Việt Nam là gì?",
+    "answer": "Mục đích chính của việc cúng tế trong văn hóa Việt Nam là để cầu mong sự bình yên, mạnh khỏe, tránh bệnh tật và có được cuộc sống đủ đầy."
+  },
+  {
+    "id": "VH_3112",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của pháp sư trong văn hóa Việt Nam.",
+    "question": "Tại sao nghề pháp sư ở Việt Nam không được phát triển chuyên sâu?",
+    "answer": "Nghề pháp sư ở Việt Nam không được phát triển chuyên sâu vì nghề này không mang lại thu nhập đáng kể cho những người theo đuổi nó."
+  },
+  {
+    "id": "VH_3113",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng văn hóa Trung Quốc đến Việt Nam.",
+    "question": "Nguồn gốc của các sách pháp thuật mà pháp sư Việt Nam sử dụng là gì?",
+    "answer": "Nguồn gốc của các sách pháp thuật mà pháp sư Việt Nam sử dụng là từ các sách pháp thuật của Trung Quốc, được rút gọn và điều chỉnh."
+  },
+  {
+    "id": "VH_3114",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghi lễ tôn giáo trong văn hóa Việt Nam.",
+    "question": "Cúng tế trong văn hóa Việt Nam có đặc điểm gì nổi bật?",
+    "answer": "Cúng tế trong văn hóa Việt Nam mang tính trần gian rõ rệt, tập trung vào việc cầu mong sức khỏe, bình yên và đời sống đủ đầy cho gia đình và cộng đồng."
+  },
+  {
+    "id": "VH_3115",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa giữa Việt Nam và Trung Quốc.",
+    "question": "Sách pháp thuật Việt Nam khác gì so với bộ 'Đạo tạng' của Trung Quốc?",
+    "answer": "Sách pháp thuật Việt Nam có nội dung giản lược và số lượng ít hơn rất nhiều so với bộ 'Đạo tạng' của Trung Quốc, vốn có đến 5000 quyển."
+  }
+]

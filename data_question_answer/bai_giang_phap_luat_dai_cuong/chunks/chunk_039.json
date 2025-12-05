@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_191",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức nhà nước Việt Nam.",
+    "question": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam đại diện cho ai?",
+    "answer": "Nhà nước Cộng hòa XHCN Việt Nam đại diện cho tất cả các dân tộc trên lãnh thổ Việt Nam, thể hiện khối đại đoàn kết dân tộc."
+  },
+  {
+    "id": "PL_192",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc tổ chức và hoạt động của nhà nước Việt Nam.",
+    "question": "Nguyên tắc tổ chức và hoạt động của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là gì?",
+    "answer": "Nhà nước hoạt động dựa trên nguyên tắc pháp quyền xã hội chủ nghĩa, đảm bảo quyền lực thuộc về nhân dân."
+  },
+  {
+    "id": "PL_193",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của công dân Việt Nam.",
+    "question": "Công dân Việt Nam có những quyền và nghĩa vụ gì theo quy định của pháp luật?",
+    "answer": "Công dân có quyền tự do, dân chủ trong các lĩnh vực của đời sống xã hội và phải thực hiện đầy đủ nghĩa vụ đối với nhà nước, như tuân thủ pháp luật và đóng góp xây dựng đất nước."
+  },
+  {
+    "id": "PL_194",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa nhà nước và công dân Việt Nam.",
+    "question": "Mối quan hệ giữa nhà nước và công dân Việt Nam được xây dựng dựa trên nguyên tắc nào?",
+    "answer": "Mối quan hệ này được xây dựng trên nguyên tắc tôn trọng và đảm bảo lợi ích hợp pháp của cả nhà nước và công dân."
+  },
+  {
+    "id": "PL_195",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ kinh tế của Việt Nam theo Hiến pháp năm 2013.",
+    "question": "Hiến pháp Việt Nam năm 2013 quy định như thế nào về chế độ kinh tế của nhà nước?",
+    "answer": "Hiến pháp quy định nhà nước phát triển nền kinh tế hàng hóa nhiều thành phần, vận hành theo cơ chế thị trường, có sự quản lý của nhà nước theo định hướng xã hội chủ nghĩa."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_411",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thứ bậc giá trị pháp lý của các văn bản pháp luật.",
+    "question": "Văn bản luật có giá trị pháp lý cao nhất yêu cầu gì đối với các văn bản khác?",
+    "answer": "Các văn bản khác khi ban hành phải căn cứ vào văn bản luật, không được trái hoặc mâu thuẫn với các quy định trong văn bản luật."
+  },
+  {
+    "id": "PL_412",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về Hiến pháp Việt Nam.",
+    "question": "Hiến pháp giữ vai trò gì trong hệ thống pháp luật Việt Nam?",
+    "answer": "Hiến pháp là luật cơ bản, có hiệu lực pháp lý cao nhất trong hệ thống các văn bản pháp luật, quy định những vấn đề cơ bản nhất của quốc gia."
+  },
+  {
+    "id": "PL_413",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các đạo luật và bộ luật.",
+    "question": "Mục đích của việc ban hành các đạo luật và bộ luật là gì?",
+    "answer": "Các đạo luật và bộ luật được ban hành để cụ thể hóa Hiến pháp và điều chỉnh các loại quan hệ xã hội trong các lĩnh vực đời sống nhà nước và xã hội."
+  },
+  {
+    "id": "PL_414",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nội dung cơ bản của Hiến pháp.",
+    "question": "Hiến pháp quy định những nội dung cơ bản nào liên quan đến quốc gia?",
+    "answer": "Hiến pháp quy định các vấn đề cơ bản như hình thức, bản chất nhà nước, chế độ chính trị, kinh tế, văn hóa xã hội, an ninh quốc phòng."
+  },
+  {
+    "id": "PL_415",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hệ thống văn bản pháp luật Việt Nam.",
+    "question": "Hệ thống văn bản pháp luật Việt Nam bao gồm những hình thức nào?",
+    "answer": "Hệ thống văn bản pháp luật Việt Nam gồm Hiến pháp và các đạo luật, bộ luật."
+  }
+]

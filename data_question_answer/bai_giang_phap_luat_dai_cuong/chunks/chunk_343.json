@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1671",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người lao động trong trường hợp chấm dứt hợp đồng lao động.",
+    "question": "Nếu người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý, ngoài trợ cấp thôi việc, khoản tiền bồi thường thêm tối thiểu là bao nhiêu tháng tiền lương?",
+    "answer": "Khoản tiền bồi thường thêm tối thiểu là 02 tháng tiền lương."
+  },
+  {
+    "id": "PL_1672",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người sử dụng lao động khi chấm dứt hợp đồng lao động.",
+    "question": "Người sử dụng lao động phải bồi thường gì cho người lao động nếu vi phạm quy định về thời hạn báo trước?",
+    "answer": "Người sử dụng lao động phải bồi thường một khoản tiền tương ứng với tiền lương của người lao động trong những ngày không báo trước."
+  },
+  {
+    "id": "PL_1673",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thỏa thuận khi không còn vị trí làm việc theo hợp đồng lao động.",
+    "question": "Khi không còn vị trí công việc đã giao kết trong hợp đồng lao động mà người lao động vẫn muốn làm việc, hai bên cần thực hiện hành động gì?",
+    "answer": "Hai bên cần thương lượng để sửa đổi, bổ sung hợp đồng lao động."
+  },
+  {
+    "id": "PL_1674",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định trợ cấp thôi việc theo Bộ luật lao động.",
+    "question": "Trợ cấp thôi việc trong trường hợp chấm dứt hợp đồng lao động được quy định tại điều nào của Bộ luật lao động?",
+    "answer": "Trợ cấp thôi việc được quy định tại Điều 48 của Bộ luật lao động."
+  },
+  {
+    "id": "PL_1675",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc bồi thường khi chấm dứt hợp đồng lao động.",
+    "question": "Khi nào người sử dụng lao động có thể thỏa thuận khoản tiền bồi thường thêm với người lao động?",
+    "answer": "Người sử dụng lao động có thể thỏa thuận khoản tiền bồi thường thêm với người lao động khi không muốn nhận lại người lao động và người lao động đồng ý."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_896",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của cán bộ, công chức theo quy định pháp luật.",
+    "question": "Những hành vi nào cán bộ, công chức không được thực hiện liên quan đến đạo đức công vụ?",
+    "answer": "Cán bộ, công chức không được trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công; sử dụng tài sản của Nhà nước và của nhân dân trái pháp luật; lợi dụng, lạm dụng nhiệm vụ, quyền hạn; sử dụng thông tin liên quan đến công vụ để vụ lợi; phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức."
+  },
+  {
+    "id": "PL_897",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của cán bộ, công chức liên quan đến bí mật nhà nước.",
+    "question": "Cán bộ, công chức có nghĩa vụ gì liên quan đến việc bảo vệ bí mật nhà nước?",
+    "answer": "Cán bộ, công chức không được tiết lộ thông tin liên quan đến bí mật nhà nước dưới mọi hình thức và nếu làm việc ở ngành, nghề liên quan đến bí mật nhà nước thì trong thời hạn ít nhất là 05 năm kể từ khi nghỉ hưu, thôi việc, không được làm công việc liên quan đến ngành, nghề mà trước đây mình đã đảm nhiệm cho tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài hoặc liên doanh với nước ngoài."
+  },
+  {
+    "id": "PL_898",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định của Chính phủ liên quan đến bí mật nhà nước.",
+    "question": "Chính phủ quy định những nội dung nào về việc cán bộ, công chức không được làm sau khi thôi việc hoặc nghỉ hưu?",
+    "answer": "Chính phủ quy định cụ thể danh mục ngành, nghề, công việc, thời hạn mà cán bộ, công chức không được làm và chính sách đối với những người phải áp dụng quy định này."
+  },
+  {
+    "id": "PL_899",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vi phạm đạo đức công vụ của cán bộ, công chức.",
+    "question": "Cán bộ, công chức có được phép sử dụng tài sản của Nhà nước và của nhân dân một cách trái pháp luật không?",
+    "answer": "Không, cán bộ, công chức không được sử dụng tài sản của Nhà nước và của nhân dân trái pháp luật."
+  },
+  {
+    "id": "PL_900",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc không phân biệt đối xử trong công vụ.",
+    "question": "Cán bộ, công chức không được thực hiện hành vi phân biệt đối xử nào trong công vụ?",
+    "answer": "Cán bộ, công chức không được phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức."
+  }
+]

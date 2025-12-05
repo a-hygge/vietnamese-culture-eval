@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1461",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục xét xử trong tố tụng dân sự.",
+    "question": "Hội đồng xét xử có trách nhiệm giải quyết những yêu cầu nào tại phiên tòa?",
+    "answer": "Hội đồng xét xử giải quyết các yêu cầu thay đổi thành viên của hội đồng xét xử, kiểm sát viên, thư ký phiên tòa, người giám định, người phiên dịch; yêu cầu triệu tập thêm người làm chứng hoặc cung cấp thêm chứng cứ mới."
+  },
+  {
+    "id": "PL_1462",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy trình xét hỏi trong tố tụng dân sự.",
+    "question": "Quy trình xét hỏi tại phiên tòa được thực hiện ra sao?",
+    "answer": "Hội đồng xét xử phải xác định đầy đủ các tình tiết của vụ án bằng cách nghe lời trình bày của những người tham gia tố tụng, xem xét vật chứng. Hội đồng xét xử hỏi trước, sau đó đến kiểm sát viên và người bảo vệ quyền lợi của đương sự. Những người tham gia tố tụng có quyền đề xuất những vấn đề cần được hỏi thêm."
+  },
+  {
+    "id": "PL_1463",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giai đoạn tranh luận tại phiên tòa dân sự.",
+    "question": "Trong giai đoạn tranh luận tại phiên tòa, các bên được phép trình bày những nội dung gì?",
+    "answer": "Các đương sự, người đại diện của đương sự, người bảo vệ quyền lợi của đương sự, người đại diện tổ chức xã hội khởi kiện vì lợi ích chung trình bày ý kiến về đánh giá chứng cứ và đề xuất hướng giải quyết vụ án. Sau đó, kiểm sát viên trình bày ý kiến về hướng giải quyết."
+  },
+  {
+    "id": "PL_1464",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giai đoạn nghị án và tuyên án trong tố tụng dân sự.",
+    "question": "Quy trình nghị án và tuyên án của hội đồng xét xử được thực hiện như thế nào?",
+    "answer": "Hội đồng xét xử nghị án tại phòng riêng, các thành viên thảo luận và quyết định theo đa số. Khi tuyên án, chủ tọa phiên tòa đứng đọc nguyên văn bản án hoặc quyết định và giải thích thêm cho các đương sự quyền kháng cáo của họ."
+  },
+  {
+    "id": "PL_1465",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục phúc thẩm dân sự.",
+    "question": "Thủ tục phúc thẩm dân sự được áp dụng trong trường hợp nào?",
+    "answer": "Thủ tục phúc thẩm dân sự được thực hiện khi tòa án cấp trên xét lại vụ án mà bản án hoặc quyết định chưa có hiệu lực pháp luật của tòa án cấp dưới bị kháng cáo hoặc kháng nghị."
+  }
+]

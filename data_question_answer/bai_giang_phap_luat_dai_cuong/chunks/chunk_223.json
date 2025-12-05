@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1111",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hệ thống pháp luật Việt Nam.",
+    "question": "Những hạn chế hiện nay của hệ thống pháp luật Việt Nam là gì?",
+    "answer": "Hệ thống pháp luật Việt Nam vẫn chưa đầy đủ, đồng bộ, chưa đáp ứng được nhu cầu phát triển của nền kinh tế - xã hội, tạo ra những kẽ hở cho tội phạm tham nhũng phát triển."
+  },
+  {
+    "id": "PL_1112",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân dẫn đến tham nhũng.",
+    "question": "Nguyên nhân chính dẫn đến tình trạng tham nhũng ở Việt Nam là gì?",
+    "answer": "Nguyên nhân chính dẫn đến tình trạng tham nhũng là hệ thống chính sách, pháp luật chưa đồng bộ."
+  },
+  {
+    "id": "PL_1113",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật trong phòng, chống tham nhũng.",
+    "question": "Hệ thống pháp luật chưa hoàn thiện ảnh hưởng ra sao đến việc phòng, chống tham nhũng?",
+    "answer": "Hệ thống pháp luật chưa hoàn thiện đã tạo ra những kẽ hở cho các hành vi vi phạm pháp luật, trong đó tạo điều kiện cho tội phạm tham nhũng gia tăng."
+  },
+  {
+    "id": "PL_1114",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chiến lược phòng, chống tham nhũng tại Việt Nam.",
+    "question": "Chiến lược quốc gia phòng, chống tham nhũng đến năm 2020 đã chỉ ra vấn đề gì về hệ thống pháp luật?",
+    "answer": "Chiến lược quốc gia phòng, chống tham nhũng đến năm 2020 chỉ rõ hệ thống chính sách, pháp luật chưa đồng bộ là nguyên nhân chủ yếu dẫn đến tình trạng tham nhũng."
+  },
+  {
+    "id": "PL_1115",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự điều chỉnh của pháp luật đối với đời sống xã hội.",
+    "question": "Hệ quả của việc hệ thống pháp luật không điều chỉnh đầy đủ các lĩnh vực đời sống xã hội là gì?",
+    "answer": "Khi hệ thống pháp luật không điều chỉnh đầy đủ các lĩnh vực đời sống xã hội, sẽ tạo ra sơ hở cho các hành vi vi phạm pháp luật, trong đó có tội phạm tham nhũng."
+  }
+]

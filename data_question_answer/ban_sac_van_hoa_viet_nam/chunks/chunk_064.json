@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_316",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Những nhạc cụ nào thường được sử dụng trong các buổi diễn xướng dân tộc?",
+    "answer": "Nhạc cụ thường được sử dụng bao gồm đàn nguyệt, bộ gõ như phách, trống, thanh la, cùng với sáo và kèn bầu, tạo nên một hòa âm phong phú."
+  },
+  {
+    "id": "VH_317",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa vùng miền Việt Nam.",
+    "question": "Người Kinh có đặc điểm gì về vũ đạo trong sinh hoạt thường ngày và lễ hội?",
+    "answer": "Người Kinh thường không phát triển vũ đạo trong sinh hoạt thường ngày, nhưng các hoạt động múa lại rất phong phú trong các lễ hội và sinh hoạt tín ngưỡng."
+  },
+  {
+    "id": "VH_318",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Điểm nổi bật của múa trong Hát văn là gì?",
+    "answer": "Múa trong Hát văn phát triển nhờ các sinh hoạt tín ngưỡng, với mỗi loại hình múa đi kèm một điệu hát khác nhau, phù hợp với tính chất và tiết tấu của loại múa đó."
+  },
+  {
+    "id": "VH_319",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Loại nhạc và nhạc cụ nào thường được sử dụng khi biểu diễn múa đao, kiếm, chùy?",
+    "answer": "Múa đao, kiếm, chùy thường sử dụng điệu hát dồn hoặc lưu thủy (nhịp ba), kết hợp với trống và thanh la."
+  },
+  {
+    "id": "VH_320",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Trong múa sư tử (giá cậu), loại nhạc cụ và điệu hát nào thường được sử dụng?",
+    "answer": "Múa sư tử (giá cậu) thường sử dụng trống sư tử và điệu hát bỏ bộ, nhịp một theo tiếng trống."
+  }
+]

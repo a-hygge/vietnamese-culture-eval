@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1571",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình phạt bổ sung đối với cá nhân phạm tội.",
+    "question": "Hình phạt bổ sung đối với cá nhân phạm tội gồm những hình thức nào?",
+    "answer": "Hình phạt bổ sung đối với cá nhân phạm tội gồm: cấm đảm nhiệm chức vụ, làm nghề hoặc công việc nhất định, cấm cư trú, quản chế, tước một số quyền công dân, tịch thu tài sản, phạt tiền và trục xuất (khi không áp dụng hình phạt chính)."
+  },
+  {
+    "id": "PL_1572",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình phạt bổ sung đối với pháp nhân phạm tội.",
+    "question": "Những hình phạt bổ sung nào có thể áp dụng đối với pháp nhân phạm tội?",
+    "answer": "Hình phạt bổ sung đối với pháp nhân phạm tội bao gồm: cấm kinh doanh, cấm hoạt động trong một số lĩnh vực nhất định, cấm huy động vốn và phạt tiền (khi không áp dụng là hình phạt chính)."
+  },
+  {
+    "id": "PL_1573",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng hình phạt trong luật hình sự Việt Nam.",
+    "question": "Nguyên tắc áp dụng hình phạt chính và bổ sung đối với người hoặc pháp nhân phạm tội là gì?",
+    "answer": "Đối với mỗi tội phạm, người phạm tội hoặc pháp nhân phạm tội chỉ bị áp dụng một hình phạt chính và có thể bị áp dụng một hoặc một số hình phạt bổ sung."
+  },
+  {
+    "id": "PL_1574",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp tư pháp trong luật hình sự Việt Nam.",
+    "question": "Biện pháp tư pháp trong luật hình sự Việt Nam nhằm mục đích gì?",
+    "answer": "Biện pháp tư pháp nhằm xử lý công bằng mọi hành vi phạm tội, giáo dục, cải tạo người phạm tội và phòng ngừa tội phạm."
+  },
+  {
+    "id": "PL_1575",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các biện pháp tư pháp đối với cá nhân phạm tội.",
+    "question": "Những biện pháp tư pháp nào được áp dụng đối với cá nhân phạm tội?",
+    "answer": "Biện pháp tư pháp đối với cá nhân phạm tội bao gồm: tịch thu vật, tiền trực tiếp liên quan đến tội phạm; trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi; bắt buộc chữa bệnh."
+  }
+]

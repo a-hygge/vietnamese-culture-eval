@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1201",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực hành vi dân sự theo quy định của Bộ luật dân sự Việt Nam.",
+    "question": "Người thành niên được coi là có năng lực hành vi dân sự đầy đủ trong những trường hợp nào?",
+    "answer": "Người thành niên được coi là có năng lực hành vi dân sự đầy đủ, trừ khi bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, hoặc bị hạn chế năng lực hành vi dân sự theo quy định của Bộ luật dân sự."
+  },
+  {
+    "id": "PL_1202",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến mất năng lực hành vi dân sự.",
+    "question": "Điều luật nào trong Bộ luật dân sự quy định về mất năng lực hành vi dân sự?",
+    "answer": "Mất năng lực hành vi dân sự được quy định tại Điều 22 của Bộ luật dân sự."
+  },
+  {
+    "id": "PL_1203",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến người có khó khăn trong nhận thức, làm chủ hành vi.",
+    "question": "Người có khó khăn trong nhận thức, làm chủ hành vi được quy định trong điều nào của Bộ luật dân sự?",
+    "answer": "Người có khó khăn trong nhận thức, làm chủ hành vi được quy định tại Điều 23 của Bộ luật dân sự."
+  },
+  {
+    "id": "PL_1204",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến hạn chế năng lực hành vi dân sự.",
+    "question": "Hạn chế năng lực hành vi dân sự được quy định trong điều nào của Bộ luật dân sự?",
+    "answer": "Hạn chế năng lực hành vi dân sự được quy định tại Điều 24 của Bộ luật dân sự."
+  },
+  {
+    "id": "PL_1205",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm năng lực hành vi dân sự của người thành niên theo Bộ luật dân sự.",
+    "question": "Người thành niên có năng lực hành vi dân sự đầy đủ khi nào theo quy định của Bộ luật dân sự?",
+    "answer": "Người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, hoặc bị hạn chế năng lực hành vi dân sự theo các điều khoản của Bộ luật dân sự."
+  }
+]

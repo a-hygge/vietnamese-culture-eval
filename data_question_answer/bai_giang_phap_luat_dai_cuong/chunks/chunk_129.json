@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_641",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp luật trong xử lý tội phạm.",
+    "question": "Nguyên tắc nào đảm bảo một người không bị kết án hai lần cho cùng một hành vi phạm tội?",
+    "answer": "Nguyên tắc không ai bị kết án hai lần cho cùng một hành vi phạm tội được áp dụng để bảo vệ quyền con người và đảm bảo công bằng trong xử lý tội phạm."
+  },
+  {
+    "id": "PL_642",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người bị bắt, tạm giữ, tạm giam.",
+    "question": "Người bị bắt, tạm giữ, tạm giam có quyền gì để bảo vệ quyền lợi hợp pháp của mình?",
+    "answer": "Người bị bắt, tạm giữ, tạm giam có quyền tự bào chữa, nhờ luật sư hoặc người khác bào chữa để bảo vệ quyền lợi hợp pháp của mình."
+  },
+  {
+    "id": "PL_643",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu và pháp luật bảo hộ.",
+    "question": "Pháp luật bảo hộ quyền sở hữu tư nhân và quyền thừa kế như thế nào?",
+    "answer": "Pháp luật bảo hộ quyền sở hữu tư nhân và quyền thừa kế nhằm đảm bảo mọi người có quyền sở hữu hợp pháp về tài sản và quyền thừa kế theo quy định pháp luật."
+  },
+  {
+    "id": "PL_644",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm pháp lý khi vi phạm pháp luật trong tố tụng hình sự.",
+    "question": "Hậu quả pháp lý nào áp dụng cho người vi phạm pháp luật trong tố tụng hình sự gây thiệt hại cho người khác?",
+    "answer": "Người vi phạm pháp luật trong tố tụng hình sự gây thiệt hại cho người khác phải chịu trách nhiệm pháp lý và bị xử lý theo quy định pháp luật."
+  },
+  {
+    "id": "PL_645",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền tài sản và trưng mua, trưng dụng tài sản.",
+    "question": "Nhà nước được phép trưng mua hoặc trưng dụng tài sản của cá nhân, tổ chức trong những trường hợp nào?",
+    "answer": "Nhà nước được phép trưng mua hoặc trưng dụng tài sản của cá nhân, tổ chức trong trường hợp thật cần thiết vì lý do quốc phòng, an ninh, lợi ích quốc gia, tình trạng khẩn cấp, phòng, chống thiên tai và phải bồi thường theo giá thị trường."
+  }
+]

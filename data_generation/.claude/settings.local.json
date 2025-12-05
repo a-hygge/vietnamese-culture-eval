@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd.exe /c \"taskkill /F /IM chrome.exe /T\")",
+      "Bash(cmd.exe /c \"taskkill /F /IM chromedriver.exe /T\")",
+      "Bash(powershell.exe -Command \"Stop-Process -Name chrome -Force -ErrorAction SilentlyContinue; Stop-Process -Name chromedriver -Force -ErrorAction SilentlyContinue; Start-Sleep -Seconds 3; Remove-Item -Path ''$env:LOCALAPPDATA\\Google\\Chrome\\ChatGPT_Scraper_Profile'' -Recurse -Force -ErrorAction SilentlyContinue; echo ''Done''\")",
+      "Bash(powershell.exe -Command \"Test-Path ''$env:LOCALAPPDATA\\Google\\Chrome\\ChatGPT_Scraper_Profile''\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

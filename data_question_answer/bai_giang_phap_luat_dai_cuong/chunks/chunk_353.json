@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1721",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tiền lương ngừng việc trong luật lao động Việt Nam.",
+    "question": "Người lao động sẽ được trả lương như thế nào nếu việc ngừng việc xảy ra do lỗi của người sử dụng lao động?",
+    "answer": "Người lao động sẽ được trả đủ tiền lương nếu việc ngừng việc xảy ra do lỗi của người sử dụng lao động."
+  },
+  {
+    "id": "PL_1722",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp ngừng việc do lỗi của người lao động.",
+    "question": "Nếu việc ngừng việc xảy ra do lỗi của người lao động, người lao động có được trả lương không?",
+    "answer": "Nếu việc ngừng việc xảy ra do lỗi của người lao động, người lao động không được trả lương."
+  },
+  {
+    "id": "PL_1723",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tiền lương ngừng việc của những người lao động khác trong trường hợp lỗi thuộc về một cá nhân lao động.",
+    "question": "Những người lao động khác trong cùng đơn vị phải ngừng việc do lỗi của một cá nhân lao động được trả lương dựa trên căn cứ nào?",
+    "answer": "Những người lao động khác được trả lương theo mức do hai bên thỏa thuận nhưng không được thấp hơn mức lương tối thiểu vùng do Chính phủ quy định."
+  },
+  {
+    "id": "PL_1724",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp ngừng việc do sự cố hoặc nguyên nhân khách quan.",
+    "question": "Nếu việc ngừng việc xảy ra do sự cố về điện, nước hoặc các nguyên nhân khách quan khác, người sử dụng lao động có trách nhiệm trả lương như thế nào?",
+    "answer": "Người sử dụng lao động phải trả lương cho người lao động theo mức do hai bên thỏa thuận nhưng không được thấp hơn mức lương tối thiểu vùng do Chính phủ quy định."
+  },
+  {
+    "id": "PL_1725",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi tiền lương khi ngừng việc theo quy định pháp luật lao động.",
+    "question": "Mức lương tối thiểu vùng trong trường hợp ngừng việc được sử dụng để làm gì?",
+    "answer": "Mức lương tối thiểu vùng được sử dụng làm căn cứ để trả lương cho người lao động trong trường hợp ngừng việc, khi mức lương thỏa thuận không được thấp hơn mức này."
+  }
+]

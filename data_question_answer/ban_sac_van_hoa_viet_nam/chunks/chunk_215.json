@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1071",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ngữ pháp tiếng Việt.",
+    "question": "Các yếu tố chỉ trình độ trong tiếng Việt thường được sử dụng ở vị trí nào trong câu?",
+    "answer": "Các yếu tố chỉ trình độ trong tiếng Việt thường đứng trước hoặc sau tính từ, ví dụ: 'rất đẹp', 'đẹp lắm', 'đẹp vô cùng', 'đẹp nhất', 'đẹp hết sức'."
+  },
+  {
+    "id": "VH_1072",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cấu trúc động từ trong tiếng Việt.",
+    "question": "Chức năng của các yếu tố bổ trợ trước động từ trong tiếng Việt là gì?",
+    "answer": "Các yếu tố bổ trợ trước động từ trong tiếng Việt có chức năng chỉ thời gian (như 'đã', 'sẽ', 'đang'), quá trình (như 'vẫn', 'còn', 'từng') hoặc dạng bị động (như 'bị', 'được')."
+  },
+  {
+    "id": "VH_1073",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm ngữ pháp tiếng Việt.",
+    "question": "Yếu tố chỉ kết quả sau động từ trong tiếng Việt thể hiện ý nghĩa gì?",
+    "answer": "Yếu tố chỉ kết quả sau động từ trong tiếng Việt mang ý nghĩa thể hiện kết quả của quá trình, ví dụ: 'được', 'lên', 'mất', 'rồi', 'xong', 'hết'."
+  },
+  {
+    "id": "VH_1074",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tương đồng trong ngữ pháp các ngôn ngữ.",
+    "question": "Danh từ, tính từ và động từ trong tiếng Việt có điểm tương đồng nào với các ngôn ngữ biến tố?",
+    "answer": "Danh từ, tính từ và động từ trong tiếng Việt, dù đứng một mình, cũng chỉ là biểu hiện cá biệt của một đoản ngữ, tương tự như chúng là đại diện nhất thời của hệ biến cách và biến ngôi trong các ngôn ngữ biến tố."
+  },
+  {
+    "id": "VH_1075",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giới từ trong tiếng Việt.",
+    "question": "Giới từ trong tiếng Việt có vai trò gì trong việc thể hiện quan hệ giữa các từ?",
+    "answer": "Giới từ trong tiếng Việt đánh dấu các quan hệ giữa các từ và có vai trò tương tự với giới từ trong tiếng Pháp, ví dụ: 'của', 'với', 'bằng', 'bởi', 'tại', 'ở'."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1011",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giáo dục Việt Nam thời kỳ thuộc địa.",
+    "question": "Trường Cao đẳng tiểu học Huế có vai trò gì trong việc đào tạo thế hệ trí thức Việt Nam?",
+    "answer": "Trường Cao đẳng tiểu học Huế là nơi học tập của nhiều nhân vật quan trọng như Hồ Chí Minh, Trần Phú, Phạm Văn Đồng, Võ Nguyên Giáp, Nguyễn Chí Thanh, Tố Hữu, góp phần đào tạo thế hệ trí thức mới của Việt Nam."
+  },
+  {
+    "id": "VH_1012",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về báo chí thời kỳ thuộc địa Việt Nam.",
+    "question": "Ai là người chủ trì tờ báo Nam Phong và mục đích chính của tờ báo này là gì?",
+    "answer": "Phạm Quỳnh là người chủ trì tờ báo Nam Phong, với mục đích hợp tác với Pháp và bảo vệ văn học, văn hóa Việt Nam."
+  },
+  {
+    "id": "VH_1013",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học Việt Nam giai đoạn 1920-1930.",
+    "question": "Những tờ báo nào đã ảnh hưởng đến văn học công khai ở miền Bắc giai đoạn 1920-1930?",
+    "answer": "Những tờ báo như Nam Phong và Đông Dương Tạp chí đã ảnh hưởng đến văn học công khai ở miền Bắc giai đoạn 1920-1930."
+  },
+  {
+    "id": "VH_1014",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chính sách văn hóa của thực dân Pháp tại Việt Nam.",
+    "question": "Vì sao thực dân Pháp sử dụng báo chí trong chính sách văn hóa tại Việt Nam?",
+    "answer": "Thực dân Pháp sử dụng báo chí để tuyên truyền cho chính sách văn hóa và quảng bá văn hóa Pháp tại Việt Nam."
+  },
+  {
+    "id": "VH_1015",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tâm trạng xã hội Việt Nam giai đoạn 1920-1930.",
+    "question": "Tâm trạng chung của xã hội Việt Nam giai đoạn 1920-1930 là gì và nguyên nhân nào dẫn đến tâm trạng đó?",
+    "answer": "Tâm trạng chung của xã hội Việt Nam giai đoạn này là buồn bã, do những cuộc vận động yêu nước thất bại."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_551",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm trách nhiệm pháp lý.",
+    "question": "Trách nhiệm pháp lý được xác định dựa trên cơ sở thực tế nào?",
+    "answer": "Trách nhiệm pháp lý được xác định dựa trên cơ sở thực tế là vi phạm pháp luật, vì chỉ khi có vi phạm pháp luật thì mới có trách nhiệm pháp lý."
+  },
+  {
+    "id": "PL_552",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của trách nhiệm pháp lý.",
+    "question": "Chủ thể chịu trách nhiệm pháp lý cần đáp ứng điều kiện nào?",
+    "answer": "Chủ thể chịu trách nhiệm pháp lý phải là cá nhân hoặc tổ chức có lỗi khi vi phạm các yêu cầu của pháp luật."
+  },
+  {
+    "id": "PL_553",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại trách nhiệm pháp lý.",
+    "question": "Trách nhiệm hình sự được áp dụng đối với hành vi vi phạm nào và bởi cơ quan nào?",
+    "answer": "Trách nhiệm hình sự được áp dụng đối với hành vi phạm tội được quy định trong Bộ luật hình sự và do Tòa án áp dụng."
+  },
+  {
+    "id": "PL_554",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp trách nhiệm pháp lý.",
+    "question": "Biện pháp trách nhiệm pháp lý có tính chất gì?",
+    "answer": "Biện pháp trách nhiệm pháp lý có tính chất cưỡng chế đặc thù, mang tính trừng phạt, tước đoạt hoặc làm thiệt hại đến các quyền tự do, lợi ích hợp pháp của chủ thể vi phạm pháp luật."
+  },
+  {
+    "id": "PL_555",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm dân sự.",
+    "question": "Trách nhiệm dân sự chủ yếu được áp dụng trong trường hợp nào và dưới hình thức chế tài nào?",
+    "answer": "Trách nhiệm dân sự được áp dụng đối với các chủ thể vi phạm dân sự (cá nhân hoặc pháp nhân), và chế tài chủ yếu mang tính chất bồi hoàn thiệt hại."
+  }
+]

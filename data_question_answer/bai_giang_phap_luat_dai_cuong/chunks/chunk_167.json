@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_831",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức nhà nước Việt Nam.",
+    "question": "Hội đồng bầu cử quốc gia được thành lập bởi cơ quan nào?",
+    "answer": "Hội đồng bầu cử quốc gia được thành lập bởi Quốc hội."
+  },
+  {
+    "id": "PL_832",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của cơ quan nhà nước.",
+    "question": "Chức năng chính của Hội đồng bầu cử quốc gia là gì?",
+    "answer": "Chức năng chính của Hội đồng bầu cử quốc gia là tổ chức bầu cử đại biểu Quốc hội và chỉ đạo, hướng dẫn công tác bầu cử đại biểu Hội đồng nhân dân các cấp."
+  },
+  {
+    "id": "PL_833",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức nhà nước Việt Nam.",
+    "question": "Kiểm toán Nhà nước hoạt động theo nguyên tắc nào?",
+    "answer": "Kiểm toán Nhà nước hoạt động độc lập và chỉ tuân theo pháp luật."
+  },
+  {
+    "id": "PL_834",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến Kiểm toán Nhà nước.",
+    "question": "Ai là người đứng đầu Kiểm toán Nhà nước và do cơ quan nào bầu?",
+    "answer": "Người đứng đầu Kiểm toán Nhà nước là Tổng Kiểm toán Nhà nước, do Quốc hội bầu."
+  },
+  {
+    "id": "PL_835",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của Tổng Kiểm toán Nhà nước.",
+    "question": "Tổng Kiểm toán Nhà nước có trách nhiệm báo cáo công tác và kết quả kiểm toán trước cơ quan nào?",
+    "answer": "Tổng Kiểm toán Nhà nước có trách nhiệm báo cáo công tác và kết quả kiểm toán trước Quốc hội; trong thời gian Quốc hội không họp, báo cáo trước Ủy ban thường vụ Quốc hội."
+  }
+]

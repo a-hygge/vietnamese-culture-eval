@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3046",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học cổ điển Việt Nam.",
+    "question": "Văn thơ hợp biên là gì trong văn học cổ điển Việt Nam?",
+    "answer": "Văn thơ hợp biên là tập hợp các tác phẩm văn học được biên soạn và sưu tầm nhằm lưu giữ giá trị văn hóa cổ điển của Việt Nam."
+  },
+  {
+    "id": "VH_3047",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống luật lệ truyền thống Việt Nam.",
+    "question": "Tục lệ địa phương đóng vai trò gì trong hệ thống pháp chế truyền thống Việt Nam?",
+    "answer": "Tục lệ địa phương đóng vai trò bổ sung và điều chỉnh các quy định của pháp luật chính thức, phản ánh đặc điểm văn hóa và xã hội của từng vùng miền."
+  },
+  {
+    "id": "VH_3048",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Phật giáo có vai trò gì trong đời sống văn hóa và tín ngưỡng của người Việt?",
+    "answer": "Phật giáo đóng vai trò quan trọng trong đời sống tinh thần của người Việt, ảnh hưởng đến các giá trị đạo đức, phong tục và nghệ thuật truyền thống."
+  },
+  {
+    "id": "VH_3049",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giáo dục truyền thống Việt Nam.",
+    "question": "Giáo dục truyền thống Việt Nam chú trọng vào những giá trị nào?",
+    "answer": "Giáo dục truyền thống Việt Nam chú trọng vào các giá trị đạo đức, lễ nghĩa, và sự hiếu học, nhằm xây dựng nhân cách và trách nhiệm xã hội."
+  },
+  {
+    "id": "VH_3050",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về y dược cổ truyền Việt Nam.",
+    "question": "Y dược cổ truyền Việt Nam có đặc điểm gì nổi bật?",
+    "answer": "Y dược cổ truyền Việt Nam nổi bật với việc sử dụng các dược liệu tự nhiên, phương pháp chữa bệnh dựa trên cân bằng âm dương và nguyên tắc hài hòa với tự nhiên."
+  }
+]

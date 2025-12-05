@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1776",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_496.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của cổ đông trong công ty cổ phần.",
+    "question": "Cổ đông có quyền tự do chuyển nhượng cổ phần của mình trong trường hợp nào?",
+    "answer": "Cổ đông có quyền tự do chuyển nhượng cổ phần của mình cho người khác, trừ trường hợp quy định tại khoản 3 Điều 119 và khoản 1 Điều 126 của Luật doanh nghiệp."
+  },
+  {
+    "id": "PL_1777",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_496.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại cổ phần trong công ty cổ phần.",
+    "question": "Công ty cổ phần bắt buộc phải có loại cổ phần nào?",
+    "answer": "Công ty cổ phần bắt buộc phải có cổ phần phổ thông."
+  },
+  {
+    "id": "PL_1778",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_496.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của cổ đông sở hữu cổ phần.",
+    "question": "Cổ phần của cùng một loại mang lại cho người sở hữu những quyền, nghĩa vụ và lợi ích như thế nào?",
+    "answer": "Mỗi cổ phần của cùng một loại đều tạo cho người sở hữu nó các quyền, nghĩa vụ và lợi ích ngang nhau."
+  },
+  {
+    "id": "PL_1779",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_496.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc chuyển đổi cổ phần trong công ty cổ phần.",
+    "question": "Cổ phần phổ thông có thể được chuyển đổi thành cổ phần ưu đãi không?",
+    "answer": "Cổ phần phổ thông không thể chuyển đổi thành cổ phần ưu đãi, nhưng cổ phần ưu đãi có thể chuyển đổi thành cổ phần phổ thông theo quyết định của Đại hội đồng cổ đông."
+  },
+  {
+    "id": "PL_1780",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_496.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức quản lý công ty cổ phần.",
+    "question": "Cơ cấu tổ chức quản lý của công ty cổ phần gồm những bộ phận nào?",
+    "answer": "Cơ cấu tổ chức quản lý của công ty cổ phần gồm Đại hội đồng cổ đông, Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc; nếu công ty có trên mười một cổ đông là cá nhân hoặc có cổ đông tổ chức sở hữu trên 50% tổng số cổ phần thì phải có Ban kiểm soát."
+  }
+]

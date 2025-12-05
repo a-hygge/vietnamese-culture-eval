@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1521",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khách thể của tội phạm theo luật hình sự Việt Nam.",
+    "question": "Khách thể của tội phạm được luật hình sự Việt Nam quy định là gì?",
+    "answer": "Khách thể của tội phạm là quan hệ xã hội được luật hình sự bảo vệ và bị tội phạm gây thiệt hại hoặc đe dọa gây thiệt hại ở mức độ đáng kể."
+  },
+  {
+    "id": "PL_1522",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về dấu hiệu thuộc mặt khách quan của tội phạm.",
+    "question": "Mặt khách quan của tội phạm bao gồm những dấu hiệu nào?",
+    "answer": "Mặt khách quan của tội phạm bao gồm hành vi nguy hiểm cho xã hội, hậu quả nguy hiểm cho xã hội, và các dấu hiệu như phương tiện, công cụ phạm tội, phương pháp, thủ đoạn, thời gian, địa điểm thực hiện tội phạm."
+  },
+  {
+    "id": "PL_1523",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về dấu hiệu bắt buộc thuộc mặt khách quan của tội phạm.",
+    "question": "Dấu hiệu nào thuộc mặt khách quan của tội phạm được coi là bắt buộc đối với mọi loại tội phạm?",
+    "answer": "Hành vi (khách quan) của tội phạm là dấu hiệu bắt buộc, không thể thiếu đối với mọi loại tội phạm."
+  },
+  {
+    "id": "PL_1524",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về độ tuổi chịu trách nhiệm hình sự theo Bộ luật Hình sự Việt Nam.",
+    "question": "Người từ đủ bao nhiêu tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ trường hợp có quy định khác?",
+    "answer": "Người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật Hình sự có quy định khác."
+  },
+  {
+    "id": "PL_1525",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm hình sự của người từ 14 đến dưới 16 tuổi theo Bộ luật Hình sự Việt Nam.",
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về những loại tội phạm nào?",
+    "answer": "Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về tội giết người, tội cố ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác, tội hiếp dâm, tội hiếp dâm người dưới 16 tuổi, tội cưỡng dâm người từ đủ 13 tuổi đến dưới 16 tuổi, tội cướp tài sản, tội bắt cóc nhằm chiếm đoạt tài sản; về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng."
+  }
+]

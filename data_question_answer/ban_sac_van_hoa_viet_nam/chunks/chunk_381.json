@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1901",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa xã hội ở nông thôn Việt Nam.",
+    "question": "Tại sao tuổi được coi trọng hơn chức vụ và tiền bạc ở nông thôn Việt Nam?",
+    "answer": "Tuổi được coi trọng hơn vì nó thể hiện sự quý trọng kinh nghiệm, quá trình sinh sống và là cách phân chia quen thuộc trong các xã hội truyền thống."
+  },
+  {
+    "id": "VH_1902",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm tổ chức xã hội nông thôn Việt Nam.",
+    "question": "Những tổ chức nào tạo nên các mối quan hệ và nghĩa vụ xã hội ở nông thôn Việt Nam?",
+    "answer": "Các tổ chức theo chức vụ, phẩm hàm, công lao, tuổi và dòng họ tạo nên các mối quan hệ và nghĩa vụ xã hội."
+  },
+  {
+    "id": "VH_1903",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị tinh thần ở nông thôn Việt Nam.",
+    "question": "Yếu tố nào giúp nông thôn Việt Nam duy trì văn hóa tinh thần cao dù điều kiện kinh tế khó khăn?",
+    "answer": "Sự coi trọng tình nghĩa và các quan hệ, nghĩa vụ xã hội giúp nông thôn Việt Nam duy trì văn hóa tinh thần cao dù điều kiện kinh tế khó khăn."
+  },
+  {
+    "id": "VH_1904",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thái độ của người Việt đối với văn hóa ngoại lai.",
+    "question": "Người Việt Nam có thái độ như thế nào đối với văn hóa Pháp và Mỹ, và tại sao?",
+    "answer": "Người Việt Nam không coi trọng văn hóa Pháp và Mỹ vì họ ưu tiên tình nghĩa và trân trọng các giá trị văn hóa truyền thống của mình hơn."
+  },
+  {
+    "id": "VH_1905",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tinh thần đoàn kết trong văn hóa Việt Nam.",
+    "question": "Tinh thần đoàn kết và tình nghĩa của người Việt Nam được thể hiện qua những hành động nào?",
+    "answer": "Tinh thần đoàn kết và tình nghĩa được thể hiện qua việc yêu quý đồng bào, nhường cơm sẻ áo, tôn trọng tình nghĩa, đùm bọc nhau và sẵn sàng hy sinh vì nghĩa lớn."
+  }
+]

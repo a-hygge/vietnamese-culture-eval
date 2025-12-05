@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_111",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng phồn thực trong văn hóa Việt Nam.",
+    "question": "Tín ngưỡng phồn thực được thể hiện qua những yếu tố nào?",
+    "answer": "Tín ngưỡng phồn thực được thể hiện qua việc thờ sinh thực khí và hành vi giao phối, như tượng trang trí trên nhà mồ Tây Nguyên với bộ phận sinh thực khí phóng đại hay hình ảnh giao phối trên trống đồng Đào Thịnh."
+  },
+  {
+    "id": "VH_112",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ trời của người Việt.",
+    "question": "Tín ngưỡng thờ trời của người Việt có điểm gì đặc biệt so với Trung Quốc?",
+    "answer": "Người Việt thờ trời như một tín ngưỡng chung cho toàn dân, gọi là Bà trời, trong khi ở Trung Quốc chỉ Hoàng đế, được coi là Thiên tử, mới có quyền thờ trời."
+  },
+  {
+    "id": "VH_113",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng nông nghiệp trong văn hóa Việt Nam.",
+    "question": "Những hiện tượng thiên nhiên nào có vai trò quan trọng trong đời sống nông nghiệp của người Việt?",
+    "answer": "Nắng và mưa là hai hiện tượng thiên nhiên quan trọng, trong đó nắng liên quan đến mặt trời, còn mưa liên quan đến các bà: Bà Mây, Bà Mưa, Bà Sấm, và Bà Chớp."
+  },
+  {
+    "id": "VH_114",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự ảnh hưởng của Phật giáo đến tín ngưỡng Việt Nam.",
+    "question": "Phật giáo đã ảnh hưởng như thế nào đến tín ngưỡng thờ các bà liên quan đến mưa?",
+    "answer": "Phật giáo đã chuyển các bà liên quan đến mưa (Bà Mây, Bà Mưa, Bà Sấm, Bà Chớp) thành các vị Phật với tên gọi Trung Quốc như Pháp Vân, Pháp Vũ, Pháp Lôi, Pháp Điện và được thờ ở các chùa."
+  },
+  {
+    "id": "VH_115",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ đất trong văn hóa Việt Nam.",
+    "question": "Tín ngưỡng thờ đất của người Việt đã thay đổi như thế nào dưới ảnh hưởng Trung Quốc?",
+    "answer": "Tín ngưỡng thờ đất ban đầu là Bà đất, nhưng dưới ảnh hưởng của Trung Quốc, Bà đất đã được chuyển thành nam giới với tên gọi Thổ địa."
+  }
+]

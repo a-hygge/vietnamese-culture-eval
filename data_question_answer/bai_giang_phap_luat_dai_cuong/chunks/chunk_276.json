@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1376",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về người phân chia di sản theo luật dân sự.",
+    "question": "Người phân chia di sản phải thực hiện việc phân chia theo nguyên tắc nào?",
+    "answer": "Người phân chia di sản phải chia di sản theo đúng di chúc hoặc đúng thỏa thuận của những người thừa kế theo pháp luật."
+  },
+  {
+    "id": "PL_1377",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thù lao của người phân chia di sản.",
+    "question": "Khi nào người phân chia di sản được hưởng thù lao?",
+    "answer": "Người phân chia di sản được hưởng thù lao nếu người để lại di sản cho phép trong di chúc hoặc những người thừa kế có thỏa thuận."
+  },
+  {
+    "id": "PL_1378",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thứ tự ưu tiên thanh toán nghĩa vụ tài sản liên quan đến thừa kế.",
+    "question": "Chi phí nào được ưu tiên thanh toán đầu tiên trong các nghĩa vụ tài sản liên quan đến thừa kế?",
+    "answer": "Chi phí hợp lý theo tập quán cho việc mai táng được ưu tiên thanh toán đầu tiên."
+  },
+  {
+    "id": "PL_1379",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hợp đồng dân sự.",
+    "question": "Hợp đồng dân sự được định nghĩa như thế nào theo pháp luật Việt Nam?",
+    "answer": "Hợp đồng dân sự là sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền và nghĩa vụ dân sự."
+  },
+  {
+    "id": "PL_1380",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc giao kết hợp đồng dân sự.",
+    "question": "Nguyên tắc nào được áp dụng trong giao kết hợp đồng dân sự?",
+    "answer": "Nguyên tắc giao kết hợp đồng dân sự bao gồm: tự do giao kết hợp đồng nhưng không được trái pháp luật, đạo đức xã hội; tự nguyện, bình đẳng, thiện chí, hợp tác, trung thực và ngay thẳng."
+  }
+]

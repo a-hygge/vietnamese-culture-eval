@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_441",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực không gian của văn bản quy phạm pháp luật.",
+    "question": "Hiệu lực không gian của văn bản quy phạm pháp luật được xác định dựa trên yếu tố nào?",
+    "answer": "Hiệu lực không gian của văn bản quy phạm pháp luật được xác định bằng lãnh thổ quốc gia, địa phương hoặc một vùng nhất định, và thường gắn với thẩm quyền của cơ quan ban hành văn bản."
+  },
+  {
+    "id": "PL_442",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn cơ quan ban hành văn bản quy phạm pháp luật.",
+    "question": "Văn bản do Hội đồng nhân dân và Ủy ban nhân dân ban hành có hiệu lực trên phạm vi nào?",
+    "answer": "Văn bản do Hội đồng nhân dân và Ủy ban nhân dân ban hành có hiệu lực trên địa bàn thuộc thẩm quyền của cơ quan ấy."
+  },
+  {
+    "id": "PL_443",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng áp dụng của văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật thường tác động đến những đối tượng nào?",
+    "answer": "Văn bản quy phạm pháp luật thường tác động đến mọi cá nhân, tổ chức thuộc lãnh thổ nơi văn bản có hiệu lực, hoặc những nhóm người cụ thể như công chức Nhà nước, người thuộc ngành nghề nhất định, người nước ngoài, hoặc người không có quốc tịch."
+  },
+  {
+    "id": "PL_444",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời điểm áp dụng văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật được áp dụng đối với hành vi xảy ra vào thời điểm nào?",
+    "answer": "Văn bản quy phạm pháp luật được áp dụng đối với hành vi xảy ra tại thời điểm mà văn bản đó đang có hiệu lực."
+  },
+  {
+    "id": "PL_445",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc xác định rõ đối tượng tác động của văn bản quy phạm pháp luật.",
+    "question": "Vì sao văn bản quy phạm pháp luật cần xác định rõ đối tượng tác động?",
+    "answer": "Văn bản quy phạm pháp luật cần xác định rõ đối tượng tác động để quy định chính xác những người phải tuân theo, chấp hành hoặc được hưởng các quyền nhất định."
+  }
+]

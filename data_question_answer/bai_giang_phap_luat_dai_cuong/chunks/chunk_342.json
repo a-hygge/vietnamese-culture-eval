@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1666",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đơn phương chấm dứt hợp đồng lao động.",
+    "question": "Người lao động được phép đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
+    "answer": "Người lao động được phép đơn phương chấm dứt hợp đồng lao động mà không cần báo trước khi bị ngược đãi, quấy rối tình dục, cưỡng bức lao động hoặc không được trả lương đúng hạn."
+  },
+  {
+    "id": "PL_1667",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hạn báo trước khi chấm dứt hợp đồng lao động.",
+    "question": "Người lao động cần báo trước bao nhiêu ngày khi muốn chấm dứt hợp đồng lao động không xác định thời hạn?",
+    "answer": "Người lao động cần báo trước ít nhất 45 ngày khi muốn chấm dứt hợp đồng lao động không xác định thời hạn."
+  },
+  {
+    "id": "PL_1668",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi khi hợp đồng lao động bị chấm dứt.",
+    "question": "Người lao động có quyền nhận trợ cấp thôi việc trong trường hợp nào?",
+    "answer": "Người lao động có quyền nhận trợ cấp thôi việc nếu đã làm việc từ đủ 12 tháng trở lên và hợp đồng lao động chấm dứt hợp pháp, trừ trường hợp bị kỷ luật sa thải."
+  },
+  {
+    "id": "PL_1669",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người sử dụng lao động khi chấm dứt hợp đồng lao động.",
+    "question": "Người sử dụng lao động phải làm gì khi chấm dứt hợp đồng lao động hợp pháp?",
+    "answer": "Người sử dụng lao động phải thanh toán đầy đủ các khoản tiền liên quan đến quyền lợi của người lao động trong vòng 7 ngày làm việc kể từ ngày chấm dứt hợp đồng."
+  },
+  {
+    "id": "PL_1670",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người lao động khi bị chấm dứt hợp đồng trái pháp luật.",
+    "question": "Người lao động có quyền yêu cầu gì khi bị chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Người lao động có quyền yêu cầu được nhận lại công việc, được bồi thường tiền lương và các khoản khác theo quy định pháp luật."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1856",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thách thức đối với gia đình Việt Nam hiện nay.",
+    "question": "Một trong những thách thức lớn mà gia đình Việt Nam đang phải đối mặt là gì?",
+    "answer": "Gia đình Việt Nam đang phải đối mặt với sự suy thoái về giá trị tinh thần do ảnh hưởng của lối sống chỉ tập trung vào vật chất và lợi ích cá nhân, dẫn đến tỷ lệ ly hôn gia tăng."
+  },
+  {
+    "id": "VH_1857",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tác động của ly hôn đối với trẻ em.",
+    "question": "Ly hôn của cha mẹ có thể gây ra những tác động tiêu cực nào đối với trẻ em?",
+    "answer": "Ly hôn của cha mẹ có thể gây tổn thương về mặt tâm lý cho trẻ em, khiến chúng cảm thấy thiếu thốn tình cảm và khó khăn trong việc xây dựng mối quan hệ xã hội lành mạnh."
+  },
+  {
+    "id": "VH_1858",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguyên nhân ảnh hưởng đến trẻ em trong gia đình ly hôn.",
+    "question": "Nguyên nhân nào khiến trẻ em trong gia đình ly hôn dễ bị tổn thương về mặt tình cảm?",
+    "answer": "Nguyên nhân chính là trẻ em mất đi sự yêu thương và gắn kết từ cả cha lẫn mẹ, dẫn đến cảm giác bị bỏ rơi và thiếu an toàn."
+  },
+  {
+    "id": "VH_1859",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm của Thiên Chúa giáo đối với con người.",
+    "question": "Thiên Chúa giáo nhìn nhận thân phận con người như thế nào?",
+    "answer": "Thiên Chúa giáo cho rằng mọi người đều là con của Chúa, bình đẳng và cần được đối xử nhân đạo, phản đối chế độ nô lệ và sự bất công."
+  },
+  {
+    "id": "VH_1860",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tác động của tỷ lệ ly hôn đối với xã hội Việt Nam.",
+    "question": "Tại sao tỷ lệ ly hôn tăng cao lại là một vấn đề đáng lo ngại trong xã hội Việt Nam?",
+    "answer": "Tỷ lệ ly hôn tăng cao là vấn đề đáng lo ngại vì nó không chỉ gây tổn thương tâm lý cho trẻ em mà còn làm suy yếu cấu trúc gia đình, ảnh hưởng đến sự ổn định của xã hội."
+  }
+]

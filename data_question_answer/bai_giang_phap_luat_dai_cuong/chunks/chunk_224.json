@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1116",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật hình sự Việt Nam.",
+    "question": "Tội nhận hối lộ thuộc loại tội phạm nào theo quy định của Bộ luật Hình sự?",
+    "answer": "Tội nhận hối lộ thuộc loại tội phạm về tham nhũng theo quy định tại Điều 279 Bộ luật Hình sự Việt Nam."
+  },
+  {
+    "id": "PL_1117",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật phòng chống tham nhũng Việt Nam.",
+    "question": "Hành vi nào được coi là tham nhũng khi thực hiện bởi người có chức vụ, quyền hạn?",
+    "answer": "Các hành vi như đưa hối lộ và môi giới hối lộ, khi thực hiện bởi người có chức vụ, quyền hạn để vụ lợi, được coi là tham nhũng."
+  },
+  {
+    "id": "PL_1118",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự không thống nhất trong pháp luật Việt Nam.",
+    "question": "Sự không thống nhất giữa Bộ luật Hình sự và Luật phòng chống tham nhũng liên quan đến hành vi tham nhũng được thể hiện ra sao?",
+    "answer": "Sự không thống nhất thể hiện ở việc Bộ luật Hình sự chỉ coi nhận hối lộ là tội phạm tham nhũng, trong khi Luật phòng chống tham nhũng coi cả đưa hối lộ và môi giới hối lộ là hành vi tham nhũng."
+  },
+  {
+    "id": "PL_1119",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của nạn nhân và nhân chứng trong pháp luật Việt Nam.",
+    "question": "Ý nghĩa của việc ban hành Luật bảo vệ và trợ giúp nạn nhân của tội phạm là gì?",
+    "answer": "Việc ban hành luật này bảo vệ quyền lợi của nạn nhân và nhân chứng, khuyến khích họ tố giác tội phạm và hợp tác với cơ quan tư pháp trong đấu tranh chống tội phạm."
+  },
+  {
+    "id": "PL_1120",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự chồng chéo trong quy định pháp luật Việt Nam.",
+    "question": "Sự chồng chéo trong quy định về tội phạm tham nhũng giữa các luật được thể hiện như thế nào?",
+    "answer": "Sự chồng chéo thể hiện ở việc Bộ luật Hình sự không coi đưa hối lộ và môi giới hối lộ là tội phạm tham nhũng, trong khi Luật phòng chống tham nhũng lại coi các hành vi này là tham nhũng."
+  }
+]

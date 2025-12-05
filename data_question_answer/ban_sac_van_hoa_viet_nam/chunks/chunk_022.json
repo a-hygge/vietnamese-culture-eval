@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_106",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Tín ngưỡng phồn thực trong văn hóa nông nghiệp có ý nghĩa gì?",
+    "answer": "Tín ngưỡng phồn thực thể hiện sự liên kết giữa việc trồng cây ra quả với việc sinh sản của con người, phản ánh vai trò quan trọng của người phụ nữ trong tín ngưỡng."
+  },
+  {
+    "id": "VH_107",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về huyền thoại và biểu tượng văn hóa Đông Nam Á.",
+    "question": "Hai con vật nào phổ biến nhất trong huyền thoại Đông Nam Á cổ đại?",
+    "answer": "Hai con vật phổ biến nhất trong huyền thoại Đông Nam Á cổ đại là chim và rắn."
+  },
+  {
+    "id": "VH_108",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn gốc văn hóa Đông Nam Á.",
+    "question": "Rồng trong văn hóa Đông Nam Á được hình thành từ sự kết hợp của những hình tượng nào?",
+    "answer": "Rồng trong văn hóa Đông Nam Á được hình thành từ sự kết hợp giữa chim với người và rắn với cá sấu."
+  },
+  {
+    "id": "VH_109",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử nông nghiệp Đông Nam Á.",
+    "question": "Những loại cây trồng nào đã được thuần dưỡng trong giai đoạn Tân Thạch ở Đông Nam Á?",
+    "answer": "Trong giai đoạn Tân Thạch, các loại cây trồng như khoai mài, khoai môn, ý dĩ và đặc biệt là cây lúa đã được thuần dưỡng ở Đông Nam Á."
+  },
+  {
+    "id": "VH_110",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của phụ nữ trong tín ngưỡng nông nghiệp.",
+    "question": "Tại sao phụ nữ được coi là chủ chốt trong tín ngưỡng phồn thực của nền văn hóa nông nghiệp?",
+    "answer": "Phụ nữ được coi là chủ chốt trong tín ngưỡng phồn thực vì họ là người sinh con, điều này gắn liền với quan niệm về sự sinh sôi, phát triển trong nông nghiệp."
+  }
+]

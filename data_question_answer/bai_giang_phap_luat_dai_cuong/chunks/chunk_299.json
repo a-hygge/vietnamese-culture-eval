@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1491",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật hình sự.",
+    "question": "Luật hình sự được định nghĩa như thế nào theo pháp luật Việt Nam?",
+    "answer": "Luật hình sự là một ngành luật trong hệ thống pháp luật Việt Nam, bao gồm các quy phạm pháp luật do nhà nước ban hành, xác định những hành vi nguy hiểm cho xã hội là tội phạm và quy định hình phạt đối với các tội phạm đó."
+  },
+  {
+    "id": "PL_1492",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng điều chỉnh của luật hình sự.",
+    "question": "Đối tượng điều chỉnh của luật hình sự là gì?",
+    "answer": "Đối tượng điều chỉnh của luật hình sự là các quan hệ xã hội phát sinh giữa nhà nước và người phạm tội khi người này thực hiện một hành vi mà nhà nước quy định là tội phạm."
+  },
+  {
+    "id": "PL_1493",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phương pháp điều chỉnh của luật hình sự.",
+    "question": "Phương pháp điều chỉnh của luật hình sự được thực hiện như thế nào?",
+    "answer": "Phương pháp điều chỉnh của luật hình sự là phương pháp quyền uy, sử dụng quyền lực nhà nước để điều chỉnh các quan hệ pháp luật hình sự, trong đó nhà nước có quyền tối cao định đoạt trách nhiệm hình sự của người phạm tội."
+  },
+  {
+    "id": "PL_1494",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các quy phạm pháp luật hình sự.",
+    "question": "Luật hình sự gồm những loại quy phạm pháp luật nào?",
+    "answer": "Luật hình sự gồm hai loại quy phạm pháp luật: quy phạm quy định các nguyên tắc, nhiệm vụ, vấn đề chung về tội phạm và hình phạt (phần chung của luật hình sự) và quy phạm quy định các tội phạm cụ thể, loại và mức hình phạt (phần các tội phạm của luật hình sự)."
+  },
+  {
+    "id": "PL_1495",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của nhà nước trong luật hình sự.",
+    "question": "Nhà nước có vai trò như thế nào trong việc điều chỉnh các quan hệ pháp luật hình sự?",
+    "answer": "Nhà nước có quyền tối cao trong việc định đoạt số phận của người phạm tội, buộc họ phải chịu trách nhiệm hình sự về hành vi phạm tội mà họ gây ra."
+  }
+]

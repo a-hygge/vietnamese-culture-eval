@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1476",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về xuất bản sách tại Việt Nam.",
+    "question": "Ai chịu trách nhiệm xuất bản một cuốn sách?",
+    "answer": "Người chịu trách nhiệm xuất bản thường là nhà xuất bản hoặc cá nhân được chỉ định."
+  },
+  {
+    "id": "VH_1477",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về biên tập sách tại Việt Nam.",
+    "question": "Ai thường đảm nhận vai trò biên tập cho một cuốn sách?",
+    "answer": "Vai trò biên tập thường do biên tập viên hoặc một nhóm biên tập viên của nhà xuất bản đảm nhận."
+  },
+  {
+    "id": "VH_1478",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thiết kế bìa sách.",
+    "question": "Ai chịu trách nhiệm thiết kế bìa cho một cuốn sách?",
+    "answer": "Người chịu trách nhiệm thiết kế bìa thường là họa sĩ hoặc nhà thiết kế đồ họa."
+  },
+  {
+    "id": "VH_1479",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về in ấn sách.",
+    "question": "Sách thường được in tại đâu?",
+    "answer": "Sách thường được in tại các xưởng in hoặc nhà in được nhà xuất bản chỉ định."
+  },
+  {
+    "id": "VH_1480",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lưu chiểu sách.",
+    "question": "Lưu chiểu sách là gì và tại sao nó quan trọng?",
+    "answer": "Lưu chiểu sách là việc nộp bản sao của sách cho cơ quan quản lý để lưu trữ và kiểm soát, đảm bảo tuân thủ pháp luật về xuất bản."
+  }
+]

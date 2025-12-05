@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_091",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguồn gốc chế độ tư hữu.",
+    "question": "Chế độ tư hữu hình thành từ đâu?",
+    "answer": "Chế độ tư hữu hình thành từ quá trình phân hóa tài sản trong xã hội, khi những người có địa vị và uy tín như tù trưởng, thủ lĩnh quân sự chiếm đoạt tài sản chung của thị tộc – bộ lạc thành tài sản riêng."
+  },
+  {
+    "id": "PL_092",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự phân hóa giai cấp trong lịch sử.",
+    "question": "Nguyên nhân nào dẫn đến sự hình thành giai cấp trong xã hội?",
+    "answer": "Sự phân hóa giai cấp bắt nguồn từ việc những người giàu có chiếm được tư liệu sản xuất, bóc lột lao động tù binh và người nghèo, trong khi những người không có tư liệu sản xuất bị bóc lột ngày càng nghèo khó."
+  },
+  {
+    "id": "PL_093",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự thay đổi trong tổ chức gia đình.",
+    "question": "Chế độ hôn nhân một vợ, một chồng đã ảnh hưởng thế nào đến tổ chức gia đình?",
+    "answer": "Gia đình chuyển từ cơ cấu phụ hệ lớn sang gia đình nhỏ, trở thành đơn vị kinh tế tự chủ trong sản xuất, độc lập tài sản và tự định đoạt sản phẩm lao động."
+  },
+  {
+    "id": "PL_094",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự phát triển sản xuất và tù binh.",
+    "question": "Sự phát triển sản xuất đã thay đổi cách đối xử với tù binh ra sao?",
+    "answer": "Trước đây tù binh bị giết, nhưng khi sản xuất phát triển và nhu cầu lao động tăng, tù binh được giữ lại nuôi để bổ sung vào nguồn lao động và bị khai thác làm việc cho lợi ích cá nhân của những người có địa vị trong thị tộc."
+  },
+  {
+    "id": "PL_095",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự phân công lao động xã hội.",
+    "question": "Sự phân công lao động xã hội đã tác động gì đến kinh tế?",
+    "answer": "Sự phân công lao động xã hội dẫn đến việc kinh tế đạt những bước tiến dài, sản phẩm làm ra ngày càng nhiều, xuất hiện dấu hiệu của cải dư thừa và khả năng chiếm đoạt sản phẩm thừa làm của riêng."
+  }
+]

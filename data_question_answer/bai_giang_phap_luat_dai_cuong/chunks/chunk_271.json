@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1351",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến thừa kế.",
+    "question": "Thời điểm mở thừa kế được xác định như thế nào?",
+    "answer": "Thời điểm mở thừa kế là thời điểm mà người có tài sản để lại chết."
+  },
+  {
+    "id": "PL_1352",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến thừa kế.",
+    "question": "Địa điểm mở thừa kế được xác định dựa trên yếu tố nào?",
+    "answer": "Địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có toàn bộ hoặc phần lớn di sản thừa kế."
+  },
+  {
+    "id": "PL_1353",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến thừa kế.",
+    "question": "Nếu không xác định được nơi cư trú cuối cùng của người để lại di sản, địa điểm mở thừa kế sẽ được xác định như thế nào?",
+    "answer": "Nếu không xác định được nơi cư trú cuối cùng, địa điểm mở thừa kế sẽ là nơi có toàn bộ hoặc phần lớn di sản thừa kế."
+  },
+  {
+    "id": "PL_1354",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến thừa kế.",
+    "question": "Tại sao việc xác định địa điểm mở thừa kế lại quan trọng trong pháp luật thừa kế?",
+    "answer": "Việc xác định địa điểm mở thừa kế quan trọng vì nó ảnh hưởng đến việc thực hiện các thủ tục pháp lý liên quan đến di sản thừa kế, như khai nhận, phân chia tài sản."
+  },
+  {
+    "id": "PL_1355",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự liên quan đến thừa kế.",
+    "question": "Thừa kế được mở khi nào theo quy định pháp luật?",
+    "answer": "Thừa kế được mở khi người có tài sản để lại chết."
+  }
+]

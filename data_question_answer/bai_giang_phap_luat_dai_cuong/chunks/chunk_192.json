@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_956",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hành vi vi phạm hành chính.",
+    "question": "Hành vi vi phạm hành chính được hiểu như thế nào?",
+    "answer": "Hành vi vi phạm hành chính là hành động hoặc không hành động trái pháp luật, xâm hại tới các quan hệ xã hội được luật hành chính bảo vệ như trật tự nhà nước, quyền tự do và lợi ích hợp pháp của công dân, trật tự quản lý."
+  },
+  {
+    "id": "PL_957",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mức độ nguy hiểm của hành vi vi phạm hành chính.",
+    "question": "Hành vi vi phạm hành chính có mức độ nguy hiểm như thế nào so với vi phạm hình sự?",
+    "answer": "Hành vi vi phạm hành chính nguy hiểm cho xã hội nhưng ít nguy hiểm hơn so với vi phạm hình sự, dựa vào tính chất của khách thể bị xâm hại."
+  },
+  {
+    "id": "PL_958",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mặt khách quan của vi phạm hành chính.",
+    "question": "Trong mặt khách quan của vi phạm hành chính, có cần dấu hiệu hậu quả có hại hay không?",
+    "answer": "Trong mặt khách quan của vi phạm hành chính, không nhất thiết phải có dấu hiệu hậu quả có hại và quan hệ nhân quả giữa hành vi và hậu quả; chỉ cần tồn tại dấu hiệu hình thức hành động hoặc không hành động trái pháp luật."
+  },
+  {
+    "id": "PL_959",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khách thể bị xâm hại trong vi phạm hành chính.",
+    "question": "Khách thể bị xâm hại trong vi phạm hành chính bao gồm những lĩnh vực nào?",
+    "answer": "Khách thể bị xâm hại trong vi phạm hành chính bao gồm những quan hệ xã hội như trật tự nhà nước, quyền tự do và lợi ích hợp pháp của công dân, trật tự quản lý."
+  },
+  {
+    "id": "PL_960",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về dấu hiệu của hành vi vi phạm hành chính.",
+    "question": "Hành vi vi phạm hành chính cần có dấu hiệu nào để xác định?",
+    "answer": "Hành vi vi phạm hành chính cần có dấu hiệu hình thức, tức là hành động hoặc không hành động trái pháp luật."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_101",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng Việt Nam.",
+    "question": "Nguồn gốc của tục thờ đá là gì?",
+    "answer": "Tục thờ đá bắt nguồn từ tín ngưỡng cổ xưa và được nhà nghiên cứu Colani tìm hiểu."
+  },
+  {
+    "id": "VH_102",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thần thoại Việt Nam.",
+    "question": "Thần Tản Viên có vai trò gì?",
+    "answer": "Thần Tản Viên giúp vua Hùng chống ngoại xâm và bảo vệ đất nước."
+  },
+  {
+    "id": "VH_103",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ngày Tết Việt Nam.",
+    "question": "Cây nêu trong ngày Tết mang ý nghĩa gì?",
+    "answer": "Cây nêu là biểu tượng của cây vũ trụ, mang ý nghĩa tâm linh quan trọng."
+  },
+  {
+    "id": "VH_104",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng dân gian.",
+    "question": "Vai trò của các vị thần sông là gì?",
+    "answer": "Các vị thần sông bảo vệ, điều hòa nước và được tôn vinh trong dân gian."
+  },
+  {
+    "id": "VH_105",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thần thoại Việt Nam và Trung Quốc.",
+    "question": "Thần Tản Viên khác thần Ngũ Nhạc ở điểm nào?",
+    "answer": "Thần Tản Viên bảo vệ đất nước, còn thần Ngũ Nhạc không liên quan đến việc này."
+  }
+]

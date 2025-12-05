@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1221",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền cá nhân trong pháp luật dân sự Việt Nam.",
+    "question": "Cá nhân thực hiện quyền và nghĩa vụ dân sự dựa trên thông tin nào?",
+    "answer": "Cá nhân thực hiện quyền và nghĩa vụ dân sự dựa trên họ, tên của mình đã được cơ quan nhà nước có thẩm quyền công nhận."
+  },
+  {
+    "id": "PL_1222",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc sử dụng bí danh, bút danh trong pháp luật.",
+    "question": "Theo pháp luật, việc sử dụng bí danh hoặc bút danh phải đáp ứng điều kiện nào?",
+    "answer": "Việc sử dụng bí danh hoặc bút danh không được gây thiệt hại đến quyền, lợi ích hợp pháp của người khác."
+  },
+  {
+    "id": "PL_1223",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền thay đổi họ, tên của cá nhân.",
+    "question": "Trong trường hợp nào cá nhân có quyền yêu cầu thay đổi họ, tên của mình?",
+    "answer": "Cá nhân có quyền yêu cầu thay đổi họ, tên khi việc sử dụng họ, tên gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, danh dự, quyền, hoặc lợi ích hợp pháp của mình."
+  },
+  {
+    "id": "PL_1224",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm họ, tên trong pháp luật Việt Nam.",
+    "question": "Họ, tên của một cá nhân được xác định dựa trên yếu tố nào?",
+    "answer": "Họ, tên của một cá nhân được xác định dựa trên họ, tên khai sinh của người đó."
+  },
+  {
+    "id": "PL_1225",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của cơ quan nhà nước trong việc công nhận họ, tên.",
+    "question": "Cơ quan nhà nước có thẩm quyền thực hiện nhiệm vụ gì liên quan đến họ, tên của cá nhân?",
+    "answer": "Cơ quan nhà nước có thẩm quyền công nhận họ, tên của cá nhân và giải quyết việc thay đổi họ, tên khi có yêu cầu hợp pháp."
+  }
+]

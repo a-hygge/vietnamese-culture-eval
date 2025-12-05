@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1761",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_493.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của chủ sở hữu công ty theo Luật doanh nghiệp.",
+    "question": "Chủ sở hữu công ty có quyền quyết định các nội dung nào liên quan đến Điều lệ công ty?",
+    "answer": "Chủ sở hữu công ty có quyền quyết định nội dung Điều lệ công ty, sửa đổi và bổ sung Điều lệ công ty."
+  },
+  {
+    "id": "PL_1762",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_493.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của chủ sở hữu công ty trong quản lý tài chính doanh nghiệp.",
+    "question": "Chủ sở hữu công ty có quyền gì đối với lợi nhuận sau khi hoàn thành nghĩa vụ thuế và tài chính?",
+    "answer": "Chủ sở hữu công ty có quyền quyết định việc sử dụng lợi nhuận sau khi đã hoàn thành nghĩa vụ thuế và các nghĩa vụ tài chính khác của công ty."
+  },
+  {
+    "id": "PL_1763",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_493.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của chủ sở hữu công ty theo quy định pháp luật.",
+    "question": "Chủ sở hữu công ty có nghĩa vụ gì liên quan đến vốn điều lệ của công ty?",
+    "answer": "Chủ sở hữu công ty có nghĩa vụ góp đầy đủ và đúng hạn vốn điều lệ công ty."
+  },
+  {
+    "id": "PL_1764",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_493.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của chủ sở hữu công ty trong việc tổ chức lại hoặc chấm dứt hoạt động doanh nghiệp.",
+    "question": "Chủ sở hữu công ty có quyền gì liên quan đến việc tổ chức lại hoặc giải thể công ty?",
+    "answer": "Chủ sở hữu công ty có quyền quyết định tổ chức lại, giải thể và yêu cầu phá sản công ty."
+  },
+  {
+    "id": "PL_1765",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_493.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của chủ sở hữu công ty trong việc quản lý tài sản.",
+    "question": "Chủ sở hữu công ty phải thực hiện nghĩa vụ gì để đảm bảo tách biệt tài sản?",
+    "answer": "Chủ sở hữu công ty phải xác định và tách biệt tài sản của chủ sở hữu công ty và tài sản của công ty."
+  }
+]

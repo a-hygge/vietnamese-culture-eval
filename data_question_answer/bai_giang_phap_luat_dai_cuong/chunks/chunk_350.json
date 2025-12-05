@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1706",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mức lương tối thiểu theo quy định pháp luật Việt Nam.",
+    "question": "Mức lương tối thiểu được xác định dựa trên những yếu tố nào?",
+    "answer": "Mức lương tối thiểu được xác định dựa trên nhu cầu sống tối thiểu của người lao động và gia đình họ, điều kiện kinh tế - xã hội, và mức tiền lương trên thị trường lao động."
+  },
+  {
+    "id": "PL_1707",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người sử dụng lao động.",
+    "question": "Người sử dụng lao động phải đảm bảo trả lương như thế nào để tuân thủ pháp luật?",
+    "answer": "Người sử dụng lao động phải trả lương bình đẳng, không phân biệt giới tính đối với người lao động làm công việc có giá trị như nhau, và tiền lương không được thấp hơn mức lương tối thiểu do Chính phủ quy định."
+  },
+  {
+    "id": "PL_1708",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức liên quan đến mức lương tối thiểu.",
+    "question": "Hội đồng tiền lương quốc gia gồm những thành phần nào?",
+    "answer": "Hội đồng tiền lương quốc gia gồm các thành viên là đại diện của Bộ Lao động - Thương binh và Xã hội, Tổng liên đoàn lao động Việt Nam, và tổ chức đại diện người sử dụng lao động ở trung ương."
+  },
+  {
+    "id": "PL_1709",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức trả lương theo pháp luật Việt Nam.",
+    "question": "Người sử dụng lao động có thể lựa chọn những hình thức trả lương nào?",
+    "answer": "Người sử dụng lao động có thể lựa chọn trả lương theo thời gian, sản phẩm hoặc khoán."
+  },
+  {
+    "id": "PL_1710",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định mức lương tối thiểu ngành.",
+    "question": "Mức lương tối thiểu ngành được xác định như thế nào?",
+    "answer": "Mức lương tối thiểu ngành được xác định thông qua thương lượng tập thể ngành, được ghi trong thỏa ước lao động tập thể ngành, nhưng không được thấp hơn mức lương tối thiểu vùng do Chính phủ công bố."
+  }
+]

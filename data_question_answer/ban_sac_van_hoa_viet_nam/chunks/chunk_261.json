@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1301",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử Việt Nam trong giai đoạn Nhật đầu hàng Đồng Minh.",
+    "question": "Sự kiện quân đội Nhật đầu hàng Đồng Minh đã mang lại cơ hội gì cho nhân dân Việt Nam?",
+    "answer": "Sự kiện này đã tạo cơ hội để nhân dân Việt Nam đứng lên giành chính quyền trên toàn quốc trong vòng 12 ngày."
+  },
+  {
+    "id": "VH_1302",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về kết quả của cuộc Cách mạng Tháng Tám tại Việt Nam.",
+    "question": "Kết quả của việc giành chính quyền trên toàn quốc trong Cách mạng Tháng Tám là gì?",
+    "answer": "Kết quả là chính quyền Việt Nam được thống nhất và nhận được sự ủng hộ của nhân dân, buộc quân đội Tưởng Giới Thạch phải điều đình."
+  },
+  {
+    "id": "VH_1303",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự kiện quân đội Tưởng Giới Thạch vào Việt Nam.",
+    "question": "Quân đội Tưởng Giới Thạch vào Việt Nam vào thời điểm nào sau khi Nhật đầu hàng?",
+    "answer": "Quân đội Tưởng Giới Thạch vào Việt Nam vào ngày 28 tháng 8."
+  },
+  {
+    "id": "VH_1304",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hành động của nhân dân Việt Nam sau khi Nhật đầu hàng Đồng Minh.",
+    "question": "Nhân dân Việt Nam đã thực hiện hành động gì trong vòng 12 ngày sau khi Nhật đầu hàng?",
+    "answer": "Nhân dân Việt Nam đã đứng lên giành chính quyền trên toàn quốc trong vòng 12 ngày."
+  },
+  {
+    "id": "VH_1305",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lý do quân đội Tưởng Giới Thạch phải điều đình với chính quyền Việt Nam.",
+    "question": "Tại sao quân đội Tưởng Giới Thạch phải điều đình với chính quyền Việt Nam sau Cách mạng Tháng Tám?",
+    "answer": "Quân đội Tưởng Giới Thạch phải điều đình vì chính quyền Việt Nam đã được thống nhất trên toàn quốc và nhận được sự ủng hộ của nhân dân."
+  }
+]

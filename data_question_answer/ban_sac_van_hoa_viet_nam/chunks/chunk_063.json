@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_311",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và văn hóa dân gian Việt Nam.",
+    "question": "Người Việt Nam thường cầu xin điều gì trong các nghi lễ tín ngưỡng?",
+    "answer": "Người Việt Nam thường cầu xin sức khỏe, hạnh phúc, tài lộc, và sự bình an trong cuộc sống."
+  },
+  {
+    "id": "VH_312",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học dân gian Việt Nam.",
+    "question": "Những câu chuyện về các vị thần trong văn học dân gian thường thể hiện điều gì?",
+    "answer": "Những câu chuyện này thường thể hiện ước mơ, niềm tin và những giá trị đạo đức của con người."
+  },
+  {
+    "id": "VH_313",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật hát văn trong văn hóa Việt Nam.",
+    "question": "Hát văn có vai trò gì trong các nghi lễ hầu đồng?",
+    "answer": "Hát văn đóng vai trò dẫn dắt và tạo không khí linh thiêng trong các nghi lễ hầu đồng."
+  },
+  {
+    "id": "VH_314",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về âm nhạc truyền thống Việt Nam.",
+    "question": "Hát văn thường sử dụng những nhạc cụ nào để biểu diễn?",
+    "answer": "Hát văn thường sử dụng đàn nguyệt, đàn nhị, trống, phách và đôi khi có cả sáo."
+  },
+  {
+    "id": "VH_315",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật dân gian Việt Nam.",
+    "question": "Điểm nổi bật của nghệ thuật hát văn là gì?",
+    "answer": "Điểm nổi bật của hát văn là sự kết hợp giữa âm nhạc, lời ca và yếu tố tâm linh, tạo nên một không gian nghệ thuật độc đáo."
+  }
+]

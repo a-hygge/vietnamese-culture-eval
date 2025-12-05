@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_476",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp chế.",
+    "question": "Pháp chế là gì và mối quan hệ giữa pháp chế và pháp luật?",
+    "answer": "Pháp chế là sự tuân thủ nghiêm ngặt pháp luật trong quản lý và vận hành xã hội. Pháp luật là cơ sở của pháp chế, nhưng nếu pháp luật mâu thuẫn hoặc không tiến bộ, nó sẽ không thể đảm bảo pháp chế thực sự."
+  },
+  {
+    "id": "PL_477",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc ban hành pháp luật.",
+    "question": "Nguyên tắc nào cần được tuân thủ khi ban hành pháp luật để đảm bảo pháp chế?",
+    "answer": "Việc ban hành pháp luật cần tuân thủ các nguyên tắc của pháp chế, bao gồm tính hợp pháp, tính minh bạch và tính công bằng, nhằm xây dựng một hệ thống pháp luật hoàn thiện."
+  },
+  {
+    "id": "PL_478",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự xuất hiện của pháp chế trong lịch sử.",
+    "question": "Pháp chế xuất hiện đầu tiên trong xã hội nào và phát triển mạnh mẽ trong xã hội nào?",
+    "answer": "Pháp chế xuất hiện đầu tiên trong xã hội tư sản và phát triển mạnh mẽ hơn trong xã hội chủ nghĩa."
+  },
+  {
+    "id": "PL_479",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tác động của pháp luật không tiến bộ đối với xã hội.",
+    "question": "Pháp luật mâu thuẫn hoặc không tiến bộ có thể gây ra những hậu quả gì cho xã hội?",
+    "answer": "Pháp luật mâu thuẫn hoặc không tiến bộ có thể dẫn đến bất công trong xã hội, làm suy yếu trật tự và kỷ cương xã hội."
+  },
+  {
+    "id": "PL_480",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về pháp luật và pháp chế trong các xã hội lịch sử.",
+    "question": "Vì sao các xã hội chiếm hữu nô lệ và phong kiến có pháp luật nhưng chưa có pháp chế?",
+    "answer": "Các xã hội chiếm hữu nô lệ và phong kiến có pháp luật nhưng chưa có pháp chế vì pháp luật trong các xã hội này không đảm bảo tính công bằng và tiến bộ, do đó không thể tạo ra sự tuân thủ nghiêm ngặt và trật tự xã hội bền vững."
+  }
+]

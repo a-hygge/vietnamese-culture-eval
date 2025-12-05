@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_516",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Pháp luật là gì?",
+    "answer": "Pháp luật là hệ thống các quy tắc xử sự chung do nhà nước ban hành và bảo đảm thực hiện, nhằm điều chỉnh các quan hệ xã hội."
+  },
+  {
+    "id": "PL_517",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật trong xã hội.",
+    "question": "Pháp luật có vai trò gì trong việc duy trì trật tự và an toàn xã hội?",
+    "answer": "Pháp luật giữ vai trò điều chỉnh hành vi con người, bảo đảm trật tự, an toàn xã hội và tạo cơ sở pháp lý cho việc xử lý các vi phạm."
+  },
+  {
+    "id": "PL_518",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của công dân Việt Nam.",
+    "question": "Công dân Việt Nam được hưởng những quyền gì theo quy định pháp luật?",
+    "answer": "Công dân Việt Nam có quyền bình đẳng trước pháp luật, quyền tự do cá nhân, quyền sở hữu tài sản và các quyền được Hiến pháp và pháp luật bảo vệ."
+  },
+  {
+    "id": "PL_519",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của công dân Việt Nam.",
+    "question": "Nghĩa vụ cơ bản của công dân Việt Nam theo quy định pháp luật là gì?",
+    "answer": "Công dân có nghĩa vụ tuân thủ pháp luật, bảo vệ Tổ quốc, đóng góp vào sự phát triển kinh tế-xã hội và thực hiện nghĩa vụ nộp thuế."
+  },
+  {
+    "id": "PL_520",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Bộ máy nhà nước Việt Nam được tổ chức theo những nhánh quyền lực nào?",
+    "answer": "Bộ máy nhà nước Việt Nam được tổ chức gồm ba nhánh quyền lực: lập pháp, hành pháp và tư pháp, hoạt động trên nền tảng Hiến pháp và pháp luật."
+  }
+]

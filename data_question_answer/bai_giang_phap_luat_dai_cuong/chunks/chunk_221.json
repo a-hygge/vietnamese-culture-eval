@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1101",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp lý liên quan đến môi giới hối lộ.",
+    "question": "Môi giới hối lộ được hiểu như thế nào theo pháp luật Việt Nam?",
+    "answer": "Môi giới hối lộ là hành vi của người trung gian theo yêu cầu của người đưa hối lộ hoặc người nhận hối lộ, nhằm tạo điều kiện cho việc thỏa thuận hối lộ giữa hai bên hoặc giúp sức thực hiện sự thỏa thuận hối lộ."
+  },
+  {
+    "id": "PL_1102",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân dẫn đến tham nhũng tại Việt Nam.",
+    "question": "Những hạn chế nào trong chính sách và pháp luật có thể dẫn đến tham nhũng?",
+    "answer": "Những hạn chế trong việc thực hiện các chính sách của Đảng và Nhà nước, như việc triển khai các chính sách đền bù, trợ giá, vay ưu đãi, chính sách hỗ trợ người nghèo, tái định cư… còn nhiều bất cập, thiếu rõ ràng và không công khai minh bạch, khiến đối tượng chính sách khó tiếp cận với nguồn hỗ trợ."
+  },
+  {
+    "id": "PL_1103",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của Nhà nước trong quản lý chính sách hỗ trợ xã hội.",
+    "question": "Nhà nước cần làm gì để khắc phục hạn chế trong các chính sách hỗ trợ xã hội?",
+    "answer": "Nhà nước có trách nhiệm đảm bảo việc thực thi các chính sách phải minh bạch, rõ ràng, công bằng và dễ tiếp cận để các đối tượng chính sách nhận được hỗ trợ một cách hiệu quả."
+  },
+  {
+    "id": "PL_1104",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật trong kiểm soát tham nhũng.",
+    "question": "Pháp luật có vai trò gì trong việc ngăn chặn hành vi tham nhũng?",
+    "answer": "Pháp luật quy định rõ các hành vi tham nhũng, bao gồm môi giới hối lộ, là hành vi trái pháp luật và đưa ra cơ chế xử lý nghiêm minh nhằm ngăn chặn, kiểm soát và giảm thiểu tham nhũng trong xã hội."
+  },
+  {
+    "id": "PL_1105",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của cá nhân trong việc chống tham nhũng.",
+    "question": "Cá nhân có thể làm gì để góp phần chống tham nhũng?",
+    "answer": "Cá nhân có thể thực hiện các hành động như tố giác hành vi tham nhũng, tuân thủ pháp luật, không tham gia hoặc tiếp tay cho các hành vi vi phạm pháp luật liên quan đến tham nhũng, đồng thời đòi hỏi sự minh bạch trong các chính sách và quy trình của Nhà nước."
+  }
+]

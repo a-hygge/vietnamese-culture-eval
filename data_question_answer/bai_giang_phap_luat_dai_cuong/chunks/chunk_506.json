@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1826",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_506.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thứ tự thanh toán nợ của doanh nghiệp hoặc hợp tác xã.",
+    "question": "Nếu giá trị tài sản của doanh nghiệp không đủ để thanh toán hết các khoản nợ, các chủ nợ được thanh toán theo nguyên tắc nào?",
+    "answer": "Các chủ nợ chỉ được thanh toán một phần khoản nợ của mình theo tỷ lệ tương ứng với giá trị tài sản có sẵn."
+  },
+  {
+    "id": "PL_1827",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_506.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản còn lại sau thanh toán nợ.",
+    "question": "Tài sản còn lại của doanh nghiệp hoặc hợp tác xã sau khi thanh toán đủ các khoản nợ thuộc về ai?",
+    "answer": "Tài sản còn lại thuộc về xã viên hợp tác xã, chủ doanh nghiệp tư nhân, các thành viên công ty, các cổ đông công ty cổ phần hoặc chủ sở hữu doanh nghiệp nhà nước."
+  },
+  {
+    "id": "PL_1828",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_506.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tranh chấp trong kinh doanh.",
+    "question": "Tranh chấp trong kinh doanh được định nghĩa như thế nào?",
+    "answer": "Tranh chấp trong kinh doanh là loại tranh chấp kinh tế, biểu hiện mâu thuẫn hoặc xung đột về quyền và nghĩa vụ giữa các nhà đầu tư, các doanh nghiệp trong quá trình thực hiện hoạt động kinh doanh."
+  },
+  {
+    "id": "PL_1829",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_506.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức thương lượng trong giải quyết tranh chấp kinh doanh.",
+    "question": "Đặc điểm cơ bản của hình thức thương lượng để giải quyết tranh chấp kinh doanh là gì?",
+    "answer": "Đặc điểm cơ bản của thương lượng là các bên cùng bàn bạc, thỏa thuận để tự giải quyết các bất đồng mà không có sự tham gia của bên thứ ba."
+  },
+  {
+    "id": "PL_1830",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_506.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức hòa giải trong giải quyết tranh chấp kinh doanh.",
+    "question": "Trong hình thức hòa giải để giải quyết tranh chấp kinh doanh, vai trò của bên thứ ba là gì?",
+    "answer": "Bên thứ ba đóng vai trò hỗ trợ và thuyết phục các bên tranh chấp tìm kiếm các giải pháp nhằm chấm dứt xung đột hoặc bất hòa."
+  }
+]

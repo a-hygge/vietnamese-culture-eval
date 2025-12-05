@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1271",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tài sản hình thành trong tương lai.",
+    "question": "Tài sản hình thành trong tương lai bao gồm những loại nào?",
+    "answer": "Tài sản hình thành trong tương lai bao gồm: a) Tài sản chưa hình thành; b) Tài sản đã hình thành nhưng quyền sở hữu được xác lập sau thời điểm giao dịch."
+  },
+  {
+    "id": "PL_1272",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hoa lợi và lợi tức.",
+    "question": "Hoa lợi và lợi tức được định nghĩa như thế nào?",
+    "answer": "Hoa lợi là sản vật tự nhiên mà tài sản mang lại, còn lợi tức là khoản lợi thu được từ việc khai thác tài sản."
+  },
+  {
+    "id": "PL_1273",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vật chính và vật phụ.",
+    "question": "Vật chính và vật phụ được hiểu như thế nào?",
+    "answer": "Vật chính là vật độc lập, có thể khai thác công dụng theo tính năng. Vật phụ là vật phục vụ trực tiếp cho vật chính, có thể tách rời nhưng vẫn liên quan đến vật chính."
+  },
+  {
+    "id": "PL_1274",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ chuyển giao vật chính và vật phụ.",
+    "question": "Khi chuyển giao vật chính, có cần chuyển giao cả vật phụ không?",
+    "answer": "Khi chuyển giao vật chính, phải chuyển giao cả vật phụ, trừ khi có thỏa thuận khác."
+  },
+  {
+    "id": "PL_1275",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản hình thành trong tương lai.",
+    "question": "Quyền sở hữu tài sản hình thành trong tương lai được xác lập khi nào?",
+    "answer": "Quyền sở hữu tài sản hình thành trong tương lai được xác lập sau thời điểm giao dịch đối với tài sản đã hình thành."
+  }
+]

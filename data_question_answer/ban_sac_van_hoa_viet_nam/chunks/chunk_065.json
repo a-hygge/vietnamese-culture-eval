@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_321",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Điệu múa trong các giá hầu đồng thường được đặt tên dựa trên yếu tố nào?",
+    "answer": "Điệu múa thường được đặt tên dựa trên tên các vật cầm để múa như kiếm, cung, mái chèo."
+  },
+  {
+    "id": "VH_322",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Đặc điểm nổi bật của múa trong hầu đồng về hình thức trình diễn là gì?",
+    "answer": "Múa trong hầu đồng là múa đơn, ngay cả khi nhiều người cùng nhập đồng thì cũng không có sự phối hợp, mà chỉ là múa cá nhân."
+  },
+  {
+    "id": "VH_323",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Điều gì quyết định sự lựa chọn điệu múa trong từng giá hầu đồng?",
+    "answer": "Điệu múa được chọn phải phù hợp với từng vai, với tên của các giá cũng như quần áo và trang phục của vị thần."
+  },
+  {
+    "id": "VH_324",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Sự bao dung của Đạo giáo Việt Nam được thể hiện như thế nào trong việc tiếp nhận các nữ thần từ văn hóa khác?",
+    "answer": "Đạo giáo Việt Nam thể hiện sự bao dung khi tiếp nhận và thờ cúng các nữ thần Chăm như Po Yan Inu Nưgar, sau đó bà được Việt hóa thành Thiên Y A Na, Chúa Ngọc Diễn Phi."
+  },
+  {
+    "id": "VH_325",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Thiên Y A Na trong tín ngưỡng Việt Nam có nguồn gốc từ vị nữ thần nào?",
+    "answer": "Thiên Y A Na có nguồn gốc từ nữ thần Chăm Po Yan Inu Nưgar, được thờ nhiều nơi trên đất Chăm như tháp Nha Trang, Phan Rang, và Bà Rịa."
+  }
+]

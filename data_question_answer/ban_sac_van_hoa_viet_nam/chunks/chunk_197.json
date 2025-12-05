@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_981",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử Việt Nam.",
+    "question": "Nguyễn Trường Tộ đã đề xuất cải cách nhằm mục đích gì?",
+    "answer": "Nguyễn Trường Tộ đã đề xuất cải cách nhằm bảo vệ độc lập dân tộc và phát triển đất nước trước nguy cơ xâm lược."
+  },
+  {
+    "id": "VH_982",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chữ quốc ngữ.",
+    "question": "Chữ quốc ngữ đã được sử dụng như thế nào để bảo tồn văn hóa Việt Nam?",
+    "answer": "Chữ quốc ngữ được dùng để dịch sách Hán, phiên âm tác phẩm cổ và biên soạn từ điển, giúp bảo tồn văn hóa dân tộc."
+  },
+  {
+    "id": "VH_983",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học Việt Nam.",
+    "question": "Tác phẩm nào được coi là tiểu thuyết đầu tiên của Việt Nam?",
+    "answer": "Tác phẩm 'Truyện thầy Lazarô Phiền' của Nguyễn Trọng Quản được coi là tiểu thuyết đầu tiên của Việt Nam."
+  },
+  {
+    "id": "VH_984",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong trào yêu nước.",
+    "question": "Những nhà Nho nào đã lãnh đạo phong trào chống đồng hóa văn hóa?",
+    "answer": "Phan Văn Trị và Nguyễn Đình Chiểu là những nhà Nho lãnh đạo phong trào chống đồng hóa văn hóa."
+  },
+  {
+    "id": "VH_985",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng văn hóa Phương Tây.",
+    "question": "Các nhà Nho đã tiếp cận văn hóa Phương Tây qua phương tiện nào?",
+    "answer": "Các nhà Nho đã tiếp cận văn hóa Phương Tây qua sách báo cải cách từ Trung Hoa."
+  }
+]

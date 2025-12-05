@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1756",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_361.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của người lao động liên quan đến ngày nghỉ hằng năm.",
+    "question": "Người lao động chưa nghỉ hoặc chưa nghỉ hết số ngày nghỉ hằng năm sẽ được hưởng quyền lợi gì?",
+    "answer": "Người lao động được thanh toán bằng tiền những ngày chưa nghỉ."
+  },
+  {
+    "id": "PL_1757",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_361.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nghỉ lễ của người lao động theo pháp luật Việt Nam.",
+    "question": "Người lao động tại Việt Nam được nghỉ bao nhiêu ngày trong dịp Tết Âm lịch và có được hưởng lương không?",
+    "answer": "Người lao động được nghỉ 05 ngày trong dịp Tết Âm lịch và được hưởng nguyên lương."
+  },
+  {
+    "id": "PL_1758",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_361.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nghỉ việc riêng của người lao động.",
+    "question": "Người lao động được nghỉ việc riêng hưởng nguyên lương trong trường hợp kết hôn bao nhiêu ngày?",
+    "answer": "Người lao động được nghỉ việc riêng hưởng nguyên lương 03 ngày khi kết hôn."
+  },
+  {
+    "id": "PL_1759",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_361.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của lao động là công dân nước ngoài làm việc tại Việt Nam.",
+    "question": "Ngoài các ngày nghỉ lễ theo quy định, lao động là công dân nước ngoài làm việc tại Việt Nam được nghỉ thêm bao nhiêu ngày và trong những dịp nào?",
+    "answer": "Lao động là công dân nước ngoài được nghỉ thêm 01 ngày Tết cổ truyền dân tộc Việt Nam và 01 ngày Quốc khánh của nước họ."
+  },
+  {
+    "id": "PL_1760",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_361.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nghỉ việc riêng hưởng nguyên lương của người lao động.",
+    "question": "Người lao động được nghỉ việc riêng hưởng nguyên lương bao nhiêu ngày nếu bố mẹ hoặc vợ/chồng/con của họ qua đời?",
+    "answer": "Người lao động được nghỉ việc riêng hưởng nguyên lương 03 ngày nếu bố mẹ, vợ, chồng hoặc con qua đời."
+  }
+]

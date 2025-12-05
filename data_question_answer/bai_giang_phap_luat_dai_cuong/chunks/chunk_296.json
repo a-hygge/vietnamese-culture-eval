@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1476",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm thi hành án dân sự.",
+    "question": "Thi hành án dân sự là gì?",
+    "answer": "Thi hành án dân sự là giai đoạn kết thúc của quá trình tố tụng, trong đó các bản án, quyết định dân sự của tòa án được thi hành."
+  },
+  {
+    "id": "PL_1477",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền yêu cầu thi hành án dân sự.",
+    "question": "Người được thi hành án có quyền yêu cầu thi hành án như thế nào?",
+    "answer": "Người được thi hành án có quyền yêu cầu người phải thi hành án thi hành bản án, quyết định dân sự dựa trên bản sao bản án hoặc quyết định có ghi 'để thi hành'. Nếu người phải thi hành án không tự nguyện thi hành, người được thi hành án có thể gửi đơn yêu cầu đến cơ quan thi hành án trong thời hạn ba năm (đối với cá nhân) hoặc một năm (đối với tổ chức) kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+  },
+  {
+    "id": "PL_1478",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời hạn ra quyết định thi hành án dân sự.",
+    "question": "Thủ trưởng cơ quan thi hành án phải ra quyết định thi hành án trong thời hạn bao lâu kể từ khi nhận được đơn yêu cầu?",
+    "answer": "Thủ trưởng cơ quan thi hành án phải ra quyết định thi hành án trong thời hạn mười ngày kể từ ngày nhận được đơn yêu cầu thi hành án."
+  },
+  {
+    "id": "PL_1479",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp chủ động ra quyết định thi hành án dân sự.",
+    "question": "Trong những trường hợp nào thủ trưởng cơ quan thi hành án chủ động ra quyết định thi hành án mà không cần đơn yêu cầu?",
+    "answer": "Thủ trưởng cơ quan thi hành án chủ động ra quyết định thi hành án trong các trường hợp liên quan đến trả lại tài sản, bồi thường tài sản xã hội chủ nghĩa, phạt tiền, tịch thu tài sản, án phí và các quyết định khẩn cấp tạm thời, trong thời hạn bảy ngày kể từ ngày nhận được bản sao bản án, quyết định."
+  },
+  {
+    "id": "PL_1480",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bảo đảm trong thi hành án dân sự.",
+    "question": "Thi hành án dân sự bảo đảm những lợi ích nào?",
+    "answer": "Thi hành án dân sự bảo đảm hiệu lực của các bản án, quyết định dân sự của tòa án, bảo vệ lợi ích của nhà nước, và bảo hộ các quyền, lợi ích hợp pháp của các tổ chức và công dân."
+  }
+]

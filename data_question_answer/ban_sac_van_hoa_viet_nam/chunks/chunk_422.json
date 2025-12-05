@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2106",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tiếp thu văn hóa Hán ở Việt Nam.",
+    "question": "Tại sao việc tiếp thu văn hóa Hán ở Việt Nam không giống với cách người Trung Quốc tiếp thu văn hóa của chính họ?",
+    "answer": "Việc tiếp thu văn hóa Hán ở Việt Nam không giống với Trung Quốc vì học vấn Hán chủ yếu dành cho tầng lớp quý tộc, trong khi người Việt đa phần là con nhà nghèo, không có đủ thời gian và điều kiện kinh tế để học tập văn hóa Hán một cách đầy đủ."
+  },
+  {
+    "id": "VH_2107",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống giáo dục thời Khổng Tử trong văn hóa Hán.",
+    "question": "Hệ thống giáo dục thời Khổng Tử yêu cầu học những môn nào?",
+    "answer": "Hệ thống giáo dục thời Khổng Tử yêu cầu học sáu môn: lễ, nhạc, xạ (bắn cung), ngự (điều khiển xe ngựa), thư, và số."
+  },
+  {
+    "id": "VH_2108",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của văn hóa Trung Quốc đối với Việt Nam.",
+    "question": "Nền văn hóa nào của Trung Quốc đã ảnh hưởng đến cái học ở Việt Nam trong lịch sử?",
+    "answer": "Nền văn hóa Tống Nho của Trung Quốc đã ảnh hưởng đến cái học ở Việt Nam trong lịch sử."
+  },
+  {
+    "id": "VH_2109",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thành tựu văn hóa Trung Quốc thời Tống.",
+    "question": "Văn hóa thời Tống được xem là tiêu biểu và cao nhất của Trung Quốc trong giai đoạn nào và vì sao?",
+    "answer": "Văn hóa thời Tống được xem là tiêu biểu và cao nhất của Trung Quốc từ thế kỷ X đến thế kỷ XVI vì nó thừa hưởng những thành tựu của các thời đại trước, điển hình như thơ Đường."
+  },
+  {
+    "id": "VH_2110",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của ngôn ngữ Pali và Sanscrit đến văn hóa Trung Quốc.",
+    "question": "Có nghi ngờ gì về sự ảnh hưởng của ngôn ngữ Pali và Sanscrit đối với thơ Đường trong văn hóa Trung Quốc?",
+    "answer": "Có nghi ngờ rằng thơ Đường trong văn hóa Trung Quốc có thể chịu ảnh hưởng từ tiếng Pali (Nam Phạn) và tiếng Sanscrit (Bắc Phạn)."
+  }
+]

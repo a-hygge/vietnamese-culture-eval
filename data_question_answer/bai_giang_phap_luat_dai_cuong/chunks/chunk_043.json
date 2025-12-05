@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_211",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nhà nước trong điều tiết nền kinh tế.",
+    "question": "Nhà nước thực hiện chức năng điều tiết nền kinh tế ở tầm vĩ mô như thế nào?",
+    "answer": "Nhà nước đảm bảo cho các đơn vị kinh tế khả năng tự giải quyết vấn đề sản xuất kinh doanh, tự chịu trách nhiệm trước thị trường và pháp luật, đồng thời kiểm tra, giám sát quá trình phát triển kinh tế, đưa ra các giải pháp kịp thời khi có biến động."
+  },
+  {
+    "id": "PL_212",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng xã hội của nhà nước.",
+    "question": "Chức năng xã hội của nhà nước trong nền kinh tế thị trường được thể hiện như thế nào?",
+    "answer": "Chức năng xã hội của nhà nước được thể hiện qua việc giải quyết các vấn đề về văn hoá, giáo dục, bảo vệ sức khoẻ, tạo việc làm, hỗ trợ người già cô đơn, đảm bảo mối quan hệ giữa nhu cầu tăng trưởng kinh tế và các nhu cầu nhân đạo của xã hội."
+  },
+  {
+    "id": "PL_213",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của nhà nước trong kinh tế thị trường.",
+    "question": "Trách nhiệm giải quyết các vấn đề xã hội trong nền kinh tế thị trường thuộc về ai?",
+    "answer": "Trách nhiệm giải quyết các vấn đề xã hội trong nền kinh tế thị trường chủ yếu thuộc về nhà nước."
+  },
+  {
+    "id": "PL_214",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc hoạt động kinh tế của các đơn vị kinh tế.",
+    "question": "Các đơn vị kinh tế cần tuân thủ nguyên tắc nào khi hoạt động trong cơ chế thị trường?",
+    "answer": "Các đơn vị kinh tế phải tự giải quyết các vấn đề sản xuất kinh doanh, tự chịu trách nhiệm về lỗ, lãi trước cơ chế thị trường và theo luật pháp."
+  },
+  {
+    "id": "PL_215",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nhà nước trong hợp tác kinh tế quốc tế.",
+    "question": "Nhà nước thực hiện nhiệm vụ gì để hỗ trợ các đơn vị kinh tế tham gia hợp tác kinh tế quốc tế?",
+    "answer": "Nhà nước tạo lập các tiền đề cần thiết và đảm bảo các điều kiện thuận lợi để các đơn vị kinh tế thuộc mọi thành phần kinh tế vươn tới các thị trường ngoài nước và tham gia tích cực, có hiệu quả vào hợp tác kinh tế quốc tế."
+  }
+]

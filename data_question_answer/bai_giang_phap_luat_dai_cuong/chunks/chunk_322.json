@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1606",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng áp dụng của Bộ luật lao động Việt Nam.",
+    "question": "Bộ luật lao động Việt Nam áp dụng cho những ai?",
+    "answer": "Đối tượng áp dụng bao gồm: người lao động Việt Nam, người học nghề, tập nghề và người lao động khác được quy định tại Bộ luật lao động; người sử dụng lao động; người lao động nước ngoài làm việc tại Việt Nam; cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+  },
+  {
+    "id": "PL_1607",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách của Nhà nước đối với người lao động.",
+    "question": "Nhà nước có những chính sách gì để bảo vệ quyền lợi của người lao động?",
+    "answer": "Nhà nước bảo đảm quyền và lợi ích chính đáng của người lao động, khuyến khích các thỏa thuận bảo đảm điều kiện thuận lợi hơn cho người lao động so với quy định pháp luật, và có chính sách hỗ trợ người lao động mua cổ phần, góp vốn phát triển sản xuất, kinh doanh."
+  },
+  {
+    "id": "PL_1608",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm xã hội của người sử dụng lao động.",
+    "question": "Người sử dụng lao động cần thực hiện trách nhiệm xã hội ra sao?",
+    "answer": "Nhà nước bảo đảm quyền và lợi ích hợp pháp của người sử dụng lao động, yêu cầu quản lý lao động đúng pháp luật, dân chủ, công bằng, văn minh, đồng thời nâng cao trách nhiệm xã hội."
+  },
+  {
+    "id": "PL_1609",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách phát triển nguồn nhân lực.",
+    "question": "Nhà nước làm gì để phát triển nguồn nhân lực?",
+    "answer": "Nhà nước có chính sách phát triển, phân bố nguồn nhân lực; dạy nghề, đào tạo, bồi dưỡng và nâng cao trình độ kỹ năng nghề cho người lao động, ưu đãi đối với người lao động có trình độ chuyên môn, kỹ thuật cao nhằm đáp ứng yêu cầu công nghiệp hóa, hiện đại hóa đất nước."
+  },
+  {
+    "id": "PL_1610",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách phát triển thị trường lao động.",
+    "question": "Nhà nước áp dụng biện pháp nào để phát triển thị trường lao động?",
+    "answer": "Nhà nước có chính sách phát triển thị trường lao động và đa dạng hóa các hình thức kết nối cung cầu lao động."
+  }
+]

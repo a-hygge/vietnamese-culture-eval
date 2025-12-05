@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1131",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi tham nhũng.",
+    "question": "Những ai thường thực hiện hành vi tham nhũng?",
+    "answer": "Những người có chức vụ, quyền hạn thường thực hiện hành vi tham nhũng."
+  },
+  {
+    "id": "PL_1132",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc tố cáo tham nhũng.",
+    "question": "Vì sao nhiều người không muốn tố cáo tham nhũng?",
+    "answer": "Do lo ngại bị trả thù hoặc trù dập vì chưa có cơ chế bảo vệ hiệu quả."
+  },
+  {
+    "id": "PL_1133",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của lãnh đạo cơ quan.",
+    "question": "Lãnh đạo cơ quan chịu trách nhiệm gì khi có tham nhũng xảy ra?",
+    "answer": "Họ chịu trách nhiệm xử lý nếu để xảy ra tham nhũng trong đơn vị mình quản lý."
+  },
+  {
+    "id": "PL_1134",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tâm lý khi xử lý tham nhũng.",
+    "question": "Quy định xử lý có thể gây ra tâm lý gì cho lãnh đạo cơ quan?",
+    "answer": "Có thể gây tâm lý muốn che giấu hoặc tự giải quyết nội bộ các vụ tham nhũng."
+  },
+  {
+    "id": "PL_1135",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mức độ xử lý tham nhũng.",
+    "question": "Yếu tố nào quyết định mức độ xử lý lãnh đạo cơ quan khi có tham nhũng?",
+    "answer": "Tính chất và mức độ nghiêm trọng của hành vi tham nhũng quyết định mức độ xử lý."
+  }
+]

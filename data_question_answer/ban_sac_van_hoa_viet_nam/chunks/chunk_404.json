@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2016",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của tín ngưỡng thờ cúng tổ tiên trong văn hóa Việt Nam.",
+    "question": "Tín ngưỡng thờ cúng tổ tiên có ý nghĩa gì đối với người Việt?",
+    "answer": "Tín ngưỡng thờ cúng tổ tiên giúp duy trì truyền thống gia đình và kết nối các thế hệ trong cộng đồng."
+  },
+  {
+    "id": "VH_2017",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ cúng tổ tiên tại Đông Nam Á.",
+    "question": "Tín ngưỡng thờ cúng tổ tiên ảnh hưởng như thế nào đến văn hóa Đông Nam Á?",
+    "answer": "Tín ngưỡng thờ cúng tổ tiên thể hiện sự kính trọng đối với tổ tiên và góp phần gắn kết cộng đồng trong các nền văn hóa Đông Nam Á."
+  },
+  {
+    "id": "VH_2018",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự kết hợp giữa tín ngưỡng thờ cúng tổ tiên và các tôn giáo tại Việt Nam.",
+    "question": "Các tôn giáo tại Việt Nam đã tích hợp tín ngưỡng thờ cúng tổ tiên ra sao?",
+    "answer": "Các tôn giáo như Nho giáo, Phật giáo, Đạo giáo, đạo Cao Đài và Hòa Hảo đều coi tín ngưỡng thờ cúng tổ tiên là một phần quan trọng trong thực hành tôn giáo."
+  },
+  {
+    "id": "VH_2019",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử tín ngưỡng thờ cúng tổ tiên ở Trung Quốc.",
+    "question": "Tín ngưỡng thờ cúng tổ tiên có được phổ biến trong tầng lớp lao động ở Trung Quốc không?",
+    "answer": "Tín ngưỡng thờ cúng tổ tiên chủ yếu được Đạo Khổng đề cao trong tầng lớp quý tộc, còn sự phổ biến trong tầng lớp lao động vẫn gây tranh cãi."
+  },
+  {
+    "id": "VH_2020",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ cúng tổ tiên trong cộng đồng Thiên Chúa giáo tại Việt Nam.",
+    "question": "Cộng đồng Thiên Chúa giáo tại Việt Nam có thực hành tín ngưỡng thờ cúng tổ tiên không?",
+    "answer": "Cộng đồng Thiên Chúa giáo tại Việt Nam vẫn tổ chức ngày giỗ tổ tiên và mời người thân đến dự, dù nguyên lý của đạo Thiên Chúa chỉ thờ Chúa."
+  }
+]

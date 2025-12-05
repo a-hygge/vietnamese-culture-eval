@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_031",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật hành chính.",
+    "question": "Luật hành chính được hiểu là gì?",
+    "answer": "Luật hành chính là một ngành trong hệ thống pháp luật, điều chỉnh các quan hệ xã hội phát sinh trong lĩnh vực quản lý hành chính nhà nước."
+  },
+  {
+    "id": "PL_032",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng điều chỉnh của luật hành chính.",
+    "question": "Đối tượng điều chỉnh của luật hành chính bao gồm những gì?",
+    "answer": "Đối tượng điều chỉnh của luật hành chính là các quan hệ xã hội phát sinh trong quá trình quản lý hành chính nhà nước giữa cơ quan nhà nước, tổ chức và cá nhân."
+  },
+  {
+    "id": "PL_033",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ quan hành chính nhà nước trong luật hành chính.",
+    "question": "Cơ quan hành chính nhà nước có vai trò gì trong hệ thống luật hành chính?",
+    "answer": "Cơ quan hành chính nhà nước là tổ chức thực hiện quyền hành pháp, chịu trách nhiệm quản lý nhà nước trên các lĩnh vực kinh tế, xã hội, quốc phòng và an ninh."
+  },
+  {
+    "id": "PL_034",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vi phạm hành chính trong luật hành chính.",
+    "question": "Vi phạm hành chính được hiểu như thế nào?",
+    "answer": "Vi phạm hành chính là hành vi trái pháp luật, do cá nhân hoặc tổ chức thực hiện, xâm phạm trật tự quản lý hành chính nhà nước và bị xử lý theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_035",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khởi kiện vụ án hành chính.",
+    "question": "Công dân có quyền khởi kiện vụ án hành chính khi nào?",
+    "answer": "Công dân có quyền khởi kiện vụ án hành chính khi cho rằng quyết định hành chính hoặc hành vi hành chính của cơ quan nhà nước, tổ chức hoặc cá nhân có thẩm quyền xâm phạm quyền, lợi ích hợp pháp của mình."
+  }
+]

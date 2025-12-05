@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2901",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của văn hóa Hán đến văn hóa Việt Nam.",
+    "question": "Người Việt Nam thời kỳ Pháp thuộc tiếp thu văn hóa Hán qua những hình thức nào?",
+    "answer": "Người Việt Nam thời kỳ Pháp thuộc tiếp thu văn hóa Hán thông qua việc học thuộc lòng các sách kinh điển như 'Ngũ Kinh', 'Tứ Thư' cùng với các lời giải thích và chú giải của các học giả Hán học nổi tiếng."
+  },
+  {
+    "id": "VH_2902",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống giáo dục thời kỳ phong kiến Việt Nam.",
+    "question": "Hệ thống giáo dục phong kiến Việt Nam sử dụng phương thức nào để đánh giá học vấn của học sinh?",
+    "answer": "Hệ thống giáo dục phong kiến Việt Nam đánh giá học vấn của học sinh thông qua các kỳ thi cử nghiêm ngặt, thay vì kiểm tra giáo dục thường xuyên."
+  },
+  {
+    "id": "VH_2903",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa giữa Việt Nam và các nước Đông Á khác.",
+    "question": "Người Việt Nam tiếp thu văn hóa Hán khác gì so với người Triều Tiên và Nhật Bản?",
+    "answer": "Người Việt Nam thường chỉ giao tiếp bằng văn bản với người Trung Quốc và không học cách nói tiếng Trung, điều này khác với người Triều Tiên và Nhật Bản, những người có xu hướng học cả ngôn ngữ và văn hóa Trung Quốc."
+  },
+  {
+    "id": "VH_2904",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phương pháp học tập trong văn hóa giáo dục truyền thống Việt Nam.",
+    "question": "Phương pháp học tập trong giáo dục truyền thống Việt Nam có đặc điểm gì nổi bật?",
+    "answer": "Phương pháp học tập trong giáo dục truyền thống Việt Nam nhấn mạnh việc học thuộc lòng sách vở và các chú giải mà không thay đổi nội dung, giúp học sinh phát triển trí nhớ tốt và khả năng viết văn chương."
+  },
+  {
+    "id": "VH_2905",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về yếu tố quyết định thành công trong giáo dục truyền thống Việt Nam.",
+    "question": "Yếu tố nào đóng vai trò quan trọng trong thành công thi cử thời kỳ phong kiến Việt Nam?",
+    "answer": "Sự thông minh đóng vai trò quan trọng trong thành công thi cử thời kỳ phong kiến Việt Nam, vì người thông minh có thể học thuộc sách vở nhanh chóng và thi đỗ khi còn trẻ."
+  }
+]

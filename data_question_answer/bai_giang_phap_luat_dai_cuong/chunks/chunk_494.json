@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1766",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_494.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của chủ sở hữu công ty.",
+    "question": "Chủ sở hữu công ty phải tuân thủ nghĩa vụ nào trong việc thực hiện các giao dịch giữa công ty và bản thân?",
+    "answer": "Chủ sở hữu công ty phải tuân thủ quy định của pháp luật về hợp đồng và pháp luật có liên quan trong việc mua, bán, vay, cho vay, thuê, cho thuê và các giao dịch khác giữa công ty và chủ sở hữu công ty."
+  },
+  {
+    "id": "PL_1767",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_494.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hạn chế quyền của chủ sở hữu công ty.",
+    "question": "Chủ sở hữu công ty có được rút lợi nhuận khi công ty không thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác đến hạn không?",
+    "answer": "Chủ sở hữu công ty không được rút lợi nhuận khi công ty không thanh toán đủ các khoản nợ và các nghĩa vụ tài sản khác đến hạn."
+  },
+  {
+    "id": "PL_1768",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_494.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của chủ sở hữu công ty trong việc rút vốn.",
+    "question": "Chủ sở hữu công ty được rút vốn bằng cách nào theo quy định của pháp luật?",
+    "answer": "Chủ sở hữu công ty chỉ được quyền rút vốn bằng cách chuyển nhượng một phần hoặc toàn bộ số vốn điều lệ cho tổ chức hoặc cá nhân khác. Nếu rút vốn theo hình thức khác, họ phải liên đới chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản của công ty."
+  },
+  {
+    "id": "PL_1769",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_494.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức của công ty trách nhiệm hữu hạn một thành viên.",
+    "question": "Công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu có thể được tổ chức theo các mô hình nào?",
+    "answer": "Công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu có thể được tổ chức theo mô hình: Chủ tịch công ty, giám đốc hoặc tổng giám đốc và kiểm soát viên; hoặc Hội đồng thành viên, giám đốc hoặc tổng giám đốc và kiểm soát viên."
+  },
+  {
+    "id": "PL_1770",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_494.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm khi chuyển nhượng vốn điều lệ của công ty.",
+    "question": "Khi chuyển nhượng một phần vốn điều lệ cho tổ chức hoặc cá nhân khác, công ty trách nhiệm hữu hạn một thành viên phải thực hiện điều gì?",
+    "answer": "Khi chuyển nhượng một phần vốn điều lệ cho tổ chức hoặc cá nhân khác, công ty phải đăng ký chuyển đổi thành công ty trách nhiệm hữu hạn hai thành viên trở lên trong thời hạn mười lăm ngày, kể từ ngày chuyển nhượng."
+  }
+]

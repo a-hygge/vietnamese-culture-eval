@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1511",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tội phạm trong luật hình sự Việt Nam.",
+    "question": "Tính phải chịu hình phạt là dấu hiệu biểu hiện của mặt hình thức nào của tội phạm?",
+    "answer": "Tính phải chịu hình phạt là dấu hiệu biểu hiện mặt hình thức của tội phạm."
+  },
+  {
+    "id": "PL_1512",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại tội phạm trong luật hình sự Việt Nam.",
+    "question": "Tội phạm ít nghiêm trọng được định nghĩa như thế nào theo luật hình sự Việt Nam?",
+    "answer": "Tội phạm ít nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội không lớn, mức phạt cao nhất là phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm."
+  },
+  {
+    "id": "PL_1513",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khung hình phạt của tội phạm đặc biệt nghiêm trọng trong luật hình sự Việt Nam.",
+    "question": "Khung hình phạt cao nhất đối với tội phạm đặc biệt nghiêm trọng là gì?",
+    "answer": "Khung hình phạt cao nhất đối với tội phạm đặc biệt nghiêm trọng là từ trên 15 năm đến 20 năm tù, tù chung thân hoặc tử hình."
+  },
+  {
+    "id": "PL_1514",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấu thành tội phạm trong luật hình sự Việt Nam.",
+    "question": "Cấu thành tội phạm được định nghĩa như thế nào trong luật hình sự?",
+    "answer": "Cấu thành tội phạm là tổng thể những dấu hiệu chung có tính đặc trưng cho một loại tội phạm cụ thể được quy định trong luật hình sự."
+  },
+  {
+    "id": "PL_1515",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tội phạm nghiêm trọng theo luật hình sự Việt Nam.",
+    "question": "Tội phạm nghiêm trọng có mức phạt cao nhất trong khung hình phạt là bao nhiêu năm tù?",
+    "answer": "Mức phạt cao nhất trong khung hình phạt đối với tội phạm nghiêm trọng là từ trên 03 năm đến 07 năm tù."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2911",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phương pháp học tập truyền thống của người Việt.",
+    "question": "Phương pháp học tập truyền thống của người Việt có đặc điểm gì nổi bật?",
+    "answer": "Phương pháp học tập truyền thống dựa vào việc học thuộc lòng và làm theo sách vở có sẵn, không khuyến khích tư duy độc lập."
+  },
+  {
+    "id": "VH_2912",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của Tống Nho đối với văn hóa Việt Nam.",
+    "question": "Tống Nho đã ảnh hưởng như thế nào đến sự phát triển của các nước chịu ảnh hưởng, bao gồm Việt Nam?",
+    "answer": "Tống Nho khiến sự phát triển bị ngưng trệ do cách học không khuyến khích tư duy độc lập, làm con người mất ý kiến riêng."
+  },
+  {
+    "id": "VH_2913",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống tôn sư trọng đạo trong văn hóa Việt Nam.",
+    "question": "Truyền thống 'Tôn sư trọng đạo' trong văn hóa Việt Nam mang ý nghĩa gì?",
+    "answer": "Truyền thống này thể hiện sự tôn kính đối với người thầy, đặt thầy lên vị trí cao trong xã hội, thậm chí trên cả cha."
+  },
+  {
+    "id": "VH_2914",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lý tưởng của người trí thức xưa ở Việt Nam.",
+    "question": "Người trí thức xưa ở Việt Nam thường theo đuổi lý tưởng gì?",
+    "answer": "Họ theo đuổi lý tưởng làm quan khi tiến lên và làm thầy khi rút lui, nhấn mạnh vai trò của học vấn và giáo dục."
+  },
+  {
+    "id": "VH_2915",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của thầy giáo trong xã hội truyền thống Việt Nam.",
+    "question": "Thầy giáo trong xã hội truyền thống Việt Nam được đánh giá như thế nào?",
+    "answer": "Thầy giáo được xếp vào nhóm ba người quan trọng nhất cần tôn trọng, cùng với vua và cha."
+  }
+]

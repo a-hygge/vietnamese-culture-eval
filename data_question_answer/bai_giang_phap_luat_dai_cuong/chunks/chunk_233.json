@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1161",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tác động của tham nhũng đối với ngân sách nhà nước.",
+    "question": "Tham nhũng ảnh hưởng như thế nào đến nguồn thu ngân sách nhà nước qua thuế?",
+    "answer": "Tham nhũng làm giảm nguồn thu ngân sách nhà nước qua thuế, vì một số doanh nghiệp chỉ phải nộp một khoản thuế ít hơn nhiều so với khoản thuế thực tế phải nộp."
+  },
+  {
+    "id": "PL_1162",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hậu quả của tham nhũng đối với tài sản công.",
+    "question": "Tham nhũng tác động như thế nào đến quyền sở hữu tài sản công?",
+    "answer": "Tham nhũng làm cho một lượng lớn tài sản công trở thành tài sản tư của một số cán bộ, công chức, viên chức."
+  },
+  {
+    "id": "PL_1163",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tác động của tham nhũng đối với các công trình xây dựng.",
+    "question": "Tham nhũng gây ra những thiệt hại nào đối với chất lượng và an toàn của các công trình xây dựng?",
+    "answer": "Tham nhũng gây thiệt hại nghiêm trọng và nguy hiểm cho các công trình xây dựng, làm giảm chất lượng và an toàn của các công trình này."
+  },
+  {
+    "id": "PL_1164",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi tham nhũng liên quan đến tài sản nhà nước.",
+    "question": "Những hành vi nào trong tham nhũng dẫn đến thất thoát tài sản nhà nước?",
+    "answer": "Các hành vi tham nhũng dẫn đến thất thoát tài sản nhà nước bao gồm tham ô, lợi dụng, lạm dụng chức vụ quyền hạn để chiếm đoạt tài sản."
+  },
+  {
+    "id": "PL_1165",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối liên hệ giữa tham nhũng và tài chính nhà nước.",
+    "question": "Tại sao tham nhũng được xem là gây tổn thất lớn đối với ngân sách nhà nước?",
+    "answer": "Tham nhũng gây tổn thất lớn cho ngân sách nhà nước vì nó không chỉ làm thất thoát tài sản nhà nước mà còn làm giảm nguồn thu chủ yếu từ thuế."
+  }
+]

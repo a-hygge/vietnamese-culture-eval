@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_626",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò và trách nhiệm của người lãnh đạo trong văn hóa Việt Nam.",
+    "question": "Người lãnh đạo cần cải tạo thế giới và xã hội bằng cách nào theo quan điểm của Hồ Chí Minh?",
+    "answer": "Người lãnh đạo cần cải tạo thế giới và xã hội bằng cách tu thân, tức là cải tạo bản thân trước, dựa trên bốn nguyên lý: cần, kiệm, liêm, chính; chí công, vô tư; lo trước vui sau; và làm đầy tớ nhân dân lao động."
+  },
+  {
+    "id": "VH_627",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị đạo đức trong văn hóa lãnh đạo của Hồ Chí Minh.",
+    "question": "Hồ Chí Minh nhấn mạnh những nguyên lý đạo đức nào đối với người lãnh đạo?",
+    "answer": "Hồ Chí Minh nhấn mạnh bốn nguyên lý: cần, kiệm, liêm, chính; chí công, vô tư; lo trước vui sau; và làm đầy tớ nhân dân lao động."
+  },
+  {
+    "id": "VH_628",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tinh thần thực tiễn trong truyền thống quân sự Việt Nam.",
+    "question": "Tinh thần thực tiễn trong truyền thống quân sự Việt Nam được thể hiện qua chiến dịch giải phóng biên giới Việt - Trung năm 1950 ra sao?",
+    "answer": "Tinh thần thực tiễn được thể hiện qua việc Bộ Tổng Tư Lệnh quân đội Việt Nam thay đổi mục tiêu chính từ Cao Bằng sang Đông Khê sau khi khảo sát địa hình, giúp chiến dịch đạt được thành công lớn."
+  },
+  {
+    "id": "VH_629",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chiến lược quân sự trong chiến dịch Điện Biên Phủ.",
+    "question": "Tại sao chiến lược 'đánh nhanh, giải quyết nhanh' được thay đổi thành 'vây-lấn-tấn-diệt' trong chiến dịch Điện Biên Phủ?",
+    "answer": "Chiến lược được thay đổi vì thực tế không cho phép đánh nhanh, giải quyết nhanh, nên Bộ Tổng Tư Lệnh quyết định chuẩn bị chu đáo để đánh chắc, thắng chắc."
+  },
+  {
+    "id": "VH_630",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa văn hóa lãnh đạo và truyền thống quân sự Việt Nam.",
+    "question": "Văn hóa lãnh đạo và truyền thống quân sự Việt Nam có mối quan hệ như thế nào trong các chiến dịch lớn?",
+    "answer": "Văn hóa lãnh đạo yêu cầu người lãnh đạo phải có đạo đức mẫu mực, tuân theo tinh thần thực tiễn và linh hoạt trong việc đưa ra quyết định, điều này được thể hiện trong các chiến dịch lớn như giải phóng biên giới Việt - Trung và Điện Biên Phủ."
+  }
+]

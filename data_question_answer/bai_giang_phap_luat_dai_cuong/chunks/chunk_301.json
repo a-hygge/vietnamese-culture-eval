@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1501",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tội phạm trong luật hình sự.",
+    "question": "Những dấu hiệu cơ bản nào xác định một hành vi là tội phạm?",
+    "answer": "Hành vi được xác định là tội phạm khi có tính nguy hiểm cho xã hội, tính có lỗi, và tính trái pháp luật hình sự."
+  },
+  {
+    "id": "PL_1502",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính nguy hiểm của hành vi phạm tội.",
+    "question": "Tính nguy hiểm của hành vi phạm tội được hiểu ra sao?",
+    "answer": "Tính nguy hiểm là thuộc tính khách quan của hành vi, thể hiện qua việc gây thiệt hại hoặc đe dọa gây thiệt hại đáng kể cho các quan hệ xã hội được bảo vệ."
+  },
+  {
+    "id": "PL_1503",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xác định lỗi trong luật hình sự.",
+    "question": "Nguyên tắc xác định lỗi trong luật hình sự có ý nghĩa gì?",
+    "answer": "Nguyên tắc này yêu cầu xem xét thái độ tâm lý của người thực hiện hành vi đối với hậu quả, không chấp nhận buộc tội chỉ dựa vào yếu tố khách quan."
+  },
+  {
+    "id": "PL_1504",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính trái pháp luật của hành vi phạm tội.",
+    "question": "Hành vi nguy hiểm được coi là tội phạm khi nào?",
+    "answer": "Hành vi nguy hiểm được coi là tội phạm khi được quy định trong luật hình sự."
+  },
+  {
+    "id": "PL_1505",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử lý hành vi vi phạm pháp luật.",
+    "question": "Hành vi vi phạm pháp luật xã hội chủ nghĩa được xử lý ra sao?",
+    "answer": "Hành vi này phải bị xử lý hình sự theo quy định của Bộ luật hình sự."
+  }
+]

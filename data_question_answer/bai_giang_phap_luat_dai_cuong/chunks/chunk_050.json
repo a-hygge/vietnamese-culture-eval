@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_246",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Nhà nước trong quản lý xã hội.",
+    "question": "Nhà nước sử dụng pháp luật trong việc thực hiện các chủ trương, chính sách nhằm mục đích gì?",
+    "answer": "Nhà nước sử dụng pháp luật để bảo đảm cho các chủ trương, chính sách được triển khai rộng rãi và thống nhất trên quy mô toàn xã hội."
+  },
+  {
+    "id": "PL_247",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lực chính trị của Nhà nước.",
+    "question": "Nhà nước có những yếu tố nào để thực hiện quyền lực chính trị trong xã hội?",
+    "answer": "Nhà nước có một bộ máy chuyên làm chức năng quản lý, hệ thống lực lượng vũ trang và bộ máy cưỡng chế để duy trì trật tự xã hội."
+  },
+  {
+    "id": "PL_248",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chủ quyền quốc gia của Nhà nước.",
+    "question": "Chủ quyền quốc gia của Nhà nước được thể hiện như thế nào?",
+    "answer": "Chủ quyền quốc gia là quyền tối cao của Nhà nước trong lĩnh vực đối nội và đối ngoại, giúp kết hợp các quan hệ trong nước và quốc tế một cách thống nhất."
+  },
+  {
+    "id": "PL_249",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò kinh tế của Nhà nước.",
+    "question": "Với tư cách là chủ sở hữu lớn nhất đối với các tư liệu sản xuất quan trọng, Nhà nước thực hiện chức năng gì trong lĩnh vực kinh tế?",
+    "answer": "Nhà nước điều tiết vĩ mô nền kinh tế và tạo điều kiện cho xã hội hoạt động."
+  },
+  {
+    "id": "PL_250",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của bộ máy Nhà nước.",
+    "question": "Điểm khác biệt cơ bản của bộ máy Nhà nước so với các tổ chức khác trong xã hội là gì?",
+    "answer": "Bộ máy Nhà nước có chức năng quản lý, hệ thống lực lượng vũ trang và bộ máy cưỡng chế để duy trì trật tự xã hội, những yếu tố mà không một tổ chức nào khác có được."
+  }
+]

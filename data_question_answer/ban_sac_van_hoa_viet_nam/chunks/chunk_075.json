@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_371",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lễ hội truyền thống Việt Nam.",
+    "question": "Vì sao các lễ hội truyền thống ở Việt Nam thường được tổ chức sau khi kết thúc vụ mùa?",
+    "answer": "Các lễ hội thường được tổ chức sau vụ mùa vì đây là thời gian người dân có thể nghỉ ngơi, thư giãn và tham gia các hoạt động văn hóa, tín ngưỡng sau khi hoàn thành công việc nông nghiệp."
+  },
+  {
+    "id": "VH_372",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lễ hội truyền thống của người Chăm.",
+    "question": "Lễ hội Mbăng Katê của người Chăm theo đạo Bà-la-môn thường được tổ chức vào thời điểm nào trong năm?",
+    "answer": "Lễ hội Mbăng Katê của người Chăm theo đạo Bà-la-môn thường được tổ chức vào tháng 7 theo lịch Chăm (khoảng tháng 10 dương lịch)."
+  },
+  {
+    "id": "VH_373",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lễ hội cầu mùa tại Quảng Bình.",
+    "question": "Hội cầu mùa Bảo Ninh ở Quảng Bình thờ vị thần nào và diễn ra vào thời gian nào?",
+    "answer": "Hội cầu mùa Bảo Ninh ở Quảng Bình thờ Cá Voi và thường diễn ra từ ngày 14 đến ngày 16 tháng 4 âm lịch."
+  },
+  {
+    "id": "VH_374",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lễ hội Thánh Gióng tại Hà Nội.",
+    "question": "Lễ hội Thánh Gióng ở Phù Đổng, Hà Nội có liên quan đến nghi lễ nông nghiệp nào?",
+    "answer": "Lễ hội Thánh Gióng ở Phù Đổng, Hà Nội có liên quan đến nghi lễ nông nghiệp là lễ rước nước, biểu tượng cho việc cầu mưa thuận gió hòa."
+  },
+  {
+    "id": "VH_375",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lễ hội đua thuyền tại Vĩnh Phúc.",
+    "question": "Hội đua thuyền làng Đức Bác ở tỉnh Vĩnh Phúc thường được tổ chức vào ngày nào?",
+    "answer": "Hội đua thuyền làng Đức Bác ở tỉnh Vĩnh Phúc thường được tổ chức vào ngày 10 tháng 6 âm lịch."
+  }
+]

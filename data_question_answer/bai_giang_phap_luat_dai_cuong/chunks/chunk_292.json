@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1456",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự thủ tục tại phiên tòa.",
+    "question": "Chủ tọa phiên tòa thực hiện những nhiệm vụ gì khi bắt đầu phiên tòa?",
+    "answer": "Chủ tọa phiên tòa đọc quyết định đưa vụ án ra xét xử, kiểm tra căn cước của những người được triệu tập, giải thích quyền và nghĩa vụ của họ, giới thiệu các thành viên của hội đồng xét xử, kiểm sát viên, thư ký phiên tòa, người giám định và người phiên dịch."
+  },
+  {
+    "id": "PL_1457",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của người tham gia phiên tòa.",
+    "question": "Người giám định và người phiên dịch có trách nhiệm pháp lý nào tại phiên tòa?",
+    "answer": "Người giám định và người phiên dịch phải cam đoan làm tròn nhiệm vụ của mình tại phiên tòa."
+  },
+  {
+    "id": "PL_1458",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người làm chứng.",
+    "question": "Người làm chứng tại phiên tòa phải thực hiện cam đoan gì?",
+    "answer": "Người làm chứng phải cam đoan không khai gian dối."
+  },
+  {
+    "id": "PL_1459",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thành phần tham gia phiên tòa.",
+    "question": "Những ai được giới thiệu tại phiên tòa khi bắt đầu xét xử?",
+    "answer": "Những người được giới thiệu bao gồm thành viên của hội đồng xét xử, kiểm sát viên, thư ký phiên tòa, người giám định và người phiên dịch."
+  },
+  {
+    "id": "PL_1460",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục tố tụng tại phiên tòa.",
+    "question": "Kiểm tra căn cước của những người được triệu tập tại phiên tòa nhằm mục đích gì?",
+    "answer": "Kiểm tra căn cước nhằm xác minh danh tính của những người được triệu tập và đảm bảo họ có mặt đúng theo yêu cầu tại phiên tòa."
+  }
+]

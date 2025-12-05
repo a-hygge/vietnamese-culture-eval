@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1646",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người lao động trong hợp đồng lao động.",
+    "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trong trường hợp nào nếu không được bố trí đúng công việc hoặc điều kiện làm việc?",
+    "answer": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nếu không được bố trí đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc đã thỏa thuận trong hợp đồng lao động."
+  },
+  {
+    "id": "PL_1647",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền chấm dứt hợp đồng lao động của lao động nữ.",
+    "question": "Lao động nữ mang thai có quyền đơn phương chấm dứt hợp đồng lao động trong trường hợp nào?",
+    "answer": "Lao động nữ mang thai có quyền đơn phương chấm dứt hợp đồng lao động nếu phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền."
+  },
+  {
+    "id": "PL_1648",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người lao động trong trường hợp bị ngược đãi.",
+    "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động khi gặp tình huống nào liên quan đến ngược đãi?",
+    "answer": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động khi bị ngược đãi, quấy rối tình dục hoặc cưỡng bức lao động."
+  },
+  {
+    "id": "PL_1649",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người lao động trong trường hợp gia đình gặp hoàn cảnh khó khăn.",
+    "question": "Người lao động có thể đơn phương chấm dứt hợp đồng lao động khi nào nếu gia đình gặp hoàn cảnh khó khăn?",
+    "answer": "Người lao động có thể đơn phương chấm dứt hợp đồng lao động nếu bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng lao động."
+  },
+  {
+    "id": "PL_1650",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người lao động trong trường hợp bị bệnh hoặc tai nạn.",
+    "question": "Người lao động bị ốm đau hoặc tai nạn có thể đơn phương chấm dứt hợp đồng lao động trong điều kiện nào?",
+    "answer": "Người lao động bị ốm đau hoặc tai nạn đã điều trị 90 ngày liên tục đối với hợp đồng xác định thời hạn, hoặc một phần tư thời hạn hợp đồng đối với hợp đồng theo mùa vụ hoặc công việc dưới 12 tháng mà khả năng lao động chưa được hồi phục."
+  }
+]

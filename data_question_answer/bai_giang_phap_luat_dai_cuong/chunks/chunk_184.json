@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_916",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy trình tuyển dụng công chức theo pháp luật Việt Nam.",
+    "question": "Việc tuyển dụng công chức được thực hiện bằng phương thức nào?",
+    "answer": "Việc tuyển dụng công chức được thực hiện thông qua thi tuyển."
+  },
+  {
+    "id": "PL_917",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp đặc biệt trong tuyển dụng công chức.",
+    "question": "Khi nào công chức không cần thi tuyển mà vẫn được tuyển dụng?",
+    "answer": "Công chức không cần thi tuyển nếu cam kết tình nguyện làm việc từ 5 năm trở lên ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn."
+  },
+  {
+    "id": "PL_918",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện tuyển dụng công chức tại vùng đặc biệt khó khăn.",
+    "question": "Công chức tuyển dụng tại vùng kinh tế - xã hội đặc biệt khó khăn cần đáp ứng điều kiện gì?",
+    "answer": "Công chức cần cam kết tình nguyện làm việc từ 5 năm trở lên tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn."
+  },
+  {
+    "id": "PL_919",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách ưu tiên trong tuyển dụng công chức.",
+    "question": "Những khu vực nào được áp dụng chính sách ưu tiên trong tuyển dụng công chức?",
+    "answer": "Chính sách ưu tiên được áp dụng cho các khu vực miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn."
+  },
+  {
+    "id": "PL_920",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cam kết làm việc đối với công chức tại khu vực đặc biệt.",
+    "question": "Công chức tuyển dụng ở khu vực khó khăn cần cam kết làm việc tối thiểu bao nhiêu năm?",
+    "answer": "Công chức cần cam kết làm việc tối thiểu 5 năm ở khu vực khó khăn."
+  }
+]

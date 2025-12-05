@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1466",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền kháng cáo trong tố tụng dân sự.",
+    "question": "Những ai có quyền kháng cáo theo quy định pháp luật?",
+    "answer": "Các đương sự, người đại diện của đương sự, tổ chức xã hội khởi kiện vì lợi ích chung có quyền kháng cáo."
+  },
+  {
+    "id": "PL_1467",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền kháng nghị trong tố tụng dân sự.",
+    "question": "Viện kiểm sát nào có quyền kháng nghị trong vụ án dân sự?",
+    "answer": "Viện kiểm sát cùng cấp hoặc trên một cấp với tòa án đã xét xử vụ án dân sự có quyền kháng nghị."
+  },
+  {
+    "id": "PL_1468",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thủ tục tố tụng tại phiên tòa phúc thẩm.",
+    "question": "Người kháng cáo có quyền thực hiện những hành vi nào trước và trong phiên tòa phúc thẩm?",
+    "answer": "Người kháng cáo có quyền kháng cáo, kháng nghị hoặc rút kháng cáo, kháng nghị trước và trong phiên tòa phúc thẩm."
+  },
+  {
+    "id": "PL_1469",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực của bản án phúc thẩm.",
+    "question": "Bản án, quyết định phúc thẩm có hiệu lực như thế nào?",
+    "answer": "Bản án, quyết định phúc thẩm là chung thẩm và có hiệu lực thi hành ngay."
+  },
+  {
+    "id": "PL_1470",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm chung thẩm trong tố tụng dân sự.",
+    "question": "Chung thẩm trong tố tụng dân sự có nghĩa là gì?",
+    "answer": "Chung thẩm nghĩa là bản án hoặc quyết định không thể bị kháng cáo hay kháng nghị nữa, và có hiệu lực thi hành ngay."
+  }
+]

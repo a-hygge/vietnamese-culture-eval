@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1781",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_497.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về người đại diện theo pháp luật của công ty.",
+    "question": "Người đại diện theo pháp luật của công ty phải đáp ứng điều kiện gì về nơi thường trú?",
+    "answer": "Người đại diện theo pháp luật của công ty phải thường trú ở Việt Nam."
+  },
+  {
+    "id": "PL_1782",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_497.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của người đại diện theo pháp luật của công ty.",
+    "question": "Người đại diện theo pháp luật của công ty phải làm gì nếu vắng mặt trên 30 ngày ở Việt Nam?",
+    "answer": "Người đại diện phải uỷ quyền bằng văn bản cho người khác theo quy định tại Điều lệ công ty để thực hiện các quyền và nhiệm vụ của mình."
+  },
+  {
+    "id": "PL_1783",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_497.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm công ty hợp danh.",
+    "question": "Công ty hợp danh là loại hình doanh nghiệp được định nghĩa như thế nào?",
+    "answer": "Công ty hợp danh là doanh nghiệp phải có ít nhất 02 thành viên là chủ sở hữu chung của công ty, cùng nhau kinh doanh dưới một tên chung."
+  },
+  {
+    "id": "PL_1784",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_497.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức công ty hợp danh.",
+    "question": "Các thành viên hợp danh trong công ty hợp danh có vai trò gì?",
+    "answer": "Các thành viên hợp danh là chủ sở hữu chung của công ty và cùng nhau kinh doanh dưới một tên chung."
+  },
+  {
+    "id": "PL_1785",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_497.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp lý liên quan đến việc ủy quyền của người đại diện theo pháp luật.",
+    "question": "Việc ủy quyền của người đại diện theo pháp luật của công ty phải tuân theo quy định nào?",
+    "answer": "Việc ủy quyền phải được thực hiện bằng văn bản theo quy định tại Điều lệ công ty."
+  }
+]

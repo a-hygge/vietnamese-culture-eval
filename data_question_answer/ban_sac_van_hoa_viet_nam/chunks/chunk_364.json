@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1816",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chính sách kinh tế thời phong kiến Việt Nam.",
+    "question": "Tại sao chính quyền phong kiến hạn chế sự phát triển của thủ công nghiệp?",
+    "answer": "Chính quyền phong kiến hạn chế sự phát triển của thủ công nghiệp vì lo ngại rằng nó sẽ khiến nông dân rời bỏ làng quê, làm suy yếu nền kinh tế nông nghiệp tự cung tự cấp."
+  },
+  {
+    "id": "VH_1817",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của thương nghiệp trong xã hội phong kiến Việt Nam.",
+    "question": "Thương nghiệp thời phong kiến được tổ chức và kiểm soát như thế nào?",
+    "answer": "Thương nghiệp thời phong kiến được tổ chức dưới sự kiểm soát chặt chẽ của quan lại, không có tính độc lập và thường bị bóc lột nặng nề."
+  },
+  {
+    "id": "VH_1818",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hậu quả của chính sách thuế thời phong kiến Việt Nam.",
+    "question": "Việc thu thuế quá mức đã gây ra những hậu quả gì cho người dân?",
+    "answer": "Việc thu thuế quá mức khiến người dân kiệt quệ về kinh tế, phải bỏ nghề, phá bỏ công cụ sản xuất và từ bỏ các nghề truyền thống như trồng mía, dệt lụa, hoặc đánh cá."
+  },
+  {
+    "id": "VH_1819",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm văn hóa Việt Nam thời phong kiến.",
+    "question": "Mối quan hệ giữa nông thôn và thành thị trong văn hóa Việt Nam thời phong kiến có đặc điểm gì?",
+    "answer": "Mối quan hệ giữa nông thôn và thành thị trong văn hóa Việt Nam thời phong kiến cho thấy nông thôn giữ vai trò chủ đạo, kinh tế nông thôn mang tính tự túc và không bị thành thị chi phối."
+  },
+  {
+    "id": "VH_1820",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nhận xét của Phan Huy Chú về chính sách thời phong kiến.",
+    "question": "Phan Huy Chú đã đánh giá như thế nào về việc thu thuế thời phong kiến?",
+    "answer": "Phan Huy Chú đánh giá rằng việc thu thuế quá mức đã làm dân chúng kiệt quệ, phải bỏ nghề nghiệp và rơi vào tình trạng bần cùng hóa."
+  }
+]

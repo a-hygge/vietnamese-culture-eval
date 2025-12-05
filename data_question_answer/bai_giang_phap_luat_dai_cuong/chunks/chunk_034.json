@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_166",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm nhà nước liên minh.",
+    "question": "Nhà nước liên minh được hiểu như thế nào?",
+    "answer": "Nhà nước liên minh là sự liên kết tạm thời của các quốc gia để thực hiện những nhiệm vụ và mục tiêu nhất định, sau khi hoàn thành nhiệm vụ, nhà nước liên minh tự giải tán hoặc có thể phát triển thành nhà nước liên bang."
+  },
+  {
+    "id": "PL_167",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của nhà nước liên minh trong lịch sử Hoa Kỳ.",
+    "question": "Nhà nước liên minh đã có vai trò gì trong quá trình hình thành Hợp chủng quốc Hoa Kỳ?",
+    "answer": "Từ năm 1776 đến 1787, Hợp chủng quốc Hoa Kỳ là nhà nước liên minh, sau đó phát triển thành nhà nước liên bang."
+  },
+  {
+    "id": "PL_168",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm chế độ chính trị.",
+    "question": "Chế độ chính trị được định nghĩa ra sao?",
+    "answer": "Chế độ chính trị là toàn bộ các phương pháp, cách thức, phương tiện mà các cơ quan nhà nước sử dụng để thực hiện quyền lực nhà nước, nhằm thực hiện những mục tiêu chính trị nhất định của giai cấp cầm quyền."
+  },
+  {
+    "id": "PL_169",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa chế độ chính trị và nhà nước.",
+    "question": "Chế độ chính trị có liên hệ như thế nào với bản chất và mục tiêu của nhà nước?",
+    "answer": "Chế độ chính trị liên quan chặt chẽ với bản chất, nhiệm vụ, mục tiêu hoạt động của nhà nước và các điều kiện kinh tế, chính trị – xã hội, thể hiện mức độ dân chủ trong nhà nước."
+  },
+  {
+    "id": "PL_170",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa nhà nước liên minh và nhà nước liên bang.",
+    "question": "Nhà nước liên minh khác nhà nước liên bang ở điểm nào?",
+    "answer": "Nhà nước liên minh là sự liên kết tạm thời của các quốc gia để thực hiện nhiệm vụ và mục tiêu nhất định, sau khi hoàn thành nhiệm vụ, nhà nước liên minh tự giải tán hoặc có thể phát triển thành nhà nước liên bang, trong khi nhà nước liên bang là một hình thức nhà nước bền vững với sự liên kết lâu dài giữa các bang hoặc khu vực."
+  }
+]

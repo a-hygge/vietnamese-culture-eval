@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1536",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm sự kiện bất ngờ trong pháp luật hình sự.",
+    "question": "Sự kiện bất ngờ được hiểu như thế nào theo pháp luật hình sự Việt Nam?",
+    "answer": "Sự kiện bất ngờ là trường hợp người thực hiện hành vi gây hậu quả nguy hại cho xã hội nhưng không thể thấy trước hoặc không buộc phải thấy trước hậu quả của hành vi đó, nên không phải chịu trách nhiệm hình sự."
+  },
+  {
+    "id": "PL_1537",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tình trạng không có năng lực trách nhiệm hình sự.",
+    "question": "Người bị bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức có phải chịu trách nhiệm hình sự không?",
+    "answer": "Người bị bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình không phải chịu trách nhiệm hình sự; đối với họ sẽ áp dụng biện pháp bắt buộc chữa bệnh."
+  },
+  {
+    "id": "PL_1538",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp pháp lý đối với người không có năng lực trách nhiệm hình sự.",
+    "question": "Người không có năng lực trách nhiệm hình sự do bệnh lý sẽ bị áp dụng biện pháp pháp lý nào?",
+    "answer": "Đối với người không có năng lực trách nhiệm hình sự do bệnh lý, phải áp dụng biện pháp bắt buộc chữa bệnh theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_1539",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cách xử lý khi người phạm tội mất năng lực nhận thức trước khi bị kết án.",
+    "question": "Người phạm tội có năng lực trách nhiệm hình sự nhưng sau đó mất khả năng nhận thức trước khi bị kết án sẽ được xử lý ra sao?",
+    "answer": "Người phạm tội có năng lực trách nhiệm hình sự nhưng sau đó lâm vào tình trạng mất khả năng nhận thức hoặc điều khiển hành vi trước khi bị kết án sẽ được áp dụng biện pháp bắt buộc chữa bệnh theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_1540",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện miễn trách nhiệm hình sự do sự kiện bất ngờ.",
+    "question": "Khi nào một người được miễn trách nhiệm hình sự vì sự kiện bất ngờ?",
+    "answer": "Người được miễn trách nhiệm hình sự vì sự kiện bất ngờ khi hành vi gây hậu quả nguy hại cho xã hội xảy ra trong trường hợp không thể thấy trước hoặc không buộc phải thấy trước hậu quả của hành vi đó."
+  }
+]

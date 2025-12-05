@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2001",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của nhân cách trong văn hóa Việt Nam.",
+    "question": "Tại sao việc xây dựng nhân cách con người thường bắt đầu từ gia đình?",
+    "answer": "Việc xây dựng nhân cách con người thường bắt đầu từ gia đình vì gia đình là môi trường đầu tiên dạy con người các giá trị cơ bản như hiếu đễ, tức là có hiếu với cha mẹ và nhường nhịn anh em, từ đó hình thành thói quen tự giác và tuân thủ kỷ luật."
+  },
+  {
+    "id": "VH_2002",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị đạo đức truyền thống của văn hóa Việt Nam.",
+    "question": "Hiếu đễ có vai trò gì trong việc hình thành nhân cách con người?",
+    "answer": "Hiếu đễ đóng vai trò quan trọng trong việc hình thành nhân cách con người vì nó dạy con người biết tôn trọng cha mẹ, nhường nhịn anh em, từ đó xây dựng thói quen sống có trách nhiệm và tuân thủ kỷ luật."
+  },
+  {
+    "id": "VH_2003",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị của 'lễ, nghĩa, liêm, sỉ' trong văn hóa Việt Nam.",
+    "question": "Tại sao Quản Trọng coi 'lễ, nghĩa, liêm, sỉ' là bốn dây giềng của nước?",
+    "answer": "Quản Trọng coi 'lễ, nghĩa, liêm, sỉ' là bốn dây giềng của nước vì ông cho rằng nếu mất đi những giá trị này, quốc gia sẽ không còn nền tảng đạo đức và dễ dẫn đến diệt vong."
+  },
+  {
+    "id": "VH_2004",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giáo dục đạo đức trong văn hóa Việt Nam.",
+    "question": "Những giá trị nào cần được giáo dục cho trẻ em để xây dựng nhân cách tốt?",
+    "answer": "Trẻ em cần được giáo dục các giá trị như lễ, nghĩa, liêm, sỉ. Lễ là giữ đúng cương vị, nghĩa là làm điều đúng đắn, liêm là không tham lam, và sỉ là biết xấu hổ trước hành động sai trái."
+  },
+  {
+    "id": "VH_2005",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa văn hóa và chính trị trong lịch sử Việt Nam.",
+    "question": "Việc xây dựng nhân cách có ảnh hưởng như thế nào đến kỷ luật chính trị?",
+    "answer": "Việc xây dựng nhân cách thông qua các giá trị như hiếu đễ, lễ, nghĩa, liêm, sỉ giúp con người phát triển thói quen tự giác và ý thức trách nhiệm, từ đó dễ dàng tuân thủ kỷ luật chính trị một cách tự nguyện."
+  }
+]

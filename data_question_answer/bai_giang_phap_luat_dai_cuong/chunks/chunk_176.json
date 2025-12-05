@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_876",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm công chức trong pháp luật Việt Nam.",
+    "question": "Công chức được định nghĩa là những người có quan hệ lao động với tổ chức nào?",
+    "answer": "Công chức được định nghĩa là những người có quan hệ lao động với nhà nước."
+  },
+  {
+    "id": "PL_877",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của công chức nhà nước.",
+    "question": "Công chức nhà nước có quyền từ chối công việc được giao hay không?",
+    "answer": "Công chức nhà nước không có quyền từ chối những công việc được giao."
+  },
+  {
+    "id": "PL_878",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc quản lý cán bộ, công chức.",
+    "question": "Nguyên tắc quản lý cán bộ, công chức có yêu cầu dựa trên yếu tố nào để đánh giá, phân loại?",
+    "answer": "Việc đánh giá, phân loại cán bộ, công chức phải dựa trên phẩm chất chính trị, đạo đức và năng lực thi hành công vụ."
+  },
+  {
+    "id": "PL_879",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của nhà nước trong quan hệ với công chức.",
+    "question": "Nhà nước có quyền gì trong việc thay đổi hoặc chấm dứt quan hệ công chức?",
+    "answer": "Nhà nước có quyền thay đổi, điều động công tác, thậm chí chấm dứt quan hệ với công chức nhằm đảm bảo lợi ích của Nhà nước."
+  },
+  {
+    "id": "PL_880",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc bình đẳng giới trong quản lý cán bộ, công chức.",
+    "question": "Nguyên tắc bình đẳng giới được thực hiện trong lĩnh vực nào của quản lý cán bộ, công chức?",
+    "answer": "Nguyên tắc bình đẳng giới được thực hiện trong tất cả các hoạt động quản lý cán bộ, công chức."
+  }
+]

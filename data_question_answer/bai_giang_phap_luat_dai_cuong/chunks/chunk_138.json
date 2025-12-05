@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_686",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Quốc hội giữ vai trò gì trong hệ thống tổ chức nhà nước Việt Nam?",
+    "answer": "Quốc hội là cơ quan đại biểu cao nhất của Nhân dân và cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam."
+  },
+  {
+    "id": "PL_687",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lập hiến và lập pháp.",
+    "question": "Quốc hội có những quyền hạn gì trong việc xây dựng và ban hành pháp luật ở Việt Nam?",
+    "answer": "Quốc hội thực hiện quyền lập hiến, quyền lập pháp, quyết định các vấn đề quan trọng của đất nước và giám sát tối cao đối với hoạt động của Nhà nước."
+  },
+  {
+    "id": "PL_688",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng giám sát của Quốc hội.",
+    "question": "Quốc hội thực hiện chức năng giám sát đối với hoạt động của Nhà nước như thế nào?",
+    "answer": "Quốc hội thực hiện quyền giám sát tối cao đối với hoạt động của Nhà nước."
+  },
+  {
+    "id": "PL_689",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc quyền lực nhà nước.",
+    "question": "Tại sao Quốc hội được coi là cơ quan quyền lực nhà nước cao nhất ở Việt Nam?",
+    "answer": "Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, thực hiện quyền lập hiến, quyền lập pháp và quyết định các vấn đề quan trọng của đất nước."
+  },
+  {
+    "id": "PL_690",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Quốc hội trong hệ thống chính trị Việt Nam.",
+    "question": "Quốc hội đóng vai trò gì trong việc quyết định các vấn đề quan trọng của đất nước?",
+    "answer": "Quốc hội có vai trò quyết định các vấn đề quan trọng của đất nước, bao gồm lập hiến, lập pháp và giám sát tối cao đối với hoạt động của Nhà nước."
+  }
+]

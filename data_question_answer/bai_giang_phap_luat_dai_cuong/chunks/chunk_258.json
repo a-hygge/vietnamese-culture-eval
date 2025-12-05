@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1286",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền chiếm hữu theo Bộ luật Dân sự Việt Nam.",
+    "question": "Người được chủ sở hữu ủy quyền quản lý tài sản có quyền chiếm hữu tài sản như thế nào?",
+    "answer": "Người được chủ sở hữu ủy quyền quản lý tài sản thực hiện việc chiếm hữu tài sản trong phạm vi, theo cách thức, thời hạn do chủ sở hữu xác định và không thể trở thành chủ sở hữu đối với tài sản được giao theo quy định tại Điều 236 của Bộ luật Dân sự."
+  },
+  {
+    "id": "PL_1287",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền chiếm hữu trong giao dịch dân sự.",
+    "question": "Người được giao tài sản thông qua giao dịch dân sự có quyền chiếm hữu tài sản ra sao?",
+    "answer": "Người được giao tài sản thông qua giao dịch dân sự phải thực hiện việc chiếm hữu tài sản phù hợp với mục đích và nội dung của giao dịch. Họ có quyền sử dụng và chuyển quyền chiếm hữu, sử dụng tài sản cho người khác nếu được chủ sở hữu đồng ý, nhưng không thể trở thành chủ sở hữu tài sản theo quy định tại Điều 236 của Bộ luật Dân sự."
+  },
+  {
+    "id": "PL_1288",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tài sản vô chủ và tài sản không xác định được chủ sở hữu theo pháp luật Việt Nam.",
+    "question": "Quyền chiếm hữu đối với tài sản vô chủ hoặc tài sản không xác định được chủ sở hữu được quy định như thế nào?",
+    "answer": "Quyền chiếm hữu đối với tài sản vô chủ, tài sản không xác định được chủ sở hữu, tài sản bị chôn, giấu, vùi lấp, chìm đắm được tìm thấy, tài sản do người khác đánh rơi, bỏ quên, gia súc, gia cầm bị thất lạc hoặc vật nuôi dưới nước di chuyển tự nhiên được thực hiện theo các quy định từ Điều 228 đến Điều 236 của Bộ luật Dân sự."
+  },
+  {
+    "id": "PL_1289",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giới hạn quyền chiếm hữu tài sản của chủ sở hữu.",
+    "question": "Chủ sở hữu có giới hạn nào trong việc chiếm hữu và chi phối tài sản của mình?",
+    "answer": "Chủ sở hữu được thực hiện mọi hành vi theo ý chí của mình để nắm giữ và chi phối tài sản nhưng không được trái pháp luật và đạo đức xã hội."
+  },
+  {
+    "id": "PL_1290",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sử dụng tài sản được giao qua giao dịch dân sự.",
+    "question": "Người được giao tài sản qua giao dịch dân sự có quyền sử dụng tài sản trong trường hợp nào?",
+    "answer": "Người được giao tài sản qua giao dịch dân sự có quyền sử dụng tài sản nếu việc sử dụng phù hợp với mục đích, nội dung của giao dịch và được chủ sở hữu đồng ý nếu muốn chuyển quyền chiếm hữu, sử dụng tài sản đó cho người khác."
+  }
+]

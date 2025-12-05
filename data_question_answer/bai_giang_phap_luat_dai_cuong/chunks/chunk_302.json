@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1506",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của luật hình sự trong xã hội.",
+    "question": "Luật hình sự có vai trò gì trong việc bảo vệ quyền tự do và dân chủ của công dân?",
+    "answer": "Luật hình sự là cơ sở bảo vệ quyền tự do và dân chủ của công dân, đồng thời thúc đẩy việc sửa đổi, bổ sung luật để phù hợp với sự thay đổi của tình hình kinh tế, chính trị, văn hóa - xã hội."
+  },
+  {
+    "id": "PL_1507",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xử lý hành vi phạm tội.",
+    "question": "Nguyên tắc xử lý hành vi phạm tội trong luật hình sự được quy định như thế nào?",
+    "answer": "Nguyên tắc xử lý hành vi phạm tội quy định rằng mọi hành vi phạm tội đều phải chịu hình phạt, và mức độ nghiêm khắc của hình phạt phụ thuộc vào mức độ nghiêm trọng của hành vi phạm tội."
+  },
+  {
+    "id": "PL_1508",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi phạm tội theo luật hình sự.",
+    "question": "Theo luật hình sự, hành vi nào sẽ bị áp dụng hình phạt?",
+    "answer": "Theo luật hình sự, chỉ những hành vi được xác định là phạm tội mới bị áp dụng hình phạt."
+  },
+  {
+    "id": "PL_1509",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các yếu tố cấu thành tội phạm.",
+    "question": "Mối quan hệ giữa các dấu hiệu của tội phạm trong luật hình sự là gì?",
+    "answer": "Các dấu hiệu của tội phạm có mối quan hệ chặt chẽ, trong đó tính nguy hiểm cho xã hội và tính có lỗi thể hiện nội dung của tội phạm."
+  },
+  {
+    "id": "PL_1510",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa mức độ tội phạm và hình phạt.",
+    "question": "Mức độ nghiêm trọng của tội phạm quyết định điều gì về hình phạt áp dụng?",
+    "answer": "Mức độ nghiêm trọng của tội phạm quyết định mức độ nghiêm khắc của hình phạt áp dụng, tội càng nghiêm trọng thì hình phạt càng nặng."
+  }
+]

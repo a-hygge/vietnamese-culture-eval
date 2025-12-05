@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3001",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng Tống Nho trong lịch sử văn hóa Việt Nam.",
+    "question": "Tư tưởng Tống Nho nhấn mạnh sự trung thành với điều gì?",
+    "answer": "Tư tưởng Tống Nho nhấn mạnh sự trung thành với 'quân', tức là hy sinh cho người nuôi mình."
+  },
+  {
+    "id": "VH_3002",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng và hành động của các nhà nho Việt Nam.",
+    "question": "Các nhà nho Việt Nam thường trung thành với điều gì trong tâm thức của họ?",
+    "answer": "Các nhà nho Việt Nam thường trung thành với Tổ quốc Việt Nam trong tâm thức của họ."
+  },
+  {
+    "id": "VH_3003",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tầng lớp tri thức trong xã hội Việt Nam thời phong kiến.",
+    "question": "Những học giả như tiến sĩ và cử nhân thuộc tầng lớp nào trong xã hội Việt Nam thời phong kiến?",
+    "answer": "Những học giả như tiến sĩ và cử nhân thuộc tầng lớp tri thức trong xã hội Việt Nam thời phong kiến."
+  },
+  {
+    "id": "VH_3004",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn tài liệu lịch sử văn hóa Việt Nam.",
+    "question": "Quyển sách nào được sử dụng để trích dẫn danh sách các nhà nho trong lịch sử Việt Nam?",
+    "answer": "Quyển sách được sử dụng để trích dẫn là 'Vietnam du confucianisme au communisme' của Trịnh Văn Thảo."
+  },
+  {
+    "id": "VH_3005",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ý nghĩa của danh sách các nhà nho trong lịch sử Việt Nam.",
+    "question": "Danh sách các nhà nho có ý nghĩa gì đối với lịch sử và tinh thần dân tộc Việt Nam?",
+    "answer": "Danh sách các nhà nho thể hiện tinh thần quên mình vì nghĩa lớn và lòng trung thành với Tổ quốc Việt Nam của tầng lớp tri thức trong lịch sử."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_081",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của tù trưởng trong thị tộc.",
+    "question": "Tù trưởng đứng đầu thị tộc có đặc quyền gì so với các thành viên khác trong thị tộc không?",
+    "answer": "Tù trưởng không có đặc quyền so với các thành viên khác, họ cũng phải lao động và được hưởng thụ như mọi người trong thị tộc."
+  },
+  {
+    "id": "PL_082",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấu trúc tổ chức xã hội thị tộc.",
+    "question": "Ai là người đứng đầu thị tộc trong tổ chức xã hội nguyên thủy?",
+    "answer": "Tù trưởng là người đứng đầu thị tộc trong tổ chức xã hội nguyên thủy."
+  },
+  {
+    "id": "PL_083",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của tù trưởng trong thị tộc.",
+    "question": "Tù trưởng có phải lao động như các thành viên khác trong thị tộc không?",
+    "answer": "Có, tù trưởng cũng phải lao động như các thành viên khác trong thị tộc."
+  },
+  {
+    "id": "PL_084",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của tù trưởng trong thị tộc.",
+    "question": "Tù trưởng được hưởng thụ như thế nào trong thị tộc?",
+    "answer": "Tù trưởng được hưởng thụ giống như các thành viên khác trong thị tộc, không có đặc quyền riêng."
+  },
+  {
+    "id": "PL_085",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc bình đẳng trong thị tộc.",
+    "question": "Nguyên tắc bình đẳng trong thị tộc được thể hiện như thế nào qua vai trò của tù trưởng?",
+    "answer": "Nguyên tắc bình đẳng được thể hiện ở chỗ tù trưởng không có đặc quyền, họ cũng phải lao động và hưởng thụ như các thành viên khác trong thị tộc."
+  }
+]

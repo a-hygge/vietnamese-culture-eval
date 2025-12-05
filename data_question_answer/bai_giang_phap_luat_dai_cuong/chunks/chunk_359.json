@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1746",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của người sử dụng lao động.",
+    "question": "Người sử dụng lao động có quyền quyết định ngày nghỉ hằng tuần như thế nào?",
+    "answer": "Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc một ngày cố định khác trong tuần, nhưng phải ghi vào nội quy lao động."
+  },
+  {
+    "id": "PL_1747",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nghỉ hằng năm của người lao động.",
+    "question": "Người lao động được nghỉ hằng năm hưởng nguyên lương khi nào?",
+    "answer": "Người lao động được nghỉ hằng năm hưởng nguyên lương nếu có đủ 12 tháng làm việc cho một người sử dụng lao động."
+  },
+  {
+    "id": "PL_1748",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ nghỉ hằng năm theo tính chất công việc.",
+    "question": "Người lao động làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm được nghỉ hằng năm bao nhiêu ngày?",
+    "answer": "Người lao động làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm được nghỉ hằng năm 16 ngày làm việc."
+  },
+  {
+    "id": "PL_1749",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền thỏa thuận của người lao động và người sử dụng lao động.",
+    "question": "Người lao động có thể thỏa thuận nghỉ hằng năm với người sử dụng lao động theo cách nào?",
+    "answer": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ hằng năm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần."
+  },
+  {
+    "id": "PL_1750",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người sử dụng lao động trong việc quy định lịch nghỉ hằng năm.",
+    "question": "Người sử dụng lao động phải thực hiện những gì khi quy định lịch nghỉ hằng năm?",
+    "answer": "Người sử dụng lao động phải tham khảo ý kiến của người lao động và thông báo trước cho người lao động khi quy định lịch nghỉ hằng năm."
+  }
+]

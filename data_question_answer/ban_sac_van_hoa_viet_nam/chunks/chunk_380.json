@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1896",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội trong làng xã Việt Nam.",
+    "question": "Tổ chức 'giáp' trong làng xã Việt Nam có đặc điểm gì?",
+    "answer": "Tổ chức 'giáp' bao gồm mọi thành viên nam giới trong làng từ lúc sơ sinh đến lúc qua đời, được chia thành ba lứa tuổi khác nhau. Trong một số trường hợp, tổ chức này cũng có sự tham gia của nữ giới nhưng được tổ chức riêng với các quy tắc phù hợp."
+  },
+  {
+    "id": "VH_1897",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa làng xã Việt Nam.",
+    "question": "Vì sao quan hệ nhiều chiều trong làng xã có ý nghĩa quan trọng đối với người dân nông thôn Việt Nam?",
+    "answer": "Quan hệ nhiều chiều trong làng xã giúp mỗi cá nhân có thể được bảo vệ và che chở, vì họ có thể giữ vị trí thấp trong một tổ chức nhưng lại có vị trí cao trong tổ chức khác."
+  },
+  {
+    "id": "VH_1898",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức nghề nghiệp trong làng xã Việt Nam.",
+    "question": "Những lĩnh vực nào thường được các tổ chức nghề nghiệp trong làng xã Việt Nam tập trung vào?",
+    "answer": "Các tổ chức nghề nghiệp thường tập trung vào các lĩnh vực như nghề mộc, nghề đan, nghề thêu và các nghề thủ công truyền thống khác."
+  },
+  {
+    "id": "VH_1899",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa cộng đồng trong làng xã Việt Nam.",
+    "question": "Tổ chức tư văn trong làng xã Việt Nam đảm nhận vai trò gì?",
+    "answer": "Tổ chức tư văn tập hợp những người có học, chịu trách nhiệm làm văn tế và thờ cúng thành hoàng của làng."
+  },
+  {
+    "id": "VH_1900",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống võ nghệ trong làng xã Việt Nam.",
+    "question": "Tổ chức tư võ trong làng xã Việt Nam có nhiệm vụ gì?",
+    "answer": "Tổ chức tư võ tập hợp những người yêu thích võ nghệ và quân sự, thường gắn liền với các lò vật nổi tiếng trong làng."
+  }
+]

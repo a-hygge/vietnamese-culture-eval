@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2881",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò trong hệ thống giáo dục truyền thống Việt Nam.",
+    "question": "Người học trò được bầu làm trưởng tràng trong các trường học ngày xưa có trách nhiệm gì?",
+    "answer": "Người học trò được bầu làm trưởng tràng có trách nhiệm trông nom trật tự trong trường học."
+  },
+  {
+    "id": "VH_2882",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các nhân vật nổi tiếng trong lịch sử giáo dục Việt Nam.",
+    "question": "Các trường học nổi tiếng trong lịch sử Việt Nam thường gắn liền với tên tuổi của những nhân vật nào?",
+    "answer": "Các trường học nổi tiếng trong lịch sử Việt Nam thường gắn liền với các bậc đại nho như Chu Văn An, Nguyễn Bỉnh Khiêm, Lê Quý Đôn, Nguyễn Thiếp, Nguyễn Đức Đạt, Võ Trường Toản, và Nhữ Bá Sĩ."
+  },
+  {
+    "id": "VH_2883",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phương pháp giáo dục truyền thống Việt Nam.",
+    "question": "Đặc điểm nổi bật của phương pháp dạy học truyền thống là gì?",
+    "answer": "Đặc điểm nổi bật của phương pháp dạy học truyền thống là học thuộc lòng, không giải thích hay giảng giải sâu về nội dung, dẫn đến tình trạng nhiều người biết chữ nhưng trình độ học vấn khá thấp."
+  },
+  {
+    "id": "VH_2884",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sách giáo khoa truyền thống trong giáo dục Việt Nam.",
+    "question": "Quyển sách nào thường được sử dụng đầu tiên để dạy học trong các trường học truyền thống ở Việt Nam?",
+    "answer": "Quyển sách thường được sử dụng đầu tiên là 'Tam Tự Kinh', một quyển sách có vần gồm từng câu ba chữ học dễ nhớ, do Vương Ứng Lân đời Tống biên soạn."
+  },
+  {
+    "id": "VH_2885",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nội dung triết học trong sách giáo khoa truyền thống.",
+    "question": "Vì sao nội dung của 'Tam Tự Kinh' như câu 'Nhân chi sơ, tính bản thiện' được coi là khó chứng minh?",
+    "answer": "Nội dung của 'Tam Tự Kinh', như câu 'Nhân chi sơ, tính bản thiện', được coi là khó chứng minh vì nó là một giả thiết triết học trừu tượng không có giải thích cụ thể hoặc bằng chứng thực nghiệm."
+  }
+]

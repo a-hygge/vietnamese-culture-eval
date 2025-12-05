@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1481",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng và phương pháp điều chỉnh của luật dân sự.",
+    "question": "Đối tượng và phương pháp điều chỉnh của luật dân sự là gì?",
+    "answer": "Đối tượng điều chỉnh của luật dân sự là các quan hệ pháp luật phát sinh trong lĩnh vực dân sự, như quan hệ tài sản, quyền sở hữu, quyền thừa kế, hợp đồng dân sự. Phương pháp điều chỉnh của luật dân sự là phương pháp bình đẳng và thỏa thuận giữa các bên."
+  },
+  {
+    "id": "PL_1482",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền thừa kế trong Bộ luật dân sự Việt Nam.",
+    "question": "Quyền thừa kế trong Bộ luật dân sự Việt Nam được quy định như thế nào?",
+    "answer": "Quyền thừa kế trong Bộ luật dân sự Việt Nam bao gồm quyền của cá nhân để lập di chúc, chỉ định người thừa kế, phân chia di sản, và quyền hưởng di sản theo pháp luật khi không có di chúc."
+  },
+  {
+    "id": "PL_1483",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các hình thức thừa kế theo quy định pháp luật.",
+    "question": "Các hình thức thừa kế được quy định trong pháp luật dân sự gồm những gì?",
+    "answer": "Các hình thức thừa kế bao gồm thừa kế theo di chúc (do người để lại di sản lập) và thừa kế theo pháp luật (áp dụng khi không có di chúc hoặc di chúc không hợp pháp)."
+  },
+  {
+    "id": "PL_1484",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hợp đồng dân sự theo Bộ luật dân sự Việt Nam.",
+    "question": "Hợp đồng dân sự được quy định như thế nào trong Bộ luật dân sự Việt Nam?",
+    "answer": "Hợp đồng dân sự là sự thỏa thuận giữa các bên nhằm xác lập, thay đổi hoặc chấm dứt quyền và nghĩa vụ dân sự, được thực hiện trên nguyên tắc tự nguyện, bình đẳng và thiện chí."
+  },
+  {
+    "id": "PL_1485",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trình tự, thủ tục giải quyết vụ án dân sự.",
+    "question": "Trình tự, thủ tục giải quyết vụ án dân sự gồm những bước nào?",
+    "answer": "Trình tự, thủ tục giải quyết vụ án dân sự bao gồm các bước chính: khởi kiện, thụ lý vụ án, hòa giải, xét xử sơ thẩm, và nếu cần có thể tiến hành xét xử phúc thẩm."
+  }
+]

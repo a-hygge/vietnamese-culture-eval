@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_146",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu giai cấp trong nhà nước tư sản.",
+    "question": "Cơ cấu giai cấp chính trong nhà nước tư sản gồm những giai cấp nào?",
+    "answer": "Cơ cấu giai cấp chính trong nhà nước tư sản gồm giai cấp tư sản và giai cấp vô sản."
+  },
+  {
+    "id": "PL_147",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ sở kinh tế của nhà nước tư sản.",
+    "question": "Cơ sở kinh tế của nhà nước tư sản là gì?",
+    "answer": "Cơ sở kinh tế của nhà nước tư sản là quan hệ sản xuất tư bản chủ nghĩa, dựa trên chế độ tư hữu tư bản về tư liệu sản xuất và bóc lột giá trị thặng dư."
+  },
+  {
+    "id": "PL_148",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền tự do của giai cấp vô sản trong nhà nước tư sản.",
+    "question": "Về phương diện pháp lý, giai cấp vô sản có quyền tự do không trong nhà nước tư sản?",
+    "answer": "Về phương diện pháp lý, giai cấp vô sản được tự do, nhưng do không có tư liệu sản xuất phải bán sức lao động và chịu sự bóc lột của giai cấp tư sản."
+  },
+  {
+    "id": "PL_149",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân dẫn đến sự ra đời của nhà nước xã hội chủ nghĩa.",
+    "question": "Nguyên nhân nào dẫn đến sự ra đời của nhà nước xã hội chủ nghĩa?",
+    "answer": "Nguyên nhân dẫn đến sự ra đời của nhà nước xã hội chủ nghĩa là những tiền đề về kinh tế, xã hội và chính trị xuất hiện trong lòng xã hội tư sản."
+  },
+  {
+    "id": "PL_150",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính tất yếu khách quan của nhà nước xã hội chủ nghĩa.",
+    "question": "Tại sao sự ra đời của nhà nước xã hội chủ nghĩa được coi là tất yếu khách quan?",
+    "answer": "Sự ra đời của nhà nước xã hội chủ nghĩa được coi là tất yếu khách quan vì nó phù hợp với quy luật vận động và phát triển của xã hội."
+  }
+]

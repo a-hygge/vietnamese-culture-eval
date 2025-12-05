@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1751",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của người lao động trong kỳ nghỉ hằng năm.",
+    "question": "Trong trường hợp nào người lao động được tính thêm thời gian đi đường ngoài ngày nghỉ hằng năm?",
+    "answer": "Nếu tổng số ngày đi đường cả đi và về vượt quá 02 ngày, từ ngày thứ 03 trở đi sẽ được tính thêm thời gian đi đường ngoài ngày nghỉ hằng năm. Quy định này chỉ áp dụng cho 01 lần nghỉ trong năm."
+  },
+  {
+    "id": "PL_1752",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định tăng số ngày nghỉ hằng năm theo Bộ luật lao động.",
+    "question": "Người lao động được tăng thêm số ngày nghỉ hằng năm khi nào?",
+    "answer": "Cứ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động được tăng thêm 01 ngày."
+  },
+  {
+    "id": "PL_1753",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền tạm ứng tiền lương khi nghỉ hằng năm.",
+    "question": "Người lao động có thể tạm ứng tiền lương trong kỳ nghỉ hằng năm như thế nào?",
+    "answer": "Người lao động được tạm ứng trước một khoản tiền ít nhất bằng tiền lương của những ngày nghỉ hằng năm."
+  },
+  {
+    "id": "PL_1754",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định thanh toán tiền tàu xe và tiền lương cho người lao động.",
+    "question": "Người lao động thuộc đối tượng nào sẽ được thanh toán tiền tàu xe và tiền lương những ngày đi đường?",
+    "answer": "Người lao động miền xuôi làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo và người lao động ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo làm việc ở miền xuôi sẽ được người sử dụng lao động thanh toán tiền tàu xe và tiền lương những ngày đi đường."
+  },
+  {
+    "id": "PL_1755",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thỏa thuận giữa người lao động và người sử dụng lao động.",
+    "question": "Việc giải quyết tiền tàu xe và tiền lương những ngày đi đường trong kỳ nghỉ hằng năm được thực hiện như thế nào?",
+    "answer": "Tiền tàu xe và tiền lương những ngày đi đường do người lao động và người sử dụng lao động thỏa thuận."
+  }
+]

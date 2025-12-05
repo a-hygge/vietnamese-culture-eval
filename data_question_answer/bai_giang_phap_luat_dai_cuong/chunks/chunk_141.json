@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_701",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của các lãnh đạo cấp cao khi nhậm chức.",
+    "question": "Các lãnh đạo cấp cao như Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao phải tuyên thệ trung thành với những gì khi nhậm chức?",
+    "answer": "Họ phải tuyên thệ trung thành với Tổ quốc, Nhân dân và Hiến pháp."
+  },
+  {
+    "id": "PL_702",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Quốc hội trong tổ chức hành chính.",
+    "question": "Quốc hội có quyền quyết định những vấn đề gì liên quan đến tổ chức hành chính của tỉnh, thành phố trực thuộc trung ương?",
+    "answer": "Quốc hội có quyền quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính - kinh tế đặc biệt."
+  },
+  {
+    "id": "PL_703",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền kiểm soát văn bản pháp luật của Quốc hội.",
+    "question": "Quốc hội có quyền bãi bỏ văn bản nào nếu trái với Hiến pháp, luật, nghị quyết của Quốc hội?",
+    "answer": "Quốc hội có quyền bãi bỏ văn bản của Chủ tịch nước, Uỷ ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao nếu trái với Hiến pháp, luật, nghị quyết của Quốc hội."
+  },
+  {
+    "id": "PL_704",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của Quốc hội liên quan đến quốc phòng và an ninh quốc gia.",
+    "question": "Quốc hội có quyền quyết định những vấn đề nào liên quan đến quốc phòng và an ninh quốc gia?",
+    "answer": "Quốc hội có quyền quyết định vấn đề chiến tranh và hòa bình, quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác để bảo đảm quốc phòng và an ninh quốc gia."
+  },
+  {
+    "id": "PL_705",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của Quốc hội đối với các điều ước quốc tế.",
+    "question": "Quốc hội có quyền gì đối với các điều ước quốc tế liên quan đến chủ quyền quốc gia, quyền con người và quyền công dân?",
+    "answer": "Quốc hội có quyền phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của các điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, quyền con người, quyền và nghĩa vụ cơ bản của công dân."
+  }
+]

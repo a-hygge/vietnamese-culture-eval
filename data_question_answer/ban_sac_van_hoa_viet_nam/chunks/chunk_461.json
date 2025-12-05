@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2301",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Tại sao lực lượng công nông được xem là nòng cốt trong các cuộc đấu tranh chống chủ nghĩa đế quốc?",
+    "answer": "Lực lượng công nông được xem là nòng cốt vì họ là tầng lớp đông đảo nhất, chịu nhiều áp bức nhất và có tinh thần đấu tranh mạnh mẽ để giải phóng bản thân cũng như xã hội."
+  },
+  {
+    "id": "VH_2302",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử chính trị Việt Nam.",
+    "question": "Đảng Cộng sản Việt Nam đã đóng vai trò gì trong phong trào giải phóng dân tộc?",
+    "answer": "Đảng Cộng sản Việt Nam đóng vai trò lãnh đạo phong trào giải phóng dân tộc thông qua việc đề ra các chiến lược và chiến thuật phù hợp với bối cảnh lịch sử, dẫn dắt nhân dân đấu tranh giành độc lập."
+  },
+  {
+    "id": "VH_2303",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng chính trị trong lịch sử Việt Nam.",
+    "question": "Chủ nghĩa nào đã định hướng cho các Đảng Cộng sản trong việc lãnh đạo phong trào giải phóng dân tộc?",
+    "answer": "Chủ nghĩa Mác - Lênin là nền tảng tư tưởng định hướng cho các Đảng Cộng sản trong việc lãnh đạo phong trào giải phóng dân tộc."
+  },
+  {
+    "id": "VH_2304",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa tư tưởng truyền thống và phong trào giải phóng dân tộc.",
+    "question": "Tư tưởng Khổng giáo có vai trò gì trong con đường giải phóng các nước thuộc địa và nửa thuộc địa?",
+    "answer": "Tư tưởng Khổng giáo không đóng vai trò quan trọng trong con đường giải phóng các nước thuộc địa và nửa thuộc địa, vì phong trào này chủ yếu dựa trên các tư tưởng cách mạng hiện đại."
+  },
+  {
+    "id": "VH_2305",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lý luận cách mạng của Karl Marx.",
+    "question": "Karl Marx tập trung vào vấn đề gì trong quá trình cách mạng?",
+    "answer": "Karl Marx tập trung vào các biện pháp để giành lấy chính quyền, thay vì đi sâu vào các biện pháp cụ thể để xây dựng chủ nghĩa xã hội."
+  }
+]

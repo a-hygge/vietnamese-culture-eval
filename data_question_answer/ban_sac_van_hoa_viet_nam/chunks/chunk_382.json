@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1906",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Bản sắc văn hóa Việt Nam được hình thành từ những yếu tố nào?",
+    "answer": "Bản sắc văn hóa Việt Nam được hình thành từ ca dao, tục ngữ và dựa trên cơ sở vật chất của xã hội."
+  },
+  {
+    "id": "VH_1907",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa làng xã Việt Nam.",
+    "question": "Làng xã Việt Nam thời xưa hỗ trợ người dân về kinh tế bằng cách nào?",
+    "answer": "Làng xã Việt Nam thời xưa hỗ trợ kinh tế bằng cách chia ruộng công khoảng ba năm một lần cho các nam giới từ 18 tuổi trở lên, dựa trên sổ đinh."
+  },
+  {
+    "id": "VH_1908",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống ruộng đất trong làng xã Việt Nam.",
+    "question": "Quyền sở hữu và cách sử dụng ruộng công trong làng xã Việt Nam được quy định ra sao?",
+    "answer": "Ruộng công về nguyên tắc thuộc quyền sở hữu của nhà vua nhưng được giao cho làng xã hưởng dụng. Người dân không được bán ruộng công mà chỉ có thể cầm cố trong vài năm rồi phải chuộc lại."
+  },
+  {
+    "id": "VH_1909",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức xã hội truyền thống Việt Nam.",
+    "question": "Điều gì giúp tình trạng đạo đức trong xã hội Việt Nam truyền thống được duy trì ổn định?",
+    "answer": "Tình trạng đạo đức trong xã hội Việt Nam truyền thống được duy trì ổn định nhờ các thiết chế ổn định, được tuân thủ nghiêm ngặt qua các thời đại."
+  },
+  {
+    "id": "VH_1910",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chính sách hỗ trợ của làng xã Việt Nam.",
+    "question": "Làng xã Việt Nam thời xưa đã làm gì để ghi nhận công lao của binh lính?",
+    "answer": "Làng xã Việt Nam thời xưa cấp một loại ruộng công tốt cho binh lính để ghi nhận và úy lạo công lao của họ."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1341",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu đối với vật nuôi dưới nước.",
+    "question": "Người có ruộng, ao, hồ được xác lập quyền sở hữu vật nuôi dưới nước trong trường hợp nào?",
+    "answer": "Người có ruộng, ao, hồ được xác lập quyền sở hữu nếu sau một tháng thông báo công khai mà không có ai đến nhận."
+  },
+  {
+    "id": "PL_1342",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản thừa kế.",
+    "question": "Cơ sở pháp lý nào quy định quyền sở hữu tài sản thừa kế?",
+    "answer": "Quyền sở hữu tài sản thừa kế được quy định tại Phần thứ tư của Bộ luật dân sự."
+  },
+  {
+    "id": "PL_1343",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu theo quyết định của cơ quan nhà nước.",
+    "question": "Quyền sở hữu được xác lập từ quyết định của cơ quan nhà nước trong trường hợp nào?",
+    "answer": "Quyền sở hữu được xác lập từ bản án, quyết định của Tòa án hoặc cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": "PL_1344",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu theo thời hiệu.",
+    "question": "Thời hiệu xác lập quyền sở hữu đối với tài sản là bao lâu?",
+    "answer": "Thời hiệu là mười năm đối với động sản và ba mươi năm đối với bất động sản nếu chiếm hữu ngay tình, liên tục và công khai."
+  },
+  {
+    "id": "PL_1345",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các trường hợp xác lập quyền sở hữu.",
+    "question": "Pháp luật quy định những trường hợp nào để xác lập quyền sở hữu?",
+    "answer": "Pháp luật quy định các trường hợp: thừa kế, quyết định của cơ quan nhà nước, theo thời hiệu, và không có người nhận vật nuôi dưới nước."
+  }
+]

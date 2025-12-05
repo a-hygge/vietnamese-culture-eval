@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1361",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực của di chúc miệng.",
+    "question": "Khi nào di chúc miệng không còn hiệu lực?",
+    "answer": "Di chúc miệng không còn hiệu lực nếu sau 3 tháng kể từ thời điểm lập di chúc miệng mà người lập di chúc vẫn còn sống."
+  },
+  {
+    "id": "PL_1362",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thừa kế không phụ thuộc vào di chúc.",
+    "question": "Ai được hưởng thừa kế không phụ thuộc vào di chúc theo quy định pháp luật?",
+    "answer": "Con chưa thành niên, cha mẹ, vợ chồng, hoặc con đã thành niên nhưng không có khả năng lao động của người lập di chúc được hưởng thừa kế không phụ thuộc vào di chúc."
+  },
+  {
+    "id": "PL_1363",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mức hưởng di sản trong trường hợp thừa kế không phụ thuộc vào di chúc.",
+    "question": "Người thừa kế không phụ thuộc vào di chúc được hưởng bao nhiêu phần di sản?",
+    "answer": "Những người thừa kế không phụ thuộc vào di chúc được hưởng phần di sản bằng 2/3 suất của một người thừa kế theo pháp luật nếu di sản được chia theo pháp luật."
+  },
+  {
+    "id": "PL_1364",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm thừa kế theo pháp luật.",
+    "question": "Thừa kế theo pháp luật được định nghĩa như thế nào?",
+    "answer": "Thừa kế theo pháp luật là việc chuyển dịch di sản của người chết cho người còn sống theo các quy định của pháp luật."
+  },
+  {
+    "id": "PL_1365",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp áp dụng thừa kế theo pháp luật.",
+    "question": "Trong những trường hợp nào thừa kế theo pháp luật được áp dụng?",
+    "answer": "Thừa kế theo pháp luật được áp dụng khi người có di sản không để lại di chúc hoặc di chúc không có hiệu lực pháp luật."
+  }
+]

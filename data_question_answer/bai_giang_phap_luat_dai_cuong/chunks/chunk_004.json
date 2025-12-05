@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_016",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Quan hệ pháp luật là gì?",
+    "answer": "Quan hệ pháp luật là mối quan hệ xã hội được điều chỉnh bởi các quy phạm pháp luật, trong đó các bên tham gia có quyền và nghĩa vụ pháp lý cụ thể."
+  },
+  {
+    "id": "PL_017",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các yếu tố cấu thành quan hệ pháp luật.",
+    "question": "Những yếu tố nào tạo nên quan hệ pháp luật?",
+    "answer": "Các yếu tố cấu thành quan hệ pháp luật bao gồm: chủ thể, khách thể và nội dung của quan hệ pháp luật."
+  },
+  {
+    "id": "PL_018",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp chế xã hội chủ nghĩa.",
+    "question": "Pháp chế xã hội chủ nghĩa được hiểu ra sao?",
+    "answer": "Pháp chế xã hội chủ nghĩa là việc tổ chức và thực hiện quyền lực nhà nước trên cơ sở Hiến pháp, pháp luật, nhằm đảm bảo sự nghiêm minh và công bằng trong xã hội."
+  },
+  {
+    "id": "PL_019",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của pháp chế xã hội chủ nghĩa.",
+    "question": "Pháp chế xã hội chủ nghĩa có những đặc điểm gì?",
+    "answer": "Đặc điểm cơ bản của pháp chế xã hội chủ nghĩa bao gồm: tính thống nhất, tính nghiêm minh, và tính đảm bảo quyền lực nhà nước được thực thi theo pháp luật."
+  },
+  {
+    "id": "PL_020",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm vi phạm pháp luật.",
+    "question": "Vi phạm pháp luật là gì?",
+    "answer": "Vi phạm pháp luật là hành vi trái pháp luật, do chủ thể có năng lực pháp lý thực hiện, gây thiệt hại hoặc đe dọa đến trật tự pháp luật và bị xử lý theo quy định pháp luật."
+  }
+]

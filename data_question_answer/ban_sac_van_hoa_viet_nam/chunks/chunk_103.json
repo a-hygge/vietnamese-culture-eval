@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_511",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử quân sự Việt Nam.",
+    "question": "Tại sao quân đội Việt Nam không chọn cách đánh trực diện với quân Mông Cổ?",
+    "answer": "Quân Mông Cổ là một đạo quân nhà nghề, sở hữu kỵ binh mạnh mẽ và vũ khí hiệu quả, nên nếu Việt Nam đánh trực diện sẽ dễ bị tổn thất nặng nề."
+  },
+  {
+    "id": "VH_512",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chiến lược quân sự Việt Nam.",
+    "question": "Hậu quả có thể xảy ra nếu quân đội Việt Nam đối đầu trực tiếp với kỵ binh Mông Cổ trên địa hình không thuận lợi?",
+    "answer": "Nếu đối đầu trực tiếp trên địa hình không thuận lợi, quân đội Việt Nam sẽ bị kỵ binh Mông Cổ áp đảo và chịu tổn thất lớn, khó giữ được thế trận."
+  },
+  {
+    "id": "VH_513",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm chiến thuật của quân đội Mông Cổ.",
+    "question": "Quân đội Mông Cổ thường sử dụng loại hình chiến đấu nào để phát huy sức mạnh của kỵ binh?",
+    "answer": "Quân đội Mông Cổ thường sử dụng chiến đấu trực diện và các chiến thuật linh hoạt để tận dụng sự cơ động và sức mạnh của kỵ binh."
+  },
+  {
+    "id": "VH_514",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chiến lược bảo vệ đất nước trong lịch sử Việt Nam.",
+    "question": "Tại sao chiến thuật đánh du kích lại được sử dụng trong cuộc chiến chống quân Mông Cổ?",
+    "answer": "Chiến thuật đánh du kích được sử dụng vì nó tận dụng được địa hình phức tạp của Việt Nam, làm giảm ưu thế của kỵ binh Mông Cổ và gây khó khăn cho quân địch trong việc duy trì sức mạnh."
+  },
+  {
+    "id": "VH_515",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm văn hóa trong chiến tranh Việt Nam.",
+    "question": "Cách nhìn nhận chiến tranh từ góc độ văn hóa có gì khác so với góc độ quân sự?",
+    "answer": "Từ góc độ văn hóa, chiến tranh được nhìn nhận trong mối quan hệ với truyền thống, tư tưởng và sự thích nghi của dân tộc, trong khi góc độ quân sự tập trung vào chiến lược và sức mạnh quân đội."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_901",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của cán bộ, công chức.",
+    "question": "Cán bộ, công chức không được làm những việc nào theo quy định?",
+    "answer": "Cán bộ, công chức không được làm các việc liên quan đến sản xuất, kinh doanh, công tác nhân sự trái quy định pháp luật và các hành vi vi phạm khác theo Luật phòng, chống tham nhũng và Luật thực hành tiết kiệm, chống lãng phí."
+  },
+  {
+    "id": "PL_902",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử lý vi phạm của cán bộ, công chức.",
+    "question": "Cán bộ, công chức vi phạm sẽ bị xử lý ra sao?",
+    "answer": "Cán bộ, công chức vi phạm sẽ bị xử lý tùy theo mức độ, bao gồm kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định pháp luật."
+  },
+  {
+    "id": "PL_903",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khen thưởng trong công vụ.",
+    "question": "Cán bộ, công chức có thành tích xuất sắc sẽ được khen thưởng thế nào?",
+    "answer": "Cán bộ, công chức có thành tích xuất sắc sẽ được khen thưởng theo quy định về thi đua, khen thưởng, gồm bằng khen, huân chương hoặc danh hiệu khác."
+  },
+  {
+    "id": "PL_904",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về Luật phòng, chống tham nhũng.",
+    "question": "Cán bộ, công chức không được tham gia những hoạt động nào?",
+    "answer": "Cán bộ, công chức không được tham gia sản xuất, kinh doanh, quản lý doanh nghiệp hoặc các hoạt động gây xung đột lợi ích với nhiệm vụ công vụ."
+  },
+  {
+    "id": "PL_905",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật đối với cán bộ, công chức.",
+    "question": "Cán bộ, công chức phải tuân thủ những quy định nào?",
+    "answer": "Cán bộ, công chức phải tuân thủ các luật cụ thể như Luật phòng, chống tham nhũng, Luật thực hành tiết kiệm, chống lãng phí và các nội quy, quy chế của cơ quan nơi công tác."
+  }
+]

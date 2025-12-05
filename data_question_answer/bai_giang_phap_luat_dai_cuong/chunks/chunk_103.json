@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_511",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật là gì?",
+    "answer": "Quy phạm pháp luật là những quy tắc xử sự chung do nhà nước ban hành hoặc thừa nhận, có tính bắt buộc và được đảm bảo thực hiện bằng các biện pháp cưỡng chế."
+  },
+  {
+    "id": "PL_512",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấu trúc của quy phạm pháp luật.",
+    "question": "Cấu trúc của quy phạm pháp luật bao gồm những thành phần nào?",
+    "answer": "Cấu trúc của quy phạm pháp luật gồm ba thành phần: giả định, quy định và chế tài."
+  },
+  {
+    "id": "PL_513",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của văn bản quy phạm pháp luật.",
+    "question": "Đặc điểm nổi bật của văn bản quy phạm pháp luật là gì?",
+    "answer": "Văn bản quy phạm pháp luật có đặc điểm nổi bật là được ban hành bởi cơ quan nhà nước có thẩm quyền, thể hiện dưới hình thức văn bản và có tính bắt buộc thi hành."
+  },
+  {
+    "id": "PL_514",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền ban hành văn bản quy phạm pháp luật tại Việt Nam.",
+    "question": "Những cơ quan nào có thẩm quyền ban hành văn bản quy phạm pháp luật ở Việt Nam?",
+    "answer": "Các cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật ở Việt Nam bao gồm Quốc hội, Chính phủ, các bộ, ủy ban nhân dân các cấp và các cơ quan khác được luật quy định."
+  },
+  {
+    "id": "PL_515",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa pháp luật và pháp chế.",
+    "question": "Điểm khác biệt giữa pháp luật và pháp chế là gì?",
+    "answer": "Pháp luật là hệ thống các quy tắc xử sự chung do nhà nước ban hành, còn pháp chế là nguyên tắc yêu cầu mọi tổ chức, cá nhân phải tuân thủ pháp luật một cách nghiêm minh và thống nhất."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_426",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hiệu lực của văn bản quy phạm pháp luật.",
+    "question": "Hiệu lực của văn bản quy phạm pháp luật là gì?",
+    "answer": "Hiệu lực của văn bản quy phạm pháp luật là giới hạn tác động của văn bản theo thời gian, không gian và phạm vi đối tượng thi hành."
+  },
+  {
+    "id": "PL_427",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực của văn bản quy phạm pháp luật theo thời gian.",
+    "question": "Hiệu lực của văn bản quy phạm pháp luật theo thời gian được xác định như thế nào?",
+    "answer": "Hiệu lực theo thời gian được xác định bằng thời điểm phát sinh và chấm dứt hiệu lực của văn bản quy phạm pháp luật."
+  },
+  {
+    "id": "PL_428",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của việc xác định hiệu lực văn bản pháp luật.",
+    "question": "Vì sao cần xác định chính xác giới hạn hiệu lực của văn bản quy phạm pháp luật?",
+    "answer": "Xác định chính xác giới hạn hiệu lực của văn bản quy phạm pháp luật là điều kiện quan trọng và cần thiết để thực hiện đúng pháp luật."
+  },
+  {
+    "id": "PL_429",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật có đặc điểm gì liên quan đến thời gian?",
+    "answer": "Văn bản quy phạm pháp luật luôn tồn tại trong thời gian và có thời hạn hiệu lực được xác định rõ ràng."
+  },
+  {
+    "id": "PL_430",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi tác động của văn bản quy phạm pháp luật.",
+    "question": "Phạm vi tác động của văn bản quy phạm pháp luật bao gồm những yếu tố nào?",
+    "answer": "Phạm vi tác động của văn bản quy phạm pháp luật bao gồm thời gian, không gian và đối tượng thi hành."
+  }
+]

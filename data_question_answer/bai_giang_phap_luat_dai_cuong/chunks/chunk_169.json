@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_841",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về địa vị pháp lý của Quốc hội.",
+    "question": "Quốc hội Việt Nam có địa vị pháp lý gì trong hệ thống chính trị?",
+    "answer": "Quốc hội là cơ quan quyền lực nhà nước cao nhất, đại diện cho ý chí và nguyện vọng của nhân dân, có quyền lập pháp, giám sát tối cao và quyết định các vấn đề quan trọng của đất nước."
+  },
+  {
+    "id": "PL_842",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về địa vị pháp lý của Chủ tịch nước.",
+    "question": "Chủ tịch nước có địa vị pháp lý như thế nào trong cơ cấu tổ chức nhà nước Việt Nam?",
+    "answer": "Chủ tịch nước là người đứng đầu Nhà nước, thay mặt Nhà nước về đối nội và đối ngoại, đồng thời giữ vai trò là tư lệnh tối cao của lực lượng vũ trang nhân dân."
+  },
+  {
+    "id": "PL_843",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về địa vị pháp lý của Chính phủ.",
+    "question": "Địa vị pháp lý của Chính phủ trong bộ máy nhà nước Việt Nam là gì?",
+    "answer": "Chính phủ là cơ quan hành chính nhà nước cao nhất, chịu trách nhiệm tổ chức thực hiện Hiến pháp, pháp luật, các nghị quyết của Quốc hội và quản lý toàn diện các lĩnh vực kinh tế, xã hội, quốc phòng, an ninh và đối ngoại."
+  },
+  {
+    "id": "PL_844",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về địa vị pháp lý của Tòa án nhân dân.",
+    "question": "Tòa án nhân dân có địa vị pháp lý gì trong hệ thống tư pháp Việt Nam?",
+    "answer": "Tòa án nhân dân là cơ quan xét xử, thực hiện quyền tư pháp, bảo vệ công lý, quyền con người, quyền công dân và lợi ích của Nhà nước."
+  },
+  {
+    "id": "PL_845",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về địa vị pháp lý của Viện kiểm sát nhân dân.",
+    "question": "Viện kiểm sát nhân dân có địa vị pháp lý như thế nào trong hệ thống pháp luật Việt Nam?",
+    "answer": "Viện kiểm sát nhân dân là cơ quan thực hành quyền công tố và kiểm sát hoạt động tư pháp, nhằm đảm bảo pháp luật được thực hiện nghiêm minh và thống nhất."
+  }
+]

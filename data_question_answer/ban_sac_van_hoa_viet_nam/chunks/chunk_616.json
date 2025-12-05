@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3076",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư duy công xã trong lịch sử Việt Nam.",
+    "question": "Tư duy công xã ảnh hưởng như thế nào đến nhận thức của nhà Nho Việt Nam?",
+    "answer": "Tư duy công xã là nền tảng trong nhận thức của nhà Nho Việt Nam, các cách nhận thức khác đều được xây dựng trên tư duy này và bị khúc xạ bởi nó."
+  },
+  {
+    "id": "VH_3077",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hương ước và tục lệ trong văn hóa Việt Nam.",
+    "question": "Điểm đặc biệt của các hương ước và khoán lệ Việt Nam so với Trung Quốc là gì?",
+    "answer": "Điểm đặc biệt là các nhà Nho Việt Nam xây dựng hương ước và khoán lệ, điều này không có ở Trung Quốc."
+  },
+  {
+    "id": "VH_3078",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thần tích trong văn hóa làng xã Việt Nam.",
+    "question": "Thần tích trong lịch sử Việt Nam gắn liền với yếu tố nào của văn hóa làng xã?",
+    "answer": "Thần tích trong lịch sử Việt Nam gắn liền với tâm thức làng xã và thường thuật lại các câu chuyện về nhân vật hoặc sự kiện liên quan đến làng."
+  },
+  {
+    "id": "VH_3079",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về gia phả trong văn hóa Việt Nam.",
+    "question": "Gia phả trong văn hóa Việt Nam có ý nghĩa gì đặc biệt?",
+    "answer": "Gia phả ghi lại tiểu sử và quan hệ dòng họ, một phần gắn liền với văn hóa làng xã, phần khác thể hiện vai trò của nhân vật ở cấp độ quốc gia."
+  },
+  {
+    "id": "VH_3080",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các loại tài liệu văn hóa Việt Nam thời kỳ phong kiến.",
+    "question": "Ba bộ phận chính trong tài liệu văn hóa Việt Nam thời phong kiến là gì?",
+    "answer": "Ba bộ phận chính gồm: 205 quyển về tục lệ địa phương (hương ước, khoán lệ), 519 quyển về sử liệu (thần tích, các tiểu sử), và 283 quyển về gia phả."
+  }
+]

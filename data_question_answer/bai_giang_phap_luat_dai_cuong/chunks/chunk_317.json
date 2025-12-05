@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1581",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật tố tụng hình sự.",
+    "question": "Luật tố tụng hình sự là gì?",
+    "answer": "Luật tố tụng hình sự là hệ thống các quy phạm pháp luật điều chỉnh những quan hệ xã hội phát sinh trong quá trình khởi tố, điều tra, xét xử và thi hành án hình sự."
+  },
+  {
+    "id": "PL_1582",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giai đoạn khởi tố vụ án hình sự.",
+    "question": "Giai đoạn khởi tố vụ án hình sự bắt đầu và kết thúc khi nào?",
+    "answer": "Giai đoạn khởi tố vụ án hình sự bắt đầu từ khi các cơ quan có thẩm quyền nhận được tin báo hoặc tố giác về tội phạm và kết thúc khi ra quyết định khởi tố vụ án hình sự."
+  },
+  {
+    "id": "PL_1583",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ của giai đoạn điều tra trong tố tụng hình sự.",
+    "question": "Nhiệm vụ của giai đoạn điều tra vụ án hình sự là gì?",
+    "answer": "Nhiệm vụ của giai đoạn điều tra là xác định tội phạm và người thực hiện hành vi phạm tội, xác định thiệt hại do tội phạm gây ra, xác định nguyên nhân và điều kiện phạm tội, yêu cầu cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục và ngăn ngừa."
+  },
+  {
+    "id": "PL_1584",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền điều tra vụ án hình sự.",
+    "question": "Thẩm quyền điều tra vụ án hình sự thuộc về cơ quan nào?",
+    "answer": "Thẩm quyền điều tra vụ án hình sự thuộc các cơ quan điều tra. Ngoài ra, các cơ quan hải quan, kiểm lâm, đơn vị bộ đội biên phòng được thực hiện một số hoạt động điều tra."
+  },
+  {
+    "id": "PL_1585",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của cơ quan điều tra trong tố tụng hình sự.",
+    "question": "Cơ quan điều tra thực hiện những biện pháp nào trong giai đoạn điều tra vụ án hình sự?",
+    "answer": "Trong giai đoạn điều tra, các cơ quan điều tra áp dụng mọi biện pháp do luật tố tụng hình sự quy định để xác định tội phạm và người thực hiện hành vi phạm tội, làm cơ sở cho việc xét xử của Tòa án."
+  }
+]

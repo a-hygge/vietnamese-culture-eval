@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1066",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật hình sự liên quan đến tội phạm tham nhũng.",
+    "question": "Luật sửa đổi năm 1997 quy định bao nhiêu tội danh liên quan đến tham nhũng?",
+    "answer": "Luật sửa đổi năm 1997 quy định 11 tội danh liên quan đến tham nhũng."
+  },
+  {
+    "id": "PL_1067",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về Luật phòng chống tham nhũng năm 2005.",
+    "question": "Luật phòng chống tham nhũng năm 2005 đã xác định bao nhiêu hành vi tham nhũng cụ thể?",
+    "answer": "Luật phòng chống tham nhũng năm 2005 đã xác định 12 hành vi tham nhũng cụ thể."
+  },
+  {
+    "id": "PL_1068",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các hành vi được coi là tham nhũng theo quy định pháp luật.",
+    "question": "Những hành vi nào được coi là tham nhũng theo Luật phòng chống tham nhũng năm 2005?",
+    "answer": "Những hành vi được coi là tham nhũng theo Luật phòng chống tham nhũng năm 2005 bao gồm: tham ô tài sản, nhận hối lộ, lạm dụng chức vụ quyền hạn chiếm đoạt tài sản, lạm quyền trong khi thi hành nhiệm vụ, công vụ vì vụ lợi."
+  },
+  {
+    "id": "PL_1069",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các hành vi phạm tội có tính chất tham nhũng.",
+    "question": "Hành vi phạm tội nào được coi là có tính chất tham nhũng theo Thông tư 02?",
+    "answer": "Hành vi phạm tội có tính chất tham nhũng theo Thông tư 02 bao gồm: tham ô tài sản XHCN, lừa đảo chiếm đoạt tài sản XHCN, lợi dụng tín nhiệm chiếm đoạt tài sản XHCN, sử dụng trái phép tài sản XHCN, lạm dụng chức vụ quyền hạn chiếm đoạt tài sản của công dân, cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng, lập quỹ trái phép, lợi dụng chức vụ quyền hạn hoặc lạm quyền trong khi thi hành công vụ, giả mạo trong công tác, nhận hối lộ, đưa hối lộ trong trường hợp sử dụng công quỹ để đưa hối lộ."
+  },
+  {
+    "id": "PL_1070",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các tội danh liên quan đến tham nhũng trong Bộ luật Hình sự.",
+    "question": "Theo Luật sửa đổi năm 1997, có bao nhiêu tội danh liên quan đến tham nhũng được sửa đổi trong BLHS năm 1985?",
+    "answer": "Theo Luật sửa đổi năm 1997, có 9 tội danh liên quan đến tham nhũng được sửa đổi trong BLHS năm 1985."
+  }
+]

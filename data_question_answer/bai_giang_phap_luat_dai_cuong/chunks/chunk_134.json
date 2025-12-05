@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_666",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sử dụng đất theo pháp luật Việt Nam.",
+    "question": "Người sử dụng đất có quyền gì theo quy định của pháp luật?",
+    "answer": "Người sử dụng đất được chuyển quyền sử dụng đất, thực hiện các quyền và nghĩa vụ theo quy định của luật, và quyền sử dụng đất được pháp luật bảo hộ."
+  },
+  {
+    "id": "PL_667",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc thu hồi đất của Nhà nước.",
+    "question": "Nhà nước được thu hồi đất trong những trường hợp nào?",
+    "answer": "Nhà nước thu hồi đất do tổ chức, cá nhân đang sử dụng trong trường hợp thật cần thiết do luật định vì mục đích quốc phòng, an ninh, phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng."
+  },
+  {
+    "id": "PL_668",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc trưng dụng đất trong tình huống đặc biệt.",
+    "question": "Nhà nước trưng dụng đất trong những trường hợp nào?",
+    "answer": "Nhà nước trưng dụng đất trong trường hợp thật cần thiết do luật định để thực hiện nhiệm vụ quốc phòng, an ninh hoặc trong tình trạng chiến tranh, tình trạng khẩn cấp, phòng, chống thiên tai."
+  },
+  {
+    "id": "PL_669",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quản lý ngân sách nhà nước Việt Nam.",
+    "question": "Ngân sách nhà nước được quản lý theo nguyên tắc nào?",
+    "answer": "Ngân sách nhà nước phải được quản lý thống nhất, sử dụng hiệu quả, công bằng, công khai, minh bạch và đúng pháp luật."
+  },
+  {
+    "id": "PL_670",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đơn vị tiền tệ quốc gia Việt Nam.",
+    "question": "Đơn vị tiền tệ quốc gia Việt Nam là gì và Nhà nước có trách nhiệm gì đối với đồng tiền này?",
+    "answer": "Đơn vị tiền tệ quốc gia là Đồng Việt Nam, và Nhà nước bảo đảm ổn định giá trị đồng tiền quốc gia."
+  }
+]

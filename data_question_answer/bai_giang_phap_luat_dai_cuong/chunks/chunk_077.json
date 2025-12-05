@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_381",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Pháp luật được hiểu là gì?",
+    "answer": "Pháp luật là hệ thống các quy tắc xử sự chung do nhà nước ban hành hoặc thừa nhận, có tính bắt buộc và được đảm bảo thực hiện bằng quyền lực nhà nước."
+  },
+  {
+    "id": "PL_382",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ công dân.",
+    "question": "Công dân có nghĩa vụ gì trong việc tuân thủ pháp luật?",
+    "answer": "Công dân có nghĩa vụ tuân thủ pháp luật, không được vi phạm các quy định và phải thực hiện đầy đủ các nghĩa vụ mà pháp luật yêu cầu."
+  },
+  {
+    "id": "PL_383",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp quyền.",
+    "question": "Nguyên tắc pháp quyền trong tổ chức nhà nước Việt Nam là gì?",
+    "answer": "Nguyên tắc pháp quyền là sự đảm bảo mọi hoạt động của nhà nước, tổ chức và cá nhân đều phải tuân theo Hiến pháp và pháp luật."
+  },
+  {
+    "id": "PL_384",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức nhà nước Việt Nam.",
+    "question": "Quốc hội Việt Nam có vai trò gì trong cơ cấu tổ chức nhà nước?",
+    "answer": "Quốc hội là cơ quan quyền lực cao nhất của nhà nước, có nhiệm vụ lập pháp, giám sát tối cao và quyết định các vấn đề quan trọng của đất nước."
+  },
+  {
+    "id": "PL_385",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật.",
+    "question": "Pháp luật có vai trò gì đối với sự ổn định và phát triển xã hội?",
+    "answer": "Pháp luật giữ vai trò điều chỉnh các mối quan hệ xã hội, đảm bảo trật tự, công bằng và tạo nền tảng cho sự ổn định và phát triển bền vững của xã hội."
+  }
+]

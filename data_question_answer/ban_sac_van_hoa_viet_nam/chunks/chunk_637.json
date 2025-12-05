@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3181",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Sách 'Bình gia thiên vân lãm yếu' có nội dung liên quan đến lĩnh vực nào?",
+    "answer": "Sách 'Bình gia thiên vân lãm yếu' liên quan đến lĩnh vực xem sao và chiến đấu."
+  },
+  {
+    "id": "VH_3182",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử quân sự Việt Nam.",
+    "question": "Ai là tác giả của cuốn 'Hổ trướng khu cơ' và nội dung chính của cuốn sách này?",
+    "answer": "Tác giả của 'Hổ trướng khu cơ' là Đào Duy Từ, và nội dung chính của sách là về binh pháp."
+  },
+  {
+    "id": "VH_3183",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học dân gian và đời sống Việt Nam.",
+    "question": "Ca dao Việt Nam thường phản ánh những lĩnh vực nào trong kinh nghiệm sống của người dân?",
+    "answer": "Ca dao Việt Nam thường phản ánh các lĩnh vực như võ nghệ, cách chiến đấu và kỹ thuật nông nghiệp."
+  },
+  {
+    "id": "VH_3184",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của các nhà Nho trong văn hóa Việt Nam.",
+    "question": "Nguyên nhân nào khiến nhiều kinh nghiệm quân sự và nông nghiệp của người Việt không được ghi lại thành sách?",
+    "answer": "Nguyên nhân là do các nhà Nho, những người có trách nhiệm ghi chép, thường mang tâm lý quan lại và bỏ qua việc ghi lại các kinh nghiệm này."
+  },
+  {
+    "id": "VH_3185",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sách quân sự trong lịch sử Việt Nam.",
+    "question": "Cuốn sách 'Thảo tặc vấn đáp quốc âm luật' được trình bày dưới hình thức nào và nội dung chính là gì?",
+    "answer": "Cuốn 'Thảo tặc vấn đáp quốc âm luật' được trình bày bằng thơ, với nội dung chính là các câu hỏi và đáp về cách dẹp giặc."
+  }
+]

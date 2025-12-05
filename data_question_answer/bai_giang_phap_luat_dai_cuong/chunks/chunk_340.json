@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1656",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đơn phương chấm dứt hợp đồng lao động của người lao động.",
+    "question": "Người lao động cần báo trước bao nhiêu ngày khi muốn chấm dứt hợp đồng lao động không xác định thời hạn?",
+    "answer": "Người lao động phải báo trước ít nhất 45 ngày, trừ các trường hợp đặc biệt được quy định trong Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1657",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động.",
+    "question": "Người sử dụng lao động có thể chấm dứt hợp đồng lao động khi người lao động bị ốm đau kéo dài trong bao lâu?",
+    "answer": "Người sử dụng lao động có thể chấm dứt hợp đồng nếu người lao động đã điều trị 12 tháng liên tục đối với hợp đồng không xác định thời hạn, 6 tháng liên tục đối với hợp đồng xác định thời hạn, hoặc quá nửa thời hạn hợp đồng đối với hợp đồng dưới 12 tháng mà khả năng lao động chưa hồi phục."
+  },
+  {
+    "id": "PL_1658",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động.",
+    "question": "Trong trường hợp thiên tai hoặc lý do bất khả kháng, người sử dụng lao động có thể chấm dứt hợp đồng lao động khi nào?",
+    "answer": "Người sử dụng lao động có thể chấm dứt hợp đồng nếu đã áp dụng mọi biện pháp khắc phục nhưng vẫn phải thu hẹp sản xuất hoặc giảm chỗ làm việc."
+  },
+  {
+    "id": "PL_1659",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động.",
+    "question": "Người sử dụng lao động có quyền chấm dứt hợp đồng lao động khi người lao động không có mặt tại nơi làm việc trong trường hợp nào?",
+    "answer": "Người sử dụng lao động có quyền chấm dứt hợp đồng nếu người lao động không có mặt tại nơi làm việc sau thời hạn quy định tại Điều 33 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1660",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người sử dụng lao động khi sức khỏe của người lao động được phục hồi.",
+    "question": "Người sử dụng lao động cần làm gì khi người lao động hồi phục sức khỏe sau thời gian bị ốm đau?",
+    "answer": "Người sử dụng lao động phải xem xét để tiếp tục giao kết hợp đồng lao động với người lao động khi sức khỏe của họ được phục hồi."
+  }
+]

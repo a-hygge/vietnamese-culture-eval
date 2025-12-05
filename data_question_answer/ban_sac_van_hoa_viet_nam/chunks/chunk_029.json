@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_141",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Đạo giáo có nguồn gốc từ khu vực nào?",
+    "answer": "Đạo giáo có nguồn gốc từ khu vực Hoa Nam."
+  },
+  {
+    "id": "VH_142",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Đạo giáo bắt đầu du nhập vào Việt Nam từ thời kỳ nào?",
+    "answer": "Đạo giáo bắt đầu du nhập vào Việt Nam gần như ngay sau khi ra đời."
+  },
+  {
+    "id": "VH_143",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Thuyết tu tiên, xu hướng chính của Đạo giáo Trung Hoa, có ảnh hưởng như thế nào ở Việt Nam thời Bắc thuộc?",
+    "answer": "Thuyết tu tiên, xu hướng chính của Đạo giáo Trung Hoa, rất thịnh hành ở Việt Nam thời Bắc thuộc."
+  },
+  {
+    "id": "VH_144",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Thứ sử Trương Tân đã thực hiện những hành động gì để truyền bá Đạo giáo tại Giao Châu?",
+    "answer": "Thứ sử Trương Tân thích quỷ thần, thường đội khăn màu đỏ, gảy đàn, đốt hương, đọc sách đạo và nói rằng những việc này giúp cho việc giáo hóa."
+  },
+  {
+    "id": "VH_145",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Vào thời nhà Đường, lý do nào khiến Đạo giáo được coi trọng và phát triển ở Việt Nam?",
+    "answer": "Vào thời nhà Đường, Đạo giáo được coi trọng vì Lão Tử được phong làm Huyền Nguyên Đế Quân, vua sai lập đền thờ ở các kinh đô và các châu để tôn vinh Đạo giáo."
+  }
+]

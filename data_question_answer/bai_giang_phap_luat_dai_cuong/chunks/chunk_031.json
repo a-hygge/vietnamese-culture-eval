@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_151",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bản chất của nhà nước trong lịch sử.",
+    "question": "Nhà nước chủ nô, phong kiến, tư sản có điểm chung nào về bản chất kinh tế?",
+    "answer": "Điểm chung của các nhà nước chủ nô, phong kiến, tư sản là đều dựa trên nền tảng kinh tế chế độ người bóc lột người và phục vụ, bảo vệ chế độ đó."
+  },
+  {
+    "id": "PL_152",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của nhà nước xã hội chủ nghĩa.",
+    "question": "Nhà nước xã hội chủ nghĩa có bản chất kinh tế như thế nào?",
+    "answer": "Nhà nước xã hội chủ nghĩa dựa trên chế độ công hữu về các tư liệu sản xuất và bảo vệ, phục vụ lợi ích của đại đa số nhân dân lao động gồm giai cấp công nhân, nông dân và đội ngũ trí thức."
+  },
+  {
+    "id": "PL_153",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự thay thế các kiểu nhà nước trong lịch sử.",
+    "question": "Sự thay thế các kiểu nhà nước diễn ra thông qua hình thức nào?",
+    "answer": "Sự thay thế các kiểu nhà nước diễn ra thông qua các cuộc cách mạng xã hội, trong đó kiểu nhà nước sau bao giờ cũng tiến bộ và hoàn thiện hơn kiểu nhà nước trước."
+  },
+  {
+    "id": "PL_154",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy luật phát triển lịch sử của nhà nước.",
+    "question": "Quy luật phát triển của lịch sử nhà nước được thể hiện như thế nào?",
+    "answer": "Quy luật phát triển của lịch sử nhà nước thể hiện ở sự thay thế các kiểu nhà nước, trong đó kiểu sau tiến bộ và hoàn thiện hơn kiểu trước, gắn với sự thay đổi các hình thái kinh tế - xã hội."
+  },
+  {
+    "id": "PL_155",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất.",
+    "question": "Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất có vai trò gì trong sự phát triển nhà nước?",
+    "answer": "Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất đòi hỏi phải phá bỏ quan hệ sản xuất cũ, thiết lập quan hệ sản xuất mới, từ đó thúc đẩy sự phát triển và thay đổi kiểu nhà nước."
+  }
+]

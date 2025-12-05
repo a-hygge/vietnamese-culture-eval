@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_421",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hệ thống văn bản quy phạm pháp luật Việt Nam.",
+    "question": "Hiến pháp có giá trị pháp lý như thế nào trong hệ thống pháp luật Việt Nam?",
+    "answer": "Hiến pháp là văn bản quy phạm pháp luật có giá trị pháp lý cao nhất trong hệ thống pháp luật Việt Nam."
+  },
+  {
+    "id": "PL_422",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ quan ban hành văn bản quy phạm pháp luật.",
+    "question": "Cơ quan nào ban hành nghị quyết của Hội đồng thẩm phán Tòa án nhân dân tối cao?",
+    "answer": "Nghị quyết của Hội đồng thẩm phán Tòa án nhân dân tối cao được ban hành bởi Hội đồng thẩm phán Tòa án nhân dân tối cao."
+  },
+  {
+    "id": "PL_423",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấp chính quyền địa phương liên quan đến văn bản quy phạm pháp luật.",
+    "question": "Cơ quan nào tại cấp xã có thẩm quyền ban hành quyết định?",
+    "answer": "Quyết định tại cấp xã được ban hành bởi Ủy ban nhân dân cấp xã."
+  },
+  {
+    "id": "PL_424",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại văn bản liên tịch trong hệ thống pháp luật Việt Nam.",
+    "question": "Thông tư liên tịch thường được ban hành giữa những cơ quan nào?",
+    "answer": "Thông tư liên tịch có thể được ban hành giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, hoặc giữa Bộ trưởng, Thủ trưởng cơ quan ngang Bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao."
+  },
+  {
+    "id": "PL_425",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về văn bản quy phạm pháp luật của đơn vị hành chính – kinh tế đặc biệt.",
+    "question": "Chính quyền địa phương ở đơn vị hành chính – kinh tế đặc biệt có thẩm quyền ban hành loại văn bản nào?",
+    "answer": "Chính quyền địa phương ở đơn vị hành chính – kinh tế đặc biệt có thẩm quyền ban hành các văn bản quy phạm pháp luật phù hợp với đặc thù của đơn vị hành chính – kinh tế đặc biệt."
+  }
+]

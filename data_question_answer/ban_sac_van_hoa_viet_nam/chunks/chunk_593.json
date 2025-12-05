@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2961",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống thi cử thời phong kiến Việt Nam.",
+    "question": "Sách văn trong các kỳ thi thời phong kiến được yêu cầu có độ dài bao nhiêu chữ?",
+    "answer": "Sách văn thi hương phải dài trên 1000 chữ, còn thi hội phải dài trên 1500 chữ."
+  },
+  {
+    "id": "VH_2962",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa và giáo dục trong xã hội phong kiến.",
+    "question": "Nội dung câu trả lời trong sách văn thường dựa trên cơ sở nào?",
+    "answer": "Nội dung câu trả lời thường dựa trên những lời bàn của Tống Nho."
+  },
+  {
+    "id": "VH_2963",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ý nghĩa của văn chương trong xã hội phong kiến.",
+    "question": "Tại sao giấy tờ hành chính thời phong kiến được yêu cầu có tính thẩm mỹ cao?",
+    "answer": "Vì trong thời quân chủ, việc cai trị cần được mỹ hóa chính trị, và tính chất công chức trong các công văn phải được bao phủ bởi cái đẹp của văn chương."
+  },
+  {
+    "id": "VH_2964",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các thể loại văn chương thời phong kiến.",
+    "question": "Chế và chiếu trong văn chương thời phong kiến được sử dụng vào những dịp nào?",
+    "answer": "Chế và chiếu là những mệnh lệnh do vua ban ra vào những dịp đặc biệt long trọng."
+  },
+  {
+    "id": "VH_2965",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mục đích của thi cử thời phong kiến.",
+    "question": "Mục đích chính của việc thi sách văn trong các kỳ thi thời phong kiến là gì?",
+    "answer": "Mục đích chính là để kiểm tra xem thí sinh có đủ khả năng làm quan hay không."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_121",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguồn gốc và bản chất của nhà nước.",
+    "question": "Nhà nước được hình thành và tồn tại dựa trên yếu tố nào?",
+    "answer": "Nhà nước được hình thành và tồn tại dựa trên những mâu thuẫn giai cấp không thể điều hòa được, là sản phẩm của sự thống trị giai cấp trong xã hội."
+  },
+  {
+    "id": "PL_122",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của nhà nước trong xã hội có giai cấp.",
+    "question": "Chức năng chính của nhà nước trong xã hội có giai cấp là gì?",
+    "answer": "Chức năng chính của nhà nước trong xã hội có giai cấp là bộ máy trấn áp đặc biệt của giai cấp thống trị đối với giai cấp khác, duy trì sự thống trị về kinh tế, chính trị và tư tưởng."
+  },
+  {
+    "id": "PL_123",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự liên hệ giữa giai cấp thống trị và quyền lực nhà nước.",
+    "question": "Giai cấp thống trị sử dụng nhà nước để thực hiện sự thống trị như thế nào?",
+    "answer": "Giai cấp thống trị tổ chức và sử dụng nhà nước để củng cố quyền lực về chính trị, kinh tế và tư tưởng, biến ý chí của mình thành ý chí nhà nước, bắt buộc mọi thành viên trong xã hội phải tuân theo."
+  },
+  {
+    "id": "PL_124",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò cưỡng chế của nhà nước.",
+    "question": "Nhà nước đảm nhận vai trò cưỡng chế trong xã hội bằng cách nào?",
+    "answer": "Nhà nước đảm nhận vai trò cưỡng chế bằng cách duy trì sự thống trị giai cấp, đàn áp sự phản kháng của các giai cấp bị thống trị và bảo vệ địa vị, lợi ích của giai cấp thống trị."
+  },
+  {
+    "id": "PL_125",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hệ tư tưởng thống trị trong xã hội.",
+    "question": "Hệ tư tưởng của giai cấp thống trị ảnh hưởng đến xã hội thông qua nhà nước ra sao?",
+    "answer": "Hệ tư tưởng của giai cấp thống trị biến thành hệ tư tưởng thống trị trong xã hội nhờ việc giai cấp này nắm giữ quyền lực nhà nước, áp đặt tư tưởng của mình lên toàn xã hội."
+  }
+]

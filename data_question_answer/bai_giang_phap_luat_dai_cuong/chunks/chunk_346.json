@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1686",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người sử dụng lao động khi chấm dứt hợp đồng lao động.",
+    "question": "Người sử dụng lao động cần thông báo trước bao lâu khi chấm dứt hợp đồng lao động xác định thời hạn?",
+    "answer": "Người sử dụng lao động phải thông báo bằng văn bản cho người lao động ít nhất 15 ngày trước ngày hợp đồng lao động xác định thời hạn hết hạn."
+  },
+  {
+    "id": "PL_1687",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm thanh toán khi chấm dứt hợp đồng lao động.",
+    "question": "Hai bên phải hoàn tất việc thanh toán các khoản liên quan trong thời hạn bao lâu sau khi chấm dứt hợp đồng lao động?",
+    "answer": "Trong thời hạn 07 ngày làm việc, kể từ ngày chấm dứt hợp đồng lao động, hai bên phải thanh toán đầy đủ các khoản liên quan; trường hợp đặc biệt có thể kéo dài nhưng không được quá 30 ngày."
+  },
+  {
+    "id": "PL_1688",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người sử dụng lao động liên quan đến giấy tờ của người lao động.",
+    "question": "Người sử dụng lao động cần xử lý sổ bảo hiểm xã hội và giấy tờ khác của người lao động như thế nào khi chấm dứt hợp đồng lao động?",
+    "answer": "Người sử dụng lao động có trách nhiệm hoàn thành thủ tục xác nhận và trả lại sổ bảo hiểm xã hội cùng những giấy tờ khác mà người sử dụng lao động đã giữ lại của người lao động."
+  },
+  {
+    "id": "PL_1689",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của người lao động khi doanh nghiệp chấm dứt hoạt động.",
+    "question": "Khi doanh nghiệp bị giải thể hoặc phá sản, các quyền lợi nào của người lao động được ưu tiên thanh toán?",
+    "answer": "Các quyền lợi được ưu tiên thanh toán bao gồm tiền lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và các quyền lợi khác theo thỏa ước lao động tập thể và hợp đồng lao động đã ký kết."
+  },
+  {
+    "id": "PL_1690",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trợ cấp thôi việc theo quy định của Bộ luật lao động.",
+    "question": "Điều kiện để người lao động được nhận trợ cấp thôi việc là gì và mức trợ cấp được tính như thế nào?",
+    "answer": "Người lao động phải làm việc thường xuyên từ đủ 12 tháng trở lên và mỗi năm làm việc được trợ cấp một nửa tháng tiền lương."
+  }
+]

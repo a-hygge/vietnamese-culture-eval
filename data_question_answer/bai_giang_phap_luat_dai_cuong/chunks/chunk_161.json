@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_801",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xét xử của Tòa án nhân dân Việt Nam.",
+    "question": "Tòa án nhân dân Việt Nam xét xử theo nguyên tắc nào?",
+    "answer": "Tòa án nhân dân xét xử tập thể và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn. Nguyên tắc tranh tụng trong xét xử được bảo đảm."
+  },
+  {
+    "id": "PL_802",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức của Tòa án nhân dân Việt Nam.",
+    "question": "Tổ chức của Tòa án nhân dân Việt Nam bao gồm những cơ quan nào?",
+    "answer": "Tổ chức của Tòa án nhân dân bao gồm: Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và Tòa án quân sự."
+  },
+  {
+    "id": "PL_803",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của bị can, bị cáo và đương sự trong xét xử.",
+    "question": "Quyền của bị can, bị cáo và đương sự trong quá trình xét xử được bảo đảm như thế nào?",
+    "answer": "Quyền bào chữa của bị can, bị cáo và quyền bảo vệ lợi ích hợp pháp của đương sự được bảo đảm trong quá trình xét xử."
+  },
+  {
+    "id": "PL_804",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Tòa án nhân dân tối cao.",
+    "question": "Vai trò của Tòa án nhân dân tối cao trong hệ thống Tòa án nhân dân Việt Nam là gì?",
+    "answer": "Tòa án nhân dân tối cao là cơ quan xét xử cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam, giám đốc việc xét xử của các Tòa án khác (trừ trường hợp do luật định), thực hiện việc tổng kết thực tiễn xét xử và bảo đảm áp dụng thống nhất pháp luật trong xét xử."
+  },
+  {
+    "id": "PL_805",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm kỳ và trách nhiệm của Chánh án Tòa án nhân dân tối cao.",
+    "question": "Nhiệm kỳ và trách nhiệm của Chánh án Tòa án nhân dân tối cao được quy định như thế nào?",
+    "answer": "Nhiệm kỳ của Chánh án Tòa án nhân dân tối cao theo nhiệm kỳ của Quốc hội. Chánh án Tòa án nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu trách nhiệm và báo cáo công tác trước Ủy ban thường vụ Quốc hội và Chủ tịch nước."
+  }
+]

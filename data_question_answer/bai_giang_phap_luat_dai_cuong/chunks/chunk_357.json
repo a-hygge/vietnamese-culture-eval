@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1736",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật lao động.",
+    "question": "Làm thêm giờ được định nghĩa như thế nào?",
+    "answer": "Làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường được quy định trong pháp luật, thỏa ước lao động tập thể hoặc theo nội quy lao động."
+  },
+  {
+    "id": "PL_1737",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của người sử dụng lao động.",
+    "question": "Người sử dụng lao động cần đáp ứng điều kiện gì để sử dụng người lao động làm thêm giờ?",
+    "answer": "Người sử dụng lao động cần: a) Được sự đồng ý của người lao động; b) Bảo đảm số giờ làm thêm không vượt quá giới hạn quy định; c) Bố trí nghỉ bù cho người lao động sau đợt làm thêm giờ nhiều ngày liên tục."
+  },
+  {
+    "id": "PL_1738",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định thời gian làm thêm giờ.",
+    "question": "Số giờ làm thêm tối đa được quy định là bao nhiêu trong 01 ngày và 01 năm?",
+    "answer": "Số giờ làm thêm tối đa không quá 50% số giờ làm việc bình thường trong 01 ngày, tổng cộng không quá 12 giờ trong 01 ngày, không quá 40 giờ trong 01 tháng, và không quá 200 giờ trong 01 năm. Trong trường hợp đặc biệt, người lao động có thể làm thêm giờ không quá 300 giờ trong 01 năm."
+  },
+  {
+    "id": "PL_1739",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người sử dụng lao động trong trường hợp đặc biệt.",
+    "question": "Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ trong trường hợp nào?",
+    "answer": "Người sử dụng lao động có quyền yêu cầu làm thêm giờ khi: - Thực hiện lệnh động viên, huy động bảo đảm quốc phòng, an ninh; - Bảo vệ tính mạng con người, tài sản trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa."
+  },
+  {
+    "id": "PL_1740",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người sử dụng lao động khi tổ chức làm thêm giờ.",
+    "question": "Người sử dụng lao động phải làm gì sau đợt làm thêm giờ nhiều ngày liên tục?",
+    "answer": "Người sử dụng lao động phải bố trí để người lao động được nghỉ bù cho số thời gian đã không được nghỉ."
+  }
+]

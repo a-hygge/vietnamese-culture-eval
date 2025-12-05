@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_456",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa nông nghiệp Việt Nam.",
+    "question": "Lối sống 'vườn, ao, chuồng' trong văn hóa Việt Nam có nguồn gốc từ yếu tố nào?",
+    "answer": "Lối sống 'vườn, ao, chuồng' có nguồn gốc từ nền nông nghiệp truyền thống kết hợp với hoạt động hái lượm, chăn nuôi quy mô nhỏ và bắt cá trong ao."
+  },
+  {
+    "id": "VH_457",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về địa hình và lịch sử Việt Nam.",
+    "question": "Đặc điểm địa hình nào khiến châu thổ sông Hồng dễ bị tấn công?",
+    "answer": "Châu thổ sông Hồng dễ bị tấn công do địa hình bị chia cắt, đồng bằng ven biển hẹp và vị trí chiến lược dễ bị địch từ nhiều hướng."
+  },
+  {
+    "id": "VH_458",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống quân sự Việt Nam.",
+    "question": "Người Việt Nam thời quân chủ có đặc điểm gì về việc huấn luyện quân sự?",
+    "answer": "Người Việt Nam thời quân chủ không có truyền thống huấn luyện quân sự toàn dân, không áp dụng chế độ nghĩa vụ quân sự và không có đẳng cấp quý tộc chuyên về quân sự."
+  },
+  {
+    "id": "VH_459",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan niệm văn hóa Việt Nam cổ truyền.",
+    "question": "Quan niệm 'trọng văn khinh võ' trong văn hóa Việt Nam cổ truyền được thể hiện ra sao?",
+    "answer": "Quan niệm 'trọng văn khinh võ' được thể hiện qua việc coi trọng giới quan văn hơn quan võ, chẳng hạn như câu nói 'Quan văn thất phẩm đã sang, quan võ thất phẩm còn mang đai cờ'."
+  },
+  {
+    "id": "VH_460",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức quân sự thời phong kiến Việt Nam.",
+    "question": "Vì sao quân đội triều đình Việt Nam thời phong kiến thường có quy mô nhỏ?",
+    "answer": "Quân đội triều đình Việt Nam thời phong kiến thường có quy mô nhỏ vì hạn chế về kinh tế và do quân đội chủ yếu được huy động từ dân chúng trong thời gian chiến tranh, sau đó họ trở về làm ruộng."
+  }
+]

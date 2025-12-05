@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_536",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp lý liên quan đến lỗi vi phạm pháp luật.",
+    "question": "Lỗi có ý gián tiếp được hiểu như thế nào trong pháp luật Việt Nam?",
+    "answer": "Lỗi có ý gián tiếp là khi chủ thể vi phạm nhận thấy trước hậu quả thiệt hại cho xã hội do hành vi của mình gây ra, tuy không mong muốn nhưng để mặc cho nó xảy ra."
+  },
+  {
+    "id": "PL_537",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp lý liên quan đến lỗi vô ý trong vi phạm pháp luật.",
+    "question": "Lỗi vô ý do quá tự tin được định nghĩa ra sao?",
+    "answer": "Lỗi vô ý do quá tự tin là khi chủ thể vi phạm nhận thấy trước hậu quả thiệt hại cho xã hội do hành vi của mình gây ra, nhưng tin tưởng rằng điều đó không xảy ra."
+  },
+  {
+    "id": "PL_538",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp lý liên quan đến lỗi vô ý do cẩu thả hoặc khinh suất.",
+    "question": "Lỗi vô ý do cẩu thả hoặc khinh suất có đặc điểm gì?",
+    "answer": "Lỗi vô ý do cẩu thả hoặc khinh suất là khi chủ thể vi phạm do khinh suất hoặc cẩu thả mà không nhận thấy trước hậu quả thiệt hại cho xã hội do hành vi của mình gây ra, mặc dù có thể nhận thấy và cần phải nhận thấy trước."
+  },
+  {
+    "id": "PL_539",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về động cơ trong hành vi vi phạm pháp luật.",
+    "question": "Động cơ trong hành vi vi phạm pháp luật được hiểu là gì?",
+    "answer": "Động cơ là lý do thúc đẩy chủ thể thực hiện hành vi vi phạm pháp luật."
+  },
+  {
+    "id": "PL_540",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại lỗi trong vi phạm pháp luật.",
+    "question": "Có bao nhiêu loại lỗi được đề cập đến trong nội dung pháp luật trên và đó là những loại nào?",
+    "answer": "Có ba loại lỗi bao gồm: lỗi có ý gián tiếp, lỗi vô ý do quá tự tin, và lỗi vô ý do cẩu thả hoặc khinh suất."
+  }
+]

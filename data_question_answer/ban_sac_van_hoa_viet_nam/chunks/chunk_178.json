@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_886",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa giữa phương Đông và phương Tây.",
+    "question": "Tại sao các khái niệm khoa học xã hội và nhân văn phương Tây thường không phù hợp với xã hội Việt Nam?",
+    "answer": "Vì các khái niệm này được xây dựng dựa trên thực tế lịch sử và văn hóa của phương Tây, khác biệt lớn về không gian, thời gian và tâm thức so với Việt Nam."
+  },
+  {
+    "id": "VH_887",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm ngôn ngữ và văn hóa Việt Nam.",
+    "question": "Tại sao các khái niệm như 'nhân', 'nghĩa', 'lễ', 'đạo' khó có thể dịch chính xác sang các ngôn ngữ châu Âu?",
+    "answer": "Vì các khái niệm này phản ánh triết lý và giá trị văn hóa đặc trưng của phương Đông, không có từ ngữ hoặc khái niệm tương đương hoàn toàn trong ngôn ngữ và tư duy châu Âu."
+  },
+  {
+    "id": "VH_888",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tiếp xúc giữa văn hóa Việt Nam và phương Tây.",
+    "question": "Tại sao cần đặt các khái niệm như 'giai cấp', 'sở hữu', 'cá nhân' trong ngoặc kép khi dịch từ phương Tây sang tiếng Việt?",
+    "answer": "Vì những khái niệm này có nội dung thực tế rất khác biệt trong bối cảnh xã hội Việt Nam so với cách chúng được định nghĩa trong các sách phương Tây."
+  },
+  {
+    "id": "VH_889",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ văn hóa giữa Việt Nam và Trung Hoa.",
+    "question": "Điểm đặc biệt trong sự tiếp xúc văn hóa giữa Việt Nam và Trung Hoa so với phương Tây là gì?",
+    "answer": "Sự tiếp xúc văn hóa giữa Việt Nam và Trung Hoa dựa trên các giá trị triết lý và văn hóa phương Đông quen thuộc, trong khi tiếp xúc với phương Tây gặp khó khăn do sự khác biệt lớn về bối cảnh văn hóa và lịch sử."
+  },
+  {
+    "id": "VH_890",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết học và văn hóa Việt Nam.",
+    "question": "Người Việt Nam gặp những khó khăn gì khi tiếp cận các khái niệm triết học và văn hóa phương Tây?",
+    "answer": "Người Việt gặp khó khăn vì các khái niệm triết học và văn hóa phương Tây được xây dựng dựa trên bối cảnh xã hội, lịch sử và tư duy của phương Tây, không hoàn toàn phù hợp với thực tế Việt Nam."
+  }
+]

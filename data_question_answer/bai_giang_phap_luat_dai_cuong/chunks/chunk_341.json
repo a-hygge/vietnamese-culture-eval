@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1661",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định báo trước khi đơn phương chấm dứt hợp đồng lao động.",
+    "question": "Người sử dụng lao động phải báo trước bao nhiêu ngày khi đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
+    "answer": "Người sử dụng lao động phải báo trước ít nhất 45 ngày khi đơn phương chấm dứt hợp đồng lao động không xác định thời hạn."
+  },
+  {
+    "id": "PL_1662",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định báo trước khi chấm dứt hợp đồng lao động có thời hạn.",
+    "question": "Người sử dụng lao động cần báo trước bao nhiêu ngày khi đơn phương chấm dứt hợp đồng lao động xác định thời hạn?",
+    "answer": "Người sử dụng lao động phải báo trước ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": "PL_1663",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định báo trước liên quan đến hợp đồng lao động mùa vụ hoặc dưới 12 tháng.",
+    "question": "Người sử dụng lao động cần báo trước bao nhiêu ngày khi đơn phương chấm dứt hợp đồng lao động mùa vụ hoặc công việc dưới 12 tháng?",
+    "answer": "Người sử dụng lao động phải báo trước ít nhất 03 ngày làm việc đối với hợp đồng lao động theo mùa vụ hoặc công việc dưới 12 tháng."
+  },
+  {
+    "id": "PL_1664",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp người sử dụng lao động không được đơn phương chấm dứt hợp đồng lao động.",
+    "question": "Người sử dụng lao động có được đơn phương chấm dứt hợp đồng lao động khi người lao động đang điều trị bệnh nghề nghiệp không?",
+    "answer": "Người sử dụng lao động không được đơn phương chấm dứt hợp đồng lao động khi người lao động đang điều trị bệnh nghề nghiệp theo quyết định của cơ sở khám bệnh, chữa bệnh có thẩm quyền."
+  },
+  {
+    "id": "PL_1665",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định trong Bộ luật lao động liên quan đến quyền chấm dứt hợp đồng lao động.",
+    "question": "Thời gian báo trước khi chấm dứt hợp đồng lao động được quy định tại điều nào trong Bộ luật lao động?",
+    "answer": "Thời gian báo trước khi chấm dứt hợp đồng lao động được quy định tại Điều 38 Bộ luật lao động."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_791",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của Chính phủ và Thủ tướng Chính phủ.",
+    "question": "Chính phủ và Thủ tướng Chính phủ phải báo cáo trước Nhân dân về nội dung gì?",
+    "answer": "Chính phủ và Thủ tướng Chính phủ phải báo cáo trước Nhân dân về những vấn đề quan trọng thuộc thẩm quyền giải quyết của họ thông qua các phương tiện thông tin đại chúng."
+  },
+  {
+    "id": "PL_792",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Bộ trưởng và Thủ trưởng cơ quan ngang bộ.",
+    "question": "Bộ trưởng và Thủ trưởng cơ quan ngang bộ chịu trách nhiệm chính về lĩnh vực nào?",
+    "answer": "Bộ trưởng và Thủ trưởng cơ quan ngang bộ chịu trách nhiệm quản lý nhà nước về ngành, lĩnh vực được phân công và tổ chức thi hành pháp luật liên quan."
+  },
+  {
+    "id": "PL_793",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền ban hành văn bản pháp luật của các cơ quan nhà nước.",
+    "question": "Những cơ quan nào được phép ban hành văn bản pháp luật để thực hiện nhiệm vụ của mình?",
+    "answer": "Chính phủ, Thủ tướng Chính phủ, Bộ trưởng và Thủ trưởng cơ quan ngang bộ được phép ban hành văn bản pháp luật để thực hiện nhiệm vụ của mình."
+  },
+  {
+    "id": "PL_794",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Hệ thống tư pháp Việt Nam gồm những cơ quan nào?",
+    "answer": "Hệ thống tư pháp Việt Nam gồm Tòa án nhân dân và Viện kiểm sát nhân dân."
+  },
+  {
+    "id": "PL_795",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc phối hợp giữa Chính phủ và các tổ chức chính trị - xã hội.",
+    "question": "Khi nào Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam được mời tham dự phiên họp của Chính phủ?",
+    "answer": "Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam được mời tham dự phiên họp của Chính phủ khi bàn các vấn đề có liên quan."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1106",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi vi phạm pháp luật của cán bộ, công chức.",
+    "question": "Hành vi làm giả hồ sơ và khai khống số lượng thuộc diện chính sách của một số cán bộ nhằm mục đích gì?",
+    "answer": "Hành vi này nhằm tham ô tài sản của Nhà nước để phục vụ lợi ích cá nhân và gia đình."
+  },
+  {
+    "id": "PL_1107",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tác động của chính sách bao cấp, bảo hộ và độc quyền.",
+    "question": "Chính sách bao cấp, bảo hộ và độc quyền có tác động tiêu cực gì đến nền kinh tế?",
+    "answer": "Những chính sách này làm giảm khả năng cạnh tranh của nền kinh tế, tạo môi trường thuận lợi cho tham nhũng gia tăng."
+  },
+  {
+    "id": "PL_1108",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân dẫn đến tham nhũng trong thực thi công vụ.",
+    "question": "Nguyên nhân nào dẫn đến tình trạng một số cán bộ, công chức, viên chức sách nhiễu, gây khó khăn trong khi thực thi nhiệm vụ?",
+    "answer": "Nguyên nhân là do chính sách tiền lương không đủ đảm bảo đời sống, dẫn đến việc đòi hối lộ để bổ sung thu nhập."
+  },
+  {
+    "id": "PL_1109",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật trong phát triển kinh tế - xã hội.",
+    "question": "Hệ thống pháp luật được hoàn thiện nhằm mục đích gì trong phát triển kinh tế - xã hội?",
+    "answer": "Hệ thống pháp luật được hoàn thiện nhằm tạo khung pháp lý cho sự phát triển kinh tế - xã hội."
+  },
+  {
+    "id": "PL_1110",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về rào cản trong môi trường kinh doanh.",
+    "question": "Doanh nghiệp phải đối mặt với những rào cản gì khi tiếp cận chính sách bảo hộ và bao cấp?",
+    "answer": "Doanh nghiệp phải chi trả những khoản phí nhất định, đặc biệt trong trường hợp không thuộc diện được bao cấp và bảo hộ."
+  }
+]

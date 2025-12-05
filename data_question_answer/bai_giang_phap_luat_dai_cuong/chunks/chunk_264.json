@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1316",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xác lập quyền sở hữu tài sản thông qua hợp đồng.",
+    "question": "Người được giao tài sản thông qua hợp đồng mua bán, tặng cho, trao đổi, cho vay có quyền sở hữu tài sản từ thời điểm nào?",
+    "answer": "Người được giao tài sản có quyền sở hữu tài sản kể từ thời điểm chuyển giao tài sản, nếu các bên không có thỏa thuận khác hoặc pháp luật không có quy định khác."
+  },
+  {
+    "id": "PL_1317",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu hoa lợi, lợi tức.",
+    "question": "Chủ sở hữu tài sản được xác lập quyền sở hữu đối với hoa lợi, lợi tức từ thời điểm nào?",
+    "answer": "Chủ sở hữu, người sử dụng tài sản được xác lập quyền sở hữu đối với hoa lợi, lợi tức kể từ thời điểm thu được hoa lợi, lợi tức đó, theo thỏa thuận hoặc theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_1318",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xác lập quyền sở hữu trong trường hợp sáp nhập tài sản.",
+    "question": "Quyền sở hữu được xác lập như thế nào trong trường hợp tài sản của nhiều chủ sở hữu sáp nhập tạo thành vật mới không thể chia được?",
+    "answer": "Vật mới tạo thành là tài sản thuộc sở hữu chung của các chủ sở hữu đó; nếu tài sản sáp nhập gồm vật chính và vật phụ, vật mới thuộc chủ sở hữu vật chính, chủ sở hữu vật chính phải thanh toán phần giá trị của vật phụ cho chủ sở hữu vật phụ, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "id": "PL_1319",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xác lập quyền sở hữu trong trường hợp trộn lẫn tài sản.",
+    "question": "Trong trường hợp tài sản của nhiều chủ sở hữu được trộn lẫn với nhau tạo thành vật mới không chia được, quyền sở hữu được xác lập như thế nào?",
+    "answer": "Vật mới được tạo thành là tài sản thuộc sở hữu chung của các chủ sở hữu đó, được xác lập kể từ thời điểm trộn lẫn."
+  },
+  {
+    "id": "PL_1320",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xác lập quyền sở hữu trong trường hợp chế biến tài sản.",
+    "question": "Ai được xác lập quyền sở hữu đối với vật mới được tạo thành từ việc chế biến nguyên vật liệu?",
+    "answer": "Chủ sở hữu của nguyên vật liệu được đem chế biến là chủ sở hữu của vật mới được tạo thành."
+  }
+]

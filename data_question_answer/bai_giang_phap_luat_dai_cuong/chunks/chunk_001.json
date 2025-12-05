@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_001",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Pháp luật được hiểu là gì?",
+    "answer": "Pháp luật là hệ thống các quy tắc xử sự chung do nhà nước ban hành hoặc thừa nhận, được đảm bảo thực hiện bằng quyền lực của nhà nước nhằm điều chỉnh các quan hệ xã hội."
+  },
+  {
+    "id": "PL_002",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật.",
+    "question": "Pháp luật có vai trò gì trong xã hội?",
+    "answer": "Pháp luật có vai trò duy trì trật tự xã hội, bảo vệ quyền và lợi ích hợp pháp của các cá nhân, tổ chức, đồng thời tạo ra môi trường pháp lý ổn định để thúc đẩy phát triển kinh tế - xã hội."
+  },
+  {
+    "id": "PL_003",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền công dân.",
+    "question": "Quyền cơ bản của công dân trong pháp luật Việt Nam bao gồm những gì?",
+    "answer": "Quyền cơ bản của công dân bao gồm quyền sống, quyền tự do, quyền bình đẳng, quyền tham gia quản lý nhà nước và xã hội, cùng các quyền lợi về kinh tế, văn hóa, xã hội."
+  },
+  {
+    "id": "PL_004",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ công dân.",
+    "question": "Nghĩa vụ cơ bản của công dân theo pháp luật Việt Nam là gì?",
+    "answer": "Nghĩa vụ cơ bản của công dân bao gồm tuân thủ Hiến pháp và pháp luật, đóng thuế đầy đủ, bảo vệ Tổ quốc, giữ gìn trật tự an ninh và bảo vệ môi trường."
+  },
+  {
+    "id": "PL_005",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Bộ máy nhà nước Việt Nam được tổ chức theo nguyên tắc nào?",
+    "answer": "Bộ máy nhà nước Việt Nam được tổ chức theo nguyên tắc quyền lực nhà nước thống nhất, phân công, phối hợp và kiểm soát giữa các cơ quan lập pháp, hành pháp và tư pháp."
+  }
+]

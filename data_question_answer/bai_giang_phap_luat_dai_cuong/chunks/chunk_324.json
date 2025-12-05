@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1616",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật lao động.",
+    "question": "Hợp đồng lao động được định nghĩa như thế nào?",
+    "answer": "Hợp đồng lao động là sự thoả thuận giữa người lao động và người sử dụng lao động về việc làm có trả lương, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động."
+  },
+  {
+    "id": "PL_1617",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức hợp đồng lao động.",
+    "question": "Hợp đồng lao động phải được giao kết dưới hình thức nào?",
+    "answer": "Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, mỗi bên giữ 01 bản. Đối với công việc tạm thời có thời hạn dưới 03 tháng, các bên có thể giao kết hợp đồng lao động bằng lời nói."
+  },
+  {
+    "id": "PL_1618",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc giao kết hợp đồng lao động.",
+    "question": "Nguyên tắc cơ bản trong việc giao kết hợp đồng lao động là gì?",
+    "answer": "Các nguyên tắc cơ bản gồm: tự nguyện, bình đẳng, thiện chí, hợp tác và trung thực; tự do giao kết hợp đồng lao động nhưng không được trái pháp luật, thỏa ước lao động tập thể và đạo đức xã hội."
+  },
+  {
+    "id": "PL_1619",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ giao kết hợp đồng lao động.",
+    "question": "Người sử dụng lao động và người lao động cần thực hiện nghĩa vụ gì trước khi giao kết hợp đồng?",
+    "answer": "Trước khi nhận người lao động vào làm việc, người sử dụng lao động và người lao động phải trực tiếp giao kết hợp đồng lao động."
+  },
+  {
+    "id": "PL_1620",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giao kết hợp đồng lao động với người lao động chưa đủ 18 tuổi.",
+    "question": "Việc giao kết hợp đồng lao động với người lao động từ đủ 15 tuổi đến dưới 18 tuổi có yêu cầu gì?",
+    "answer": "Việc giao kết hợp đồng lao động với người lao động từ đủ 15 tuổi đến dưới 18 tuổi phải được sự đồng ý của người đại diện theo pháp luật của người lao động."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1321",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về học vấn trong văn hóa Việt Nam xưa.",
+    "question": "Học vấn trong văn hóa Việt Nam xưa thường được hướng đến mục đích nào?",
+    "answer": "Học vấn trong văn hóa Việt Nam xưa thường được hướng đến mục đích làm quan, thông qua việc học các sách kinh điển, bài mẫu và văn chương trường ốc."
+  },
+  {
+    "id": "VH_1322",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các chủ đề sách phổ biến trong lịch sử văn hóa Việt Nam.",
+    "question": "Những chủ đề sách phổ biến trong lịch sử văn hóa Việt Nam xưa là gì?",
+    "answer": "Những chủ đề sách phổ biến bao gồm chính trị, địa lý, kinh tế, lịch sử, binh thư, tôn giáo - tư tưởng, và y dược."
+  },
+  {
+    "id": "VH_1323",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm văn hóa đối với thương nghiệp và kỹ thuật trong xã hội Việt Nam xưa.",
+    "question": "Vì sao sách vở Việt Nam xưa ít đề cập đến thương nghiệp và kỹ thuật chế tạo dụng cụ?",
+    "answer": "Sách vở Việt Nam xưa ít đề cập đến thương nghiệp và kỹ thuật chế tạo dụng cụ vì đây là cách nhìn của tầng lớp quan lại, không phải cách nhìn của người sản xuất."
+  },
+  {
+    "id": "VH_1324",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nội dung sách nông nghiệp trong lịch sử văn hóa Việt Nam.",
+    "question": "Sách về nông nghiệp trong lịch sử văn hóa Việt Nam xưa thường tập trung vào những nội dung nào?",
+    "answer": "Sách về nông nghiệp chủ yếu tập trung vào địa bạ, kê khai ruộng đất, đê điều, việc đóng thuế và các thổ sản, thay vì kinh nghiệm nông nghiệp thực tiễn."
+  },
+  {
+    "id": "VH_1325",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phân bổ nội dung sách trong lịch sử văn hóa Việt Nam.",
+    "question": "Sách lịch sử và sách tôn giáo, tư tưởng chiếm tỉ lệ như thế nào trong tổng số sách thời xưa?",
+    "answer": "Sách lịch sử có 964 quyển và sách tôn giáo, tư tưởng có 898 quyển, chiếm số lượng lớn trong tổng số sách thời xưa."
+  }
+]

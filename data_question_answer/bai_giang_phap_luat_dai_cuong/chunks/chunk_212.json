@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1056",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật và hành vi tham nhũng.",
+    "question": "Hành vi tham nhũng được đặc trưng bởi những dấu hiệu nào?",
+    "answer": "Hành vi tham nhũng được đặc trưng bởi việc lợi dụng chức vụ, quyền hạn để làm trái pháp luật nhằm mưu cầu lợi ích riêng, không xuất phát từ nhu cầu công việc hay trách nhiệm của người cán bộ, công chức."
+  },
+  {
+    "id": "PL_1057",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về yếu tố cấu thành hành vi tham nhũng.",
+    "question": "Yếu tố vụ lợi đóng vai trò gì trong hành vi tham nhũng?",
+    "answer": "Yếu tố vụ lợi là dấu hiệu không thể thiếu của hành vi tham nhũng, cho thấy người có chức vụ, quyền hạn đã sử dụng quyền hành trái pháp luật để mưu cầu lợi ích riêng."
+  },
+  {
+    "id": "PL_1058",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa vi phạm pháp luật và tham nhũng.",
+    "question": "Điều gì phân biệt hành vi vi phạm pháp luật thông thường với hành vi tham nhũng?",
+    "answer": "Hành vi vi phạm pháp luật thông thường không có yếu tố lợi dụng chức vụ, quyền hạn, trong khi hành vi tham nhũng bắt buộc phải có yếu tố lợi dụng chức vụ, quyền hạn để đạt được lợi ích riêng."
+  },
+  {
+    "id": "PL_1059",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của chức vụ, quyền hạn trong hành vi tham nhũng.",
+    "question": "Tại sao chức vụ, quyền hạn lại là yếu tố quan trọng trong hành vi tham nhũng?",
+    "answer": "Chức vụ, quyền hạn là yếu tố quan trọng trong hành vi tham nhũng vì người thực hiện hành vi đã lợi dụng quyền hành được Nhà nước trao để mưu cầu lợi ích trái pháp luật cho bản thân hoặc đơn vị mình."
+  },
+  {
+    "id": "PL_1060",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của cán bộ, công chức trong việc sử dụng quyền lực.",
+    "question": "Hành vi tham nhũng có mâu thuẫn như thế nào với trách nhiệm của cán bộ, công chức?",
+    "answer": "Hành vi tham nhũng mâu thuẫn với trách nhiệm của cán bộ, công chức vì nó không xuất phát từ nhu cầu công việc hay trách nhiệm được giao, mà từ lợi ích riêng của cá nhân hoặc đơn vị."
+  }
+]

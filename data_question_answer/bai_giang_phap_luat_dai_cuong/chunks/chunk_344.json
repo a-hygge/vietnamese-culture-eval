@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1676",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật.",
+    "question": "Người lao động cần bồi thường những khoản nào khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Người lao động phải bồi thường nửa tháng tiền lương theo hợp đồng lao động, tiền lương tương ứng với những ngày không báo trước (nếu vi phạm thời hạn báo trước), và hoàn trả chi phí đào tạo theo quy định tại Điều 62 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1677",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người sử dụng lao động khi thay đổi cơ cấu, công nghệ.",
+    "question": "Khi thay đổi cơ cấu, công nghệ ảnh hưởng đến việc làm của nhiều lao động, người sử dụng lao động phải thực hiện những trách nhiệm nào?",
+    "answer": "Người sử dụng lao động phải xây dựng và thực hiện phương án sử dụng lao động theo quy định tại Điều 46 của Bộ luật Lao động, ưu tiên đào tạo lại người lao động để tiếp tục sử dụng, và nếu không thể giải quyết việc làm mới thì phải trả trợ cấp mất việc làm theo quy định tại Điều 49 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1678",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người sử dụng lao động khi có lý do kinh tế dẫn đến nguy cơ mất việc làm.",
+    "question": "Người sử dụng lao động cần làm gì khi lý do kinh tế gây nguy cơ mất việc làm cho nhiều lao động?",
+    "answer": "Người sử dụng lao động phải xây dựng và thực hiện phương án sử dụng lao động theo quy định tại Điều 46 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1679",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trợ cấp mất việc làm theo quy định của Bộ luật Lao động.",
+    "question": "Người sử dụng lao động phải thực hiện nghĩa vụ gì nếu người lao động bị mất việc làm do không có chỗ làm mới?",
+    "answer": "Người sử dụng lao động phải trả trợ cấp mất việc làm cho người lao động theo quy định tại Điều 49 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1680",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bồi thường khi vi phạm thời hạn báo trước trong hợp đồng lao động.",
+    "question": "Người lao động cần bồi thường khoản tiền như thế nào nếu vi phạm thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Người lao động phải bồi thường cho người sử dụng lao động một khoản tiền tương ứng với tiền lương của người lao động trong những ngày không báo trước."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1191",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quan hệ nhân thân trong luật dân sự.",
+    "question": "Quan hệ nhân thân trong luật dân sự được chia thành mấy loại?",
+    "answer": "Quan hệ nhân thân được chia thành 2 loại: quan hệ nhân thân không liên quan đến tài sản và quan hệ nhân thân có liên quan đến tài sản."
+  },
+  {
+    "id": "PL_1192",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quan hệ nhân thân không liên quan đến tài sản.",
+    "question": "Quan hệ nhân thân không liên quan đến tài sản là gì?",
+    "answer": "Quan hệ nhân thân không liên quan đến tài sản là những quan hệ giữa người với người về lợi ích tinh thần, không liên quan đến tài sản, như quan hệ về tên gọi, danh dự, nhân phẩm, uy tín của công dân hoặc tổ chức."
+  },
+  {
+    "id": "PL_1193",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quan hệ nhân thân có liên quan đến tài sản.",
+    "question": "Quan hệ nhân thân có liên quan đến tài sản được hiểu như thế nào?",
+    "answer": "Quan hệ nhân thân có liên quan đến tài sản là những quan hệ nhân thân là cơ sở làm phát sinh quan hệ tài sản tiếp sau."
+  },
+  {
+    "id": "PL_1194",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa hai loại quan hệ nhân thân.",
+    "question": "Điểm khác biệt cơ bản giữa quan hệ nhân thân không liên quan đến tài sản và quan hệ nhân thân có liên quan đến tài sản là gì?",
+    "answer": "Quan hệ nhân thân không liên quan đến tài sản là về lợi ích tinh thần và không làm phát sinh tài sản, trong khi quan hệ nhân thân có liên quan đến tài sản là cơ sở làm phát sinh các quan hệ tài sản tiếp sau."
+  },
+  {
+    "id": "PL_1195",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về lợi ích tinh thần trong quan hệ nhân thân.",
+    "question": "Những lợi ích tinh thần nào có thể thuộc phạm vi của quan hệ nhân thân không liên quan đến tài sản?",
+    "answer": "Những lợi ích tinh thần thuộc phạm vi của quan hệ nhân thân không liên quan đến tài sản bao gồm tên gọi, danh dự, nhân phẩm, và uy tín của công dân hoặc tổ chức."
+  }
+]

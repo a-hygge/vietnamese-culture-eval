@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_046",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật lao động.",
+    "question": "Luật lao động được hiểu là gì?",
+    "answer": "Luật lao động là ngành luật điều chỉnh các quan hệ lao động giữa người lao động và người sử dụng lao động, cùng các vấn đề liên quan đến quyền, nghĩa vụ và lợi ích của các bên trong lĩnh vực lao động."
+  },
+  {
+    "id": "PL_047",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi điều chỉnh của luật lao động.",
+    "question": "Luật lao động điều chỉnh những lĩnh vực nào?",
+    "answer": "Luật lao động điều chỉnh các quan hệ lao động, bao gồm việc ký kết hợp đồng lao động, điều kiện lao động, quyền và nghĩa vụ của các bên trong quá trình lao động, cũng như các vấn đề liên quan đến bảo vệ quyền lợi người lao động."
+  },
+  {
+    "id": "PL_048",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng áp dụng của luật lao động.",
+    "question": "Đối tượng áp dụng của luật lao động bao gồm những ai?",
+    "answer": "Đối tượng áp dụng của luật lao động bao gồm người lao động, người sử dụng lao động và các cơ quan, tổ chức liên quan đến việc thực hiện quyền và nghĩa vụ trong quan hệ lao động."
+  },
+  {
+    "id": "PL_049",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách của Nhà nước về lao động.",
+    "question": "Chính sách của Nhà nước về lao động được thể hiện qua những nội dung nào?",
+    "answer": "Chính sách của Nhà nước về lao động bao gồm việc bảo đảm quyền lợi của người lao động, khuyến khích tạo việc làm, bảo vệ các quyền cơ bản của người lao động và thúc đẩy mối quan hệ lao động hài hòa, ổn định."
+  },
+  {
+    "id": "PL_050",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hợp đồng lao động trong luật lao động.",
+    "question": "Hợp đồng lao động được quy định như thế nào trong luật lao động?",
+    "answer": "Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động, trong đó quy định các quyền và nghĩa vụ của hai bên, bao gồm các điều khoản về công việc, tiền lương, thời giờ làm việc và các điều kiện lao động khác."
+  }
+]

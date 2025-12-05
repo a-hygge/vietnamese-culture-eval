@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_161",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Thuật xem tướng và bói toán ở Việt Nam có nguồn gốc từ đâu?",
+    "answer": "Thuật xem tướng và bói toán ở Việt Nam có nguồn gốc từ Đạo giáo và đã phát triển từ lâu ở Trung Quốc."
+  },
+  {
+    "id": "VH_162",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Lá số tử vi bắt nguồn từ nền văn hóa nào trong lịch sử?",
+    "answer": "Lá số tử vi bắt nguồn từ văn hóa Lưỡng Hà, từ ba ngàn năm trước Công nguyên."
+  },
+  {
+    "id": "VH_163",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Niềm tin vào phong thủy và bói toán có ý nghĩa gì trong văn hóa người Việt?",
+    "answer": "Niềm tin vào phong thủy và bói toán thể hiện sự gắn bó của người Việt với các yếu tố tâm linh và những giá trị văn hóa truyền thống."
+  },
+  {
+    "id": "VH_164",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Lá số tử vi được lập dựa trên những yếu tố nào?",
+    "answer": "Lá số tử vi được lập dựa trên vận động của các thiên thể (sao, trăng, mặt trời, hành tinh) và vị trí của chúng trong mối quan hệ với 12 cung cũng như vị trí của chúng với nhau."
+  },
+  {
+    "id": "VH_165",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa văn hóa Việt Nam và các nền văn hóa khác.",
+    "question": "Tử vi và bói toán của Việt Nam chịu ảnh hưởng từ những nền văn hóa nào?",
+    "answer": "Tử vi và bói toán của Việt Nam chịu ảnh hưởng từ văn hóa Trung Quốc và văn hóa Lưỡng Hà cổ đại."
+  }
+]

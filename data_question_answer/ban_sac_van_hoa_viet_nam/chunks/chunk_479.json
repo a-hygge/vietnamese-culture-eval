@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2391",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết học Khổng học.",
+    "question": "Trong triết học Khổng học, tình yêu xuất phát từ đâu?",
+    "answer": "Trong triết học Khổng học, tình yêu xuất phát từ chính giá trị nhân cách của con người ngay trong cuộc sống hiện tại, không phải từ Chúa trời hay vì mục đích được giải thoát."
+  },
+  {
+    "id": "VH_2392",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết học Trung Hoa cổ điển.",
+    "question": "Triết học Trung Hoa cổ điển thiếu yếu tố nào so với triết học cổ điển Đức?",
+    "answer": "Triết học Trung Hoa cổ điển thiếu một nền triết học lấy nhận thức luận làm nguyên lý chủ chốt, điều mà triết học cổ điển Đức đã đạt được."
+  },
+  {
+    "id": "VH_2393",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách giải thích trong triết học Trung Hoa.",
+    "question": "Tại sao việc giải thích hai chữ 'Cách vật, Trí tri' trong 'Đại học' lại gây ra nhiều mâu thuẫn?",
+    "answer": "Việc giải thích hai chữ 'Cách vật, Trí tri' gây ra nhiều mâu thuẫn vì các thẻ tre giải thích gốc đã mất, dẫn đến việc đời sau giải thích theo cách hiểu riêng của mình."
+  },
+  {
+    "id": "VH_2394",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng của Chu Hy trong triết học Trung Hoa.",
+    "question": "Chu Hy đã giải thích khái niệm 'Cách vật' trong 'Đại học' như thế nào?",
+    "answer": "Chu Hy giải thích rằng 'Cách vật' có nghĩa là mọi sự vật trong thiên hạ đều có lý của nó, và con người chưa đạt đến lý cùng cực nên chưa thể có được sự hiểu biết triệt để."
+  },
+  {
+    "id": "VH_2395",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa 'Luận ngữ' và 'Đại học' trong triết học Khổng học.",
+    "question": "Tại sao lời giải thích 'Cách vật, Trí tri' không phù hợp với học thuyết của Khổng tử trong 'Luận ngữ'?",
+    "answer": "Lời giải thích 'Cách vật, Trí tri' không phù hợp với học thuyết của Khổng tử trong 'Luận ngữ' vì trong 'Luận ngữ' không có câu nào hỗ trợ cách giải thích này."
+  }
+]

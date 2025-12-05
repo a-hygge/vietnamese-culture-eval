@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2886",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giáo dục truyền thống Việt Nam.",
+    "question": "Tập ám tả có mục đích gì trong việc học?",
+    "answer": "Tập ám tả giúp học sinh ghi nhớ và hiểu nội dung bài học thông qua việc viết thuộc lòng một đoạn văn."
+  },
+  {
+    "id": "VH_2887",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sách giáo dục truyền thống.",
+    "question": "Thứ tự học các sách trong 'Tứ thư' là gì?",
+    "answer": "Thứ tự học các sách trong 'Tứ thư' là 'Luận ngữ', 'Mạnh tử', 'Đại học', và 'Trung Dung'."
+  },
+  {
+    "id": "VH_2888",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phương pháp học truyền thống.",
+    "question": "Khi nào học sinh bắt đầu làm câu đối?",
+    "answer": "Học sinh bắt đầu làm câu đối sau khi học xong các sách trong 'Tứ thư'."
+  },
+  {
+    "id": "VH_2889",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tài liệu học tập truyền thống.",
+    "question": "Giấy nào thường được dùng để tập ám tả?",
+    "answer": "Giấy khổ nhỏ, chia thành tám hàng trên một trang, thường được dùng để tập ám tả."
+  },
+  {
+    "id": "VH_2890",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sách học vỡ lòng.",
+    "question": "Sau sách vỡ lòng, học sinh sẽ học sách nào?",
+    "answer": "Sau sách vỡ lòng, học sinh sẽ học 'Tứ thư'."
+  }
+]

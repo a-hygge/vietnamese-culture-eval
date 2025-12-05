@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_811",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ của Viện kiểm sát nhân dân.",
+    "question": "Viện kiểm sát nhân dân có nhiệm vụ gì trong hệ thống pháp luật Việt Nam?",
+    "answer": "Viện kiểm sát nhân dân có nhiệm vụ bảo vệ pháp luật, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân, góp phần bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất."
+  },
+  {
+    "id": "PL_812",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+    "question": "Viện trưởng Viện kiểm sát nhân dân tối cao chịu trách nhiệm báo cáo công tác trước cơ quan nào?",
+    "answer": "Viện trưởng Viện kiểm sát nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu trách nhiệm và báo cáo công tác trước Ủy ban thường vụ Quốc hội và Chủ tịch nước."
+  },
+  {
+    "id": "PL_813",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc lãnh đạo trong hệ thống Viện kiểm sát nhân dân.",
+    "question": "Viện trưởng Viện kiểm sát nhân dân cấp dưới chịu sự lãnh đạo của ai?",
+    "answer": "Viện trưởng Viện kiểm sát nhân dân cấp dưới chịu sự lãnh đạo của Viện trưởng Viện kiểm sát nhân dân cấp trên và sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao."
+  },
+  {
+    "id": "PL_814",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+    "question": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao được xác định như thế nào?",
+    "answer": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao theo nhiệm kỳ của Quốc hội."
+  },
+  {
+    "id": "PL_815",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về Chính quyền địa phương trong tổ chức nhà nước Việt Nam.",
+    "question": "Chính quyền địa phương được tổ chức ở đâu trong nước Cộng hòa Xã hội chủ nghĩa Việt Nam?",
+    "answer": "Chính quyền địa phương được tổ chức ở các đơn vị hành chính của nước Cộng hòa Xã hội chủ nghĩa Việt Nam."
+  }
+]

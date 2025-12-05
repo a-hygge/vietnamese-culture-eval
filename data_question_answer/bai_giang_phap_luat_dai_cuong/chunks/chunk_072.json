@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_356",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền công dân.",
+    "question": "Công dân được tự do làm những gì theo quy định pháp luật?",
+    "answer": "Công dân được tự do làm những gì mà pháp luật không cấm."
+  },
+  {
+    "id": "PL_357",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ công dân.",
+    "question": "Nghĩa vụ của công dân đối với Nhà nước và Tổ quốc được thể hiện như thế nào?",
+    "answer": "Công dân phải chăm lo đến lợi ích chung của tập thể, của xã hội và làm tròn nghĩa vụ của mình đối với Nhà nước và Tổ quốc."
+  },
+  {
+    "id": "PL_358",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật trong quản lý xã hội.",
+    "question": "Tại sao pháp luật được coi là công cụ quản lý hiệu lực và đặc trưng nhất của Nhà nước?",
+    "answer": "Pháp luật do Nhà nước đặt ra và bảo vệ, là công cụ đảm bảo sự quản lý, cai trị của Nhà nước đối với xã hội một cách có hiệu quả."
+  },
+  {
+    "id": "PL_359",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp quyền.",
+    "question": "Việc thực thi quyền tự do, dân chủ của công dân cần tuân theo nguyên tắc gì?",
+    "answer": "Việc thực thi quyền tự do, dân chủ phải có pháp luật, trong khuôn khổ pháp luật và không được làm tổn hại đến lợi ích chung của xã hội hoặc quyền tự do, dân chủ của người khác."
+  },
+  {
+    "id": "PL_360",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về biện pháp xử lý vi phạm pháp luật.",
+    "question": "Nhà nước xử lý như thế nào đối với những người không tự giác tuân thủ pháp luật?",
+    "answer": "Nhà nước áp dụng biện pháp cưỡng chế và xử lý thích đáng theo đúng pháp luật đối với những người không tự giác tuân thủ pháp luật."
+  }
+]

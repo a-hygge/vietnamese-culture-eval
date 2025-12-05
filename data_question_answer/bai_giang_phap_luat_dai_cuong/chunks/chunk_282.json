@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1406",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật dân sự.",
+    "question": "Đặt cọc trong pháp luật dân sự được định nghĩa như thế nào?",
+    "answer": "Đặt cọc là việc một bên giao cho bên kia một khoản tiền, kim khí quý, đá quý hoặc các vật có giá trị khác trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng dân sự."
+  },
+  {
+    "id": "PL_1407",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật dân sự.",
+    "question": "Ký cược trong hợp đồng thuê tài sản là gì?",
+    "answer": "Ký cược là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền, kim khí quý, đá quý hoặc các vật có giá trị khác (gọi là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản cho thuê."
+  },
+  {
+    "id": "PL_1408",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật dân sự.",
+    "question": "Ký quỹ được hiểu như thế nào theo pháp luật dân sự?",
+    "answer": "Ký quỹ là việc bên có nghĩa vụ gửi một khoản tiền, kim khí quý, đá quý hoặc các giấy tờ có giá trị khác vào tài khoản phong tỏa tại ngân hàng để đảm bảo việc thực hiện nghĩa vụ."
+  },
+  {
+    "id": "PL_1409",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu trong hợp đồng dân sự.",
+    "question": "Bảo lưu quyền sở hữu trong hợp đồng mua bán được hiểu như thế nào?",
+    "answer": "Bảo lưu quyền sở hữu là việc quyền sở hữu tài sản có thể được bên bán bảo lưu cho đến khi nghĩa vụ thanh toán được thực hiện."
+  },
+  {
+    "id": "PL_1410",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bảo lãnh trong pháp luật dân sự.",
+    "question": "Bảo lãnh trong pháp luật dân sự được định nghĩa ra sao?",
+    "answer": "Bảo lãnh là việc người thứ ba (gọi là người bảo lãnh) cam kết với các bên có quyền (gọi là người nhận bảo lãnh) sẽ thực hiện nghĩa vụ thay cho bên có nghĩa vụ (gọi là bên được bảo lãnh) nếu khi đến thời hạn mà người đó không thực hiện nghĩa vụ."
+  }
+]

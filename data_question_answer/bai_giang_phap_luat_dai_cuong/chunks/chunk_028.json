@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_136",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm nhà nước trong các hình thái kinh tế-xã hội.",
+    "question": "Nhà nước phát sinh, tồn tại và phát triển dựa trên yếu tố nào trong xã hội?",
+    "answer": "Nhà nước phát sinh, tồn tại và phát triển dựa trên và phù hợp với bản chất, đặc điểm của cơ sở hạ tầng, là các quan hệ sản xuất trong mỗi phương thức sản xuất tương ứng."
+  },
+  {
+    "id": "PL_137",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các kiểu nhà nước trong lịch sử.",
+    "question": "Có bao nhiêu kiểu nhà nước được xác định dựa trên các hình thái kinh tế-xã hội?",
+    "answer": "Có bốn kiểu nhà nước được xác định dựa trên các hình thái kinh tế-xã hội."
+  },
+  {
+    "id": "PL_138",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của kiểu nhà nước chủ nô.",
+    "question": "Kiểu nhà nước chủ nô xuất hiện trong hoàn cảnh xã hội như thế nào?",
+    "answer": "Kiểu nhà nước chủ nô xuất hiện khi chế độ thị tộc-bộ lạc tan rã, tư hữu tài sản xuất hiện, xã hội phân hóa thành giai cấp và mâu thuẫn giai cấp không thể điều hòa được."
+  },
+  {
+    "id": "PL_139",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ sở kinh tế của kiểu nhà nước chủ nô.",
+    "question": "Cơ sở kinh tế của kiểu nhà nước chủ nô được xác định như thế nào?",
+    "answer": "Cơ sở kinh tế của kiểu nhà nước chủ nô là chế độ sở hữu của chủ nô đối với tư liệu sản xuất, sản phẩm lao động và người nô lệ."
+  },
+  {
+    "id": "PL_140",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu xã hội trong kiểu nhà nước chủ nô.",
+    "question": "Xã hội trong kiểu nhà nước chủ nô được phân chia thành những giai cấp nào?",
+    "answer": "Xã hội trong kiểu nhà nước chủ nô có hai giai cấp chính là chủ nô và nô lệ, ngoài ra còn có tầng lớp thợ thủ công và những người lao động tự do khác."
+  }
+]

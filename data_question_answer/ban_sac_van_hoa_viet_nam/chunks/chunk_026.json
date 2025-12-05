@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_126",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ cúng tổ tiên trong văn hóa Việt Nam.",
+    "question": "Chế độ thờ cúng tổ tiên của người Việt có nguồn gốc từ đâu và chịu ảnh hưởng của nền văn hóa nào?",
+    "answer": "Chế độ thờ cúng tổ tiên của người Việt có nguồn gốc từ Đông Nam Á và chịu ảnh hưởng của văn hóa Trung Quốc."
+  },
+  {
+    "id": "VH_127",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Nhà thờ họ và gia phả trong văn hóa Việt Nam chịu ảnh hưởng từ nền văn hóa nào?",
+    "answer": "Nhà thờ họ và gia phả trong văn hóa Việt Nam chịu ảnh hưởng từ văn hóa Trung Quốc."
+  },
+  {
+    "id": "VH_128",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng trong văn hóa Việt Nam.",
+    "question": "Tác phẩm nào đóng vai trò quan trọng trong việc định hình phong tục thờ cúng tổ tiên ở Việt Nam?",
+    "answer": "Tác phẩm 'Thọ Mai Gia Lễ', được soạn bởi Thọ Mai, một nhà Nho Nghệ An sống vào thế kỷ XVIII, đóng vai trò quan trọng trong việc định hình phong tục thờ cúng tổ tiên ở Việt Nam."
+  },
+  {
+    "id": "VH_129",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ Thành hoàng ở Việt Nam.",
+    "question": "Tín ngưỡng thờ Thành hoàng ở Việt Nam có nguồn gốc từ đâu và được bắt đầu khi nào?",
+    "answer": "Tín ngưỡng thờ Thành hoàng ở Việt Nam có nguồn gốc từ Trung Quốc, nơi danh từ 'Thành hoàng' được sử dụng từ thế kỷ VI để chỉ vị thần làm chủ một thành, và thể chế này do triều đình đặt ra."
+  },
+  {
+    "id": "VH_130",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Nguồn gốc của các họ trong văn hóa Việt Nam xuất phát từ hệ thống chữ viết nào?",
+    "answer": "Nguồn gốc của các họ trong văn hóa Việt Nam xuất phát từ chữ Hán."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_521",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Vi phạm pháp luật là gì?",
+    "answer": "Vi phạm pháp luật là hành vi trái pháp luật xâm hại các quan hệ xã hội được pháp luật bảo vệ, do các chủ thể có năng lực hành vi thực hiện một cách cố ý hoặc vô ý gây hậu quả thiệt hại cho xã hội."
+  },
+  {
+    "id": "PL_522",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về dấu hiệu vi phạm pháp luật.",
+    "question": "Những dấu hiệu nào cho thấy một hành vi là vi phạm pháp luật?",
+    "answer": "Những dấu hiệu cho thấy một hành vi là vi phạm pháp luật bao gồm: hành vi của con người (hành động hoặc không hành động), tính chất trái pháp luật, và lỗi thể hiện thái độ tâm lý tiêu cực của chủ thể đối với hành vi và hậu quả của nó."
+  },
+  {
+    "id": "PL_523",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về năng lực hành vi của chủ thể trong pháp luật.",
+    "question": "Tại sao năng lực hành vi của chủ thể lại quan trọng trong việc xác định vi phạm pháp luật?",
+    "answer": "Năng lực hành vi của chủ thể quan trọng vì nó xác định khả năng nhận thức được hành vi trái pháp luật và hậu quả của nó. Một hành vi chỉ được coi là vi phạm pháp luật nếu được thực hiện bởi chủ thể có năng lực hành vi."
+  },
+  {
+    "id": "PL_524",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về yếu tố lỗi trong vi phạm pháp luật.",
+    "question": "Lỗi trong vi phạm pháp luật có ý nghĩa gì?",
+    "answer": "Lỗi trong vi phạm pháp luật thể hiện thái độ tâm lý tiêu cực của chủ thể đối với hành vi trái pháp luật và hậu quả mà hành vi đó gây ra, bao gồm lỗi cố ý hoặc lỗi vô ý."
+  },
+  {
+    "id": "PL_525",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của việc nghiên cứu vi phạm pháp luật.",
+    "question": "Vì sao cần nghiên cứu nguyên nhân và bản chất của vi phạm pháp luật?",
+    "answer": "Nghiên cứu nguyên nhân và bản chất của vi phạm pháp luật giúp đề ra các biện pháp đấu tranh hiệu quả, góp phần lập lại trật tự và ổn định xã hội."
+  }
+]

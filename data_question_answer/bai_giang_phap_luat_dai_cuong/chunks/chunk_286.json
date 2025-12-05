@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1426",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật trong tố tụng dân sự.",
+    "question": "Người có quyền lợi, nghĩa vụ liên quan trong vụ án được định nghĩa như thế nào?",
+    "answer": "Người có quyền lợi, nghĩa vụ liên quan là người tham gia vào vụ án giữa nguyên đơn và bị đơn để bảo vệ quyền lợi của mình."
+  },
+  {
+    "id": "PL_1427",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò trong tố tụng dân sự.",
+    "question": "Vai trò của người bảo vệ quyền lợi của đương sự trong tố tụng dân sự là gì?",
+    "answer": "Người bảo vệ quyền lợi của đương sự giúp đỡ đương sự về mặt pháp lý nhằm bảo vệ quyền lợi của họ trong quá trình tố tụng."
+  },
+  {
+    "id": "PL_1428",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người bảo vệ quyền lợi của đương sự.",
+    "question": "Người bảo vệ quyền lợi của đương sự có quyền gì khi tham gia tố tụng?",
+    "answer": "Người bảo vệ quyền lợi của đương sự có quyền đề nghị thay đổi những người tiến hành tố tụng, cung cấp chứng cứ và đề đạt yêu cầu."
+  },
+  {
+    "id": "PL_1429",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người bảo vệ quyền lợi của đương sự.",
+    "question": "Nghĩa vụ của người bảo vệ quyền lợi của đương sự trong tố tụng dân sự là gì?",
+    "answer": "Người bảo vệ quyền lợi của đương sự có nghĩa vụ sử dụng các biện pháp do luật định để góp phần làm rõ sự thật về vụ án và giúp đương sự về mặt pháp lý bảo vệ quyền lợi của họ."
+  },
+  {
+    "id": "PL_1430",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời điểm tham gia tố tụng của người bảo vệ quyền lợi của đương sự.",
+    "question": "Người bảo vệ quyền lợi của đương sự tham gia tố tụng từ thời điểm nào?",
+    "answer": "Người bảo vệ quyền lợi của đương sự tham gia tố tụng từ khi khởi kiện."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_731",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử cách mạng Việt Nam.",
+    "question": "Mục tiêu chính của cách mạng Việt Nam là gì?",
+    "answer": "Mục tiêu chính của cách mạng Việt Nam là đấu tranh giải phóng dân tộc chống thực dân Pháp."
+  },
+  {
+    "id": "VH_732",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm cách mạng Việt Nam so với các nước khác.",
+    "question": "Điểm khác biệt cơ bản giữa cách mạng Việt Nam và cách mạng ở các nước như Anh, Đức, Nga là gì?",
+    "answer": "Cách mạng Việt Nam tập trung vào đấu tranh giải phóng dân tộc chống thực dân, trong khi cách mạng ở Anh, Đức, Nga chủ yếu là nội chiến hoặc đấu tranh giai cấp."
+  },
+  {
+    "id": "VH_733",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của bạo lực trong cách mạng Việt Nam.",
+    "question": "Tại sao cách mạng Việt Nam không cần dựa nhiều vào bạo lực như ở các nước khác?",
+    "answer": "Cách mạng Việt Nam không cần dựa nhiều vào bạo lực vì khi thực dân Pháp sụp đổ, hệ thống của họ cũng sụp đổ theo, và những người ủng hộ thực dân không có đủ sức mạnh để duy trì quyền lực."
+  },
+  {
+    "id": "VH_734",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa và tâm thức dân tộc Việt Nam.",
+    "question": "Vì sao người dân Việt Nam không chấp nhận các lý luận dựa vào kẻ thù dân tộc?",
+    "answer": "Người dân Việt Nam không chấp nhận các lý luận dựa vào kẻ thù dân tộc vì họ coi đó là hành động phản bội dân tộc và luôn bác bỏ những lý luận như vậy."
+  },
+  {
+    "id": "VH_735",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa thực dân Pháp và văn hóa tại Việt Nam.",
+    "question": "Thực dân Pháp có thành công trong việc xây dựng một lực lượng văn hóa bảo vệ chính quyền tại Việt Nam không? Vì sao?",
+    "answer": "Thực dân Pháp không thành công trong việc xây dựng một lực lượng văn hóa bảo vệ chính quyền tại Việt Nam vì người dân Việt Nam bác bỏ mọi lý luận liên quan đến kẻ thù dân tộc."
+  }
+]

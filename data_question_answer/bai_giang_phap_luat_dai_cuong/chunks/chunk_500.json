@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1796",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_500.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức công ty hợp danh.",
+    "question": "Tài sản của công ty hợp danh bao gồm những loại nào?",
+    "answer": "Tài sản của công ty hợp danh bao gồm tài sản góp vốn của các thành viên đã được chuyển quyền sở hữu cho công ty, tài sản tạo lập được mang tên công ty, tài sản thu được từ hoạt động kinh doanh do các thành viên hợp danh thực hiện nhân danh công ty, các tài sản thu được từ hoạt động kinh doanh ngành nghề đã đăng ký của công ty do thành viên hợp danh thực hiện nhân danh cá nhân, và các tài sản khác theo quy định của pháp luật."
+  },
+  {
+    "id": "PL_1797",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_500.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức hợp tác xã.",
+    "question": "Hợp tác xã có những đặc điểm cơ bản nào?",
+    "answer": "Hợp tác xã là tổ chức kinh tế tập thể, đồng sở hữu, có tư cách pháp nhân, do ít nhất 7 thành viên tự nguyện thành lập, hoạt động dựa trên sự hợp tác, tương trợ lẫn nhau nhằm đáp ứng nhu cầu chung của thành viên, trên cơ sở tự chủ, tự chịu trách nhiệm, bình đẳng và dân chủ trong quản lý."
+  },
+  {
+    "id": "PL_1798",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_500.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức liên hiệp hợp tác xã.",
+    "question": "Liên hiệp hợp tác xã cần tối thiểu bao nhiêu hợp tác xã thành viên để thành lập, và mục đích của nó là gì?",
+    "answer": "Liên hiệp hợp tác xã được thành lập bởi tối thiểu 4 hợp tác xã, với mục đích hợp tác, tương trợ lẫn nhau trong hoạt động sản xuất, kinh doanh nhằm đáp ứng nhu cầu chung của các hợp tác xã thành viên, trên cơ sở tự chủ, tự chịu trách nhiệm, bình đẳng và dân chủ trong quản lý."
+  },
+  {
+    "id": "PL_1799",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_500.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự phát triển của hợp tác xã và liên hiệp hợp tác xã.",
+    "question": "Hợp tác xã và liên hiệp hợp tác xã có thể phát triển thành loại hình doanh nghiệp nào?",
+    "answer": "Khi hợp tác xã và liên hiệp hợp tác xã phát triển đến trình độ cao hơn, chúng sẽ hình thành các doanh nghiệp của hợp tác xã và liên hiệp hợp tác xã, hoạt động theo quy định của Luật doanh nghiệp."
+  },
+  {
+    "id": "PL_1800",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_500.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền sở hữu tài sản trong công ty hợp danh.",
+    "question": "Tài sản góp vốn của thành viên trong công ty hợp danh được xử lý ra sao?",
+    "answer": "Trong công ty hợp danh, tài sản góp vốn của thành viên được chuyển quyền sở hữu cho công ty."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_651",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ công dân.",
+    "question": "Công dân Việt Nam có quyền và nghĩa vụ gì trong lĩnh vực học tập?",
+    "answer": "Công dân có quyền và nghĩa vụ học tập, góp phần nâng cao trình độ và phát triển bản thân."
+  },
+  {
+    "id": "PL_652",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nghiên cứu khoa học và thụ hưởng giá trị văn hóa.",
+    "question": "Mọi người có quyền gì liên quan đến nghiên cứu khoa học và giá trị văn hóa?",
+    "answer": "Mọi người có quyền nghiên cứu khoa học, công nghệ, sáng tạo văn học, nghệ thuật, thụ hưởng lợi ích từ các hoạt động đó, tiếp cận các giá trị văn hóa và sử dụng các cơ sở văn hóa."
+  },
+  {
+    "id": "PL_653",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ bảo vệ môi trường.",
+    "question": "Mọi người có quyền và nghĩa vụ gì liên quan đến môi trường sống?",
+    "answer": "Mọi người có quyền được sống trong môi trường trong lành và có nghĩa vụ bảo vệ môi trường."
+  },
+  {
+    "id": "PL_654",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền xác định dân tộc và ngôn ngữ.",
+    "question": "Công dân có quyền gì liên quan đến xác định dân tộc và ngôn ngữ của mình?",
+    "answer": "Công dân có quyền xác định dân tộc của mình, sử dụng ngôn ngữ mẹ đẻ và lựa chọn ngôn ngữ giao tiếp."
+  },
+  {
+    "id": "PL_655",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ trung thành với Tổ quốc.",
+    "question": "Công dân có nghĩa vụ gì đối với Tổ quốc và hành vi nào bị coi là tội nặng nhất?",
+    "answer": "Công dân có nghĩa vụ trung thành với Tổ quốc, và phản bội Tổ quốc được coi là tội nặng nhất."
+  }
+]

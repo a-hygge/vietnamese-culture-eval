@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1231",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền xác định lại dân tộc theo quy định pháp luật.",
+    "question": "Ai có quyền yêu cầu xác định lại dân tộc?",
+    "answer": "Người đã thành niên, cha đẻ, mẹ đẻ hoặc người giám hộ của người chưa thành niên có quyền yêu cầu xác định lại dân tộc."
+  },
+  {
+    "id": "PL_1232",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định xác định lại dân tộc trong trường hợp cha mẹ thuộc hai dân tộc khác nhau.",
+    "question": "Dân tộc của người chưa thành niên được xác định lại như thế nào nếu cha và mẹ thuộc hai dân tộc khác nhau?",
+    "answer": "Dân tộc của người chưa thành niên có thể được xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ."
+  },
+  {
+    "id": "PL_1233",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền xác định lại dân tộc khi làm con nuôi.",
+    "question": "Khi làm con nuôi của người thuộc dân tộc khác, dân tộc của người chưa thành niên có thể được xác định lại trong trường hợp nào?",
+    "answer": "Dân tộc của người chưa thành niên có thể được xác định lại theo dân tộc của cha đẻ, mẹ đẻ nếu trước đó được xác định theo dân tộc của cha nuôi, mẹ nuôi do không biết cha đẻ, mẹ đẻ là ai."
+  },
+  {
+    "id": "PL_1234",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự đồng ý của người chưa thành niên trong việc xác định lại dân tộc.",
+    "question": "Người chưa thành niên từ đủ 15 tuổi trở lên cần làm gì để việc xác định lại dân tộc được thực hiện?",
+    "answer": "Người chưa thành niên từ đủ 15 tuổi trở lên phải đồng ý thì việc xác định lại dân tộc mới được thực hiện."
+  },
+  {
+    "id": "PL_1235",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khai sinh và khai tử theo quy định pháp luật.",
+    "question": "Pháp luật Việt Nam quy định như thế nào về quyền khai sinh và khai tử?",
+    "answer": "Mỗi cá nhân khi sinh ra có quyền được khai sinh. Khi có người chết, người thân thích, chủ nhà hoặc cơ quan, tổ chức nơi có người chết phải thực hiện khai tử cho người đó. Trẻ sơ sinh nếu chết sau khi sinh thì phải được khai sinh và khai tử."
+  }
+]

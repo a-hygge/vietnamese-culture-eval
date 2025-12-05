@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2951",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thi cử và văn học Nho giáo Việt Nam.",
+    "question": "Tại sao vần Hán Việt thường không trùng khớp với vần trong thơ Đường?",
+    "answer": "Vần Hán Việt không trùng khớp với vần trong thơ Đường do sự khác biệt trong ngữ âm giữa tiếng Việt và tiếng Hán thời Đường, ví dụ như 'chi' và 'vi' trong tiếng Việt được coi là một vần nhưng trong ngữ âm đời Đường lại là hai vần khác nhau."
+  },
+  {
+    "id": "VH_2952",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách học và thi cử thời phong kiến Việt Nam.",
+    "question": "Người xưa đã sử dụng phương pháp nào để ghi nhớ các vần dễ nhầm lẫn trong thi cử?",
+    "answer": "Người xưa thường chép các vần dễ nhầm lẫn bằng lối chữ nhỏ xíu gọi là chữ kiến và giấu đi để có thể kiểm tra khi cần."
+  },
+  {
+    "id": "VH_2953",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống làm thơ trong văn hóa Việt Nam.",
+    "question": "Vì sao các nhà thơ thời phong kiến thường làm thơ theo âm Việt thay vì theo Đường vận?",
+    "answer": "Các nhà thơ thời phong kiến thường làm thơ theo âm Việt vì cách này phù hợp với ngữ âm của người Việt, dù nó có thể không đúng với quy tắc Đường vận."
+  },
+  {
+    "id": "VH_2954",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thi cử thời phong kiến Việt Nam.",
+    "question": "Hậu quả của việc sử dụng chữ kiến trong kỳ thi là gì?",
+    "answer": "Nếu bị phát hiện sử dụng chữ kiến trong kỳ thi, thí sinh sẽ bị coi là phạm tội gian lận và bị cấm thi suốt đời."
+  },
+  {
+    "id": "VH_2955",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn học và thi cử thời phong kiến Việt Nam.",
+    "question": "Trong kỳ thi Đệ Tam, thí sinh phải làm bài thi ở những môn nào?",
+    "answer": "Trong kỳ thi Đệ Tam, thí sinh phải làm bài thi ở các môn văn sách, chế, biểu và chiếu."
+  }
+]

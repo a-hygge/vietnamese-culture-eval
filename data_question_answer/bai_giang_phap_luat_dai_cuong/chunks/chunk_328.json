@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1636",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hợp đồng lao động trong pháp luật lao động Việt Nam.",
+    "question": "Người sử dụng lao động có thể thỏa thuận với người lao động về điều gì khi công việc liên quan đến bí mật kinh doanh hoặc bí mật công nghệ?",
+    "answer": "Người sử dụng lao động có thể thỏa thuận bằng văn bản với người lao động về nội dung, thời hạn bảo vệ bí mật kinh doanh, bí mật công nghệ, quyền lợi và việc bồi thường nếu người lao động vi phạm."
+  },
+  {
+    "id": "PL_1637",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của người lao động theo hợp đồng lao động.",
+    "question": "Những nội dung nào cần có trong hợp đồng lao động để bảo vệ quyền lợi của người lao động?",
+    "answer": "Hợp đồng lao động cần bao gồm các nội dung như lương, thời giờ làm việc, thời giờ nghỉ ngơi, trang bị bảo hộ lao động, bảo hiểm xã hội, bảo hiểm y tế, đào tạo, bồi dưỡng và nâng cao trình độ kỹ năng nghề."
+  },
+  {
+    "id": "PL_1638",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hợp đồng lao động trong các ngành nghề đặc thù.",
+    "question": "Khi công việc chịu ảnh hưởng bởi thiên tai, hỏa hoạn hoặc thời tiết, hai bên có thể thỏa thuận bổ sung điều gì trong hợp đồng lao động?",
+    "answer": "Hai bên có thể thỏa thuận bổ sung nội dung về phương thức giải quyết trong trường hợp thực hiện hợp đồng bị ảnh hưởng bởi thiên tai, hỏa hoạn hoặc thời tiết."
+  },
+  {
+    "id": "PL_1639",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tính linh hoạt của hợp đồng lao động trong các ngành nghề đặc thù.",
+    "question": "Hợp đồng lao động trong các lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có thể được điều chỉnh như thế nào để phù hợp với đặc thù công việc?",
+    "answer": "Hợp đồng lao động trong các lĩnh vực này có thể giảm bớt một số nội dung chủ yếu tùy thuộc vào loại công việc cụ thể."
+  },
+  {
+    "id": "PL_1640",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người lao động khi làm việc liên quan đến bí mật kinh doanh.",
+    "question": "Người lao động cần thực hiện trách nhiệm gì khi làm việc liên quan đến bí mật kinh doanh hoặc bí mật công nghệ?",
+    "answer": "Người lao động cần tuân thủ nội dung và thời hạn bảo vệ bí mật kinh doanh, bí mật công nghệ theo thỏa thuận trong hợp đồng lao động, đồng thời chịu trách nhiệm bồi thường nếu vi phạm."
+  }
+]

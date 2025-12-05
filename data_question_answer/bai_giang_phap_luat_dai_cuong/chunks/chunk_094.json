@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_466",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm quy phạm pháp luật.",
+    "question": "Quy phạm pháp luật có đặc điểm gì quan trọng?",
+    "answer": "Quy phạm pháp luật yêu cầu bắt buộc có những xử sự nhất định được xác định trước."
+  },
+  {
+    "id": "PL_467",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của hành vi xử sự theo pháp luật.",
+    "question": "Hành vi xử sự theo quy phạm pháp luật nhằm thực hiện điều gì?",
+    "answer": "Hành vi xử sự nhằm thực hiện quyền chủ thể của bên kia trong quan hệ pháp luật."
+  },
+  {
+    "id": "PL_468",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khách thể của quan hệ pháp luật.",
+    "question": "Khách thể của quan hệ pháp luật là gì?",
+    "answer": "Khách thể của quan hệ pháp luật là đối tượng mà các bên tham gia quan hệ pháp luật hướng tới để thực hiện quyền và nghĩa vụ."
+  },
+  {
+    "id": "PL_469",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xử sự trong pháp luật.",
+    "question": "Nguyên tắc xử sự trong pháp luật được xác định bởi yếu tố nào?",
+    "answer": "Nguyên tắc xử sự trong pháp luật được xác định bởi quy phạm pháp luật."
+  },
+  {
+    "id": "PL_470",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền chủ thể trong pháp luật.",
+    "question": "Quyền chủ thể trong pháp luật được thực hiện thông qua hành vi nào?",
+    "answer": "Quyền chủ thể được thực hiện thông qua hành vi xử sự của bên kia theo quy định pháp luật."
+  }
+]

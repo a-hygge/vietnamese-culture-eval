@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_261",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò lãnh đạo của Đảng đối với Nhà nước.",
+    "question": "Đảng lãnh đạo Nhà nước bằng cách nào?",
+    "answer": "Đảng lãnh đạo Nhà nước thông qua phương pháp giáo dục và thuyết phục."
+  },
+  {
+    "id": "PL_262",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của cán bộ, đảng viên trong quản lý nhà nước.",
+    "question": "Cán bộ, đảng viên cần làm gì để tuân thủ chính sách của Đảng và pháp luật?",
+    "answer": "Cán bộ, đảng viên cần gương mẫu trong việc tuân thủ đường lối, chính sách của Đảng và pháp luật của Nhà nước."
+  },
+  {
+    "id": "PL_263",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ chế kiểm tra của Đảng đối với các cơ quan nhà nước.",
+    "question": "Việc kiểm tra của Đảng đối với cơ quan nhà nước nhằm mục đích gì?",
+    "answer": "Mục đích là phát hiện những thiếu sót, khuyết điểm trong quản lý nhà nước và đưa ra các biện pháp khắc phục."
+  },
+  {
+    "id": "PL_264",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp lý của Mặt trận Tổ quốc Việt Nam.",
+    "question": "Mặt trận Tổ quốc Việt Nam được hiểu như thế nào theo pháp luật?",
+    "answer": "Mặt trận Tổ quốc Việt Nam là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị-xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, tầng lớp xã hội, dân tộc, tôn giáo, người Việt Nam định cư ở nước ngoài."
+  },
+  {
+    "id": "PL_265",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Mặt trận Tổ quốc Việt Nam trong hệ thống chính trị.",
+    "question": "Mặt trận Tổ quốc Việt Nam có vai trò gì trong hệ thống chính trị?",
+    "answer": "Mặt trận Tổ quốc Việt Nam giữ vai trò quan trọng, là tổ chức liên minh chính trị tự nguyện của các tổ chức và cá nhân tiêu biểu trong xã hội."
+  }
+]

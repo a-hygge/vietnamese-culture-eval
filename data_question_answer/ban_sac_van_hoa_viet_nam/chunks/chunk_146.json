@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_726",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Mục tiêu cao nhất mà người Việt Nam thường hướng tới trong đời sống xã hội là gì?",
+    "answer": "Mục tiêu cao nhất mà người Việt hướng tới là quyền lợi của đất nước và độc lập của Tổ quốc."
+  },
+  {
+    "id": "VH_727",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tiếp thu văn hóa trong lịch sử Việt Nam.",
+    "question": "Người Việt đã tiếp thu những yếu tố nào từ các học thuyết và tôn giáo lớn trên thế giới để phát triển văn hóa dân tộc?",
+    "answer": "Người Việt đã tiếp thu phương pháp khảo sát thực tế của Mác, tự tu dưỡng theo phương pháp của Khổng Tử, tinh thần bác ái của Giê-xu, và xét thực tế qua chính sách của Tôn Dật Tiên."
+  },
+  {
+    "id": "VH_728",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng chính trị và kinh tế trong lịch sử.",
+    "question": "Học thuyết Mác và Lênin dựa trên cơ sở chính nào trong lĩnh vực kinh tế học?",
+    "answer": "Cơ sở chính của học thuyết Mác là tác phẩm 'Tư bản', một công trình kinh tế học, còn cơ sở của học thuyết Lênin là tác phẩm 'Sự phát triển của chủ nghĩa tư bản ở Nga', cũng là một công trình kinh tế học."
+  },
+  {
+    "id": "VH_729",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt trong tư duy văn hóa giữa các dân tộc.",
+    "question": "Điểm khác biệt chính giữa tâm thức người châu Âu và tâm thức người Việt Nam là gì?",
+    "answer": "Tâm thức người châu Âu là cá nhân luận, trong đó quyền lợi kinh tế quy định hành vi con người, còn tâm thức người Việt Nam là nhân cách luận, lấy Tổ quốc độc lập làm mục tiêu."
+  },
+  {
+    "id": "VH_730",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách tiếp cận văn hóa và tư tưởng ở Việt Nam.",
+    "question": "Người Việt đã áp dụng các tư tưởng ngoại lai như thế nào để phù hợp với thực tế của đất nước?",
+    "answer": "Người Việt không làm theo các kết luận có sẵn mà căn cứ vào tinh thần và thực tế để tìm ra biện pháp thích hợp cho Việt Nam."
+  }
+]

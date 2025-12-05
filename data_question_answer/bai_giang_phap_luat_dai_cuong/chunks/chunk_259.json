@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1291",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật trong luật dân sự.",
+    "question": "Chiếm hữu không có căn cứ pháp luật nhưng ngay tình được hiểu như thế nào?",
+    "answer": "Chiếm hữu không có căn cứ pháp luật nhưng ngay tình là việc một người chiếm hữu tài sản mà không biết và không thể biết rằng việc chiếm hữu tài sản đó là không có căn cứ pháp luật."
+  },
+  {
+    "id": "PL_1292",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật trong luật dân sự.",
+    "question": "Chiếm hữu liên tục được định nghĩa như thế nào?",
+    "answer": "Chiếm hữu liên tục là việc chiếm hữu tài sản trong một khoảng thời gian mà không có tranh chấp về tài sản đó, kể cả khi tài sản được giao cho người khác chiếm hữu."
+  },
+  {
+    "id": "PL_1293",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện chiếm hữu tài sản theo luật dân sự.",
+    "question": "Điều kiện để một người được coi là chiếm hữu ngay tình là gì?",
+    "answer": "Điều kiện để một người được coi là chiếm hữu ngay tình là họ không biết và không thể biết việc chiếm hữu tài sản đó là không có căn cứ pháp luật."
+  },
+  {
+    "id": "PL_1294",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc chiếm hữu tài sản trong luật dân sự.",
+    "question": "Chiếm hữu liên tục có bị ảnh hưởng bởi tranh chấp tài sản không?",
+    "answer": "Chiếm hữu liên tục không bị ảnh hưởng bởi tranh chấp tài sản, nghĩa là việc chiếm hữu được thực hiện trong khoảng thời gian không có tranh chấp về tài sản đó."
+  },
+  {
+    "id": "PL_1295",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm chiếm hữu trong luật dân sự.",
+    "question": "Chiếm hữu không có căn cứ pháp luật nhưng ngay tình có được coi là hợp pháp không?",
+    "answer": "Chiếm hữu không có căn cứ pháp luật nhưng ngay tình không được coi là hợp pháp vì nó không phù hợp với quy định tại Điều 183 của Bộ luật dân sự."
+  }
+]

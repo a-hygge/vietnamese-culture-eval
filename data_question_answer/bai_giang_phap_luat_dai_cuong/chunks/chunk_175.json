@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_871",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm công chức cấp xã.",
+    "question": "Công chức cấp xã được hiểu như thế nào theo quy định?",
+    "answer": "Công chức cấp xã là công dân Việt Nam được tuyển dụng giữ một chức danh chuyên môn nghiệp vụ thuộc Ủy ban nhân dân cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước."
+  },
+  {
+    "id": "PL_872",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của công chức nhà nước.",
+    "question": "Một đặc điểm quan trọng của công chức nhà nước là gì?",
+    "answer": "Công chức nhà nước luôn thực hiện một công vụ nào đó của Nhà nước, gánh vác nghĩa vụ nhất định đối với Nhà nước và được trao quyền hạn để hoàn thành nghĩa vụ trong phạm vi quyền hạn được giao."
+  },
+  {
+    "id": "PL_873",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của công chức nhà nước.",
+    "question": "Công chức nhà nước có trách nhiệm gì khi thực hiện nhiệm vụ?",
+    "answer": "Công chức nhà nước phải gánh vác nghĩa vụ đối với Nhà nước và được trao quyền hạn nhất định để hoàn thành nghĩa vụ, nhưng chỉ được hành động trong phạm vi quyền hạn được giao."
+  },
+  {
+    "id": "PL_874",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguồn thu nhập của công chức.",
+    "question": "Công chức nhận thu nhập chính từ nguồn nào?",
+    "answer": "Công chức nhà nước được hưởng lương từ ngân sách nhà nước."
+  },
+  {
+    "id": "PL_875",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về lĩnh vực hoạt động của công chức.",
+    "question": "Công chức nhà nước hoạt động trong lĩnh vực nào?",
+    "answer": "Hoạt động thi hành công vụ của công chức nhà nước thuộc lĩnh vực quản lý nhà nước và không trực tiếp sản xuất ra của cải vật chất."
+  }
+]

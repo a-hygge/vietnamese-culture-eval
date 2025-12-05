@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1006",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Nguyên nhân nào khiến người Việt Nam ít biết đến cuộc vận động Ngũ Tứ năm 1919?",
+    "answer": "Nguyên nhân là do sự gián đoạn trong mối liên hệ văn hóa giữa Việt Nam và Trung Quốc."
+  },
+  {
+    "id": "VH_1007",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giáo dục thời Pháp thuộc ở Việt Nam.",
+    "question": "Hệ thống giáo dục thời Pháp thuộc vào năm 1917 được chia thành bao nhiêu cấp học?",
+    "answer": "Hệ thống giáo dục thời Pháp thuộc vào năm 1917 được chia thành ba cấp: cấp sơ đẳng (3 năm), cấp tiểu học (3 năm) và cấp cao đẳng tiểu học (4 năm)."
+  },
+  {
+    "id": "VH_1008",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giáo dục và nghề nghiệp thời kỳ thuộc địa ở Việt Nam.",
+    "question": "Người tốt nghiệp cao đẳng tiểu học dưới thời Pháp thuộc thường đảm nhiệm những công việc nào?",
+    "answer": "Họ thường làm thư lại ở các cơ quan Nam Triều, làm thông phán ở các cơ quan của Pháp hoặc học tiếp ba năm để thi tú tài."
+  },
+  {
+    "id": "VH_1009",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử giáo dục Việt Nam thời Pháp thuộc.",
+    "question": "Ba trường Bách công được thành lập trong thời kỳ khai thác thuộc địa lần thứ hai nằm ở những địa điểm nào?",
+    "answer": "Ba trường Bách công được thành lập ở Hà Nội, Huế và Sài Gòn trong thời kỳ khai thác thuộc địa lần thứ hai."
+  },
+  {
+    "id": "VH_1010",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử giáo dục đại học Việt Nam.",
+    "question": "Những khoa nào được thành lập đầu tiên tại trường đại học Hà Nội vào năm 1907?",
+    "answer": "Những khoa được thành lập đầu tiên tại trường đại học Hà Nội vào năm 1907 gồm: khoa Y, khoa Văn, khoa Khoa học, khoa Luật và khoa Công chính."
+  }
+]

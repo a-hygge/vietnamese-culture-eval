@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_131",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và văn hóa làng xã Việt Nam.",
+    "question": "Thành hoàng trong văn hóa Việt Nam là ai?",
+    "answer": "Thành hoàng là vị thần bảo hộ cho một làng, thường được thờ tại đình làng và gắn bó với đời sống tinh thần của dân làng."
+  },
+  {
+    "id": "VH_132",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng dân gian Việt Nam.",
+    "question": "Thành hoàng được phong cấp bậc như thế nào?",
+    "answer": "Thành hoàng được phong làm thượng đẳng thần, trung đẳng thần hoặc hạ đẳng thần."
+  },
+  {
+    "id": "VH_133",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của các vị thần trong văn hóa Việt Nam.",
+    "question": "Có bao nhiêu loại thần phụ được thờ cùng với thành hoàng và đó là những loại nào?",
+    "answer": "Có hai loại thần phụ: các lực lượng thiên nhiên như thần núi, thần nước, hoặc các vị thần của riêng một làng như người ăn xin, người chết đuối."
+  },
+  {
+    "id": "VH_134",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và lễ hội dân gian Việt Nam.",
+    "question": "Hội làng có vai trò gì trong đời sống văn hóa làng xã?",
+    "answer": "Hội làng là dịp để thể hiện rõ vai trò và ý nghĩa của thành hoàng trong đời sống văn hóa làng xã."
+  },
+  {
+    "id": "VH_135",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn gốc và ý nghĩa tên gọi thành hoàng.",
+    "question": "Tên gọi 'thành hoàng' có nguồn gốc từ đâu?",
+    "answer": "Tên gọi 'thành hoàng' có thể bắt nguồn từ chữ 'm làng' của người miền núi và được người Việt mượn từ chữ Hán gần nghĩa."
+  }
+]

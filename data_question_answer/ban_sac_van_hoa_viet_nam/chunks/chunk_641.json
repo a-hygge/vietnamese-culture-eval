@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3201",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách nhìn nhận văn hóa miền núi Việt Nam.",
+    "question": "Các nhà Nho thời xưa thường quan tâm đến những khía cạnh nào trong văn hóa của các tộc người miền núi?",
+    "answer": "Các nhà Nho thường quan tâm đến mặt thơ ca, cúng tế và phù phép trong văn hóa của các tộc người miền núi."
+  },
+  {
+    "id": "VH_3202",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa của người Dao trong các tài liệu liên quan đến dân tộc thiểu số.",
+    "question": "Người Dao được phân chia thành những nhóm nào trong các tài liệu về dân tộc thiểu số?",
+    "answer": "Người Dao được phân chia thành các nhóm như Mán Dao tiền, Mán Cao Bằng, Mán Há Dương, Mán Quần cộc, Mán Nông cống, Mán Quần trắng, Mán Chiêm Hóa, Mán Yên Bái."
+  },
+  {
+    "id": "VH_3203",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự quan tâm của người Kinh đối với văn hóa miền núi.",
+    "question": "Người Kinh thường thể hiện mức độ quan tâm như thế nào đối với văn hóa của các đồng bào miền núi?",
+    "answer": "Người Kinh thường thể hiện sự quan tâm ít ỏi đối với văn hóa của các đồng bào miền núi."
+  },
+  {
+    "id": "VH_3204",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các nghi lễ được đề cập trong tài liệu văn hóa của người Mường.",
+    "question": "Tài liệu văn hóa về người Mường thường nhấn mạnh đến nghi lễ nào?",
+    "answer": "Tài liệu văn hóa về người Mường thường nhấn mạnh đến lễ mai táng."
+  },
+  {
+    "id": "VH_3205",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về những lĩnh vực văn hóa chưa được chú ý trong đời sống của người Kinh.",
+    "question": "Người Kinh chưa chú ý đến những lĩnh vực nào trong đời sống văn hóa?",
+    "answer": "Người Kinh chưa chú ý đến sinh hoạt ngoài khơi, các đồng bào sống bằng ngư nghiệp và cách trồng rừng."
+  }
+]

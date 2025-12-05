@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_111",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Tại sao nhà nước phải chia lãnh thổ thành các đơn vị hành chính như tỉnh, huyện, xã?",
+    "answer": "Nhà nước chia lãnh thổ thành các đơn vị hành chính để phục vụ cho việc cai trị và quản lý hiệu quả."
+  },
+  {
+    "id": "PL_112",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm chủ quyền quốc gia.",
+    "question": "Chủ quyền quốc gia của nhà nước được hiểu như thế nào?",
+    "answer": "Chủ quyền quốc gia là quyền tự quyết của nhà nước về mọi chính sách đối nội và đối ngoại, không phụ thuộc vào bất kỳ quốc gia nào khác, và thể hiện tính tối cao với các tổ chức và dân cư."
+  },
+  {
+    "id": "PL_113",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối liên hệ giữa nhà nước và pháp luật.",
+    "question": "Nhà nước và pháp luật có mối liên hệ như thế nào?",
+    "answer": "Nhà nước và pháp luật có mối liên hệ phụ thuộc lẫn nhau: không thể có nhà nước mà thiếu pháp luật, và pháp luật chỉ tồn tại khi được nhà nước ban hành và bảo đảm thực thi."
+  },
+  {
+    "id": "PL_114",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền ban hành pháp luật của nhà nước.",
+    "question": "Vì sao chỉ nhà nước mới có quyền ban hành pháp luật?",
+    "answer": "Chỉ nhà nước mới có quyền ban hành pháp luật vì nhà nước là tổ chức quyền lực chính thống của xã hội, đảm bảo pháp luật có hiệu lực thực thi, trong khi các tổ chức xã hội không có quyền này."
+  },
+  {
+    "id": "PL_115",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế định quốc tịch.",
+    "question": "Chế định quốc tịch có vai trò gì trong việc xác lập mối quan hệ giữa nhà nước và công dân?",
+    "answer": "Chế định quốc tịch quy định sự lệ thuộc của một công dân vào một nhà nước và vùng lãnh thổ nhất định, từ đó thiết lập quan hệ giữa nhà nước có chủ quyền với công dân của mình."
+  }
+]

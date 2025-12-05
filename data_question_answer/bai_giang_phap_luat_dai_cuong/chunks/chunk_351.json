@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1711",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định hình thức trả lương theo pháp luật lao động Việt Nam.",
+    "question": "Người sử dụng lao động phải thông báo cho người lao động trước bao nhiêu ngày nếu muốn thay đổi hình thức trả lương?",
+    "answer": "Người sử dụng lao động phải thông báo cho người lao động biết trước ít nhất 10 ngày nếu muốn thay đổi hình thức trả lương."
+  },
+  {
+    "id": "PL_1712",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phương thức trả lương theo pháp luật lao động Việt Nam.",
+    "question": "Lương có thể được trả qua những hình thức nào theo quy định pháp luật?",
+    "answer": "Lương có thể được trả bằng tiền mặt hoặc qua tài khoản cá nhân của người lao động được mở tại ngân hàng."
+  },
+  {
+    "id": "PL_1713",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thỏa thuận trả lương qua tài khoản ngân hàng.",
+    "question": "Người sử dụng lao động phải làm gì khi trả lương qua tài khoản ngân hàng của người lao động?",
+    "answer": "Người sử dụng lao động phải thỏa thuận với người lao động về các loại phí liên quan đến việc mở, duy trì tài khoản ngân hàng."
+  },
+  {
+    "id": "PL_1714",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định thời hạn trả lương theo pháp luật lao động Việt Nam.",
+    "question": "Người lao động hưởng lương giờ, ngày, tuần phải được trả lương ít nhất bao nhiêu ngày một lần?",
+    "answer": "Người lao động hưởng lương giờ, ngày, tuần phải được trả lương gộp ít nhất 15 ngày một lần."
+  },
+  {
+    "id": "PL_1715",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời gian trả lương tháng theo pháp luật lao động Việt Nam.",
+    "question": "Người lao động hưởng lương tháng được trả lương theo những khoảng thời gian nào?",
+    "answer": "Người lao động hưởng lương tháng được trả lương tháng một lần hoặc nửa tháng một lần."
+  }
+]

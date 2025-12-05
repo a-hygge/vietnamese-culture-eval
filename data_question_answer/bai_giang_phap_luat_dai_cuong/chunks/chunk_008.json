@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_036",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật chống tham nhũng.",
+    "question": "Hành vi tham nhũng được định nghĩa như thế nào trong pháp luật Việt Nam?",
+    "answer": "Hành vi tham nhũng là hành vi lợi dụng quyền lực, chức vụ để trục lợi cá nhân, gây tổn hại đến lợi ích công cộng và nhà nước."
+  },
+  {
+    "id": "PL_037",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm công dân trong phòng, chống tham nhũng.",
+    "question": "Công dân có trách nhiệm gì trong đấu tranh phòng, chống tham nhũng?",
+    "answer": "Công dân có trách nhiệm tố giác các hành vi tham nhũng, hợp tác với cơ quan chức năng trong việc điều tra, xử lý các vụ việc tham nhũng và nâng cao nhận thức về phòng, chống tham nhũng."
+  },
+  {
+    "id": "PL_038",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tác hại của tham nhũng.",
+    "question": "Tham nhũng gây ra những tác hại nào đối với xã hội?",
+    "answer": "Tham nhũng gây tổn hại đến kinh tế, làm suy giảm lòng tin của người dân vào bộ máy nhà nước, làm gia tăng bất bình đẳng xã hội và cản trở sự phát triển bền vững của quốc gia."
+  },
+  {
+    "id": "PL_039",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân của tham nhũng.",
+    "question": "Nguyên nhân chính dẫn đến hành vi tham nhũng là gì?",
+    "answer": "Nguyên nhân chính dẫn đến tham nhũng bao gồm sự yếu kém trong quản lý nhà nước, thiếu minh bạch trong các hoạt động công, sự thiếu trách nhiệm của cán bộ công chức và hệ thống pháp luật chưa hoàn thiện."
+  },
+  {
+    "id": "PL_040",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về luật dân sự.",
+    "question": "Luật dân sự điều chỉnh những lĩnh vực nào trong đời sống xã hội?",
+    "answer": "Luật dân sự điều chỉnh các quan hệ pháp lý giữa cá nhân, tổ chức trong các lĩnh vực tài sản, hợp đồng, thừa kế, cũng như các quyền và nghĩa vụ dân sự."
+  }
+]

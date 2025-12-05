@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_301",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Hát văn thường gắn liền với nghi lễ nào trong văn hóa Việt Nam?",
+    "answer": "Hát văn thường gắn liền với nghi lễ lên đồng, còn gọi là 'chầu văn'."
+  },
+  {
+    "id": "VH_302",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân gian Việt Nam.",
+    "question": "Vì sao hát văn được coi là một phần quan trọng của văn hóa dân gian Việt Nam?",
+    "answer": "Hát văn được coi là một phần quan trọng của văn hóa dân gian Việt Nam vì nó hội tụ các hình thức văn hóa dân gian, thể hiện tính nhân dân sâu sắc và là một kho tàng nghệ thuật cần được bảo tồn và phát huy."
+  },
+  {
+    "id": "VH_303",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Tín ngưỡng thờ Mẫu có vai trò gì trong việc đối phó với tôn ti trật tự của xã hội Nho giáo?",
+    "answer": "Tín ngưỡng thờ Mẫu đóng vai trò như một áo giáp bảo vệ cá nhân khỏi sự áp đặt của tôn ti trật tự trong xã hội Nho giáo."
+  },
+  {
+    "id": "VH_304",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Tại sao hát văn từng bị hạn chế trong thời kỳ chịu ảnh hưởng của Nho giáo?",
+    "answer": "Hát văn từng bị hạn chế trong thời kỳ chịu ảnh hưởng của Nho giáo vì Nho giáo coi nhẹ các yếu tố tâm linh và chỉ tập trung vào các giá trị xã hội cứng nhắc."
+  },
+  {
+    "id": "VH_305",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Ngô Đức Thịnh đã liệt kê bao nhiêu bài chầu văn trong danh mục của mình?",
+    "answer": "Ngô Đức Thịnh đã liệt kê 54 bài chầu văn trong danh mục của mình."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1241",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hiến, nhận mô, bộ phận cơ thể người theo pháp luật Việt Nam.",
+    "question": "Cá nhân có thể hiến mô, bộ phận cơ thể của mình vì mục đích gì?",
+    "answer": "Cá nhân có thể hiến mô, bộ phận cơ thể của mình vì mục đích chữa bệnh, nghiên cứu y học, dược học và các nghiên cứu khoa học khác."
+  },
+  {
+    "id": "PL_1242",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nhận mô, bộ phận cơ thể người theo pháp luật Việt Nam.",
+    "question": "Mục đích của việc cá nhân nhận mô, bộ phận cơ thể từ người khác là gì?",
+    "answer": "Mục đích của việc cá nhân nhận mô, bộ phận cơ thể từ người khác là để chữa bệnh cho chính mình."
+  },
+  {
+    "id": "PL_1243",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật đối với việc hiến, nhận mô, bộ phận cơ thể người và hiến, lấy xác.",
+    "question": "Những quy định nào cần được tuân thủ khi hiến, lấy mô, bộ phận cơ thể người hoặc hiến, lấy xác?",
+    "answer": "Việc hiến, lấy mô, bộ phận cơ thể người hoặc hiến, lấy xác phải tuân thủ các điều kiện và quy định của Bộ luật dân sự, Luật hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác, cùng với các luật liên quan khác."
+  },
+  {
+    "id": "PL_1244",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của cơ sở khám bệnh, chữa bệnh và pháp nhân trong việc hiến, nhận mô, bộ phận cơ thể người.",
+    "question": "Cơ sở khám bệnh, chữa bệnh và pháp nhân có thể nhận mô, bộ phận cơ thể người để thực hiện những mục đích nào?",
+    "answer": "Cơ sở khám bệnh, chữa bệnh và pháp nhân có thể nhận mô, bộ phận cơ thể người để chữa bệnh, thử nghiệm y học, dược học và thực hiện các nghiên cứu khoa học khác."
+  },
+  {
+    "id": "PL_1245",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền xác định lại giới tính theo pháp luật Việt Nam.",
+    "question": "Cá nhân có quyền xác định lại giới tính theo quy định pháp luật Việt Nam không?",
+    "answer": "Cá nhân có quyền xác định lại giới tính theo các điều kiện và quy định của pháp luật Việt Nam."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1226",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền thay đổi họ, tên theo pháp luật Việt Nam.",
+    "question": "Người từ đủ chín tuổi trở lên có yêu cầu thay đổi họ, tên phải đáp ứng điều kiện gì?",
+    "answer": "Việc thay đổi họ, tên cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó."
+  },
+  {
+    "id": "PL_1227",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền xác định dân tộc theo pháp luật Việt Nam.",
+    "question": "Dân tộc của cá nhân được xác định khi sinh ra dựa trên cơ sở nào?",
+    "answer": "Dân tộc của cá nhân được xác định theo dân tộc của cha đẻ, mẹ đẻ. Nếu cha đẻ và mẹ đẻ thuộc hai dân tộc khác nhau thì dân tộc của người con được xác định theo dân tộc của cha hoặc mẹ theo tập quán hoặc thỏa thuận của cha đẻ, mẹ đẻ."
+  },
+  {
+    "id": "PL_1228",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ dân sự khi thay đổi họ, tên.",
+    "question": "Thay đổi họ, tên của cá nhân có làm thay đổi quyền, nghĩa vụ dân sự đã được xác lập theo họ, tên cũ không?",
+    "answer": "Việc thay đổi họ, tên của cá nhân không làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ, tên cũ."
+  },
+  {
+    "id": "PL_1229",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các trường hợp được phép thay đổi họ, tên theo luật hộ tịch.",
+    "question": "Những trường hợp nào được pháp luật cho phép thay đổi họ, tên?",
+    "answer": "Pháp luật cho phép thay đổi họ, tên trong các trường hợp như: thay đổi họ, tên cho con nuôi, khi thôi không làm con nuôi, theo yêu cầu của cha đẻ, mẹ đẻ khi xác định cha, mẹ cho con, chuyển họ từ cha sang mẹ hoặc ngược lại, người bị lưu lạc tìm ra nguồn gốc huyết thống, người được xác định lại giới tính, và các trường hợp khác do pháp luật về hộ tịch quy định."
+  },
+  {
+    "id": "PL_1230",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc thay đổi họ, tên theo pháp luật Việt Nam.",
+    "question": "Việc thay đổi họ, tên của con nuôi có cần sự đồng ý của cha nuôi, mẹ nuôi không?",
+    "answer": "Việc thay đổi họ, tên cho con nuôi hoặc khi người con nuôi thôi không làm con nuôi phải có sự yêu cầu hoặc đồng ý của cha nuôi, mẹ nuôi."
+  }
+]

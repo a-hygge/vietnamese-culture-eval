@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2451",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử Trung Quốc thời Tần Thủy Hoàng.",
+    "question": "Tần Thủy Hoàng đã ra lệnh đốt sách và giết các nhà Nho vì lý do gì?",
+    "answer": "Tần Thủy Hoàng căm ghét các nhà Nho vì họ thường lấy chuyện xưa để khuyên ông thay đổi chính sách, điều này đi ngược lại với học thuyết Pháp gia mà ông đang theo."
+  },
+  {
+    "id": "VH_2452",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng triết học cổ đại Trung Quốc.",
+    "question": "Mạnh Tử đã chỉ ra hai học thuyết nào phổ biến trong thời đại của ông?",
+    "answer": "Mạnh Tử chỉ ra rằng thiên hạ thời bấy giờ hoặc theo thuyết vị ngã của Dương Chu, hoặc theo thuyết kiêm ái của Mặc Địch."
+  },
+  {
+    "id": "VH_2453",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự phát triển của Nho giáo sau thời Khổng Tử.",
+    "question": "Nguyên nhân nào khiến đạo Nho bị chia thành tám chi nhánh sau khi Khổng Tử qua đời?",
+    "answer": "Sau khi Khổng Tử qua đời, đạo Nho bị chia thành tám chi nhánh vì không ai theo ai, dẫn đến sự phân tán và không thống nhất tư tưởng trong Nho giáo."
+  },
+  {
+    "id": "VH_2454",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thái độ của Hán Cao Tổ đối với các nhà Nho.",
+    "question": "Tại sao Hán Cao Tổ có thái độ căm ghét và khinh thường các nhà Nho?",
+    "answer": "Hán Cao Tổ căm ghét các nhà Nho vì ông không đồng tình với tư tưởng và hành động của họ, thậm chí thể hiện thái độ khinh thường bằng cách giật mũ của họ và có hành động xúc phạm."
+  },
+  {
+    "id": "VH_2455",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vị thế của học thuyết Khổng Tử trong thời kỳ 'Trăm nhà đua tiếng'.",
+    "question": "Vì sao học thuyết của Khổng Tử không giữ vị thế chủ đạo trong thời kỳ 'Trăm nhà đua tiếng'?",
+    "answer": "Trong thời kỳ 'Trăm nhà đua tiếng', học thuyết của Khổng Tử chỉ là một trong nhiều trường phái tư tưởng khác, và chưa có vị thế chủ đạo trong bối cảnh tư tưởng đa dạng lúc bấy giờ."
+  }
+]

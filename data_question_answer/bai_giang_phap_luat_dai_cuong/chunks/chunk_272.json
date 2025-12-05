@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1356",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật liên quan đến thừa kế.",
+    "question": "Thừa kế theo di chúc được hiểu là gì?",
+    "answer": "Thừa kế theo di chúc là việc chuyển di sản thừa kế của người đã chết cho những người còn sống theo sự định đoạt của người đó khi còn sống."
+  },
+  {
+    "id": "PL_1357",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện pháp lý của di chúc.",
+    "question": "Di chúc hợp pháp cần đáp ứng những điều kiện nào?",
+    "answer": "Di chúc hợp pháp cần đáp ứng các điều kiện sau: người lập di chúc phải minh mẫn, sáng suốt, không bị đe dọa, lừa dối hoặc cưỡng ép; có năng lực hành vi; nội dung di chúc không trái pháp luật, đạo đức xã hội; hình thức di chúc không trái với quy định của pháp luật."
+  },
+  {
+    "id": "PL_1358",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức di chúc theo pháp luật Việt Nam.",
+    "question": "Di chúc phải được lập dưới những hình thức nào để được công nhận?",
+    "answer": "Di chúc phải được lập thành văn bản. Trong trường hợp không thể lập di chúc bằng văn bản, có thể lập di chúc bằng miệng, nhưng chỉ được áp dụng khi tính mạng người để lại di chúc bị cái chết đe dọa."
+  },
+  {
+    "id": "PL_1359",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về di chúc bằng miệng.",
+    "question": "Di chúc bằng miệng được coi là hợp pháp trong điều kiện nào?",
+    "answer": "Di chúc bằng miệng được coi là hợp pháp nếu người để lại di chúc thể hiện ý chí cuối cùng của mình trước mặt ít nhất 2 người làm chứng và ngay sau đó những người làm chứng ghi chép lại cùng ký tên hoặc điểm chỉ."
+  },
+  {
+    "id": "PL_1360",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lập di chúc của cá nhân.",
+    "question": "Người lập di chúc cần có năng lực hành vi như thế nào để di chúc được công nhận hợp pháp?",
+    "answer": "Người lập di chúc cần minh mẫn, sáng suốt, không bị đe dọa, lừa dối hoặc cưỡng ép và có năng lực hành vi đầy đủ."
+  }
+]

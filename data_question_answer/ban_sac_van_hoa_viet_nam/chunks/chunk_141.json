@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_701",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng chính trị trong lịch sử châu Á.",
+    "question": "Tại sao Nguyễn cho rằng chủ nghĩa cộng sản dễ thâm nhập vào châu Á hơn châu Âu?",
+    "answer": "Nguyễn cho rằng chủ nghĩa cộng sản dễ thâm nhập vào châu Á hơn châu Âu vì có những điều kiện phù hợp với hoàn cảnh xã hội và tư tưởng tại châu Á."
+  },
+  {
+    "id": "VH_702",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lý luận của Quốc tế cộng sản.",
+    "question": "Cách mạng thuộc địa theo lý luận của Quốc tế cộng sản phụ thuộc vào yếu tố nào?",
+    "answer": "Cách mạng thuộc địa theo lý luận của Quốc tế cộng sản phụ thuộc vào cuộc đấu tranh giai cấp ở chính quốc."
+  },
+  {
+    "id": "VH_703",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt trong quan điểm về cộng sản.",
+    "question": "Nguyễn và Quốc tế cộng sản có quan điểm khác nhau như thế nào về khả năng thâm nhập của chủ nghĩa cộng sản?",
+    "answer": "Nguyễn cho rằng chủ nghĩa cộng sản dễ thâm nhập vào châu Á, trong khi Quốc tế cộng sản cho rằng cách mạng thuộc địa phải lệ thuộc vào đấu tranh giai cấp ở chính quốc."
+  },
+  {
+    "id": "VH_704",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của giai cấp vô sản trong cách mạng thuộc địa.",
+    "question": "Theo lý luận của Quốc tế cộng sản, giai cấp nào đóng vai trò chính trong cách mạng thuộc địa?",
+    "answer": "Theo lý luận của Quốc tế cộng sản, giai cấp vô sản ở chính quốc đóng vai trò chính trong cách mạng thuộc địa."
+  },
+  {
+    "id": "VH_705",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt trong tư tưởng cách mạng.",
+    "question": "Vì sao quan điểm của Nguyễn về chủ nghĩa cộng sản không phù hợp với lý luận của Quốc tế cộng sản?",
+    "answer": "Quan điểm của Nguyễn không phù hợp với lý luận của Quốc tế cộng sản vì ông cho rằng chủ nghĩa cộng sản dễ dàng thâm nhập vào châu Á, trong khi Quốc tế cộng sản nhấn mạnh cách mạng thuộc địa phụ thuộc vào cuộc đấu tranh giai cấp tại chính quốc."
+  }
+]

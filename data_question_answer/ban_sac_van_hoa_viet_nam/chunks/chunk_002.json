@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_006",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng dân gian Việt Nam.",
+    "question": "Tín ngưỡng đồng cốt ở Việt Nam có ý nghĩa gì?",
+    "answer": "Tín ngưỡng đồng cốt là một tín ngưỡng dân gian phổ biến ở Việt Nam, mang ý nghĩa kết nối với các thế lực siêu nhiên thông qua các nghi lễ tâm linh."
+  },
+  {
+    "id": "VH_007",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về Đạo giáo trong văn hóa Trung Quốc.",
+    "question": "Đặc điểm chính của Đạo giáo trong văn hóa Trung Quốc là gì?",
+    "answer": "Đặc điểm chính của Đạo giáo trong văn hóa Trung Quốc là tín ngưỡng thần tiên, nhấn mạnh vào sự trường sinh và hòa hợp với tự nhiên."
+  },
+  {
+    "id": "VH_008",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo ở Trung Quốc cổ đại.",
+    "question": "Người Trung Quốc thời Ân quan niệm như thế nào về thần và quỷ?",
+    "answer": "Người Trung Quốc thời Ân quan niệm thần là các lực lượng tự nhiên, trong khi quỷ được xem là tổ tiên của người."
+  },
+  {
+    "id": "VH_009",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa tín ngưỡng truyền thống Trung Quốc.",
+    "question": "Chu Lễ đã phân loại các vị thần như thế nào?",
+    "answer": "Chu Lễ đã phân loại các vị thần thành các vị thần của trời, của người và của đất."
+  },
+  {
+    "id": "VH_010",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa tín ngưỡng Việt Nam và Trung Quốc.",
+    "question": "Điểm khác biệt chính giữa Đạo giáo Trung Quốc và tín ngưỡng đồng cốt ở Việt Nam là gì?",
+    "answer": "Điểm khác biệt chính là nội dung tín ngưỡng: Đạo giáo Trung Quốc tập trung vào tín ngưỡng thần tiên và sự trường sinh, trong khi tín ngưỡng đồng cốt ở Việt Nam nhấn mạnh vào việc kết nối với các thế lực siêu nhiên thông qua nghi lễ."
+  }
+]

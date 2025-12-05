@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1641",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chấm dứt hợp đồng lao động theo quy định pháp luật Việt Nam.",
+    "question": "Hợp đồng lao động bị chấm dứt trong trường hợp nào liên quan đến bản án của Toà án?",
+    "answer": "Hợp đồng lao động bị chấm dứt khi người lao động bị kết án tù giam, tử hình hoặc bị cấm làm công việc ghi trong hợp đồng lao động theo bản án, quyết định có hiệu lực pháp luật của Toà án."
+  },
+  {
+    "id": "PL_1642",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đơn phương chấm dứt hợp đồng lao động của người lao động.",
+    "question": "Người lao động có thể đơn phương chấm dứt hợp đồng lao động dựa trên điều luật nào?",
+    "answer": "Người lao động có thể đơn phương chấm dứt hợp đồng lao động theo quy định tại Điều 37 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1643",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các trường hợp chấm dứt hoạt động của người sử dụng lao động.",
+    "question": "Hợp đồng lao động bị chấm dứt khi nào nếu người sử dụng lao động không phải là cá nhân?",
+    "answer": "Hợp đồng lao động bị chấm dứt khi người sử dụng lao động không phải là cá nhân chấm dứt hoạt động."
+  },
+  {
+    "id": "PL_1644",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử lý kỷ luật sa thải theo Bộ luật Lao động.",
+    "question": "Kỷ luật sa thải đối với người lao động được quy định tại điều khoản nào?",
+    "answer": "Kỷ luật sa thải đối với người lao động được quy định tại khoản 3 Điều 125 của Bộ luật Lao động."
+  },
+  {
+    "id": "PL_1645",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chấm dứt hợp đồng lao động do thay đổi cơ cấu hoặc lý do kinh tế.",
+    "question": "Người sử dụng lao động có thể cho người lao động thôi việc trong trường hợp nào liên quan đến thay đổi cơ cấu hoặc lý do kinh tế?",
+    "answer": "Người sử dụng lao động có thể cho người lao động thôi việc do thay đổi cơ cấu, công nghệ, lý do kinh tế hoặc do sáp nhập, hợp nhất, chia tách doanh nghiệp, hợp tác xã."
+  }
+]

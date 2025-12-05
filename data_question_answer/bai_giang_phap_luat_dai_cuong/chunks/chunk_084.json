@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_416",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguồn gốc của nước trên Trái Đất.",
+    "question": "Nước trên Trái Đất có nguồn gốc từ đâu?",
+    "answer": "Nước trên Trái Đất có nguồn gốc từ các hoạt động núi lửa và sự va chạm của các thiên thạch chứa nước."
+  },
+  {
+    "id": "PL_417",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của rừng đối với môi trường.",
+    "question": "Rừng có vai trò gì trong việc bảo vệ môi trường?",
+    "answer": "Rừng giúp điều hòa khí hậu, cung cấp oxy và là nơi cư trú của nhiều loài sinh vật."
+  },
+  {
+    "id": "PL_418",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cấu tạo của tế bào động vật.",
+    "question": "Tế bào động vật có những thành phần chính nào?",
+    "answer": "Tế bào động vật gồm màng tế bào, nhân, tế bào chất và các bào quan như ti thể, lưới nội chất."
+  },
+  {
+    "id": "PL_419",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân gây biến đổi khí hậu.",
+    "question": "Nguyên nhân chính gây ra biến đổi khí hậu là gì?",
+    "answer": "Nguyên nhân chính gây ra biến đổi khí hậu là sự gia tăng khí nhà kính từ hoạt động của con người."
+  },
+  {
+    "id": "PL_420",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về lợi ích của việc đọc sách.",
+    "question": "Đọc sách mang lại những lợi ích gì cho con người?",
+    "answer": "Đọc sách giúp mở rộng kiến thức, cải thiện kỹ năng tư duy và giảm căng thẳng."
+  }
+]

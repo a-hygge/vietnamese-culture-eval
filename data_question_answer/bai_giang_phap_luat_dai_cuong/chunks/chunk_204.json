@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1016",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Tòa án trong vụ án hành chính.",
+    "question": "Tòa án nào có thẩm quyền giải quyết khi người khởi kiện không có nơi cư trú tại Việt Nam?",
+    "answer": "Tòa án nhân dân thành phố Hà Nội hoặc Tòa án nhân dân thành phố Hồ Chí Minh có thẩm quyền giải quyết."
+  },
+  {
+    "id": "PL_1017",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khiếu kiện quyết định kỷ luật buộc thôi việc.",
+    "question": "Quyết định kỷ luật buộc thôi việc của người đứng đầu cơ quan cấp tỉnh, bộ, ngành trung ương được giải quyết tại Tòa án nào?",
+    "answer": "Tòa án có thẩm quyền phải nằm trên cùng phạm vi địa giới hành chính với nơi làm việc của người khởi kiện khi bị kỷ luật."
+  },
+  {
+    "id": "PL_1018",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khiếu kiện quyết định xử lý vụ việc cạnh tranh.",
+    "question": "Khiếu kiện quyết định giải quyết khiếu nại về xử lý vụ việc cạnh tranh được giải quyết ở đâu?",
+    "answer": "Tòa án trên cùng phạm vi địa giới hành chính với nơi cư trú, nơi làm việc hoặc trụ sở của người khởi kiện có thẩm quyền giải quyết."
+  },
+  {
+    "id": "PL_1019",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền của Tòa án cấp tỉnh trong vụ án hành chính.",
+    "question": "Khi nào Tòa án cấp tỉnh có thể xử lý vụ việc thuộc thẩm quyền của Tòa án cấp huyện?",
+    "answer": "Trong trường hợp cần thiết, Tòa án cấp tỉnh có thể lấy lên để giải quyết khiếu kiện thuộc thẩm quyền của Tòa án cấp huyện."
+  },
+  {
+    "id": "PL_1020",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền khởi kiện vụ án hành chính.",
+    "question": "Người khởi kiện vụ án hành chính có quyền khởi kiện trong những trường hợp nào liên quan đến địa giới hành chính?",
+    "answer": "Người khởi kiện có quyền khởi kiện khi địa điểm cư trú, nơi làm việc hoặc trụ sở của họ nằm trên cùng phạm vi địa giới hành chính với Tòa án có thẩm quyền."
+  }
+]

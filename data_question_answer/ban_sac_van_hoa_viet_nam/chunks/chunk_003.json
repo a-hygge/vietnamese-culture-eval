@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_011",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết lý và tín ngưỡng trong văn hóa Á Đông.",
+    "question": "Đạo mà Lão Tử nhắc đến trong 'Đạo Đức Kinh' có đặc điểm gì nổi bật?",
+    "answer": "Đạo mà Lão Tử nhắc đến được mô tả là có trước trời đất, mang tính mập mờ và thấp thoáng, và được xem là cơ sở cho đạo giáo."
+  },
+  {
+    "id": "VH_012",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết học cổ đại Trung Hoa và ảnh hưởng của nó.",
+    "question": "Thuyết 'Ngũ hành' của Trâu Diễn dựa trên những yếu tố nào?",
+    "answer": "Thuyết 'Ngũ hành' dựa trên năm yếu tố vật chất: Kim, Mộc, Thủy, Hỏa, Thổ, với các nguyên lý sinh và khắc lẫn nhau."
+  },
+  {
+    "id": "VH_013",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa con người và tự nhiên trong văn hóa Á Đông.",
+    "question": "Lý thuyết 'Ngũ hành' có vai trò gì trong việc hình thành quan niệm lịch sử?",
+    "answer": "Lý thuyết 'Ngũ hành' tạo nên quan niệm lịch sử theo chu kỳ tuần hoàn, làm cơ sở cho lý thuyết về mối quan hệ giữa trời và người, sau đó được tích hợp vào Nho giáo thời Hán."
+  },
+  {
+    "id": "VH_014",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan niệm bất tử trong tín ngưỡng cổ đại.",
+    "question": "Hình ảnh 'chân nhân' trong 'Nam Hoa Kinh' của Trang Tử được miêu tả ra sao?",
+    "answer": "Hình ảnh 'chân nhân' trong 'Nam Hoa Kinh' được miêu tả là một vị thần cưỡi mây, không ăn ngũ cốc, và đạt được sự bất tử."
+  },
+  {
+    "id": "VH_015",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phương sĩ và tín ngưỡng thần tiên.",
+    "question": "Phương sĩ trong tín ngưỡng cổ đại có niềm tin đặc biệt nào?",
+    "answer": "Phương sĩ tin rằng họ có thể giao tiếp với thần tiên và luyện thuốc trường sinh để đạt được sự bất tử."
+  }
+]

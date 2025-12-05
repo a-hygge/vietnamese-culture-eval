@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1741",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nghỉ ngơi của người lao động theo Bộ luật lao động Việt Nam.",
+    "question": "Người lao động làm việc liên tục 08 giờ hoặc 06 giờ được nghỉ giữa giờ trong thời gian bao lâu?",
+    "answer": "Người lao động được nghỉ giữa giờ ít nhất 30 phút, tính vào thời giờ làm việc."
+  },
+  {
+    "id": "PL_1742",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của người lao động làm việc ban đêm.",
+    "question": "Người lao động làm việc ban đêm được nghỉ giữa giờ trong thời gian bao lâu?",
+    "answer": "Người lao động làm việc ban đêm được nghỉ giữa giờ ít nhất 45 phút, tính vào thời giờ làm việc."
+  },
+  {
+    "id": "PL_1743",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ nghỉ giữa các ca làm việc.",
+    "question": "Người lao động làm việc theo ca được nghỉ ít nhất bao nhiêu giờ trước khi chuyển sang ca làm việc khác?",
+    "answer": "Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác."
+  },
+  {
+    "id": "PL_1744",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chế độ nghỉ hằng tuần của người lao động.",
+    "question": "Người lao động được nghỉ hằng tuần ít nhất bao nhiêu giờ liên tục?",
+    "answer": "Người lao động được nghỉ hằng tuần ít nhất 24 giờ liên tục."
+  },
+  {
+    "id": "PL_1745",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp đặc biệt trong chế độ nghỉ hằng tuần của người lao động.",
+    "question": "Trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần, người sử dụng lao động phải bảo đảm người lao động được nghỉ bao nhiêu ngày trong một tháng?",
+    "answer": "Người sử dụng lao động phải bảo đảm người lao động được nghỉ tính bình quân một tháng ít nhất 4 ngày."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1541",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm phòng vệ chính đáng trong pháp luật hình sự.",
+    "question": "Phòng vệ chính đáng được định nghĩa như thế nào theo pháp luật Việt Nam?",
+    "answer": "Phòng vệ chính đáng là hành vi chống trả một cách cần thiết để bảo vệ quyền, lợi ích chính đáng của bản thân, người khác, hoặc lợi ích của Nhà nước, cơ quan, tổ chức trước hành vi xâm phạm và không được coi là tội phạm."
+  },
+  {
+    "id": "PL_1542",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp được coi là phòng vệ chính đáng.",
+    "question": "Những trường hợp nào đương nhiên được coi là phòng vệ chính đáng?",
+    "answer": "Các trường hợp được coi là phòng vệ chính đáng gồm: chống lại người sử dụng vũ khí hoặc hung khí nguy hiểm để xâm phạm tính mạng, sức khỏe của mình hoặc người khác; chống lại người sử dụng vũ khí hoặc hung khí nguy hiểm để chống lại người thi hành công vụ; và chống trả người đang thực hiện hành vi giết người."
+  },
+  {
+    "id": "PL_1543",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hành vi vượt quá giới hạn phòng vệ chính đáng.",
+    "question": "Hành vi vượt quá giới hạn phòng vệ chính đáng là gì và hậu quả pháp lý của nó?",
+    "answer": "Hành vi vượt quá giới hạn phòng vệ chính đáng là hành vi chống trả rõ ràng quá mức cần thiết, không phù hợp với tính chất và mức độ nguy hiểm của hành vi xâm hại. Người thực hiện hành vi này phải chịu trách nhiệm hình sự theo quy định của Bộ luật."
+  },
+  {
+    "id": "PL_1544",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm tình thế cấp thiết trong pháp luật hình sự.",
+    "question": "Tình thế cấp thiết được pháp luật Việt Nam định nghĩa như thế nào?",
+    "answer": "Tình thế cấp thiết là tình thế mà người phải gây một thiệt hại nhỏ hơn thiệt hại cần ngăn ngừa để tránh nguy cơ thực tế đang đe dọa quyền, lợi ích hợp pháp của mình, người khác, Nhà nước hoặc tổ chức, và hành vi này không được coi là tội phạm."
+  },
+  {
+    "id": "PL_1545",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng trách nhiệm hình sự trong trường hợp bắt buộc chữa bệnh.",
+    "question": "Theo pháp luật Việt Nam, người bị bắt buộc chữa bệnh có chịu trách nhiệm hình sự sau khi khỏi bệnh hay không?",
+    "answer": "Sau khi khỏi bệnh, người bị bắt buộc chữa bệnh có thể phải chịu trách nhiệm hình sự."
+  }
+]

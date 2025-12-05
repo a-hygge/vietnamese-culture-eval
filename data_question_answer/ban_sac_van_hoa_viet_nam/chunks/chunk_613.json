@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3061",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Kinh nghiệm nông nghiệp của người Việt Nam được thể hiện qua những khía cạnh nào?",
+    "answer": "Kinh nghiệm nông nghiệp của người Việt Nam được thể hiện qua việc quản lí ruộng đất, thu thuế, khai thác thổ sản và giải quyết các vấn đề liên quan đến ruộng đất."
+  },
+  {
+    "id": "VH_3062",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tri thức khoa học trong lịch sử Việt Nam.",
+    "question": "Vì sao y học và dược học có vai trò quan trọng trong lịch sử khoa học Việt Nam?",
+    "answer": "Y học và dược học có vai trò quan trọng vì chúng gắn liền với công việc của nhà Nho, những người không làm quan thường chuyển sang làm thầy thuốc."
+  },
+  {
+    "id": "VH_3063",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa học thuật của Việt Nam thời phong kiến.",
+    "question": "Nguyên nhân nào khiến các nhà Nho thời phong kiến ít đóng góp vào nông nghiệp thực tiễn?",
+    "answer": "Nguyên nhân là do nền học vấn của các nhà Nho thời phong kiến tập trung vào từ chương và lý thuyết, không gắn bó nhiều với các kỹ thuật sản xuất thực tế."
+  },
+  {
+    "id": "VH_3064",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các tài liệu khoa học cổ trong lịch sử Việt Nam.",
+    "question": "Sách 'Toán điền cửu trù pháp' thuộc lĩnh vực nào trong khoa học?",
+    "answer": "Sách 'Toán điền cửu trù pháp' thuộc lĩnh vực đo đạc và quản lý ruộng đất trong khoa học."
+  },
+  {
+    "id": "VH_3065",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của trí thức trong lịch sử Việt Nam.",
+    "question": "Quan điểm của tầng lớp quan lại về ruộng đất khác gì so với người nông dân?",
+    "answer": "Tầng lớp quan lại nhìn ruộng đất từ góc độ quản lý, thu thuế và giải quyết kiện tụng, trong khi người nông dân tập trung vào kỹ thuật canh tác và sản xuất."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1801",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_501.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Phá sản được định nghĩa như thế nào theo Luật Phá sản 2014?",
+    "answer": "Phá sản là tình trạng của doanh nghiệp, hợp tác xã mất khả năng thanh toán và bị Tòa án nhân dân ra quyết định tuyên bố phá sản."
+  },
+  {
+    "id": "PL_1802",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_501.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tiêu chí xác định tình trạng phá sản.",
+    "question": "Theo Luật Phá sản 2014, tiêu chí nào được sử dụng để xác định doanh nghiệp hoặc hợp tác xã mất khả năng thanh toán?",
+    "answer": "Tiêu chí xác định là doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán chứ không phải không có khả năng thanh toán."
+  },
+  {
+    "id": "PL_1803",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_501.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời điểm xác định tình trạng mất khả năng thanh toán.",
+    "question": "Luật Phá sản 2014 quy định thời điểm nào để xác định tình trạng mất khả năng thanh toán?",
+    "answer": "Thời điểm được xác định trong thời hạn 3 tháng kể từ ngày đến hạn thanh toán mà không phải khi chủ nợ có yêu cầu."
+  },
+  {
+    "id": "PL_1804",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_501.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa Luật Phá sản 2014 và Luật Phá sản 2004.",
+    "question": "Điểm khác biệt chính giữa Luật Phá sản 2014 và Luật Phá sản 2004 về thời điểm xác định mất khả năng thanh toán là gì?",
+    "answer": "Luật Phá sản 2014 quy định thời điểm xác định mất khả năng thanh toán là trong thời hạn 3 tháng kể từ ngày đến hạn thanh toán, thay vì khi chủ nợ có yêu cầu như Luật Phá sản 2004."
+  },
+  {
+    "id": "PL_1805",
+    "source": "data_sources\\bai_giang_phap_luat_dai_cuong\\structured_chunks_v2\\chunk_501.txt",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền tuyên bố phá sản.",
+    "question": "Theo Luật Phá sản 2014, cơ quan nào có thẩm quyền ra quyết định tuyên bố phá sản?",
+    "answer": "Cơ quan có thẩm quyền ra quyết định tuyên bố phá sản là Tòa án nhân dân."
+  }
+]

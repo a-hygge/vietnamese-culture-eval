@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1591",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền kháng cáo và kháng nghị trong tố tụng hình sự.",
+    "question": "Quyền kháng cáo thuộc về những chủ thể nào trong tố tụng hình sự?",
+    "answer": "Quyền kháng cáo thuộc về bị cáo, người bào chữa, người bị hại, người có quyền lợi nghĩa vụ liên quan đến vụ án."
+  },
+  {
+    "id": "PL_1592",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền kháng nghị trong tố tụng hình sự.",
+    "question": "Viện kiểm sát nhân dân nào có quyền kháng nghị bản án của Tòa án sơ thẩm?",
+    "answer": "Viện kiểm sát nhân dân cùng cấp và cấp trên của Tòa án sơ thẩm có quyền kháng nghị bản án."
+  },
+  {
+    "id": "PL_1593",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Tòa án phúc thẩm trong xét xử.",
+    "question": "Tòa phúc thẩm có thể ra những quyết định nào khi xét xử vụ án bị kháng cáo, kháng nghị?",
+    "answer": "Tòa phúc thẩm có thể ra các quyết định sau: bác kháng cáo, kháng nghị giữ nguyên bản án sơ thẩm; sửa án sơ thẩm; hủy án sơ thẩm để điều tra hoặc xét xử lại; hủy án sơ thẩm và đình chỉ vụ án."
+  },
+  {
+    "id": "PL_1594",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thi hành bản án và quyết định của Tòa án.",
+    "question": "Những bản án và quyết định nào của Tòa án được đưa ra thi hành?",
+    "answer": "Chỉ có những bản án và quyết định của Tòa án đã có hiệu lực pháp luật mới được đưa ra thi hành, trừ trường hợp bản án tuyên một người là không phạm tội hoặc tuyên một hình phạt bằng hoặc thấp hơn thời hạn họ bị tạm giam."
+  },
+  {
+    "id": "PL_1595",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định giảm thời hạn và miễn chấp hành hình phạt trong cải tạo.",
+    "question": "Việc giảm thời hạn và miễn chấp hành hình phạt đối với người phạm tội được thực hiện nhằm mục đích gì?",
+    "answer": "Việc giảm thời hạn và miễn chấp hành hình phạt đối với người phạm tội được thực hiện nhằm động viên, giáo dục người phạm tội trong quá trình cải tạo."
+  }
+]

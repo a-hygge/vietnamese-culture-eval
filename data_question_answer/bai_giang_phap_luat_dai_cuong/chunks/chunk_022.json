@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_106",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc trưng của nhà nước.",
+    "question": "Nhà nước thực hiện quản lý dân cư theo nguyên tắc nào?",
+    "answer": "Nhà nước thực hiện quản lý dân cư theo lãnh thổ, phân chia dân cư thành các đơn vị hành chính lãnh thổ không phụ thuộc vào huyết thống, nghề nghiệp hoặc giới tính."
+  },
+  {
+    "id": "PL_107",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lực chính trị của nhà nước.",
+    "question": "Quyền lực công cộng đặc biệt của nhà nước có đặc điểm gì?",
+    "answer": "Quyền lực công cộng đặc biệt của nhà nước không hòa nhập với dân cư, hầu như tách khỏi xã hội, và là quyền lực chính trị chung do giai cấp thống trị về kinh tế và chính trị nắm giữ."
+  },
+  {
+    "id": "PL_108",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức của nhà nước.",
+    "question": "Nhà nước tổ chức bộ máy quản lý xã hội như thế nào?",
+    "answer": "Nhà nước tổ chức bộ máy quản lý xã hội bằng cách hình thành các cơ quan nhà nước, tổ chức thành bộ máy đại diện cho quyền lực chính trị với sức mạnh cưỡng chế để duy trì địa vị của giai cấp thống trị."
+  },
+  {
+    "id": "PL_109",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm lãnh thổ của nhà nước.",
+    "question": "Tại sao lãnh thổ được coi là dấu hiệu đặc trưng của nhà nước?",
+    "answer": "Lãnh thổ được coi là dấu hiệu đặc trưng của nhà nước vì không một tổ chức nào trong xã hội có giai cấp lại có lãnh thổ riêng, và mọi nhà nước đều có lãnh thổ riêng để quản lý."
+  },
+  {
+    "id": "PL_110",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về dấu hiệu phân biệt giữa nhà nước và tổ chức thị tộc.",
+    "question": "Điểm khác biệt giữa nhà nước và tổ chức thị tộc trong việc quản lý dân cư là gì?",
+    "answer": "Nhà nước quản lý dân cư theo lãnh thổ, còn tổ chức thị tộc tập hợp các thành viên theo dấu hiệu huyết thống."
+  }
+]

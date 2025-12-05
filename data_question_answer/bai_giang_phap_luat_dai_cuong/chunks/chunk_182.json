@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_906",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định kỷ luật cán bộ.",
+    "question": "Những hình thức kỷ luật nào được áp dụng đối với cán bộ vi phạm quy định pháp luật?",
+    "answer": "Các hình thức kỷ luật đối với cán bộ vi phạm gồm: Khiển trách, Cảnh cáo, Cách chức và Bãi nhiệm. Việc cách chức chỉ áp dụng đối với cán bộ được phê chuẩn giữ chức vụ theo nhiệm kỳ."
+  },
+  {
+    "id": "PL_907",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định miễn trách nhiệm của cán bộ, công chức.",
+    "question": "Trong trường hợp nào cán bộ, công chức được miễn trách nhiệm khi chấp hành quyết định trái pháp luật?",
+    "answer": "Cán bộ, công chức được miễn trách nhiệm khi phải chấp hành quyết định trái pháp luật của cấp trên nhưng đã báo cáo người ra quyết định trước khi chấp hành."
+  },
+  {
+    "id": "PL_908",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định xử lý kỷ luật công chức.",
+    "question": "Các hình thức kỷ luật nào được áp dụng đối với công chức vi phạm quy định pháp luật?",
+    "answer": "Các hình thức kỷ luật đối với công chức vi phạm gồm: Khiển trách, Cảnh cáo, Hạ bậc lương, Giáng chức, Cách chức và Buộc thôi việc."
+  },
+  {
+    "id": "PL_909",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hậu quả pháp lý đối với cán bộ bị kết án tù.",
+    "question": "Cán bộ bị kết án tù nhưng không được hưởng án treo sẽ phải chịu hậu quả pháp lý gì?",
+    "answer": "Cán bộ bị kết án tù mà không được hưởng án treo sẽ đương nhiên bị thôi việc."
+  },
+  {
+    "id": "PL_910",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền xử lý kỷ luật cán bộ.",
+    "question": "Việc xử lý kỷ luật cán bộ được thực hiện theo các quy định nào?",
+    "answer": "Việc xử lý kỷ luật cán bộ được thực hiện theo quy định của pháp luật, Điều lệ của Đảng Cộng sản Việt Nam, tổ chức chính trị - xã hội và văn bản của cơ quan, tổ chức có thẩm quyền."
+  }
+]

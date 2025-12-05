@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_776",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ và quyền hạn của Chính phủ Việt Nam.",
+    "question": "Chính phủ có nhiệm vụ tổ chức thi hành những văn bản pháp lý nào?",
+    "answer": "Chính phủ có nhiệm vụ tổ chức thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước."
+  },
+  {
+    "id": "PL_777",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lập pháp của Chính phủ.",
+    "question": "Chính phủ có quyền trình những dự án nào trước Quốc hội và Ủy ban thường vụ Quốc hội?",
+    "answer": "Chính phủ có quyền trình các dự án luật, dự án ngân sách nhà nước và các dự án khác trước Quốc hội; trình dự án pháp lệnh trước Ủy ban thường vụ Quốc hội."
+  },
+  {
+    "id": "PL_778",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Chính phủ trong quản lý quốc gia.",
+    "question": "Chính phủ thống nhất quản lý các lĩnh vực nào trong phạm vi toàn quốc?",
+    "answer": "Chính phủ thống nhất quản lý về kinh tế, văn hóa, xã hội, giáo dục, y tế, khoa học, công nghệ, môi trường, thông tin, truyền thông, đối ngoại, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội."
+  },
+  {
+    "id": "PL_779",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của Chính phủ trong tổ chức hành chính lãnh thổ.",
+    "question": "Chính phủ có quyền trình cơ quan nào về việc thành lập, bãi bỏ, điều chỉnh địa giới hành chính?",
+    "answer": "Chính phủ trình Quốc hội quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ; thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt; trình Ủy ban thường vụ Quốc hội quyết định đối với đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương."
+  },
+  {
+    "id": "PL_780",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của Chính phủ trong bảo vệ quyền con người.",
+    "question": "Chính phủ có trách nhiệm gì trong việc bảo vệ quyền con người và quyền công dân?",
+    "answer": "Chính phủ có trách nhiệm bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân; bảo đảm trật tự, an toàn xã hội."
+  }
+]

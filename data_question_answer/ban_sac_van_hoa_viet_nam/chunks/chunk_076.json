@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_376",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong tục lao động trong nông nghiệp Việt Nam.",
+    "question": "Tại sao trong nông nghiệp truyền thống, đàn ông cày còn đàn bà cấy?",
+    "answer": "Đàn ông cày và đàn bà cấy là sự phân công lao động trong nông nghiệp, thể hiện quan niệm về vai trò phù hợp với thể chất và chức năng của mỗi giới trong lao động sản xuất."
+  },
+  {
+    "id": "VH_377",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm lao động nông nghiệp ở Thanh Hóa.",
+    "question": "Tại sao ở Thanh Hóa, phụ nữ thường cày ruộng thay vì đàn ông?",
+    "answer": "Ở Thanh Hóa, phụ nữ thường cày ruộng vì đàn ông trong vùng thường ra làm quan hoặc đi lính do Thanh Hóa là quê hương của các vua chúa và được tín nhiệm hơn."
+  },
+  {
+    "id": "VH_378",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng nông nghiệp của người Việt.",
+    "question": "Người xưa quan niệm như thế nào về mối liên hệ giữa cây lúa và con người?",
+    "answer": "Người xưa quan niệm rằng cây lúa trổ hạt và người đàn bà sinh con có sự tương đồng, thể hiện mối liên hệ mật thiết giữa con người và thiên nhiên trong văn hóa nông nghiệp."
+  },
+  {
+    "id": "VH_379",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong tục lao động nông nghiệp trên nương rẫy.",
+    "question": "Tại sao khi làm lúa nương trên đồi, người xưa thường đi lùi từ chân đồi lên đỉnh đồi?",
+    "answer": "Người xưa thường đi lùi từ chân đồi lên đỉnh đồi khi làm lúa nương để tránh dẫm lên hạt giống mới gieo, đảm bảo hạt giống không bị hư hại."
+  },
+  {
+    "id": "VH_380",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của phụ nữ trong nông nghiệp truyền thống.",
+    "question": "Trong lao động nông nghiệp truyền thống, phụ nữ đóng vai trò gì khi làm lúa nương trên đồi?",
+    "answer": "Khi làm lúa nương trên đồi, phụ nữ thường đảm nhận việc bỏ hạt vào lỗ sau khi đàn ông đã chọc lỗ, thể hiện sự phối hợp giữa hai giới trong lao động."
+  }
+]

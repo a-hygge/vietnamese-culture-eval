@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1911",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tổ chức và đời sống cộng đồng làng xã ở Việt Nam.",
+    "question": "Mục đích của các loại ruộng như trợ sưu điền, bút điền, học điền là gì?",
+    "answer": "Mục đích của các loại ruộng này là trợ giúp nhân dân trong các lĩnh vực khác nhau như nộp sưu, chi phí giấy bút, học tập, và hỗ trợ cô nhi, quả phụ."
+  },
+  {
+    "id": "VH_1912",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của làng xã trong văn hóa Việt Nam.",
+    "question": "Tại sao chế độ tự quản của làng xã lại quan trọng đối với người dân?",
+    "answer": "Chế độ tự quản của làng xã quan trọng vì nó cấp cho người dân một thân phận riêng, che chở họ và tạo điều kiện để họ tham gia vào các cuộc họp làng, bảo vệ quyền lợi trước các lạm dụng của chính quyền."
+  },
+  {
+    "id": "VH_1913",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các cuộc nổi dậy chống bất công trong lịch sử Việt Nam.",
+    "question": "Nguyên nhân chính dẫn đến các cuộc nổi dậy của làng xã dưới thời Minh Mạng là gì?",
+    "answer": "Nguyên nhân chính là do những hà lạm trong chính sách sưu thuế và sự bóc lột của chính quyền để phục vụ việc xây cung điện, dinh thự, lăng tẩm."
+  },
+  {
+    "id": "VH_1914",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt giữa làng xã Việt Nam và phương Tây.",
+    "question": "Điểm khác biệt giữa làng xã Việt Nam và làng ở phương Tây là gì?",
+    "answer": "Làng xã Việt Nam là một tổ chức quan tâm tới người dân, không đơn thuần như một cộng đồng rời rạc hay 'một bị khoai tây' như ở phương Tây."
+  },
+  {
+    "id": "VH_1915",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa chính quyền và làng xã trong lịch sử Việt Nam.",
+    "question": "Vì sao vua chúa Việt Nam không dám làm tổn hại đến các làng xã?",
+    "answer": "Vua chúa Việt Nam không dám làm tổn hại đến các làng xã vì làng xã có chế độ tự quản, bảo vệ người dân, và thường tổ chức các cuộc nổi dậy chống lại những chính sách bất công của chính quyền."
+  }
+]

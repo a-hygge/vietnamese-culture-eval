@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1716",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc trả lương trong pháp luật lao động Việt Nam.",
+    "question": "Người lao động phải được trả lương theo nguyên tắc nào?",
+    "answer": "Người lao động phải được trả lương trực tiếp, đầy đủ và đúng thời hạn. Trong trường hợp đặc biệt không thể trả đúng thời hạn, thời gian chậm trả không được quá 01 tháng và phải trả thêm một khoản tiền ít nhất bằng lãi suất huy động tiền gửi do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm trả lương."
+  },
+  {
+    "id": "PL_1717",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định trả lương làm thêm giờ trong pháp luật lao động Việt Nam.",
+    "question": "Tiền lương làm thêm giờ vào ngày nghỉ lễ được tính như thế nào?",
+    "answer": "Tiền lương làm thêm giờ vào ngày nghỉ lễ được trả ít nhất bằng 300% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc, chưa kể tiền lương ngày lễ, ngày nghỉ có hưởng lương đối với người lao động hưởng lương theo ngày."
+  },
+  {
+    "id": "PL_1718",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định trả lương làm việc vào ban đêm trong pháp luật lao động Việt Nam.",
+    "question": "Người lao động làm việc vào ban đêm được hưởng mức lương như thế nào?",
+    "answer": "Người lao động làm việc vào ban đêm được trả thêm ít nhất bằng 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc của ngày làm việc bình thường."
+  },
+  {
+    "id": "PL_1719",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định trả lương làm thêm giờ vào ban đêm trong pháp luật lao động Việt Nam.",
+    "question": "Người lao động làm thêm giờ vào ban đêm được trả lương bao gồm các khoản nào?",
+    "answer": "Người lao động làm thêm giờ vào ban đêm được trả lương theo quy định về làm thêm giờ (ít nhất 150%, 200%, hoặc 300% tùy ngày làm việc) và được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày."
+  },
+  {
+    "id": "PL_1720",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền được tạm ứng lương của người lao động.",
+    "question": "Người lao động hưởng lương theo sản phẩm hoặc theo khoán có quyền được tạm ứng lương trong trường hợp nào?",
+    "answer": "Người lao động hưởng lương theo sản phẩm hoặc theo khoán, nếu công việc phải làm trong nhiều tháng, thì hằng tháng được tạm ứng tiền lương theo khối lượng công việc đã làm trong tháng."
+  }
+]

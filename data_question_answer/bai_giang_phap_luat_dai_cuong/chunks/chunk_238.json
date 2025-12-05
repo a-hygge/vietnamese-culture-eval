@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1186",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật dân sự.",
+    "question": "Luật dân sự được định nghĩa như thế nào trong hệ thống pháp luật Việt Nam?",
+    "answer": "Luật dân sự là ngành luật độc lập trong hệ thống pháp luật Việt Nam, bao gồm các quy phạm pháp luật điều chỉnh các quan hệ về tài sản và quan hệ nhân thân phi tài sản hoặc có liên quan đến tài sản của các chủ thể dựa trên nguyên tắc bình đẳng, quyền tự định đoạt, quyền khởi kiện dân sự và trách nhiệm tài sản."
+  },
+  {
+    "id": "PL_1187",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng điều chỉnh của luật dân sự.",
+    "question": "Luật dân sự điều chỉnh những nhóm quan hệ nào?",
+    "answer": "Luật dân sự điều chỉnh hai nhóm quan hệ chính: quan hệ tài sản (liên quan đến tài sản, quyền về tài sản và nghĩa vụ về tài sản) và quan hệ nhân thân (không mang tính kinh tế, không thể tính thành tiền, phát sinh từ giá trị tinh thần gắn liền với một người hoặc tổ chức)."
+  },
+  {
+    "id": "PL_1188",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc pháp lý của luật dân sự.",
+    "question": "Nguyên tắc bình đẳng về mặt pháp lý trong luật dân sự được hiểu như thế nào?",
+    "answer": "Nguyên tắc bình đẳng về mặt pháp lý trong luật dân sự có nghĩa là các bên tham gia quan hệ dân sự đều có quyền và nghĩa vụ ngang nhau trước pháp luật, không phân biệt về chủ thể."
+  },
+  {
+    "id": "PL_1189",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhóm quan hệ tài sản trong luật dân sự.",
+    "question": "Quan hệ tài sản trong luật dân sự được hiểu như thế nào?",
+    "answer": "Quan hệ tài sản trong luật dân sự là quan hệ giữa người với người thông qua một tài sản dưới dạng tư liệu sản xuất, tư liệu tiêu dùng hoặc dịch vụ tạo ra một tài sản nhất định, bao gồm tài sản, quyền về tài sản và nghĩa vụ về tài sản."
+  },
+  {
+    "id": "PL_1190",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhóm quan hệ nhân thân trong luật dân sự.",
+    "question": "Quan hệ nhân thân trong luật dân sự có đặc điểm gì?",
+    "answer": "Quan hệ nhân thân trong luật dân sự là quan hệ giữa người với người không mang tính kinh tế, không thể tính thành tiền, phát sinh từ giá trị tinh thần gắn liền với một người hoặc tổ chức và không thể dịch chuyển, ví dụ như quyền đứng tên trên tác phẩm hoặc quyền bất khả xâm phạm về nhãn hiệu hàng hóa."
+  }
+]

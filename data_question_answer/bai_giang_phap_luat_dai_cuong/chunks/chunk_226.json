@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1126",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quản lý và điều hành nền kinh tế của Nhà nước.",
+    "question": "Những hạn chế phổ biến trong quản lý và điều hành nền kinh tế của Nhà nước là gì?",
+    "answer": "Các hạn chế phổ biến bao gồm: chưa theo kịp trình độ phát triển của nền kinh tế thị trường, phân công trách nhiệm và quyền hạn giữa các cơ quan quản lý còn chồng chéo, thiếu minh bạch trong cơ chế quản lý, chính sách điều hành chưa hợp lý và thủ tục hành chính phức tạp gây khó khăn cho người dân và doanh nghiệp."
+  },
+  {
+    "id": "PL_1127",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên nhân gây tham nhũng trong quản lý kinh tế.",
+    "question": "Cơ chế quản lý kinh tế thiếu minh bạch có thể dẫn đến những vấn đề gì liên quan đến tham nhũng?",
+    "answer": "Cơ chế quản lý thiếu minh bạch có thể dẫn đến các hành vi như lợi dụng chức vụ để sách nhiễu, đòi hối lộ, hoặc tạo điều kiện cho việc đưa và nhận hối lộ trong quá trình cấp phép hoặc phân bổ nguồn lực."
+  },
+  {
+    "id": "PL_1128",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chính sách điều hành nền kinh tế của Nhà nước.",
+    "question": "Hậu quả của việc Nhà nước can thiệp quá sâu vào nền kinh tế thông qua chính sách điều tiết thị trường là gì?",
+    "answer": "Hậu quả bao gồm tạo ra cơ hội cho tham nhũng, hạn chế sự cạnh tranh lành mạnh giữa các chủ thể kinh tế và làm giảm hiệu quả hoạt động của thị trường."
+  },
+  {
+    "id": "PL_1129",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cải cách hành chính.",
+    "question": "Những hạn chế trong cải cách hành chính tác động như thế nào đến hoạt động kinh tế và xã hội?",
+    "answer": "Những hạn chế như thủ tục hành chính rườm rà và phức tạp gây khó khăn cho người dân và doanh nghiệp, làm giảm hiệu quả quản lý và không đáp ứng được nhu cầu phát triển kinh tế - xã hội."
+  },
+  {
+    "id": "PL_1130",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc phát hiện và xử lý tham nhũng.",
+    "question": "Nguyên nhân nào khiến việc phát hiện tham nhũng ở nước ta còn gặp nhiều khó khăn?",
+    "answer": "Nguyên nhân bao gồm việc chủ yếu dựa vào tố giác của cán bộ, công chức và viên chức, trong khi các biện pháp khuyến khích tố cáo và công cụ phát hiện tham nhũng chưa được triển khai hiệu quả."
+  }
+]

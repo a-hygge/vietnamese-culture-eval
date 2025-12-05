@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_321",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm pháp luật phong kiến.",
+    "question": "Pháp luật phong kiến sử dụng phương tiện nào để bảo vệ lợi ích và giải quyết tranh chấp trong xã hội?",
+    "answer": "Pháp luật phong kiến sử dụng bạo lực làm phương tiện để bảo vệ lợi ích và giải quyết tranh chấp trong xã hội."
+  },
+  {
+    "id": "PL_322",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối quan hệ giữa pháp luật phong kiến và điều kiện kinh tế - xã hội.",
+    "question": "Pháp luật phong kiến dựa trên cơ sở kinh tế - xã hội nào để xây dựng và thực thi?",
+    "answer": "Pháp luật phong kiến dựa trên cơ sở kinh tế - xã hội của chế độ phong kiến, phản ánh ý chí của giai cấp địa chủ phong kiến."
+  },
+  {
+    "id": "PL_323",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nội dung của pháp luật phong kiến.",
+    "question": "Pháp luật phong kiến áp dụng hình phạt ra sao đối với các hành vi vi phạm trật tự xã hội?",
+    "answer": "Pháp luật phong kiến áp dụng những hình phạt tàn bạo đối với các hành vi vi phạm trật tự xã hội."
+  },
+  {
+    "id": "PL_324",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự ảnh hưởng của tôn giáo đối với pháp luật phong kiến.",
+    "question": "Yếu tố nào có ảnh hưởng lớn đến pháp luật phong kiến?",
+    "answer": "Pháp luật phong kiến chịu ảnh hưởng lớn từ tôn giáo và các giá trị đạo đức phong kiến."
+  },
+  {
+    "id": "PL_325",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mục tiêu bảo vệ của pháp luật phong kiến.",
+    "question": "Pháp luật phong kiến bảo vệ chế độ tư hữu của giai cấp phong kiến đối với những tài sản nào?",
+    "answer": "Pháp luật phong kiến bảo vệ chế độ tư hữu của giai cấp phong kiến đối với đất đai và chế độ bóc lột địa tô."
+  }
+]

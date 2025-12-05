@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3021",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Nguyên nhân nào khiến sự học tập ở Việt Nam thời phong kiến bị giới hạn trong phạm vi triều đình và công xã?",
+    "answer": "Nguyên nhân là do sự thiếu vắng động lực thúc đẩy từ thương nghiệp, dẫn đến việc học tập không được mở rộng ra ngoài các khuôn khổ truyền thống."
+  },
+  {
+    "id": "VH_3022",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ văn hóa giữa Triều Tiên và Trung Quốc thời Đường.",
+    "question": "Triều Tiên đã có những hình thức giao lưu nào với Trung Quốc thời Đường?",
+    "answer": "Triều Tiên giao lưu với Trung Quốc thông qua buôn bán, có người làm chủ thương nghiệp ở vùng Hoàng Hải và nhiều người đến kinh đô nhà Đường để học tập và buôn bán trực tiếp."
+  },
+  {
+    "id": "VH_3023",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa học thuật truyền thống Việt Nam.",
+    "question": "Đặc điểm nổi bật của sự học tập ở Việt Nam thời phong kiến là gì?",
+    "answer": "Sự học tập ở Việt Nam thời phong kiến chỉ giới hạn trong khuôn khổ triều đình và công xã, thiếu sự thúc đẩy từ yếu tố thương nghiệp."
+  },
+  {
+    "id": "VH_3024",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của thương nghiệp trong việc thúc đẩy văn hóa học thuật.",
+    "question": "Vì sao thương nghiệp được coi là yếu tố quan trọng thúc đẩy sự học tập và giao lưu văn hóa?",
+    "answer": "Thương nghiệp tạo điều kiện cho giao lưu trực tiếp giữa các vùng, giúp mở rộng kiến thức, tiếp cận học thuật và tăng cường tương tác văn hóa."
+  },
+  {
+    "id": "VH_3025",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của giao lưu văn hóa trong khu vực Đông Á thời Đường.",
+    "question": "Giao lưu thương mại và học thuật với Trung Quốc thời Đường đã mang lại những lợi ích gì cho Triều Tiên?",
+    "answer": "Giao lưu này giúp Triều Tiên phát triển thương nghiệp, mở rộng kiến thức và tiếp cận trực tiếp với văn hóa cũng như học thuật tiên tiến của Trung Quốc."
+  }
+]

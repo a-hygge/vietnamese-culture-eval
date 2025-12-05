@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_971",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xử phạt vi phạm hành chính.",
+    "question": "Nguyên tắc công bằng trong việc xử phạt vi phạm hành chính được thể hiện như thế nào?",
+    "answer": "Nguyên tắc công bằng được thể hiện qua việc xử phạt nhanh chóng, công khai, khách quan, đúng thẩm quyền, đúng quy định pháp luật; đồng thời dựa vào tính chất, mức độ, hậu quả vi phạm, đối tượng vi phạm và tình tiết giảm nhẹ, tăng nặng."
+  },
+  {
+    "id": "PL_972",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về điều kiện xử phạt vi phạm hành chính.",
+    "question": "Hành vi vi phạm hành chính chỉ bị xử phạt khi nào?",
+    "answer": "Hành vi vi phạm hành chính chỉ bị xử phạt khi có hành vi vi phạm hành chính do pháp luật quy định."
+  },
+  {
+    "id": "PL_973",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đối tượng và mức xử phạt vi phạm hành chính.",
+    "question": "Mức phạt tiền đối với tổ chức được quy định như thế nào khi so với cá nhân vi phạm cùng một hành vi?",
+    "answer": "Mức phạt tiền đối với tổ chức được quy định bằng 02 lần mức phạt tiền đối với cá nhân vi phạm cùng một hành vi."
+  },
+  {
+    "id": "PL_974",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm chứng minh trong xử phạt vi phạm hành chính.",
+    "question": "Ai có trách nhiệm chứng minh vi phạm hành chính trong quá trình xử phạt?",
+    "answer": "Người có thẩm quyền xử phạt có trách nhiệm chứng minh vi phạm hành chính, trong khi cá nhân, tổ chức bị xử phạt có quyền tự mình hoặc thông qua người đại diện hợp pháp chứng minh mình không vi phạm hành chính."
+  },
+  {
+    "id": "PL_975",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hình thức xử phạt cảnh cáo trong vi phạm hành chính.",
+    "question": "Cảnh cáo được áp dụng trong những trường hợp nào?",
+    "answer": "Cảnh cáo được áp dụng đối với tổ chức, cá nhân vi phạm hành chính không nghiêm trọng, lần đầu, có tình tiết giảm nhẹ hoặc đối với hành vi vi phạm hành chính do người chưa thành niên từ đủ 14 tuổi đến dưới 16 tuổi thực hiện. Cảnh cáo phải được quyết định bằng văn bản."
+  }
+]

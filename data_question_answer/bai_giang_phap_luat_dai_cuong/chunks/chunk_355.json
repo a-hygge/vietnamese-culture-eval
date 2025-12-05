@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1726",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền lợi của người lao động theo Bộ luật lao động Việt Nam.",
+    "question": "Tiền thưởng cho người lao động được dựa trên những yếu tố nào?",
+    "answer": "Tiền thưởng được dựa trên kết quả sản xuất, kinh doanh và mức độ hoàn thành công việc của người lao động."
+  },
+  {
+    "id": "PL_1727",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật liên quan đến tiền thưởng trong lao động.",
+    "question": "Ai có thẩm quyền quyết định và công bố quy chế thưởng tại nơi làm việc?",
+    "answer": "Người sử dụng lao động có thẩm quyền quyết định và công bố quy chế thưởng tại nơi làm việc."
+  },
+  {
+    "id": "PL_1728",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự tham gia của tổ chức đại diện người lao động trong quy chế thưởng.",
+    "question": "Tại nơi làm việc có tổ chức đại diện người lao động, quy chế thưởng cần tham khảo ý kiến của ai?",
+    "answer": "Quy chế thưởng cần tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở."
+  },
+  {
+    "id": "PL_1729",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định pháp luật lao động liên quan đến thời giờ làm việc.",
+    "question": "Thời giờ làm việc bình thường được quy định trong văn bản pháp luật nào?",
+    "answer": "Thời giờ làm việc bình thường được quy định trong Bộ luật lao động 2019."
+  },
+  {
+    "id": "PL_1730",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền của người lao động đối với tài sản thưởng.",
+    "question": "Ngoài tiền, người sử dụng lao động có thể thưởng cho người lao động bằng những hình thức nào?",
+    "answer": "Người sử dụng lao động có thể thưởng bằng tài sản hoặc các hình thức khác ngoài tiền."
+  }
+]

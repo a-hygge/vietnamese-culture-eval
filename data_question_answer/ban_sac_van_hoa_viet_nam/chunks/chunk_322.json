@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1606",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về khái niệm tổ quốc trong văn hóa.",
+    "question": "Tổ quốc được hình thành như thế nào?",
+    "answer": "Tổ quốc là một tổ chức hình thành khá muộn và thay đổi theo từng quốc gia, không giống như gia đình có cơ sở tự nhiên do hôn nhân tạo nên."
+  },
+  {
+    "id": "VH_1607",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa chính trị Trung Quốc thời cổ đại.",
+    "question": "Khái niệm 'trung quân, ái quốc' trong văn hóa Trung Quốc có ý nghĩa gì?",
+    "answer": "Khái niệm 'trung quân, ái quốc' trong văn hóa Trung Quốc nhấn mạnh lòng trung thành với người nuôi mình, không nhất thiết là vua, và không có khái niệm 'trung với nước' như ở Việt Nam."
+  },
+  {
+    "id": "VH_1608",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách tổ chức lãnh thổ trong lịch sử Trung Quốc.",
+    "question": "Nhà Chu đã tổ chức lãnh thổ như thế nào sau khi đánh bại nhà Thương?",
+    "answer": "Nhà Chu chia thiên hạ (lưu vực Hoàng Hà) thành vài trăm nước nhỏ, giao cho họ hàng nhà vua và các công thần cai trị, đất đai thuộc quyền sở hữu nhà vua."
+  },
+  {
+    "id": "VH_1609",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự khác biệt văn hóa chính trị giữa Việt Nam và Trung Quốc.",
+    "question": "Điểm khác biệt cơ bản giữa khái niệm trung thành của Việt Nam và Trung Quốc là gì?",
+    "answer": "Việt Nam có khái niệm 'trung với nước', trong khi Trung Quốc chú trọng 'trung quân, ái quốc', tức là trung thành với người nuôi mình chứ không phải đất nước."
+  },
+  {
+    "id": "VH_1610",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nhân vật lịch sử trong văn hóa Trung Quốc.",
+    "question": "Ngũ Tử Tư được xem là biểu tượng trung thành trong văn hóa Trung Quốc như thế nào?",
+    "answer": "Ngũ Tử Tư được xem là trung thần điển hình khi đem quân nước Ngô đánh bại nước Sở, quê hương của mình, và sau đó hi sinh cho nước Ngô."
+  }
+]

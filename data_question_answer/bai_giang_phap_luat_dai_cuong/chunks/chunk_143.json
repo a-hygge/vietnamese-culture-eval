@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_711",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy nhà nước Việt Nam.",
+    "question": "Ủy ban thường vụ Quốc hội bao gồm những ai?",
+    "answer": "Ủy ban thường vụ Quốc hội gồm Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các Ủy viên."
+  },
+  {
+    "id": "PL_712",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc tổ chức của Quốc hội.",
+    "question": "Thành viên Ủy ban thường vụ Quốc hội có thể đồng thời là thành viên Chính phủ không?",
+    "answer": "Thành viên Ủy ban thường vụ Quốc hội không thể đồng thời là thành viên Chính phủ."
+  },
+  {
+    "id": "PL_713",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội.",
+    "question": "Ủy ban thường vụ Quốc hội thực hiện nhiệm vụ, quyền hạn của mình đến thời điểm nào?",
+    "answer": "Ủy ban thường vụ Quốc hội thực hiện nhiệm vụ, quyền hạn của mình cho đến khi Quốc hội khóa mới bầu ra Ủy ban thường vụ Quốc hội."
+  },
+  {
+    "id": "PL_714",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của Phó Chủ tịch Quốc hội.",
+    "question": "Phó Chủ tịch Quốc hội thực hiện nhiệm vụ theo sự phân công của ai?",
+    "answer": "Phó Chủ tịch Quốc hội thực hiện nhiệm vụ theo sự phân công của Chủ tịch Quốc hội."
+  },
+  {
+    "id": "PL_715",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Quốc hội trong việc quyết định tổ chức Ủy ban thường vụ Quốc hội.",
+    "question": "Ai quyết định số thành viên của Ủy ban thường vụ Quốc hội?",
+    "answer": "Số thành viên của Ủy ban thường vụ Quốc hội do Quốc hội quyết định."
+  }
+]

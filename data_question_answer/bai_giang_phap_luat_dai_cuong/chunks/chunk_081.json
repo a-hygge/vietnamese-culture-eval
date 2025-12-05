@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_401",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật được định nghĩa như thế nào?",
+    "answer": "Văn bản quy phạm pháp luật là văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định."
+  },
+  {
+    "id": "PL_402",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật có vai trò gì trong xã hội?",
+    "answer": "Văn bản quy phạm pháp luật là nguồn trực tiếp của pháp luật, có ý nghĩa lớn trong việc điều chỉnh các quan hệ xã hội, tạo lập trật tự pháp luật vì sự phát triển lành mạnh của toàn xã hội và từng cá nhân."
+  },
+  {
+    "id": "PL_403",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về yêu cầu đối với văn bản quy phạm pháp luật.",
+    "question": "Việc xây dựng văn bản quy phạm pháp luật cần đáp ứng yêu cầu gì?",
+    "answer": "Phải xây dựng được những văn bản quy phạm pháp luật có chất lượng, phù hợp với các đòi hỏi của cuộc sống."
+  },
+  {
+    "id": "PL_404",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đặc điểm của văn bản quy phạm pháp luật.",
+    "question": "Văn bản quy phạm pháp luật có đặc điểm gì về cơ quan ban hành?",
+    "answer": "Văn bản quy phạm pháp luật là văn bản do cơ quan Nhà nước có thẩm quyền ban hành."
+  },
+  {
+    "id": "PL_405",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thẩm quyền ban hành văn bản quy phạm pháp luật.",
+    "question": "Cơ quan nào có quyền ban hành văn bản quy phạm pháp luật?",
+    "answer": "Văn bản quy phạm pháp luật được ban hành bởi cơ quan Nhà nước có thẩm quyền."
+  }
+]

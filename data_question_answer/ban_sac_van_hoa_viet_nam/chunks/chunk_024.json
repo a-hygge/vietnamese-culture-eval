@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_116",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng nông nghiệp trong văn hóa Việt Nam.",
+    "question": "Tín ngưỡng nông nghiệp của người Việt tập trung vào chu kỳ của loại cây trồng nào?",
+    "answer": "Tín ngưỡng nông nghiệp của người Việt tập trung vào chu kỳ trồng trọt của cây lúa."
+  },
+  {
+    "id": "VH_117",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng Tứ Phủ trong văn hóa Việt Nam.",
+    "question": "Nguồn gốc của tín ngưỡng Tứ Phủ trong văn hóa Việt Nam liên quan đến yếu tố nào?",
+    "answer": "Nguồn gốc của tín ngưỡng Tứ Phủ liên quan đến tín ngưỡng Mẹ lúa trong văn hóa Việt Nam."
+  },
+  {
+    "id": "VH_118",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của nghề trồng lúa nước tới văn hóa Việt Nam.",
+    "question": "Nghề trồng lúa nước đã tác động như thế nào đến các phong tục và nghi lễ của người Việt?",
+    "answer": "Nghề trồng lúa nước chi phối toàn bộ sinh hoạt tinh thần của người Việt, từ phong tục, đình đám đến các nghi lễ."
+  },
+  {
+    "id": "VH_119",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ cúng tổ tiên của người Việt.",
+    "question": "Niềm tin nào là cơ sở cho tín ngưỡng thờ cúng tổ tiên của người Việt?",
+    "answer": "Niềm tin rằng linh hồn người chết vẫn tồn tại và ảnh hưởng tới cuộc sống của con cháu là cơ sở cho tín ngưỡng thờ cúng tổ tiên của người Việt."
+  },
+  {
+    "id": "VH_120",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tương đồng tín ngưỡng giữa các nền văn hóa.",
+    "question": "Tín ngưỡng thờ cúng tổ tiên của người Việt có nét tương đồng với tín ngưỡng của những nền văn hóa nào?",
+    "answer": "Tín ngưỡng thờ cúng tổ tiên của người Việt có nét tương đồng với người La Mã và người Mélanésie."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_256",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Ông Hổ trong tín ngưỡng Việt Nam có vai trò gì?",
+    "answer": "Ông Hổ giúp các vị tướng trong chiến tranh và trừng trị ma quỷ đe dọa cuộc sống con người, đặc biệt là trẻ em."
+  },
+  {
+    "id": "VH_257",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tục thờ cúng trong văn hóa Việt Nam.",
+    "question": "Thờ ông Lốt trong tín ngưỡng Tứ Phủ mang ý nghĩa gì?",
+    "answer": "Thờ ông Lốt thể hiện sự tôn kính và tín ngưỡng đối với ông, với nghi thức khi ông nhập vào, người đông nằm dài ra đất và lấy khăn đỏ phủ lên người."
+  },
+  {
+    "id": "VH_258",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghệ thuật truyền thống Việt Nam.",
+    "question": "Vì sao ông Hổ được xem là vị thần bảo trợ của Hát Bội?",
+    "answer": "Ông Hổ được xem là vị thần bảo trợ của Hát Bội như một biểu tượng mang tính văn hóa và tín ngưỡng, dù không liên quan trực tiếp đến nghề hát tuồng."
+  },
+  {
+    "id": "VH_259",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của Đạo giáo Việt Nam.",
+    "question": "Điểm khác biệt chính của Đạo giáo Việt Nam so với Đạo giáo Trung Quốc là gì?",
+    "answer": "Đạo giáo Việt Nam không có nguyên lý triết học riêng như ở Trung Quốc, mà chủ yếu tập trung vào các sách thực hành như bói toán, phong thủy, bùa chú và trừ tà."
+  },
+  {
+    "id": "VH_260",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Ông Hổ và ông Lốt được thờ cúng trong tín ngưỡng Việt Nam vì lý do gì?",
+    "answer": "Ông Hổ và ông Lốt được thờ cúng vì họ tượng trưng cho sức mạnh bảo vệ con người. Ông Hổ giúp các vị tướng trong chiến tranh và trừng trị ma quỷ, còn ông Lốt mang ý nghĩa tâm linh đặc biệt trong tín ngưỡng Tứ Phủ."
+  }
+]

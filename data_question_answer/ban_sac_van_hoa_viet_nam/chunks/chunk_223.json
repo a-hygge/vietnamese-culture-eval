@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1111",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cảm nhận của các nhà văn Việt Nam thời kỳ thuộc địa.",
+    "question": "Tại sao các nhà văn Việt Nam thời kỳ thuộc địa cảm thấy tài năng của mình không đủ lớn lao?",
+    "answer": "Họ cảm thấy tài năng của mình không đủ lớn lao vì trước mắt họ đã có những người anh hùng thực sự, khiến họ tự thấy nhỏ bé."
+  },
+  {
+    "id": "VH_1112",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tâm lý của các nhà văn Việt Nam thời kỳ thuộc địa.",
+    "question": "Điều gì khiến các nhà văn Việt Nam thời kỳ thuộc địa cảm thấy buồn và tủi nhục?",
+    "answer": "Họ cảm thấy buồn và tủi nhục vì nhận ra những điều họ làm chỉ là sự lừa dối, khiến cuộc sống trở nên vô nghĩa."
+  },
+  {
+    "id": "VH_1113",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự mâu thuẫn trong tư tưởng của các nhà văn Việt Nam thời kỳ thuộc địa.",
+    "question": "Nguyên nhân nào dẫn đến sự xung đột trong tư tưởng của các nhà văn Việt Nam thời kỳ thuộc địa?",
+    "answer": "Nguyên nhân là họ vừa đề cao tự do cá nhân, vừa chịu ảnh hưởng từ truyền thống độc lập lâu đời, dẫn đến sự xung đột tư tưởng."
+  },
+  {
+    "id": "VH_1114",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nỗi sợ hãi trong sáng tác của Xuân Diệu.",
+    "question": "Xuân Diệu đã thể hiện nỗi sợ hãi nào qua việc ca ngợi tình yêu?",
+    "answer": "Ông thể hiện nỗi sợ hãi về chính bản thân mình khi cho rằng 'yêu là chết'."
+  },
+  {
+    "id": "VH_1115",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các yếu tố xã hội ảnh hưởng đến tư tưởng sáng tác.",
+    "question": "Những yếu tố nào đã tác động đến tư tưởng sáng tác của các nhà văn Việt Nam thời kỳ thuộc địa?",
+    "answer": "Các yếu tố bao gồm tư tưởng tiểu tư sản, cá nhân luận và truyền thống độc lập lâu đời, gây ra sự mâu thuẫn trong tư tưởng."
+  }
+]

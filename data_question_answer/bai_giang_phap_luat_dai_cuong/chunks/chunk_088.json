@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_436",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc hiệu lực hồi tố của văn bản quy phạm pháp luật.",
+    "question": "Hiệu lực hồi tố của văn bản quy phạm pháp luật được áp dụng trong trường hợp nào?",
+    "answer": "Hiệu lực hồi tố được áp dụng trong trường hợp sự hồi tố phù hợp với lợi ích của xã hội và được quy định trực tiếp trong văn bản pháp luật."
+  },
+  {
+    "id": "PL_437",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giới hạn hiệu lực hồi tố trong pháp luật Việt Nam.",
+    "question": "Những trường hợp nào không được áp dụng hiệu lực trở về trước theo pháp luật Việt Nam?",
+    "answer": "Hiệu lực trở về trước không được áp dụng trong các trường hợp: quy định trách nhiệm pháp lý đối với hành vi mà tại thời điểm thực hiện hành vi đó, pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn."
+  },
+  {
+    "id": "PL_438",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực của văn bản quy phạm pháp luật theo không gian.",
+    "question": "Hiệu lực của văn bản quy phạm pháp luật theo không gian được hiểu như thế nào?",
+    "answer": "Hiệu lực của văn bản quy phạm pháp luật theo không gian là phạm vi lãnh thổ mà văn bản pháp luật đó có hiệu lực và được áp dụng."
+  },
+  {
+    "id": "PL_439",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về việc xác định trách nhiệm pháp lý trong pháp luật Việt Nam.",
+    "question": "Pháp luật Việt Nam quy định thế nào về trách nhiệm pháp lý đối với hành vi xảy ra trước khi có quy định pháp luật?",
+    "answer": "Pháp luật Việt Nam không cho phép quy định trách nhiệm pháp lý đối với hành vi mà tại thời điểm thực hiện hành vi đó, pháp luật chưa có quy định về trách nhiệm pháp lý."
+  },
+  {
+    "id": "PL_440",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc áp dụng pháp luật trong quy định trách nhiệm pháp lý.",
+    "question": "Pháp luật Việt Nam có cho phép áp dụng trách nhiệm pháp lý nặng hơn cho hành vi đã xảy ra trước khi văn bản pháp luật được ban hành không?",
+    "answer": "Không, pháp luật Việt Nam không cho phép áp dụng trách nhiệm pháp lý nặng hơn cho hành vi đã xảy ra trước khi văn bản pháp luật được ban hành."
+  }
+]

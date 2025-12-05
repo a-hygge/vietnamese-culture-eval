@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1801",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Gia đình trong văn hóa truyền thống được hiểu như thế nào?",
+    "answer": "Gia đình trong văn hóa truyền thống được hiểu là bao gồm cả họ hàng và tổ tiên, không chỉ giới hạn ở các thành viên trực tiếp trong nhà."
+  },
+  {
+    "id": "VH_1802",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử kinh tế Việt Nam.",
+    "question": "Những yếu tố nào đã cản trở sự phát triển kinh tế trong lịch sử Việt Nam?",
+    "answer": "Những yếu tố bao gồm sự đồng mưu giữa chính quyền và làng xã, cùng với thái độ không ủng hộ thương nghiệp và thủ công nghiệp."
+  },
+  {
+    "id": "VH_1803",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của thể chế trong văn hóa.",
+    "question": "Thể chế xã hội có tác động gì đến văn hóa?",
+    "answer": "Thể chế xã hội tạo ra các khuôn mẫu hành vi bền vững và hỗ trợ cá nhân, gia đình vượt qua khó khăn trong đời sống."
+  },
+  {
+    "id": "VH_1804",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị văn hóa gia đình Việt Nam.",
+    "question": "Vì sao không nên đánh giá gia đình Việt Nam chỉ dựa trên góc độ kinh tế?",
+    "answer": "Vì cách nhìn kinh tế không phản ánh đầy đủ vai trò của gia đình trong việc duy trì bản sắc văn hóa."
+  },
+  {
+    "id": "VH_1805",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa làng xã Việt Nam.",
+    "question": "Làng xã đã tác động như thế nào đến kinh tế Việt Nam?",
+    "answer": "Làng xã đã kìm hãm sự phát triển của thủ công nghiệp và thương nghiệp do mối quan hệ chặt chẽ với chính quyền."
+  }
+]

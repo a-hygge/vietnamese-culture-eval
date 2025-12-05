@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_706",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm kỳ Quốc hội Việt Nam.",
+    "question": "Nhiệm kỳ của mỗi khóa Quốc hội Việt Nam kéo dài bao lâu?",
+    "answer": "Nhiệm kỳ của mỗi khóa Quốc hội Việt Nam kéo dài năm năm."
+  },
+  {
+    "id": "PL_707",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bầu cử Quốc hội Việt Nam.",
+    "question": "Quốc hội khóa mới cần được bầu trong thời hạn bao lâu trước khi khóa Quốc hội hiện tại kết thúc nhiệm kỳ?",
+    "answer": "Quốc hội khóa mới cần được bầu trong thời hạn sáu mươi ngày trước khi khóa Quốc hội hiện tại kết thúc nhiệm kỳ."
+  },
+  {
+    "id": "PL_708",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trường hợp đặc biệt liên quan đến nhiệm kỳ Quốc hội.",
+    "question": "Khi nào Quốc hội có thể rút ngắn hoặc kéo dài nhiệm kỳ của mình?",
+    "answer": "Quốc hội có thể rút ngắn hoặc kéo dài nhiệm kỳ nếu ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành theo đề nghị của Ủy ban thường vụ Quốc hội."
+  },
+  {
+    "id": "PL_709",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Quốc hội trong việc kéo dài nhiệm kỳ.",
+    "question": "Thời gian kéo dài nhiệm kỳ của một khóa Quốc hội tối đa là bao lâu?",
+    "answer": "Thời gian kéo dài nhiệm kỳ của một khóa Quốc hội tối đa là mười hai tháng, trừ trường hợp có chiến tranh."
+  },
+  {
+    "id": "PL_710",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Chủ tịch Quốc hội Việt Nam.",
+    "question": "Chủ tịch Quốc hội đảm nhiệm những vai trò gì trong hoạt động của Quốc hội?",
+    "answer": "Chủ tịch Quốc hội chủ tọa các phiên họp của Quốc hội, ký chứng thực Hiến pháp, luật, nghị quyết của Quốc hội, và lãnh đạo công tác của Ủy ban thường vụ Quốc hội."
+  }
+]

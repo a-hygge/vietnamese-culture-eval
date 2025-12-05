@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_231",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Tứ Bất Tử trong văn hóa Việt Nam gồm những nhân vật nào?",
+    "answer": "Tứ Bất Tử trong văn hóa Việt Nam gồm Thánh Tản Viên, Thánh Gióng, Chử Đồng Tử và Liễu Hạnh Công Chúa."
+  },
+  {
+    "id": "VH_232",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng dân gian Việt Nam.",
+    "question": "Nhân vật Mẫu Thượng Ngàn có nguồn gốc từ dân tộc nào?",
+    "answer": "Nhân vật Mẫu Thượng Ngàn có nguồn gốc từ dân tộc Dao."
+  },
+  {
+    "id": "VH_233",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa vùng miền Việt Nam.",
+    "question": "Những tỉnh nào ở Việt Nam nổi tiếng với nhiều nơi thờ Mẫu Thượng Ngàn?",
+    "answer": "Những tỉnh nổi tiếng với nhiều nơi thờ Mẫu Thượng Ngàn là Tuyên Quang, Thái Nguyên và Yên Bái."
+  },
+  {
+    "id": "VH_234",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Nhân vật nữ nào được đồng nhất hóa với nữ thần Chăm Thiên Y A Na ở Trung Bộ?",
+    "answer": "Nhân vật nữ được đồng nhất hóa với nữ thần Chăm Thiên Y A Na ở Trung Bộ là Liễu Hạnh Công Chúa."
+  },
+  {
+    "id": "VH_235",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng thờ cúng tổ tiên của người Việt.",
+    "question": "Tại sao Mẫu Thượng Ngàn được thờ cúng ở nhiều nơi?",
+    "answer": "Mẫu Thượng Ngàn được thờ cúng ở nhiều nơi vì bà được xem là vị thần bảo vệ rừng núi, giúp đỡ người dân và mang lại sự bình an, may mắn."
+  }
+]

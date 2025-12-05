@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_071",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguồn gốc của Nhà nước theo quan điểm Mác-Lê nin.",
+    "question": "Nhà nước xuất hiện trong điều kiện nào theo quan điểm Mác-Lê nin?",
+    "answer": "Nhà nước xuất hiện khi xã hội có sự phân chia giai cấp và mâu thuẫn giai cấp không thể điều hòa được."
+  },
+  {
+    "id": "PL_072",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về bản chất của Nhà nước theo lý thuyết Mác-Lê nin.",
+    "question": "Bản chất của Nhà nước được xác định ra sao theo lý thuyết Mác-Lê nin?",
+    "answer": "Bản chất của Nhà nước là công cụ của giai cấp thống trị để duy trì trật tự xã hội và bảo vệ lợi ích của giai cấp cầm quyền."
+  },
+  {
+    "id": "PL_073",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các học thuyết phi Mác-xít giải thích nguồn gốc Nhà nước.",
+    "question": "Thuyết thần quyền và thuyết khế ước xã hội giải thích nguồn gốc Nhà nước như thế nào?",
+    "answer": "Thuyết thần quyền cho rằng Nhà nước bắt nguồn từ ý chí của thần linh, còn thuyết khế ước xã hội cho rằng Nhà nước hình thành từ sự thỏa thuận giữa các cá nhân."
+  },
+  {
+    "id": "PL_074",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về sự tiêu vong của Nhà nước theo quan điểm Mác-Lê nin.",
+    "question": "Điều kiện nào dẫn đến sự tiêu vong của Nhà nước theo quan điểm Mác-Lê nin?",
+    "answer": "Nhà nước tiêu vong khi xã hội không còn mâu thuẫn giai cấp và các giai cấp bị xóa bỏ."
+  },
+  {
+    "id": "PL_075",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về thời kỳ chưa có Nhà nước trong lịch sử.",
+    "question": "Thời kỳ nào trong lịch sử được coi là không có Nhà nước?",
+    "answer": "Thời kỳ chế độ công xã nguyên thủy được coi là không có Nhà nước vì chưa có sự phân chia giai cấp."
+  }
+]

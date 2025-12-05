@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_751",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Chủ tịch nước Việt Nam.",
+    "question": "Chủ tịch nước có quyền quyết định đặc xá và đại xá trong trường hợp nào?",
+    "answer": "Chủ tịch nước quyết định đặc xá và, căn cứ vào nghị quyết của Quốc hội, công bố quyết định đại xá."
+  },
+  {
+    "id": "PL_752",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Chủ tịch nước trong lĩnh vực quốc phòng và an ninh.",
+    "question": "Chủ tịch nước giữ vai trò gì trong lực lượng vũ trang nhân dân và Hội đồng quốc phòng và an ninh?",
+    "answer": "Chủ tịch nước thống lĩnh lực lượng vũ trang nhân dân và giữ chức Chủ tịch Hội đồng quốc phòng và an ninh."
+  },
+  {
+    "id": "PL_753",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Chủ tịch nước trong lĩnh vực ngoại giao.",
+    "question": "Chủ tịch nước có quyền gì liên quan đến Đại sứ đặc mệnh toàn quyền của Việt Nam và nước ngoài?",
+    "answer": "Chủ tịch nước tiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài, bổ nhiệm, miễn nhiệm, quyết định cử, triệu hồi đại sứ đặc mệnh toàn quyền của Việt Nam, và phong hàm, cấp đại sứ."
+  },
+  {
+    "id": "PL_754",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Chủ tịch nước trong lĩnh vực quân sự.",
+    "question": "Chủ tịch nước có quyền gì liên quan đến quân hàm cấp tướng và chức vụ trong Quân đội nhân dân Việt Nam?",
+    "answer": "Chủ tịch nước quyết định phong, thăng, giáng, tước quân hàm cấp tướng, chuẩn đô đốc, phó đô đốc, đô đốc hải quân; bổ nhiệm, miễn nhiệm, cách chức Tổng tham mưu trưởng, Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam."
+  },
+  {
+    "id": "PL_755",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Chủ tịch nước trong việc xử lý các tình trạng đặc biệt.",
+    "question": "Chủ tịch nước có quyền gì trong việc công bố hoặc bãi bỏ tình trạng khẩn cấp?",
+    "answer": "Chủ tịch nước, căn cứ vào nghị quyết của Uỷ ban thường vụ Quốc hội, ra lệnh công bố hoặc bãi bỏ tình trạng khẩn cấp; trong trường hợp Uỷ ban thường vụ Quốc hội không thể họp được, Chủ tịch nước tự quyết định công bố hoặc bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương."
+  }
+]

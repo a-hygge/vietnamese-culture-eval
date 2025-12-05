@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_086",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Đông Nam Á.",
+    "question": "Lý thuyết đầu thai trong tín ngưỡng Đông Nam Á được hiểu như thế nào?",
+    "answer": "Lý thuyết đầu thai cho rằng linh hồn sau khi chết có thể nhập vào một người, một động vật hay một vật vô sinh, thể hiện quan niệm về sự chuyển hóa và tái sinh."
+  },
+  {
+    "id": "VH_087",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan niệm của người dân Tây Nguyên.",
+    "question": "Người dân Tây Nguyên có quan niệm như thế nào về cái chết?",
+    "answer": "Người dân Tây Nguyên không xem cái chết là hình phạt lớn nhất vì họ tin rằng chết đi sẽ được đầu thai lại trong cùng tộc người. Hình phạt nặng nhất là bị đuổi khỏi buôn làng, dẫn đến mất quan hệ với cộng đồng."
+  },
+  {
+    "id": "VH_088",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự ảnh hưởng của văn hóa Hán đến tín ngưỡng Đông Nam Á.",
+    "question": "Tại sao tín ngưỡng bản địa Đông Nam Á được cấu trúc hóa lại khi tiếp xúc với văn hóa Hán?",
+    "answer": "Tín ngưỡng bản địa Đông Nam Á được cấu trúc hóa lại khi tiếp xúc với văn hóa Hán nhằm bảo vệ nội dung cố hữu của tín ngưỡng truyền thống."
+  },
+  {
+    "id": "VH_089",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối liên hệ giữa tín ngưỡng Đông Nam Á và Phật giáo.",
+    "question": "Lý thuyết đầu thai trong tín ngưỡng Đông Nam Á có mối liên hệ gì với lý thuyết luân hồi của Phật giáo?",
+    "answer": "Lý thuyết luân hồi của Phật giáo được xem là một cách biểu hiện có lý luận hơn của lý thuyết đầu thai trong tín ngưỡng Đông Nam Á."
+  },
+  {
+    "id": "VH_090",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tập tục và tín ngưỡng của người Tây Nguyên.",
+    "question": "Tại sao bị đuổi ra khỏi buôn làng được xem là hình phạt nặng nhất đối với người Tây Nguyên?",
+    "answer": "Bị đuổi ra khỏi buôn làng được xem là hình phạt nặng nhất vì điều đó đồng nghĩa với việc mất đi hoàn toàn mối quan hệ với cộng đồng của mình."
+  }
+]

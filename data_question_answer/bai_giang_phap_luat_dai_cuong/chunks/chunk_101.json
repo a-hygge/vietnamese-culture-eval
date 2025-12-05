@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_501",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức thực hiện pháp luật.",
+    "question": "Tại sao tổ chức thực hiện pháp luật được coi là một biện pháp quan trọng trong việc đảm bảo pháp luật được thực thi?",
+    "answer": "Tổ chức thực hiện pháp luật được coi là biện pháp quan trọng vì nó đảm bảo pháp luật được tôn trọng và thực hiện nghiêm chỉnh, bao gồm các hoạt động như giải thích, tuyên truyền, giáo dục pháp luật và kiện toàn các cơ quan pháp luật."
+  },
+  {
+    "id": "PL_502",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của giải thích pháp luật.",
+    "question": "Giải thích pháp luật đóng vai trò gì trong việc giúp các chủ thể hiểu và thực hiện pháp luật?",
+    "answer": "Giải thích pháp luật đóng vai trò làm sáng tỏ nội dung, ý nghĩa của các quy định pháp luật để các chủ thể hiểu đúng và thực hiện tốt, đồng thời hỗ trợ công tác tuyên truyền và giáo dục pháp luật."
+  },
+  {
+    "id": "PL_503",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tuyên truyền giáo dục pháp luật.",
+    "question": "Mục đích chính của công tác tuyên truyền và giáo dục pháp luật là gì?",
+    "answer": "Mục đích chính của công tác tuyên truyền và giáo dục pháp luật là nâng cao ý thức pháp luật và văn hóa pháp lý cho nhân dân."
+  },
+  {
+    "id": "PL_504",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về đào tạo cán bộ pháp lý.",
+    "question": "Những yếu tố nào cần được chú trọng trong việc đào tạo và bồi dưỡng cán bộ pháp lý?",
+    "answer": "Trong việc đào tạo và bồi dưỡng cán bộ pháp lý, cần chú trọng trình độ chuyên môn, phẩm chất chính trị và khả năng công tác để bố trí vào các cơ quan làm công tác pháp chế, pháp luật."
+  },
+  {
+    "id": "PL_505",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về kiện toàn cơ quan pháp luật.",
+    "question": "Những biện pháp nào cần được thực hiện để kiện toàn các cơ quan làm công tác pháp luật?",
+    "answer": "Để kiện toàn các cơ quan làm công tác pháp luật, cần đổi mới cơ cấu, nhiệm vụ, quyền hạn, nguyên tắc hoạt động của các cơ quan này, đồng thời tổng kết, rút kinh nghiệm để đề ra phương hướng và biện pháp tăng cường hiệu lực trong từng thời kỳ."
+  }
+]

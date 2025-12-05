@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2991",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống thi cử trong lịch sử Việt Nam.",
+    "question": "Thi đình trong hệ thống thi cử thời phong kiến Việt Nam dành cho những ai?",
+    "answer": "Thi đình chỉ dành cho những người đã đỗ tiến sĩ trong các kỳ thi hội."
+  },
+  {
+    "id": "VH_2992",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về danh hiệu trong hệ thống thi cử Việt Nam.",
+    "question": "Danh hiệu 'Tam nguyên' trong hệ thống thi cử thời Nguyễn được trao cho ai?",
+    "answer": "Danh hiệu 'Tam nguyên' dành cho người đỗ đầu cả ba kỳ thi hương, thi hội và thi đình."
+  },
+  {
+    "id": "VH_2993",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về truyền thống văn hóa vinh danh người học giỏi ở Việt Nam.",
+    "question": "Người đỗ cử nhân thời xưa thường được đón nhận như thế nào khi trở về làng?",
+    "answer": "Người đỗ cử nhân được cả làng tổ chức ăn mừng, có thể được xây nhà mới nếu nghèo, và được rước xách vinh quy về làng."
+  },
+  {
+    "id": "VH_2994",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hình ảnh văn hóa trong văn học dân gian Việt Nam.",
+    "question": "Hình ảnh 'Võng anh đi trước, võng nàng đi sau' trong văn hóa Việt Nam mang ý nghĩa gì?",
+    "answer": "Hình ảnh này thể hiện ước mơ về vinh dự và hạnh phúc của các cô gái khi được sánh đôi cùng người thành đạt trong thi cử."
+  },
+  {
+    "id": "VH_2995",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về so sánh hệ thống thi cử Việt Nam và Trung Quốc.",
+    "question": "Trong giai đoạn 1821-1850, số lượng người đỗ tiến sĩ ở Việt Nam khác gì so với Trung Quốc?",
+    "answer": "Trong 15 kỳ thi hội, Trung Quốc có 3.269 người đỗ tiến sĩ, trong khi Việt Nam chỉ có 124 người đỗ, trung bình mỗi kỳ thi tuyển được mười người."
+  }
+]

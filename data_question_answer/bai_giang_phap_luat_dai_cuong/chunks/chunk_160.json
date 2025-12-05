@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_796",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức của Tòa án nhân dân.",
+    "question": "Tòa án nhân dân gồm những cơ quan nào theo quy định pháp luật?",
+    "answer": "Tòa án nhân dân gồm Tòa án nhân dân tối cao và các Tòa án khác do luật định."
+  },
+  {
+    "id": "PL_797",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nhiệm vụ của Tòa án nhân dân.",
+    "question": "Nhiệm vụ chính của Tòa án nhân dân là gì?",
+    "answer": "Tòa án nhân dân bảo vệ công lý, quyền con người, quyền công dân, chế độ xã hội chủ nghĩa, lợi ích Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân."
+  },
+  {
+    "id": "PL_798",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc hoạt động của Tòa án nhân dân.",
+    "question": "Nguyên tắc nào đảm bảo sự độc lập trong xét xử của Thẩm phán và Hội thẩm?",
+    "answer": "Nguyên tắc xét xử độc lập và chỉ tuân theo pháp luật; nghiêm cấm can thiệp vào việc xét xử của Thẩm phán, Hội thẩm."
+  },
+  {
+    "id": "PL_799",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nguyên tắc xét xử của Tòa án nhân dân.",
+    "question": "Tòa án nhân dân có xét xử công khai không? Có ngoại lệ nào không?",
+    "answer": "Tòa án nhân dân xét xử công khai, trừ trường hợp đặc biệt để giữ bí mật nhà nước, thuần phong mỹ tục hoặc bảo vệ người chưa thành niên."
+  },
+  {
+    "id": "PL_800",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hoạt động xét xử sơ thẩm của Tòa án nhân dân.",
+    "question": "Việc xét xử sơ thẩm của Tòa án nhân dân có yêu cầu Hội thẩm tham gia không?",
+    "answer": "Việc xét xử sơ thẩm của Tòa án nhân dân có Hội thẩm tham gia, trừ trường hợp xét xử theo thủ tục rút gọn."
+  }
+]

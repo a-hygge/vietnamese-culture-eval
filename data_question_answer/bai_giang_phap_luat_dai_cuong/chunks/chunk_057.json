@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_281",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền công dân.",
+    "question": "Nhà nước bảo đảm các quyền tự do của công dân bằng cách nào?",
+    "answer": "Nhà nước bảo đảm các quyền tự do của công dân thông qua việc xây dựng và thực thi pháp luật."
+  },
+  {
+    "id": "PL_282",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ công dân.",
+    "question": "Nguyên tắc nào được áp dụng giữa công dân và nhà nước?",
+    "answer": "Nguyên tắc bình đẳng về quyền và nghĩa vụ được áp dụng giữa công dân và nhà nước."
+  },
+  {
+    "id": "PL_283",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của pháp luật.",
+    "question": "Pháp luật có vai trò gì trong việc bảo vệ quyền con người?",
+    "answer": "Pháp luật có vai trò bảo vệ quyền và lợi ích chính đáng của con người."
+  },
+  {
+    "id": "PL_284",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về xử lý vi phạm quyền công dân.",
+    "question": "Nhà nước xử lý hành vi xâm phạm quyền công dân dựa trên điều gì?",
+    "answer": "Nhà nước xử lý hành vi xâm phạm quyền công dân dựa trên pháp luật."
+  },
+  {
+    "id": "PL_285",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nền tảng pháp lý của nhà nước.",
+    "question": "Nhà nước dựa vào nền tảng nào để thực hiện quyền lực?",
+    "answer": "Nhà nước dựa vào nền tảng pháp luật để thực hiện quyền lực."
+  }
+]

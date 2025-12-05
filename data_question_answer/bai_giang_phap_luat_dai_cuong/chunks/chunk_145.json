@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_721",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Hội đồng dân tộc trong hệ thống Quốc hội Việt Nam.",
+    "question": "Hội đồng dân tộc có nhiệm vụ chính gì trong việc thực hiện quyền giám sát?",
+    "answer": "Hội đồng dân tộc thực hiện quyền giám sát việc thi hành chính sách dân tộc, chương trình, kế hoạch phát triển kinh tế - xã hội miền núi và vùng đồng bào dân tộc thiểu số."
+  },
+  {
+    "id": "PL_722",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức của Hội đồng dân tộc.",
+    "question": "Ai là người chịu trách nhiệm bầu Chủ tịch Hội đồng dân tộc?",
+    "answer": "Chủ tịch Hội đồng dân tộc do Quốc hội bầu."
+  },
+  {
+    "id": "PL_723",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Ủy ban thường vụ Quốc hội.",
+    "question": "Ủy ban thường vụ Quốc hội có quyền phê chuẩn những chức danh nào trong Hội đồng dân tộc?",
+    "answer": "Ủy ban thường vụ Quốc hội có quyền phê chuẩn các Phó Chủ tịch và các Ủy viên của Hội đồng dân tộc."
+  },
+  {
+    "id": "PL_724",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền hạn của Chính phủ liên quan đến chính sách dân tộc.",
+    "question": "Chính phủ cần thực hiện quy trình gì khi ban hành quy định thực hiện chính sách dân tộc?",
+    "answer": "Khi ban hành quy định thực hiện chính sách dân tộc, Chính phủ phải lấy ý kiến của Hội đồng dân tộc."
+  },
+  {
+    "id": "PL_725",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và trách nhiệm của Hội đồng dân tộc trong quan hệ với Chính phủ.",
+    "question": "Chủ tịch Hội đồng dân tộc được tham dự phiên họp nào của Chính phủ liên quan đến chính sách dân tộc?",
+    "answer": "Chủ tịch Hội đồng dân tộc được mời tham dự phiên họp của Chính phủ bàn về việc thực hiện chính sách dân tộc."
+  }
+]

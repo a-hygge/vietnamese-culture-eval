@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1386",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hợp đồng dân sự.",
+    "question": "Hợp đồng dân sự là gì?",
+    "answer": "Hợp đồng dân sự là sự thỏa thuận giữa các bên nhằm xác lập, thay đổi hoặc chấm dứt quyền và nghĩa vụ dân sự."
+  },
+  {
+    "id": "PL_1387",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về các loại hợp đồng dân sự thông dụng.",
+    "question": "Hãy kể tên một số loại hợp đồng dân sự thông dụng.",
+    "answer": "Một số loại hợp đồng dân sự thông dụng bao gồm: hợp đồng mua bán tài sản, hợp đồng trao đổi tài sản, hợp đồng tặng cho tài sản, hợp đồng vay tài sản, hợp đồng thuê tài sản, hợp đồng thuê khoán tài sản, hợp đồng mượn tài sản và hợp đồng dịch vụ."
+  },
+  {
+    "id": "PL_1388",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ trong hợp đồng dân sự.",
+    "question": "Khi ký kết hợp đồng dân sự, các bên có trách nhiệm gì?",
+    "answer": "Các bên có trách nhiệm thực hiện đầy đủ, đúng hạn các quyền và nghĩa vụ đã thỏa thuận trong hợp đồng."
+  },
+  {
+    "id": "PL_1389",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của hợp đồng dân sự trong giao dịch tài sản.",
+    "question": "Vai trò của hợp đồng dân sự trong giao dịch tài sản là gì?",
+    "answer": "Hợp đồng dân sự đóng vai trò xác lập thỏa thuận pháp lý giữa các bên, đảm bảo tính minh bạch và bảo vệ quyền lợi của các bên trong giao dịch tài sản."
+  },
+  {
+    "id": "PL_1390",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phân loại hợp đồng dân sự.",
+    "question": "Hợp đồng dân sự có thể được phân loại dựa trên tiêu chí nào?",
+    "answer": "Hợp đồng dân sự có thể được phân loại dựa trên nội dung giao dịch như: mua bán, trao đổi, tặng cho, vay, thuê, hoặc dựa trên hình thức thực hiện quyền và nghĩa vụ của các bên."
+  }
+]

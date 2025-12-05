@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1216",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hạn chế năng lực hành vi dân sự.",
+    "question": "Trong trường hợp nào Tòa án có thể tuyên bố một người bị hạn chế năng lực hành vi dân sự?",
+    "answer": "Tòa án có thể tuyên bố một người bị hạn chế năng lực hành vi dân sự nếu người đó nghiện ma túy, nghiện các chất kích thích khác dẫn đến việc phát tán tài sản của gia đình, theo yêu cầu của người có quyền, lợi ích liên quan, cơ quan, tổ chức hữu quan."
+  },
+  {
+    "id": "PL_1217",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về giao dịch dân sự của người bị hạn chế năng lực hành vi dân sự.",
+    "question": "Giao dịch dân sự liên quan đến tài sản của người bị hạn chế năng lực hành vi dân sự cần đáp ứng điều kiện nào?",
+    "answer": "Giao dịch dân sự liên quan đến tài sản của người bị hạn chế năng lực hành vi dân sự phải có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch nhằm phục vụ nhu cầu sinh hoạt hàng ngày."
+  },
+  {
+    "id": "PL_1218",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nhân thân theo quy định pháp luật.",
+    "question": "Quyền nhân thân được định nghĩa như thế nào theo quy định pháp luật?",
+    "answer": "Quyền nhân thân là quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "id": "PL_1219",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nhân thân khi bị xâm phạm.",
+    "question": "Khi quyền nhân thân bị xâm phạm, cá nhân có thể yêu cầu những biện pháp nào để bảo vệ quyền của mình?",
+    "answer": "Khi quyền nhân thân bị xâm phạm, cá nhân có quyền: tự mình cải chính; yêu cầu người vi phạm hoặc cơ quan, tổ chức có thẩm quyền buộc người vi phạm chấm dứt hành vi vi phạm, xin lỗi, cải chính công khai; hoặc yêu cầu bồi thường thiệt hại."
+  },
+  {
+    "id": "PL_1220",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đối với họ, tên của cá nhân.",
+    "question": "Cá nhân có quyền gì liên quan đến họ, tên của mình?",
+    "answer": "Cá nhân có quyền có họ, tên và quyền thay đổi họ, tên theo quy định pháp luật."
+  }
+]

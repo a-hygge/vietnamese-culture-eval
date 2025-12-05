@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_3106",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thái độ của người trí thức Việt Nam xưa đối với bói toán.",
+    "question": "Người trí thức Việt Nam xưa có quan điểm ra sao về bói toán?",
+    "answer": "Người trí thức Việt Nam xưa có thái độ tin vào bói toán, học theo một số cách bói toán của Trung Quốc nhưng không xác lập nguyên lý giải thích mối quan hệ giữa tương lai và các hiện tượng tự nhiên."
+  },
+  {
+    "id": "VH_3107",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của bói toán trong đời sống xã hội Việt Nam xưa.",
+    "question": "Bói toán có vai trò gì trong các hoạt động xã hội của người Việt Nam xưa?",
+    "answer": "Bói toán đóng vai trò quan trọng trong các quan hệ xã hội, hôn lễ, xuất hành, làm nhà, chiến tranh và sản xuất."
+  },
+  {
+    "id": "VH_3108",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách thực hành bói toán của nhà nho Việt Nam xưa.",
+    "question": "Nhà nho Việt Nam xưa thực hành bói toán bằng những phương pháp nào?",
+    "answer": "Nhà nho Việt Nam xưa thường đoán số, xem tướng, xem sao, xem ngày, xem tuổi và nhận thù lao, nhưng họ không cho rằng việc này trái với đạo thánh hiền."
+  },
+  {
+    "id": "VH_3109",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của văn hóa Trung Quốc đến bói toán Việt Nam.",
+    "question": "Văn hóa Trung Quốc đã tác động như thế nào đến bói toán và pháp thuật ở Việt Nam?",
+    "answer": "Pháp thuật phổ biến ở Trung Quốc được đào tạo bài bản và điển chế hóa nguy nga, ảnh hưởng đến cách nhìn nhận bói toán và pháp thuật ở Việt Nam, nhưng Việt Nam không phát triển chúng theo cách tương tự."
+  },
+  {
+    "id": "VH_3110",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò và sự đào tạo của thầy pháp trong xã hội Việt Nam xưa.",
+    "question": "Thầy pháp trong xã hội Việt Nam xưa được đào tạo và đảm nhận vai trò gì?",
+    "answer": "Thầy pháp trong xã hội Việt Nam xưa có được đào tạo nhất định để chứng minh pháp thuật của mình và đóng vai trò trong các hoạt động tín ngưỡng hoặc đời sống cộng đồng."
+  }
+]

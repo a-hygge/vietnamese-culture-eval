@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1621",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quy định giao kết hợp đồng lao động theo pháp luật Việt Nam.",
+    "question": "Trong trường hợp công việc có thời hạn dưới 12 tháng, nhóm người lao động có thể thực hiện việc giao kết hợp đồng lao động như thế nào?",
+    "answer": "Nhóm người lao động có thể ủy quyền cho một người lao động trong nhóm để giao kết hợp đồng lao động bằng văn bản, và hợp đồng lao động này có hiệu lực như giao kết với từng người trong nhóm."
+  },
+  {
+    "id": "PL_1622",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về yêu cầu đối với hợp đồng lao động được giao kết bởi người được ủy quyền.",
+    "question": "Hợp đồng lao động do người được ủy quyền giao kết cần kèm theo những thông tin gì?",
+    "answer": "Hợp đồng lao động phải kèm theo danh sách ghi rõ họ tên, tuổi, giới tính, địa chỉ thường trú, nghề nghiệp và chữ ký của từng người lao động trong nhóm."
+  },
+  {
+    "id": "PL_1623",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ cung cấp thông tin trước khi giao kết hợp đồng lao động.",
+    "question": "Người sử dụng lao động có nghĩa vụ cung cấp những thông tin gì cho người lao động trước khi giao kết hợp đồng lao động?",
+    "answer": "Người sử dụng lao động phải cung cấp thông tin về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, quy định về bảo vệ bí mật kinh doanh, bí mật công nghệ và các vấn đề liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu."
+  },
+  {
+    "id": "PL_1624",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về nghĩa vụ của người lao động khi giao kết hợp đồng lao động.",
+    "question": "Người lao động cần cung cấp những thông tin gì cho người sử dụng lao động trước khi giao kết hợp đồng lao động?",
+    "answer": "Người lao động phải cung cấp thông tin về họ tên, tuổi, giới tính, nơi cư trú, trình độ học vấn và trình độ kỹ năng chuyên môn."
+  },
+  {
+    "id": "PL_1625",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về hiệu lực của hợp đồng lao động trong trường hợp nhóm người lao động ủy quyền cho một người giao kết.",
+    "question": "Hợp đồng lao động được giao kết bởi người lao động được nhóm ủy quyền có hiệu lực như thế nào?",
+    "answer": "Hợp đồng lao động được giao kết bởi người lao động được nhóm ủy quyền có hiệu lực như giao kết với từng người lao động trong nhóm."
+  }
+]

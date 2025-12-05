@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1551",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm hình sự trong nghiên cứu khoa học và kỹ thuật.",
+    "question": "Hành vi gây thiệt hại khi thực hiện nghiên cứu khoa học và công nghệ có phải chịu trách nhiệm hình sự không?",
+    "answer": "Nếu hành vi gây thiệt hại xảy ra mặc dù đã tuân thủ đúng quy trình, quy phạm và áp dụng đầy đủ các biện pháp phòng ngừa thì không phải chịu trách nhiệm hình sự. Tuy nhiên, nếu gây thiệt hại do cẩu thả hoặc quá tự tin, người thực hiện vẫn phải chịu trách nhiệm hình sự."
+  },
+  {
+    "id": "PL_1552",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm hình sự khi thi hành mệnh lệnh của cấp trên.",
+    "question": "Người thi hành mệnh lệnh của cấp trên gây thiệt hại có bị coi là tội phạm không?",
+    "answer": "Nếu người thi hành mệnh lệnh đã thực hiện đầy đủ quy trình báo cáo với cấp trên và người ra mệnh lệnh vẫn yêu cầu chấp hành, thì hành vi gây thiệt hại không bị coi là tội phạm."
+  },
+  {
+    "id": "PL_1553",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm hình phạt trong luật hình sự.",
+    "question": "Hình phạt trong luật hình sự được định nghĩa như thế nào?",
+    "answer": "Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất do nhà nước quy định trong Bộ luật hình sự, được Toà án áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích của họ."
+  },
+  {
+    "id": "PL_1554",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của hình phạt trong luật hình sự.",
+    "question": "Hình phạt trong luật hình sự có vai trò gì?",
+    "answer": "Hình phạt là công cụ thực hiện trách nhiệm hình sự, nhằm xử lý các hành vi phạm tội và bảo đảm tính nghiêm minh của pháp luật."
+  },
+  {
+    "id": "PL_1555",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm hình sự khi gây thiệt hại do cẩu thả hoặc quá tự tin.",
+    "question": "Trường hợp gây thiệt hại do cẩu thả hoặc quá tự tin có phải chịu trách nhiệm hình sự không?",
+    "answer": "Người gây thiệt hại do cẩu thả hoặc quá tự tin vẫn phải chịu trách nhiệm hình sự."
+  }
+]

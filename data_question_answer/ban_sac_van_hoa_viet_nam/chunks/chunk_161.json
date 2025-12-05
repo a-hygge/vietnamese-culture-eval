@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_801",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tư tưởng Hồ Chí Minh.",
+    "question": "Hồ Chí Minh có quan điểm như thế nào về việc sử dụng bạo lực trong cách mạng?",
+    "answer": "Hồ Chí Minh không nhấn mạnh việc sử dụng bạo lực để xóa bỏ giai cấp, mà tập trung vào các giá trị nhân văn và thực tiễn trong cách mạng."
+  },
+  {
+    "id": "VH_802",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phương pháp xây dựng nhân cách cách mạng của Hồ Chí Minh.",
+    "question": "Hồ Chí Minh đã có quan điểm gì về văn hóa trong việc xây dựng nhân cách cách mạng?",
+    "answer": "Hồ Chí Minh không chủ trương một văn hóa đối lập giữa các giai cấp, mà nhấn mạnh việc nắm bắt các giá trị bất biến trong mọi xã hội để lý giải sự thay đổi."
+  },
+  {
+    "id": "VH_803",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về phong trào 'Đời sống mới'.",
+    "question": "Trong phong trào 'Đời sống mới', Hồ Chí Minh đã nhấn mạnh những giá trị nào là cốt lõi và không thay đổi?",
+    "answer": "Hồ Chí Minh nhấn mạnh rằng các giá trị như Cần, Kiệm, Liêm, Chính, Chí công, Vô tư là những giá trị cốt lõi và không bao giờ cũ."
+  },
+  {
+    "id": "VH_804",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm của Hồ Chí Minh đối với cách mạng.",
+    "question": "Hồ Chí Minh có tập trung vào các vấn đề cao xa về cách mạng thế giới không?",
+    "answer": "Không, Hồ Chí Minh tập trung vào những giá trị thực tiễn và thiết thực thay vì các vấn đề cao xa về cách mạng thế giới."
+  },
+  {
+    "id": "VH_805",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết lý sống của Hồ Chí Minh.",
+    "question": "Hồ Chí Minh quan niệm thế nào về các giá trị đạo đức trong đời sống?",
+    "answer": "Hồ Chí Minh quan niệm rằng các giá trị như Cần, Kiệm, Liêm, Chính, Chí công, Vô tư là những giá trị không bao giờ lỗi thời và luôn cần thiết trong mọi thời đại."
+  }
+]

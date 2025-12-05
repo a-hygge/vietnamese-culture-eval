@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1246",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền nhân thân trong xác định lại giới tính.",
+    "question": "Trong trường hợp nào cá nhân có quyền được xác định lại giới tính?",
+    "answer": "Cá nhân có quyền được xác định lại giới tính khi giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác, cần có sự can thiệp của y học để xác định rõ về giới tính."
+  },
+  {
+    "id": "PL_1247",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền chuyển đổi giới tính của cá nhân.",
+    "question": "Sau khi chuyển đổi giới tính, cá nhân có quyền và nghĩa vụ pháp lý nào?",
+    "answer": "Cá nhân đã chuyển đổi giới tính có quyền, nghĩa vụ đăng ký thay đổi hộ tịch theo quy định của pháp luật về hộ tịch, và có quyền nhân thân phù hợp với giới tính đã được chuyển đổi theo quy định của Bộ luật Dân sự và các luật liên quan."
+  },
+  {
+    "id": "PL_1248",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền trong hôn nhân và gia đình.",
+    "question": "Cá nhân có những quyền nhân thân nào trong quan hệ hôn nhân và gia đình?",
+    "answer": "Cá nhân có quyền kết hôn, ly hôn, quyền bình đẳng của vợ chồng, quyền xác định cha, mẹ, con, quyền nhận làm con nuôi, quyền nuôi con nuôi và các quyền nhân thân khác trong quan hệ hôn nhân, quan hệ cha mẹ và con, và quan hệ giữa các thành viên gia đình."
+  },
+  {
+    "id": "PL_1249",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền bất khả xâm phạm về chỗ ở.",
+    "question": "Quyền bất khả xâm phạm về chỗ ở của cá nhân được pháp luật quy định như thế nào?",
+    "answer": "Cá nhân có quyền bất khả xâm phạm về chỗ ở, được pháp luật bảo vệ sự an toàn và không ai được tự ý xâm nhập vào nơi ở trái pháp luật."
+  },
+  {
+    "id": "PL_1250",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền đối với quốc tịch của cá nhân.",
+    "question": "Việc công nhận, thay đổi, nhập quốc tịch, thôi quốc tịch Việt Nam được thực hiện theo quy định của pháp luật nào?",
+    "answer": "Việc công nhận, thay đổi, nhập quốc tịch, thôi quốc tịch Việt Nam được thực hiện theo quy định của pháp luật về quốc tịch."
+  }
+]

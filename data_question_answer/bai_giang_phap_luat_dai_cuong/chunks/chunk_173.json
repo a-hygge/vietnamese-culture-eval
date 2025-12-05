@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_861",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về tổ chức bộ máy hành chính nhà nước Việt Nam.",
+    "question": "Các cơ quan hành chính có thẩm quyền chuyên môn bao gồm những đơn vị nào?",
+    "answer": "Các cơ quan hành chính có thẩm quyền chuyên môn bao gồm các Bộ, cơ quan ngang bộ, cơ quan trực thuộc Chính phủ, Sở, phòng, ban thuộc Ủy ban nhân dân các cấp."
+  },
+  {
+    "id": "PL_862",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của cơ quan hành chính nhà nước.",
+    "question": "Cơ quan hành chính có thẩm quyền chuyên môn thực hiện chức năng gì?",
+    "answer": "Cơ quan hành chính có thẩm quyền chuyên môn thực hiện chức năng quản lý theo ngành hoặc theo chức năng, trực tiếp quản lý một ngành, một lĩnh vực hoặc một số lĩnh vực trên phạm vi cả nước."
+  },
+  {
+    "id": "PL_863",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về cơ cấu tổ chức hành chính tại địa phương.",
+    "question": "Các đơn vị hành chính thuộc Ủy ban nhân dân cấp địa phương bao gồm những gì?",
+    "answer": "Các đơn vị hành chính thuộc Ủy ban nhân dân cấp địa phương bao gồm Sở, phòng, ban."
+  },
+  {
+    "id": "PL_864",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về vai trò của cơ quan ngang bộ trong hệ thống hành chính nhà nước Việt Nam.",
+    "question": "Cơ quan ngang bộ trong hệ thống hành chính nhà nước Việt Nam đảm nhận vai trò gì?",
+    "answer": "Cơ quan ngang bộ đảm nhận vai trò quản lý theo ngành hoặc theo chức năng trên phạm vi cả nước."
+  },
+  {
+    "id": "PL_865",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi quản lý của các cơ quan hành chính nhà nước.",
+    "question": "Phạm vi quản lý của các cơ quan hành chính có thẩm quyền chuyên môn được xác định như thế nào?",
+    "answer": "Phạm vi quản lý của các cơ quan hành chính có thẩm quyền chuyên môn là quản lý một ngành, một lĩnh vực hoặc một số lĩnh vực trên phạm vi cả nước."
+  }
+]

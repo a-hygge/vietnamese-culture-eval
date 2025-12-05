@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1306",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử cách mạng Việt Nam.",
+    "question": "Chính quyền cách mạng ở Việt Nam được thiết lập trong thời gian bao lâu?",
+    "answer": "Chính quyền cách mạng ở Việt Nam được thiết lập chỉ trong 12 ngày."
+  },
+  {
+    "id": "VH_1307",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tham gia của Mỹ trong chiến tranh Việt Nam.",
+    "question": "Mỹ đã huy động bao nhiêu quân và nguồn lực trong chiến tranh Việt Nam?",
+    "answer": "Mỹ đã huy động 50 vạn quân, tiêu tốn hàng trăm tỷ đô la và ném số lượng bom nhiều nhất trong lịch sử chiến tranh."
+  },
+  {
+    "id": "VH_1308",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tồn tại của chính quyền do Mỹ xây dựng tại Việt Nam.",
+    "question": "Chính quyền do Mỹ xây dựng tại Việt Nam tồn tại trong thời gian bao lâu?",
+    "answer": "Chính quyền do Mỹ xây dựng tại Việt Nam chỉ tồn tại trong 4 ngày, từ 26-4 đến 30-4-1975, trong Chiến dịch Hồ Chí Minh."
+  },
+  {
+    "id": "VH_1309",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về đặc điểm của chính quyền cách mạng Việt Nam.",
+    "question": "Yếu tố nào chứng minh sự ổn định của chính quyền cách mạng Việt Nam?",
+    "answer": "Chính quyền cách mạng Việt Nam được coi là ổn định nhất trong lịch sử loài người, mặc dù những người nắm chính quyền ban đầu rất ít kinh nghiệm chính trị, quân sự và kinh tế."
+  },
+  {
+    "id": "VH_1310",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các yếu tố dẫn đến chiến thắng của Việt Nam trước các thế lực ngoại bang.",
+    "question": "Nhân dân Việt Nam đã dựa vào yếu tố nào để đánh bại các thế lực ngoại bang?",
+    "answer": "Nhân dân Việt Nam đã dựa vào nhân cách luận cách mạng để đánh bại các thế lực ngoại bang, bao gồm cá nhân dựa trên võ lực của Pháp và cá nhân luận kinh tế của Mỹ."
+  }
+]

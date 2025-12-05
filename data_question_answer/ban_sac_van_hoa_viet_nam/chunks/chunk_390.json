@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_1946",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tình cảnh xã hội Việt Nam dưới chế độ thực dân.",
+    "question": "Thân phận của nông dân Việt Nam dưới chế độ thực dân được miêu tả ra sao?",
+    "answer": "Nông dân Việt Nam bị đẩy vào cảnh đói nghèo, phải làm những công việc thấp hèn như tôi tớ, con sen, kéo xe, gái điếm và mất hẳn nhân phẩm, không được che chở, bị khinh rẻ và sống không có tương lai."
+  },
+  {
+    "id": "VH_1947",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về ảnh hưởng của chế độ thực dân Pháp đến người dân Việt Nam.",
+    "question": "Người dân Việt Nam phải chịu những hình thức áp bức nào từ chế độ thực dân?",
+    "answer": "Người dân Việt Nam bị bắt đi lính cho Pháp, bị ép uống rượu tây, bị hào lý và thực dân hoành hành, khinh rẻ, lừa bịp, và sống trong sự cô độc, không có nhà cửa hay gia đình."
+  },
+  {
+    "id": "VH_1948",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị nhân cách của người Việt Nam dưới chế độ thực dân.",
+    "question": "Lý do nào khiến giá trị nhân cách của người dân lao động bị coi thường dưới chế độ thực dân?",
+    "answer": "Giá trị nhân cách của người dân lao động bị coi thường dưới chế độ thực dân, lòng trung thực bị đánh giá là đần độn, phong tục bị chê là quê mùa, khiến họ bị khinh rẻ ngay cả bởi đồng bào của mình."
+  },
+  {
+    "id": "VH_1949",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mục tiêu của cách mạng Việt Nam.",
+    "question": "Cách mạng Việt Nam cần thực hiện điều gì để cải thiện thân phận người dân lao động?",
+    "answer": "Cách mạng cần đổi mới thân phận người dân lao động, đưa họ từ vị trí kẻ tôi tớ, bị sai bảo, lên địa vị những người chủ."
+  },
+  {
+    "id": "VH_1950",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tác động của chế độ thực dân đối với đời sống tinh thần của người Việt Nam.",
+    "question": "Chế độ thực dân đã ảnh hưởng như thế nào đến đời sống tinh thần của người dân lao động?",
+    "answer": "Người dân lao động sống trong cảnh cô độc, không nhà, không họ hàng, không có bàn thờ để thờ tổ tiên và không nhận được bất kỳ sự an ủi nào."
+  }
+]

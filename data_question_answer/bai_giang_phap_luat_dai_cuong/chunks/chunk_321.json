@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1601",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm luật lao động.",
+    "question": "Luật lao động được định nghĩa như thế nào?",
+    "answer": "Luật lao động là tổng hợp những quy phạm pháp luật do Nhà nước ban hành nhằm điều chỉnh quan hệ lao động giữa người lao động với người sử dụng lao động và các quan hệ xã hội khác liên quan trực tiếp đến quan hệ lao động, như bảo hiểm xã hội."
+  },
+  {
+    "id": "PL_1602",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về phạm vi điều chỉnh của Bộ luật lao động.",
+    "question": "Phạm vi điều chỉnh của Bộ luật lao động bao gồm những nội dung nào?",
+    "answer": "Bộ luật lao động quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, và tổ chức đại diện tập thể lao động."
+  },
+  {
+    "id": "PL_1603",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về quyền và nghĩa vụ của người lao động theo luật lao động.",
+    "question": "Luật lao động quy định những quyền và nghĩa vụ nào đối với người lao động?",
+    "answer": "Luật lao động quy định quyền, nghĩa vụ của người lao động liên quan đến tiêu chuẩn lao động và các trách nhiệm phát sinh trong quan hệ lao động với người sử dụng lao động."
+  },
+  {
+    "id": "PL_1604",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về trách nhiệm của người sử dụng lao động theo luật lao động.",
+    "question": "Người sử dụng lao động có trách nhiệm gì theo quy định của luật lao động?",
+    "answer": "Người sử dụng lao động có trách nhiệm tuân thủ tiêu chuẩn lao động, đảm bảo quyền lợi của người lao động, và thực hiện đầy đủ các nghĩa vụ pháp lý liên quan đến quan hệ lao động."
+  },
+  {
+    "id": "PL_1605",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về mối liên hệ giữa luật lao động và bảo hiểm xã hội.",
+    "question": "Luật lao động có mối liên hệ như thế nào với bảo hiểm xã hội?",
+    "answer": "Luật lao động điều chỉnh các quan hệ lao động, bao gồm cả các quan hệ xã hội liên quan trực tiếp đến quan hệ lao động, như bảo hiểm xã hội."
+  }
+]

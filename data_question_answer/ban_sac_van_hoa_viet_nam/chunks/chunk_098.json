@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_486",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lịch sử văn hóa Việt Nam.",
+    "question": "Chữ viết nào từng được sử dụng làm công cụ cai trị trong lịch sử Việt Nam?",
+    "answer": "Chữ Hán từng được sử dụng làm công cụ cai trị trong lịch sử Việt Nam."
+  },
+  {
+    "id": "VH_487",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về chế độ chính trị trong lịch sử Việt Nam.",
+    "question": "Chế độ cai trị vua chúa ở Việt Nam có đặc điểm nổi bật nào?",
+    "answer": "Chế độ cai trị vua chúa ở Việt Nam là chế độ cha truyền con nối và không có sự can thiệp của tôn giáo."
+  },
+  {
+    "id": "VH_488",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hệ thống quan lại trong lịch sử Việt Nam.",
+    "question": "Việc tuyển mộ quan lại ở Việt Nam trong lịch sử dựa trên tiêu chí gì?",
+    "answer": "Việc tuyển mộ quan lại ở Việt Nam trong lịch sử dựa trên học vấn, không phân biệt giàu nghèo hay gia thế."
+  },
+  {
+    "id": "VH_489",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Hệ tư tưởng chung của dân tộc Việt Nam được xây dựng dựa trên những yếu tố nào?",
+    "answer": "Hệ tư tưởng chung của dân tộc Việt Nam được xây dựng dựa trên truyền thuyết cha Rồng mẹ Tiên, sự thống nhất về nguồn gốc, lịch sử chung và lãnh thổ chung."
+  },
+  {
+    "id": "VH_490",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về mối quan hệ văn hóa Việt Nam và Trung Quốc.",
+    "question": "Nền văn hóa nào đã ảnh hưởng đến việc xây dựng dân tộc và nhà nước Việt Nam?",
+    "answer": "Nền văn hóa Trung Quốc đã ảnh hưởng đến việc xây dựng dân tộc và nhà nước Việt Nam, nhưng được điều chỉnh theo tinh thần văn hóa Việt Nam."
+  }
+]

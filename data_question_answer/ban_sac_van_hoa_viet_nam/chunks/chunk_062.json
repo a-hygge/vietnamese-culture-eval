@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_306",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng Tứ Phủ trong văn hóa Việt Nam.",
+    "question": "Cung văn trong tín ngưỡng Tứ Phủ đảm nhận nhiệm vụ gì?",
+    "answer": "Cung văn đảm nhận vai trò chính trong âm nhạc, phụ trách nghi lễ, học nhạc và chữ Hán để sáng tác các bài văn vần ca ngợi thần linh."
+  },
+  {
+    "id": "VH_307",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về hát văn trong tín ngưỡng Tứ Phủ.",
+    "question": "Hát văn trong tín ngưỡng Tứ Phủ có mục đích gì?",
+    "answer": "Hát văn nhằm tạo không khí cho việc nhập đồng, giới thiệu lai lịch, tính cách, đặc điểm của các vị thần đang nhập đồng và đệm múa cho hầu đồng."
+  },
+  {
+    "id": "VH_308",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nghi lễ trong tín ngưỡng Tứ Phủ.",
+    "question": "Âm nhạc và hát văn trong các nghi thức của tín ngưỡng Tứ Phủ có đặc điểm gì?",
+    "answer": "Âm nhạc và hát văn trong các nghi thức của tín ngưỡng Tứ Phủ có những điệu hát riêng như điệu sai, điệu đồng, điệu dọc, và các bài hát được sáng tác phù hợp với từng nghi lễ cụ thể."
+  },
+  {
+    "id": "VH_309",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về lễ hội trong tín ngưỡng Tứ Phủ.",
+    "question": "Những lễ hội quan trọng trong tín ngưỡng Tứ Phủ thường diễn ra vào thời gian nào?",
+    "answer": "Những lễ hội quan trọng trong tín ngưỡng Tứ Phủ như tiệc Mẫu Sông (ngày 21/2), Mẫu Phủ Giầy (ngày 3/3), tiệc Cô Bơ (ngày 12/6)."
+  },
+  {
+    "id": "VH_310",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về thể loại văn học trong hát văn.",
+    "question": "Các bài hát văn trong tín ngưỡng Tứ Phủ thường được sáng tác theo thể loại nào?",
+    "answer": "Các bài hát văn thường được sáng tác theo thể lục bát hoặc song thất lục bát, với độ dài từ 31 đến 108 câu."
+  }
+]

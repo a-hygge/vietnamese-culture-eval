@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_001",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về tín ngưỡng và tôn giáo Việt Nam.",
+    "question": "Khái niệm 'độ khúc xạ' trong các hiện tượng tín ngưỡng được hiểu như thế nào trong văn hóa Việt Nam?",
+    "answer": "'Độ khúc xạ' là sự khác biệt giữa nguồn gốc của các hiện tượng tín ngưỡng, thường xuất phát từ nước ngoài, và cách chúng được biểu hiện qua tâm thức Việt Nam."
+  },
+  {
+    "id": "VH_002",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự ảnh hưởng của Đạo giáo Trung Quốc đến văn hóa Việt Nam.",
+    "question": "Nghiên cứu sự khúc xạ của Đạo giáo Trung Quốc qua tâm thức Việt Nam nhằm mục đích gì?",
+    "answer": "Mục đích là giúp người đọc hiểu rõ bản thân trong quá trình tiếp xúc và giao thoa văn hóa."
+  },
+  {
+    "id": "VH_003",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về các nguồn tài liệu nghiên cứu Đạo giáo Trung Quốc.",
+    "question": "Những công trình nào được sử dụng để nghiên cứu về Đạo giáo Trung Quốc?",
+    "answer": "Các công trình gồm 'Le Taoisme', 'Les religions chinoises' của H. Maspéro, 'Trung Quốc tôn giáo tùng lâm' của Chu Thụ Phiên và 'Trung Quốc Đạo giáo' do Khanh Hi Thái chủ biên."
+  },
+  {
+    "id": "VH_004",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về nguồn thông tin trong nghiên cứu tôn giáo.",
+    "question": "Việc nghiên cứu về Đạo giáo Trung Quốc chủ yếu dựa trên nguồn thông tin nào?",
+    "answer": "Việc nghiên cứu chủ yếu dựa trên các công trình sách vở về Đạo giáo Trung Quốc."
+  },
+  {
+    "id": "VH_005",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về sự tiếp biến văn hóa trong tín ngưỡng Việt Nam.",
+    "question": "Sự tiếp biến văn hóa trong tín ngưỡng Việt Nam được thể hiện ra sao khi nghiên cứu về Đạo giáo?",
+    "answer": "Sự tiếp biến văn hóa được thể hiện qua việc các hiện tượng tín ngưỡng có nguồn gốc nước ngoài thay đổi và biểu hiện khác biệt qua tâm thức Việt Nam."
+  }
+]

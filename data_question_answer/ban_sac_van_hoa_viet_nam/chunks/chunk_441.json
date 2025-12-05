@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2201",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về văn hóa gia đình Việt Nam.",
+    "question": "Trong gia đình Việt Nam, các bà mẹ thường coi trọng điều gì hơn giữa tình nghĩa và của cải?",
+    "answer": "Các bà mẹ thường coi trọng tình nghĩa hơn của cải."
+  },
+  {
+    "id": "VH_2202",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về bản sắc văn hóa dân tộc Việt Nam.",
+    "question": "Người Việt Nam thường đánh giá cao lối sống nào trong cuộc sống hàng ngày?",
+    "answer": "Người Việt Nam đánh giá cao lối sống trong sạch, giản dị, dù có thiếu thốn hơn là cuộc sống xa hoa và ích kỷ."
+  },
+  {
+    "id": "VH_2203",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị đạo đức trong văn hóa Việt Nam.",
+    "question": "Trong giao tiếp hàng ngày, người Việt Nam thường ưu tiên sự chân thực hay sự khéo léo giả dối?",
+    "answer": "Người Việt Nam thường ưu tiên sự chân thực hơn là sự khéo léo nhưng giả dối."
+  },
+  {
+    "id": "VH_2204",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về vai trò của người phụ nữ trong văn hóa Việt Nam.",
+    "question": "Các cô vợ góa trong văn hóa Việt Nam thường ưu tiên điều gì giữa danh dự của con cái và lợi ích cá nhân?",
+    "answer": "Các cô vợ góa thường ưu tiên danh dự và sự sống của con cái hơn lợi ích cá nhân."
+  },
+  {
+    "id": "VH_2205",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về giá trị con người trong văn hóa Việt Nam.",
+    "question": "Người Việt Nam có thái độ như thế nào đối với những người biết kiềm chế ham muốn vật chất?",
+    "answer": "Người Việt Nam yêu quý và tôn trọng những người biết kiềm chế ham muốn vật chất và sống có chiều sâu."
+  }
+]

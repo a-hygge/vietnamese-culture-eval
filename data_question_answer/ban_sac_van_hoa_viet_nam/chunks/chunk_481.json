@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VH_2401",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về triết lý sống trong tư tưởng Khổng Tử.",
+    "question": "Khổng Tử yêu cầu gì đối với những người làm chính trị?",
+    "answer": "Khổng Tử yêu cầu những người làm chính trị phải là mẫu mực về nhân cách."
+  },
+  {
+    "id": "VH_2402",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm giáo hóa trong tư tưởng Khổng Tử.",
+    "question": "Khổng Tử quan niệm như thế nào về cách giáo hóa mọi người?",
+    "answer": "Khổng Tử quan niệm giáo hóa mọi người bằng cách nêu gương, thống nhất với quan điểm lấy văn hóa để lôi cuốn mọi người."
+  },
+  {
+    "id": "VH_2403",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan niệm sống của người quân tử trong tư tưởng Khổng Tử.",
+    "question": "Người quân tử trong tư tưởng của Khổng Tử coi trọng điều gì nhất?",
+    "answer": "Người quân tử trong tư tưởng của Khổng Tử coi trọng đạo nghĩa hơn mọi thứ, kể cả cuộc sống."
+  },
+  {
+    "id": "VH_2404",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về quan điểm của Khổng Tử về con người và ham muốn.",
+    "question": "Khổng Tử cho rằng việc con người ham muốn của cải, sắc đẹp, danh vị là điều gì?",
+    "answer": "Khổng Tử cho rằng việc con người ham muốn của cải, sắc đẹp, danh vị, cuộc sống sung sướng là chuyện bình thường."
+  },
+  {
+    "id": "VH_2405",
+    "source": "Bản sắc văn hóa Việt Nam",
+    "category": "culture",
+    "context": "Sau đây là câu hỏi về cách sống thanh thản trong tư tưởng Khổng Tử.",
+    "question": "Theo Khổng Tử, làm thế nào để giữ được sự thanh thản dù trong hoàn cảnh khó khăn?",
+    "answer": "Theo Khổng Tử, để giữ được sự thanh thản dù trong hoàn cảnh khó khăn, con người không nên oán trời, trách người mà hãy tìm niềm vui trong nội tâm của mình."
+  }
+]

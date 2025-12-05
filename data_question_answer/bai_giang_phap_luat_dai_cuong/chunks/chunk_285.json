@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PL_1421",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chủ thể của luật tố tụng dân sự.",
+    "question": "Tòa án nhân dân có thẩm quyền giải quyết những loại tranh chấp nào?",
+    "answer": "Tòa án nhân dân có thẩm quyền giải quyết các tranh chấp về dân sự, hôn nhân và gia đình, kinh doanh, thương mại, và lao động."
+  },
+  {
+    "id": "PL_1422",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về chức năng của Tòa án nhân dân trong luật tố tụng dân sự.",
+    "question": "Tòa án nhân dân có quyền gì đối với các quyết định trái pháp luật của cơ quan, tổ chức khác trong quá trình xét xử vụ án dân sự?",
+    "answer": "Tòa án nhân dân có quyền hủy các quyết định trái pháp luật của cơ quan, tổ chức khác xâm phạm quyền lợi hợp pháp của đương sự trong vụ án mà tòa án giải quyết."
+  },
+  {
+    "id": "PL_1423",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về người tham gia tố tụng dân sự.",
+    "question": "Những ai được coi là đương sự trong vụ án dân sự?",
+    "answer": "Đương sự bao gồm nguyên đơn, bị đơn và người có quyền lợi, nghĩa vụ liên quan."
+  },
+  {
+    "id": "PL_1424",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm nguyên đơn trong luật tố tụng dân sự.",
+    "question": "Nguyên đơn trong vụ án dân sự được định nghĩa như thế nào?",
+    "answer": "Nguyên đơn là người khởi kiện yêu cầu tòa án bảo vệ quyền lợi của mình. Trong trường hợp viện kiểm sát khởi tố hoặc tổ chức xã hội khởi kiện vì lợi ích chung, người có quyền lợi được bảo vệ có thể tham gia tố tụng với tư cách nguyên đơn."
+  },
+  {
+    "id": "PL_1425",
+    "source": "Pháp luật đại cương",
+    "category": "law",
+    "context": "Sau đây là câu hỏi về khái niệm bị đơn trong luật tố tụng dân sự.",
+    "question": "Bị đơn trong vụ án dân sự được hiểu như thế nào?",
+    "answer": "Bị đơn là người bị yêu cầu tham gia tố tụng để trả lời về việc kiện."
+  }
+]
