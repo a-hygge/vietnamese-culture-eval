@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "Bash(tree:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(C:UsersUserAppDataLocalProgramsPythonPython312python.exe -m pip install openai openpyxl -q)",
+      "Bash(PYTHONIOENCODING=utf-8 python:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(wc:*)"
     ],
     "deny": [],
     "ask": []

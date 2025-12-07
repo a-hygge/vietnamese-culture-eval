@@ -1,0 +1,1227 @@
+{
+  "VH_001": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu suy luận hoặc kiến thức ngoài văn bản (text_based: 0). Thông tin không thay đổi theo thời gian vì liên quan đến khái niệm văn hóa (no_temporal: 1). Câu hỏi liên quan đến văn hóa Việt Nam (relevant: 1). Tuy nhiên, khái niệm 'độ khúc xạ' trong tín ngưỡng không rõ ràng và mang tính chủ quan, không có đáp án rõ ràng (objective: 0)."
+  },
+  "VH_002": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu một chút suy luận về mục đích của nghiên cứu, không hoàn toàn dựa vào văn bản. Thông tin không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Tuy nhiên, câu trả lời mang tính chủ quan và có thể bị ảnh hưởng bởi quan điểm cá nhân."
+  },
+  "VH_003": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu kiến thức bên ngoài. Thông tin không thay đổi theo thời gian vì đây là các công trình nghiên cứu đã xuất bản. Câu hỏi liên quan đến văn hóa nhưng không đặc thù Việt Nam. Câu hỏi và đáp án khách quan, không mang tính chủ quan hay ý kiến cá nhân."
+  },
+  "VH_004": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào nội dung cụ thể của đoạn văn gốc, mà yêu cầu kiến thức bên ngoài. Nội dung không thay đổi theo thời gian. Câu hỏi liên quan đến nghiên cứu tôn giáo, có thể áp dụng cho Việt Nam nhưng không đặc thù. Câu hỏi và đáp án mang tính khách quan."
+  },
+  "VH_005": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu một mức độ suy luận nhẹ dựa trên kiến thức về sự tiếp biến văn hóa và tín ngưỡng Việt Nam, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_006": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa dân gian Việt Nam, nhưng cần một chút suy luận hoặc kiến thức nền để hiểu ý nghĩa của tín ngưỡng đồng cốt. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_007": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, không liên quan đến văn hóa hoặc pháp luật Việt Nam, nhưng thông tin không thay đổi theo thời gian và mang tính khách quan."
+  },
+  "VH_008": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, không liên quan đến văn hóa hoặc pháp luật Việt Nam, nhưng thông tin không thay đổi theo thời gian và mang tính khách quan."
+  },
+  "VH_009": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, không liên quan đến văn hóa hoặc pháp luật Việt Nam, nhưng thông tin không thay đổi theo thời gian và mang tính khách quan."
+  },
+  "VH_010": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu so sánh giữa Đạo giáo Trung Quốc và tín ngưỡng đồng cốt ở Việt Nam, nhưng thông tin này không có trong đoạn văn gốc, cần kiến thức ngoài văn bản. Tuy nhiên, thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và có tính khách quan."
+  },
+  "VH_011": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu kiến thức về 'Đạo Đức Kinh', không hoàn toàn dựa vào văn bản gốc mà cần kiến thức triết học. Thông tin không thay đổi theo thời gian. Tuy nhiên, nội dung này không đặc thù Việt Nam mà thuộc về văn hóa Á Đông nói chung."
+  },
+  "VH_012": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin nào về thuyết 'Ngũ hành' trong đoạn văn. Thông tin về thuyết 'Ngũ hành' không thay đổi theo thời gian. Tuy nhiên, câu hỏi không liên quan đến văn hóa hoặc pháp luật Việt Nam mà thuộc về triết học Trung Hoa. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_013": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận từ kiến thức văn hóa Á Đông và lý thuyết 'Ngũ hành', không hoàn toàn dựa vào văn bản gốc. Nội dung không thay đổi theo thời gian vì liên quan đến lý thuyết cổ điển. Tuy nhiên, câu hỏi không đặc thù cho văn hóa hoặc pháp luật Việt Nam mà mang tính chung của văn hóa Á Đông."
+  },
+  "VH_014": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn bản gốc, không thay đổi theo thời gian, liên quan đến văn hóa cổ đại (có thể áp dụng cho Việt Nam qua ảnh hưởng của triết học Trung Hoa), và mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_015": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án không dựa vào nội dung văn bản gốc, mà cần kiến thức ngoài văn bản. Thông tin không thay đổi theo thời gian. Liên quan đến tín ngưỡng nhưng không đặc thù Việt Nam. Câu hỏi và đáp án khách quan, không có ý kiến cá nhân."
+  },
+  "VH_016": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì văn bản chỉ đề cập đến lịch sử văn hóa Trung Quốc mà không cung cấp thông tin cụ thể về nhiệm vụ của Từ Phúc. Nội dung không liên quan đến văn hóa hoặc pháp luật Việt Nam. Tuy nhiên, thông tin không thay đổi theo thời gian và câu hỏi mang tính khách quan."
+  },
+  "VH_017": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin nào về Thuyết Hoàng Lão trong đoạn văn. Nội dung không liên quan đến văn hóa hoặc pháp luật Việt Nam mà thuộc về lịch sử Trung Quốc. Tuy nhiên, câu hỏi mang tính khách quan và không thay đổi theo thời gian."
+  },
+  "VH_018": {
+    "text_based": 0,
+    "no_temporal": 0.5,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin nào về Phật giáo trong đoạn văn. Thông tin về thời điểm du nhập Phật giáo có thể thay đổi theo nghiên cứu lịch sử mới. Câu hỏi không liên quan đến văn hóa hoặc pháp luật Việt Nam. Tuy nhiên, câu hỏi khách quan và có đáp án rõ ràng."
+  },
+  "VH_019": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, không liên quan đến văn hóa hoặc pháp luật Việt Nam, nhưng thông tin không thay đổi theo thời gian và mang tính khách quan."
+  },
+  "VH_020": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu thông tin không có trong đoạn văn gốc, do đó không dựa vào văn bản. Thông tin về Trương Đạo Lăng và phái 'Năm đấu gạo' không thay đổi theo thời gian. Tuy nhiên, nội dung này không đặc thù liên quan đến văn hóa hoặc pháp luật Việt Nam mà thuộc về lịch sử Đạo giáo Trung Quốc. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_021": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_022": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ từ kiến thức lịch sử, không hoàn toàn dựa vào văn bản. Thông tin không thay đổi theo thời gian. Tuy nhiên, Trương Giác và 'Thái bình đạo' không đặc thù liên quan đến văn hóa hoặc pháp luật Việt Nam mà thuộc lịch sử Trung Quốc. Câu hỏi và đáp án khách quan, không có ý kiến cá nhân."
+  },
+  "VH_023": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc. Nội dung liên quan đến lịch sử và tín ngưỡng nhưng không đặc thù Việt Nam. Thông tin không thay đổi theo thời gian và câu hỏi mang tính khách quan."
+  },
+  "VH_024": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, thông tin về Phái Khăn Vàng và Thái bình đạo không được cung cấp trong ngữ cảnh. Câu hỏi liên quan đến lịch sử văn hóa nhưng không đặc thù Việt Nam mà liên quan đến lịch sử Trung Quốc. Tuy nhiên, câu hỏi có tính khách quan và không thay đổi theo thời gian."
+  },
+  "VH_025": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Thông tin về các kinh sách của 'Thái bình đạo' không có trong đoạn văn gốc, cần kiến thức ngoài văn bản. Tuy nhiên, câu hỏi không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_026": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa truyền thống, có thể cần một chút suy luận từ người đọc. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_027": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa hoàn toàn vào văn bản gốc vì không có thông tin cụ thể nào về thuyết âm dương ngũ hành trong đoạn văn. Tuy nhiên, thông tin này không thay đổi theo thời gian và có liên quan đến văn hóa phương Đông, nhưng không đặc thù cho Việt Nam. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_028": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu kiến thức lịch sử về Đạo giáo và Cát Hồng, phần lớn dựa vào văn bản nhưng cần một chút kiến thức nền. Đạo giáo không phải đặc thù Việt Nam, mặc dù có ảnh hưởng đến văn hóa Việt Nam. Thông tin không thay đổi theo thời gian và câu hỏi khách quan, không mang tính chủ quan hay thiên vị."
+  },
+  "VH_029": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa phương Đông và thuyết âm dương ngũ hành, nhưng cần một chút suy luận để liên hệ với xã hội. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và khách quan."
+  },
+  "VH_030": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_031": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_032": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_033": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_034": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_035": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa hoàn toàn vào văn bản gốc vì không có thông tin cụ thể nào trong văn bản để trả lời. Tuy nhiên, thông tin về áo dài và các dịp mặc là không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_036": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc (không có thông tin về Trần Đoàn trong đoạn văn). Nội dung không liên quan đến văn hóa hoặc pháp luật Việt Nam mà liên quan đến lịch sử văn hóa Trung Quốc. Tuy nhiên, thông tin không thay đổi theo thời gian và câu hỏi mang tính khách quan."
+  },
+  "VH_037": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu thông tin không có trong đoạn văn gốc, mà cần kiến thức lịch sử hoặc tôn giáo ngoài văn bản. Thông tin về Phái Toàn Chân không thay đổi theo thời gian. Câu hỏi liên quan đến Đạo giáo, có thể có liên quan gián tiếp đến văn hóa Việt Nam nhưng không đặc thù. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_038": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì văn bản chỉ đề cập đến vai trò của biểu tượng trong văn hóa Trung Quốc mà không nhắc đến Quan Vũ. Thông tin không thay đổi theo thời gian. Câu hỏi liên quan đến văn hóa Trung Quốc, không đặc thù Việt Nam. Câu hỏi và đáp án khách quan, không mang ý kiến cá nhân."
+  },
+  "VH_039": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin nào về Trương Tam Phong hoặc bộ sách của ông trong đoạn văn. Thông tin không thay đổi theo thời gian vì đây là một nhân vật lịch sử và tác phẩm của ông đã được ghi nhận. Tuy nhiên, câu hỏi chỉ liên quan một phần đến văn hóa Việt Nam vì Đạo giáo có ảnh hưởng nhưng không đặc thù cho Việt Nam. Câu hỏi khách quan và có đáp án rõ ràng."
+  },
+  "VH_040": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà liên quan đến lịch sử Đạo giáo Trung Quốc, không phải văn hóa hay pháp luật Việt Nam."
+  },
+  "VH_041": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_042": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, không liên quan đến văn hóa hoặc pháp luật Việt Nam, nhưng thông tin không thay đổi theo thời gian và có tính khách quan."
+  },
+  "VH_043": {
+    "text_based": 0,
+    "no_temporal": 0,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu thông tin không có trong đoạn văn gốc, cần suy luận hoặc kiến thức ngoài. Thông tin về Chiến tranh thuốc phiện và sự thay đổi của Đạo giáo có thể thay đổi theo thời gian. Đạo giáo không phải là đặc thù của Việt Nam, nhưng có thể liên quan một phần đến văn hóa hoặc lịch sử khu vực. Câu hỏi và đáp án khách quan, không có ý kiến cá nhân."
+  },
+  "VH_044": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc. Đạo giáo không phải là đặc trưng của văn hóa hoặc pháp luật Việt Nam, nhưng có thể liên quan một phần do ảnh hưởng văn hóa chung. Thông tin không thay đổi theo thời gian và câu hỏi mang tính khách quan."
+  },
+  "VH_045": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc. Đạo giáo là một khái niệm không thay đổi theo thời gian. Tuy nhiên, câu hỏi liên quan đến văn hóa Trung Quốc, không hoàn toàn đặc thù cho Việt Nam. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_046": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu một chút suy luận từ kiến thức về Đạo giáo, không hoàn toàn dựa vào văn bản. Thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và khách quan."
+  },
+  "VH_047": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, thông tin về Đạo giáo và Thái Thượng Lão Quân không được cung cấp trong ngữ cảnh. Tuy nhiên, thông tin này không thay đổi theo thời gian và có liên quan một phần đến văn hóa Việt Nam do ảnh hưởng của Đạo giáo. Câu hỏi và đáp án mang tính khách quan."
+  },
+  "VH_048": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, thông tin về ba loại thần không được cung cấp. Nội dung không thay đổi theo thời gian. Câu hỏi liên quan đến tôn giáo nhưng không đặc thù Việt Nam. Câu hỏi và đáp án khách quan, không có ý kiến cá nhân."
+  },
+  "VH_049": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin nào trong ngữ cảnh cung cấp danh sách tám vị tiên trong Đạo giáo. Thông tin này không thay đổi theo thời gian. Mặc dù Đạo giáo có ảnh hưởng đến văn hóa Việt Nam, nhưng danh sách tám vị tiên không đặc thù cho Việt Nam mà là kiến thức chung về Đạo giáo. Câu hỏi khách quan và có đáp án rõ ràng."
+  },
+  "VH_050": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn bản gốc, không thay đổi theo thời gian, liên quan đến tín ngưỡng Việt Nam và mang tính khách quan."
+  },
+  "VH_051": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào về 'giữ cái một' trong Đạo giáo được cung cấp. Tuy nhiên, khái niệm này không thay đổi theo thời gian và có tính khách quan. Mặc dù liên quan đến văn hóa và triết lý, nhưng không đặc thù cho Việt Nam mà mang tính chung chung về Đạo giáo."
+  },
+  "VH_052": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản cụ thể mà yêu cầu kiến thức về Đạo giáo, không có thông tin trong ngữ cảnh. Tuy nhiên, thông tin này không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_053": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu thông tin về biện pháp tu luyện trong Đạo giáo, phần lớn dựa vào văn bản nhưng cần một chút kiến thức nền về Đạo giáo. Nội dung không thay đổi theo thời gian, nhưng không đặc thù hoàn toàn liên quan đến Việt Nam vì Đạo giáo không chỉ tồn tại ở Việt Nam. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_054": {
+    "text_based": 0,
+    "no_temporal": 0.5,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án không dựa hoàn toàn vào văn bản gốc, cần kiến thức lịch sử ngoài văn bản. Thông tin có thể thay đổi theo thời gian vì liên quan đến các sự kiện lịch sử cụ thể. Nội dung liên quan đến Đạo giáo nhưng không đặc thù cho văn hóa hoặc pháp luật Việt Nam. Câu hỏi và đáp án khách quan, không mang tính chủ quan hay thiên vị."
+  },
+  "VH_055": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào về 'Tam nhất' trong Đạo giáo được cung cấp. Tuy nhiên, khái niệm này không thay đổi theo thời gian và có tính khách quan. Mặc dù liên quan đến văn hóa, nhưng không đặc thù hoặc tập trung vào Việt Nam mà thuộc về Đạo giáo nói chung."
+  },
+  "VH_056": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc về tác động của việc tìm kiếm thuốc tiên. Nội dung không thay đổi theo thời gian vì liên quan đến lịch sử. Câu hỏi có liên quan đến văn hóa và y học, nhưng không đặc thù cho Việt Nam. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_057": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu kiến thức ngoài văn bản. Nội dung không liên quan đến văn hóa hoặc pháp luật Việt Nam mà tập trung vào Trung Quốc. Tuy nhiên, câu hỏi mang tính khách quan và không thay đổi theo thời gian."
+  },
+  "VH_058": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu kiến thức ngoài văn bản (text_based: 0). Thông tin về thuật dưỡng sinh không thay đổi theo thời gian (no_temporal: 1). Câu hỏi liên quan đến văn hóa Á Đông nhưng không đặc thù Việt Nam (relevant: 0.5). Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân (objective: 1)."
+  },
+  "VH_059": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu kiến thức lịch sử ngoài văn bản. Nội dung không liên quan đến văn hóa hoặc pháp luật Việt Nam mà tập trung vào lịch sử Trung Quốc. Câu trả lời có thể mang tính chủ quan vì lý do 'đáp ứng tốt hơn nhu cầu tâm linh' không hoàn toàn khách quan và có thể gây tranh cãi."
+  },
+  "VH_060": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào về nghệ thuật Trung Quốc trong văn bản. Nội dung không liên quan đến văn hóa hoặc pháp luật Việt Nam. Tuy nhiên, câu hỏi và đáp án mang tính khách quan và không thay đổi theo thời gian."
+  },
+  "VH_061": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc về cách gọi giữa vợ chồng. Tuy nhiên, nội dung này không thay đổi theo thời gian và hoàn toàn liên quan đến văn hóa Việt Nam. Đáp án có chút thiên về cảm nhận cá nhân về sự gắn bó thân mật."
+  },
+  "VH_062": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu kiến thức văn hóa ngoài văn bản. Thông tin không thay đổi theo thời gian. Câu hỏi liên quan đến văn hóa nhưng không đặc thù Việt Nam. Câu hỏi và đáp án khách quan, không có ý kiến cá nhân."
+  },
+  "VH_063": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi không dựa vào nội dung văn bản gốc mà yêu cầu kiến thức văn hóa xã hội bên ngoài. Thông tin không thay đổi theo thời gian vì đây là một đặc điểm văn hóa. Câu hỏi hoàn toàn liên quan đến văn hóa Việt Nam. Tuy nhiên, câu trả lời có phần chủ quan khi diễn giải ý nghĩa của cách gọi này."
+  },
+  "VH_064": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận từ phong tục tập quán Việt Nam, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Tuy nhiên, câu trả lời có phần chủ quan khi nói về sự thân mật và vai trò quan trọng của gia đình."
+  },
+  "VH_065": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận và kiến thức ngoài văn bản để trả lời, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian vì liên quan đến lịch sử và văn hóa. Câu hỏi hoàn toàn liên quan đến văn hóa Việt Nam. Tuy nhiên, câu trả lời mang tính khái quát và có thể bị ảnh hưởng bởi quan điểm cá nhân, không hoàn toàn khách quan."
+  },
+  "VH_066": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi và đáp án không dựa hoàn toàn vào văn bản gốc, cần suy luận hoặc kiến thức ngoài văn bản. Thông tin không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Tuy nhiên, đáp án có thể mang tính chủ quan vì cách xưng hô có thể khác nhau tùy ngữ cảnh và quan điểm cá nhân."
+  },
+  "VH_067": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án không dựa vào văn bản gốc mà chỉ liên quan đến Đạo giáo và xã hội Trung Quốc, không liên quan đến văn hóa hoặc pháp luật Việt Nam."
+  },
+  "VH_068": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào về cơ cấu tổ chức của Đạo giáo trong đoạn văn. Đạo giáo không phải là một đặc trưng văn hóa hoặc pháp luật đặc thù của Việt Nam, nhưng có thể liên quan một phần đến văn hóa tôn giáo. Các tiêu chí khác đều đạt điểm tối đa."
+  },
+  "VH_069": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu suy luận ngoài văn bản. Nội dung không liên quan đến văn hóa hoặc pháp luật Việt Nam mà tập trung vào xã hội Trung Quốc. Tuy nhiên, câu hỏi mang tính khách quan và không bị ảnh hưởng bởi thời gian."
+  },
+  "VH_070": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào về vai trò của người đứng đầu trong Đạo giáo được cung cấp. Đạo giáo là một khái niệm không thay đổi theo thời gian, nhưng câu hỏi chỉ liên quan một phần đến văn hóa Việt Nam vì Đạo giáo không phải đặc trưng riêng của Việt Nam mà có nguồn gốc từ Trung Quốc."
+  },
+  "VH_071": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi và đáp án không hoàn toàn dựa vào văn bản gốc, vì không có thông tin cụ thể nào trong văn bản để trả lời trực tiếp. Thông tin không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Tuy nhiên, đáp án có phần mang tính suy diễn và không hoàn toàn khách quan, vì mục đích của nghi lễ có thể được hiểu theo nhiều cách khác nhau."
+  },
+  "VH_072": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_073": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_074": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Thông tin về ý nghĩa của việc bôi than lên đầu trong ngày lễ bủn than không có trong đoạn văn gốc, do đó không thể đánh giá là dựa hoàn toàn vào văn bản. Tuy nhiên, câu hỏi không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_075": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi dựa phần lớn vào văn bản gốc nhưng cần suy luận nhẹ về niềm tin và ý nghĩa của hành động uống nước thánh. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến tín ngưỡng Việt Nam và mang tính khách quan."
+  },
+  "VH_076": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc. Tuy nhiên, nội dung không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Câu trả lời có phần chủ quan vì không có cơ sở rõ ràng từ văn bản."
+  },
+  "VH_077": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận dựa trên kiến thức lịch sử và văn hóa, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_078": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu kiến thức lịch sử và khái niệm về văn hóa thị dân thời Pháp thuộc, nhưng không có thông tin cụ thể trong đoạn văn gốc. Tuy nhiên, thông tin này không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_079": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu một chút suy luận về cách văn hóa ngoại lai tương tác với văn hóa Việt Nam, không hoàn toàn dựa vào văn bản. Tuy nhiên, thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_080": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ về cách tiếp nhận Nho giáo ở Việt Nam, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_081": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc về đặc điểm trí thức và quý tộc của Đạo giáo Trung Hoa. Nội dung liên quan đến văn hóa nhưng không đặc thù Việt Nam. Các yếu tố khác như tính khách quan và không thay đổi theo thời gian đều đạt yêu cầu."
+  },
+  "VH_082": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ từ văn bản gốc về sự ảnh hưởng của văn hóa Trung Hoa đến tín ngưỡng Việt Nam. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và có tính khách quan."
+  },
+  "VH_083": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào về vai trò của tầng lớp trí thức Trung Hoa trong văn bản. Nội dung không thay đổi theo thời gian vì đề cập đến khái niệm lịch sử. Tuy nhiên, câu hỏi chỉ liên quan đến văn hóa Trung Hoa, không đặc thù cho Việt Nam. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_084": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn bản gốc, nhưng cần một chút suy luận về vai trò của lý thuyết 'Tam giáo đồng nguyên'. Thông tin không thay đổi theo thời gian vì đây là lý thuyết lịch sử. Câu hỏi hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_085": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi và đáp án không dựa hoàn toàn vào văn bản gốc, cần suy luận ngoài văn bản. Thông tin không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Tuy nhiên, đáp án có phần mang tính suy đoán và không hoàn toàn khách quan."
+  },
+  "VH_086": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào về lý thuyết đầu thai trong đoạn văn. Tuy nhiên, thông tin này không thay đổi theo thời gian và có liên quan đến văn hóa Đông Nam Á, nhưng không đặc thù cho Việt Nam. Câu hỏi và đáp án mang tính khách quan."
+  },
+  "VH_087": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn bản gốc nhưng cần một chút suy luận về quan niệm văn hóa. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_088": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản và không dựa hoàn toàn vào nội dung gốc. Thông tin không thay đổi theo thời gian vì liên quan đến lịch sử và văn hóa. Tuy nhiên, câu hỏi chỉ liên quan một phần đến Việt Nam vì Đông Nam Á là một khu vực rộng lớn. Đáp án có phần chủ quan vì không có cơ sở rõ ràng từ văn bản."
+  },
+  "VH_089": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc về mối liên hệ giữa tín ngưỡng Đông Nam Á và Phật giáo. Thông tin không thay đổi theo thời gian vì liên quan đến khái niệm tôn giáo. Tuy nhiên, câu hỏi không hoàn toàn đặc thù cho văn hóa hoặc pháp luật Việt Nam mà mang tính khu vực Đông Nam Á. Câu trả lời có phần chủ quan khi nói về 'cách biểu hiện có lý luận hơn'."
+  },
+  "VH_090": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa của người Tây Nguyên, có thể suy luận từ văn bản nhưng không hoàn toàn rõ ràng. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_091": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu so sánh giữa Đạo giáo Việt Nam và Trung Hoa, nhưng thông tin này không có trong đoạn văn gốc. Tuy nhiên, câu hỏi không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_092": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_093": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi không dựa hoàn toàn vào văn bản gốc mà yêu cầu suy luận ngoài văn bản. Nội dung không thay đổi theo thời gian vì liên quan đến tín ngưỡng và vai trò văn hóa. Tuy nhiên, câu hỏi không đặc thù cho Việt Nam mà mang tính chung của Đông Nam Á. Câu hỏi có phần chủ quan khi đề cập đến 'bù đắp' và có thể mang ý kiến cá nhân."
+  },
+  "VH_094": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn hóa Việt Nam, nhưng cần một chút suy luận hoặc kiến thức phổ thông về vai trò của nữ giới trong các hoạt động tín ngưỡng. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_095": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_096": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_097": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn bản gốc, không thay đổi theo thời gian, liên quan trực tiếp đến văn hóa Việt Nam và mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_098": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn hóa và tín ngưỡng dân gian Việt Nam, nhưng cần một chút suy luận về vai trò của cây trong đời sống con người. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_099": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ từ kiến thức văn hóa dân gian, không hoàn toàn dựa vào văn bản. Thông tin không thay đổi theo thời gian, liên quan đặc thù đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_100": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_101": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án có liên quan đến tín ngưỡng Việt Nam nhưng không hoàn toàn dựa vào văn bản gốc vì không có thông tin chi tiết về nguồn gốc tục thờ đá trong đoạn văn. Thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_102": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi dựa phần lớn vào kiến thức văn hóa Việt Nam, nhưng không hoàn toàn có trong đoạn văn gốc. Thông tin về thần Tản Viên không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và có đáp án rõ ràng, khách quan."
+  },
+  "VH_103": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ về ý nghĩa của cây nêu, không hoàn toàn dựa vào văn bản. Thông tin không thay đổi theo thời gian, liên quan đặc thù đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_104": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản cụ thể mà yêu cầu kiến thức văn hóa dân gian. Tuy nhiên, thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_105": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu so sánh hai thần thoại, nhưng thông tin này không có trong đoạn văn gốc. Câu hỏi không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Tuy nhiên, câu trả lời có thể mang tính chủ quan vì không có nguồn thông tin rõ ràng để xác nhận."
+  },
+  "VH_106": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ dựa trên kiến thức văn hóa và tín ngưỡng, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_107": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, chỉ liên quan một phần đến văn hóa Đông Nam Á (không đặc thù Việt Nam), nhưng thông tin không thay đổi theo thời gian và khách quan."
+  },
+  "VH_108": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, thông tin về rồng và các hình tượng không có trong ngữ cảnh. Tuy nhiên, thông tin này không thay đổi theo thời gian và có liên quan một phần đến văn hóa Đông Nam Á, nhưng không đặc thù Việt Nam. Câu hỏi và đáp án mang tính khách quan."
+  },
+  "VH_109": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa hoàn toàn vào văn bản gốc vì không có thông tin cụ thể nào trong ngữ cảnh được cung cấp. Thông tin về cây trồng trong giai đoạn Tân Thạch không thay đổi theo thời gian. Câu hỏi liên quan đến Đông Nam Á, nhưng không đặc thù cho Việt Nam. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_110": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa và tín ngưỡng, có thể suy ra từ văn bản nhưng cần một chút suy luận. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_111": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_112": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu so sánh giữa tín ngưỡng thờ trời của người Việt và Trung Quốc, nhưng thông tin này không có trong đoạn văn gốc. Các tiêu chí khác đều đạt điểm tối đa vì không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam, và có tính khách quan."
+  },
+  "VH_113": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn hóa tín ngưỡng nông nghiệp của Việt Nam, không thay đổi theo thời gian, liên quan trực tiếp đến văn hóa Việt Nam, và có đáp án rõ ràng, khách quan."
+  },
+  "VH_114": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn bản gốc nhưng cần một chút suy luận về mối liên hệ giữa Phật giáo và tín ngưỡng thờ các bà. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_115": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn bản gốc nhưng cần suy luận nhẹ về ảnh hưởng văn hóa Trung Quốc. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và khách quan."
+  },
+  "VH_116": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_117": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn hóa Việt Nam, không thay đổi theo thời gian, liên quan trực tiếp đến tín ngưỡng Tứ Phủ và không mang tính chủ quan."
+  },
+  "VH_118": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ từ kiến thức văn hóa và không hoàn toàn dựa vào văn bản. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_119": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_120": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể trong đoạn văn gốc về sự tương đồng tín ngưỡng giữa người Việt và các nền văn hóa khác. Câu hỏi không thay đổi theo thời gian. Tuy nhiên, nó chỉ liên quan một phần đến văn hóa Việt Nam và có thể gây tranh cãi về tính khách quan do không có cơ sở rõ ràng trong văn bản."
+  },
+  "VH_121": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa phổ biến, không hoàn toàn từ văn bản gốc. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_122": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án phần lớn dựa vào kiến thức văn hóa phổ biến của Việt Nam, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_123": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa, có thể suy ra từ văn bản hoặc kiến thức phổ thông. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và khách quan."
+  },
+  "VH_124": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án phần lớn dựa vào kiến thức văn hóa truyền thống Việt Nam, nhưng không hoàn toàn có thể tìm thấy trong một đoạn văn cụ thể mà cần kiến thức tổng hợp. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_125": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_126": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_127": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_128": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Thông tin về tác phẩm 'Thọ Mai Gia Lễ' và vai trò của nó không có trong đoạn văn gốc, do đó không dựa vào văn bản. Tuy nhiên, câu hỏi không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_129": {
+    "text_based": 0.5,
+    "no_temporal": 0.5,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ từ văn bản về nguồn gốc và thời gian bắt đầu của tín ngưỡng. Thông tin về thời gian (thế kỷ VI) có thể thay đổi theo nghiên cứu lịch sử mới. Tuy nhiên, câu hỏi hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_130": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_131": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_132": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_133": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_134": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ về vai trò của hội làng dựa trên kiến thức văn hóa, không hoàn toàn dựa vào văn bản. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và có tính khách quan."
+  },
+  "VH_135": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi không dựa vào nội dung văn bản gốc, vì văn bản không cung cấp thông tin về nguồn gốc tên gọi 'thành hoàng'. Thông tin về nguồn gốc tên gọi không thay đổi theo thời gian. Câu hỏi hoàn toàn liên quan đến văn hóa Việt Nam. Tuy nhiên, câu trả lời có phần suy đoán và không hoàn toàn khách quan, vì sử dụng từ 'có thể' và không đưa ra bằng chứng cụ thể."
+  },
+  "VH_136": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu kiến thức ngoài văn bản gốc để trả lời, vì không có thông tin nào trong văn bản cung cấp về nguồn gốc tín ngưỡng của Thành hoàng. Tuy nhiên, thông tin này không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_137": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_138": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_139": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ về ý nghĩa của các trò diễn xướng và trò chơi, không hoàn toàn dựa vào văn bản. Câu hỏi không thay đổi theo thời gian và liên quan chặt chẽ đến văn hóa Việt Nam. Tuy nhiên, câu trả lời mang tính khái quát và có thể hơi chủ quan khi nói về 'tính phong phú'."
+  },
+  "VH_140": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án yêu cầu suy luận nhẹ dựa trên kiến thức văn hóa và tín ngưỡng Việt Nam, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_141": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_142": {
+    "text_based": 0.5,
+    "no_temporal": 0.5,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ vì không có thông tin cụ thể trong văn bản gốc về thời kỳ Đạo giáo du nhập vào Việt Nam. Thông tin có yếu tố thời gian nhưng không rõ ràng và có thể thay đổi theo nghiên cứu lịch sử mới. Câu hỏi hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_143": {
+    "text_based": 0.5,
+    "no_temporal": 0.5,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận về ảnh hưởng của thuyết tu tiên ở Việt Nam thời Bắc thuộc, không hoàn toàn dựa vào văn bản gốc. Thông tin có yếu tố thời gian (thời Bắc thuộc), nhưng không ảnh hưởng đến tính đúng đắn của câu hỏi. Câu hỏi liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_144": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn bản gốc, không thay đổi theo thời gian, liên quan đến lịch sử văn hóa Việt Nam, và mang tính khách quan với đáp án rõ ràng."
+  },
+  "VH_145": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào thông tin lịch sử cụ thể, không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_146": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì lý do không phổ biến của việc tu tiên trong Đạo giáo không được đề cập trong đoạn văn gốc. Tuy nhiên, thông tin này không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Đáp án có chút thiên vị vì đưa ra nhận định về tính đại chúng và sự thu hút mà không có cơ sở rõ ràng từ văn bản."
+  },
+  "VH_147": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn bản gốc, không thay đổi theo thời gian, liên quan đến văn hóa và pháp luật Việt Nam, và mang tính khách quan với đáp án rõ ràng."
+  },
+  "VH_148": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_149": {
+    "text_based": 0.5,
+    "no_temporal": 0.5,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu kiến thức lịch sử cụ thể, không hoàn toàn dựa vào văn bản gốc mà cần kiến thức lịch sử bổ sung. Thông tin có yếu tố thời gian (thời Lê Cảnh Hưng), nhưng không ảnh hưởng đến tính đúng đắn của câu hỏi. Câu hỏi liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_150": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu thông tin cụ thể về Trần Dụ Tông và hoạt động liên quan đến Đạo giáo, nhưng thông tin này không có trong đoạn văn gốc. Tuy nhiên, thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và có tính khách quan."
+  },
+  "VH_151": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_152": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa phong thủy, có thể không hoàn toàn được nêu rõ trong văn bản gốc. Tuy nhiên, thông tin không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_153": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án hoàn toàn dựa vào nội dung văn bản gốc, không thay đổi theo thời gian, liên quan trực tiếp đến văn hóa Việt Nam và mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_154": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi dựa phần lớn vào văn bản nhưng cần một chút suy luận về khái niệm phong thủy. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam, và có tính khách quan với đáp án rõ ràng."
+  },
+  "VH_155": {
+    "text_based": 0,
+    "no_temporal": 0.5,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Thông tin về năm 865 và Cao Biền không có trong đoạn văn gốc, cần kiến thức ngoài văn bản. Thời gian có đề cập nhưng không ảnh hưởng lớn đến tính đúng đắn của câu hỏi. Câu hỏi liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_156": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi dựa phần lớn vào văn hóa và tín ngưỡng phong thủy, nhưng cần một chút suy luận hoặc kiến thức lịch sử để hiểu ý nghĩa của hành động Cao Biền. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và khách quan."
+  },
+  "VH_157": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi yêu cầu suy luận nhẹ từ các tài liệu lịch sử như Chiếu dời đô và thư của Quang Trung, không hoàn toàn dựa vào văn bản gốc. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_158": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin nào trong đoạn văn cung cấp về nhân vật cụ thể hoặc quê quán. Tuy nhiên, thông tin về nhân vật lịch sử và quê quán không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_159": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin trong đoạn văn gốc về lý do vua Minh Mạng tuân theo phong thủy. Tuy nhiên, thông tin về phong thủy và kinh đô Huế là không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Câu hỏi có chút thiên vị vì giả định rằng vua Minh Mạng không tin vào phong thủy, điều này không được xác minh rõ ràng."
+  },
+  "VH_160": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn bản, nhưng cần suy luận nhẹ để tổng hợp thông tin. Thông tin không thay đổi theo thời gian, hoàn toàn liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_161": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Thông tin về nguồn gốc của thuật xem tướng và bói toán không có trong đoạn văn gốc, cần suy luận hoặc kiến thức ngoài văn bản."
+  },
+  "VH_162": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc, thông tin về nguồn gốc lá số tử vi không có trong ngữ cảnh. Thông tin không thay đổi theo thời gian. Câu hỏi có liên quan đến văn hóa nhưng không đặc thù Việt Nam. Câu hỏi và đáp án mang tính khách quan."
+  },
+  "VH_163": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào kiến thức văn hóa chung, không hoàn toàn dựa vào văn bản cụ thể. Thông tin không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Tuy nhiên, câu hỏi và đáp án có phần mang tính chủ quan vì ý nghĩa của phong thủy và bói toán có thể khác nhau tùy quan điểm cá nhân."
+  },
+  "VH_164": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Câu hỏi và đáp án phần lớn dựa vào kiến thức phổ thông về tử vi, không hoàn toàn từ văn bản gốc. Thông tin không thay đổi theo thời gian, liên quan đến tín ngưỡng Việt Nam và mang tính khách quan."
+  },
+  "VH_165": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": "Thông tin về ảnh hưởng của văn hóa Trung Quốc và Lưỡng Hà cổ đại không có trong đoạn văn gốc, cần suy luận hoặc kiến thức ngoài. Tuy nhiên, câu hỏi không thay đổi theo thời gian, liên quan đến văn hóa Việt Nam và mang tính khách quan."
+  },
+  "VH_166": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc vì không có thông tin cụ thể nào trong văn bản để trả lời. Thông tin về nguồn gốc của tử vi không thay đổi theo thời gian. Tử vi có liên quan đến văn hóa nhưng không đặc thù cho Việt Nam. Câu hỏi và đáp án mang tính khách quan, không có ý kiến cá nhân."
+  },
+  "VH_167": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0,
+    "reasoning": "Câu hỏi và đáp án không dựa vào nội dung văn bản gốc, mà yêu cầu kiến thức ngoài văn bản về tử vi. Thông tin không thay đổi theo thời gian. Tử vi có liên quan đến văn hóa nhưng không đặc thù Việt Nam. Đáp án mang tính chủ quan và không có cơ sở rõ ràng."
+  },
+  "VH_168": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_169": {
+    "text_based": 1,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 1,
+    "reasoning": ""
+  },
+  "VH_170": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi và đáp án dựa phần lớn vào văn bản nhưng cần suy luận nhẹ về vai trò của các tôn giáo. Thông tin không thay đổi theo thời gian vì liên quan đến khái niệm tôn giáo và trị nước. Câu hỏi liên quan đến văn hóa và lịch sử Việt Nam. Tuy nhiên, đáp án có chút thiên vị khi cho rằng Nho giáo không đáp ứng nhu cầu tâm linh, điều này có thể gây tranh cãi."
+  },
+  "VH_171": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu kiến thức ngoài văn bản. Vai trò của Trang Tử không thay đổi theo thời gian. Tuy nhiên, Trang Tử là một triết gia Trung Quốc, nên chỉ liên quan gián tiếp đến văn học Việt Nam. Câu trả lời mang tính khái quát và có thể bị ảnh hưởng bởi ý kiến cá nhân."
+  },
+  "VH_172": {
+    "text_based": 0.5,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 1,
+    "reasoning": "Câu hỏi dựa phần lớn vào kiến thức triết học, không hoàn toàn từ văn bản gốc. Triết học Lão Tử không thay đổi theo thời gian. Tuy nhiên, câu hỏi không đặc thù cho văn hóa Việt Nam mà mang tính chung chung. Câu trả lời khách quan và không có ý kiến cá nhân."
+  },
+  "VH_173": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 1,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản vì không có thông tin cụ thể về ảnh hưởng của Trang Tử trong văn bản gốc. Tuy nhiên, thông tin này không thay đổi theo thời gian và liên quan đến văn hóa Việt Nam. Câu trả lời mang tính khái quát và có thể bị ảnh hưởng bởi quan điểm cá nhân."
+  },
+  "VH_174": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0,
+    "reasoning": "Câu hỏi không dựa vào văn bản gốc mà yêu cầu suy luận và kiến thức ngoài văn bản. Tư tưởng của Trang Tử không phải là đặc trưng của văn hóa Việt Nam, mặc dù có thể có ảnh hưởng gián tiếp. Câu hỏi mang tính chủ quan vì không có đáp án rõ ràng và có thể gây tranh cãi về mức độ ảnh hưởng của Trang Tử đến văn học Việt Nam."
+  },
+  "VH_175": {
+    "text_based": 0,
+    "no_temporal": 1,
+    "relevant": 0.5,
+    "objective": 0.5,
+    "reasoning": "Câu hỏi yêu cầu suy luận ngoài văn bản và không dựa hoàn toàn vào nội dung gốc. Thông tin về Trang Tử và Lão Tử không thay đổi theo thời gian. Tuy nhiên, câu hỏi chỉ liên quan một phần đến văn hóa Việt Nam vì Trang Tử và Lão Tử là triết gia Trung Quốc, không đặc thù Việt Nam. Đáp án có phần chủ quan khi đánh giá ảnh hưởng của họ."
+  }
+}

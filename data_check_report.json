@@ -1,0 +1,53 @@
+{
+  "culture_benchmark": {
+    "total": 3295,
+    "errors": [],
+    "warnings": [
+      "VH_1542: Duplicate question (same as VH_957)",
+      "VH_1966: Duplicate question (same as VH_1861)",
+      "VH_2632: Duplicate question (same as VH_1511)"
+    ]
+  },
+  "law_benchmark": {
+    "total": 1840,
+    "errors": [],
+    "warnings": [
+      "PL_376: Duplicate question (same as PL_001)",
+      "PL_380: Duplicate question (same as PL_005)",
+      "PL_381: Duplicate question (same as PL_376)",
+      "PL_406: Duplicate question (same as PL_013)",
+      "PL_511: Duplicate question (same as PL_386)",
+      "PL_521: Duplicate question (same as PL_020)",
+      "PL_548: Duplicate question (same as PL_023)",
+      "PL_561: Duplicate question (same as PL_021)",
+      "PL_566: Duplicate question (same as PL_381)",
+      "PL_567: Duplicate question (same as PL_002)",
+      "PL_584: Duplicate question (same as PL_067)",
+      "PL_849: Duplicate question (same as PL_032)",
+      "PL_1061: Duplicate question (same as PL_036)",
+      "PL_1144: Duplicate question (same as PL_420)",
+      "PL_1416: Duplicate question (same as PL_043)",
+      "PL_1486: Duplicate question (same as PL_566)",
+      "PL_1487: Duplicate question (same as PL_377)",
+      "PL_1490: Duplicate question (same as PL_380)",
+      "PL_1667: Duplicate question (same as PL_1656)",
+      "PL_1828: Duplicate question (same as PL_059)"
+    ]
+  },
+  "culture_answers": {
+    "missing_answers": [],
+    "extra_answers": [],
+    "empty_answers": [],
+    "wrong_format": []
+  },
+  "law_answers": {
+    "missing_answers": [],
+    "extra_answers": [],
+    "empty_answers": [],
+    "wrong_format": []
+  },
+  "culture_mismatches": [],
+  "law_mismatches": [],
+  "cross_issues": [],
+  "fixes_needed": []
+}

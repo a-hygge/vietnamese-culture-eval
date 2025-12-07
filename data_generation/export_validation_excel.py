@@ -21,12 +21,144 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, Border, Side, PatternFill
 from openpyxl.utils import get_column_letter
 
+# Import data quality checker
+from data_quality_checker import (
+    analyze_benchmark, analyze_benchmark_with_status, analyze_item,
+    generate_quality_report, get_quality_status, classify_issues
+)
+
 # Azure OpenAI Configuration
 client = openai.AzureOpenAI(
     api_key="a6705b22532443ee8c0cfda232e57e06",
     azure_endpoint="https://vietgpt.openai.azure.com/",
     api_version="2024-02-15-preview"
 )
+
+# Danh sách các chủ đề có thể dự đoán
+TOPIC_LIST = [
+    "Pháp luật",
+    "Văn hóa",
+    "Lịch sử",
+    "Kinh tế",
+    "Chính trị",
+    "Xã hội",
+    "Giáo dục",
+    "Tôn giáo",
+    "Nghệ thuật",
+    "Phong tục tập quán",
+    "Địa lý",
+    "Khác"
+]
+
+
+def predict_topic(question: str, context: str = "", answer: str = "") -> str:
+    """
+    Dự đoán chủ đề của câu hỏi bằng LLM.
+
+    Args:
+        question: Câu hỏi cần phân loại
+        context: Ngữ cảnh (nếu có)
+        answer: Đáp án (nếu có)
+
+    Returns:
+        Tên chủ đề dự đoán
+    """
+    try:
+        topic_list_str = ", ".join(TOPIC_LIST)
+
+        prompt = f"""Phân loại câu hỏi sau vào MỘT trong các chủ đề: {topic_list_str}
+
+Câu hỏi: {question}
+{f'Đáp án: {answer}' if answer else ''}
+
+Chỉ trả lời tên chủ đề, không giải thích."""
+
+        response = client.chat.completions.create(
+            model="gpt-4o-2024-11-20",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "Bạn là chuyên gia phân loại chủ đề. Chỉ trả lời tên chủ đề, không giải thích."
+                },
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.1,
+            max_tokens=20
+        )
+
+        topic = response.choices[0].message.content.strip()
+
+        # Normalize topic - kiểm tra xem có trong danh sách không
+        for t in TOPIC_LIST:
+            if t.lower() in topic.lower():
+                return t
+
+        return "Khác"
+
+    except Exception as e:
+        print(f"  Error predicting topic: {e}")
+        return "Khác"
+
+
+def predict_topics_batch(data: list, progress_file: str = None) -> list:
+    """
+    Dự đoán chủ đề cho tất cả câu hỏi.
+    Hỗ trợ resume từ progress file.
+
+    Args:
+        data: List of Q&A dictionaries
+        progress_file: Path to save/load progress
+
+    Returns:
+        List of Q&A dictionaries with predicted_topic field
+    """
+    # Load existing progress
+    processed = {}
+    if progress_file and os.path.exists(progress_file):
+        try:
+            with open(progress_file, 'r', encoding='utf-8') as f:
+                processed = json.load(f)
+            print(f"  Loaded {len(processed)} existing topic predictions")
+        except:
+            pass
+
+    total = len(data)
+    for idx, item in enumerate(data, 1):
+        item_id = item.get("id", f"Q{idx}")
+
+        # Skip if already processed
+        if item_id in processed:
+            item["predicted_topic"] = processed[item_id]
+            continue
+
+        if idx % 10 == 1:
+            print(f"  [{idx}/{total}] Predicting topics...")
+
+        question = item.get("question", "")
+        context = item.get("context", "")
+        answer = item.get("answer", "")
+
+        topic = predict_topic(question, context, answer)
+        item["predicted_topic"] = topic
+        processed[item_id] = topic
+
+        # Save progress every 10 items
+        if progress_file and idx % 10 == 0:
+            try:
+                with open(progress_file, 'w', encoding='utf-8') as f:
+                    json.dump(processed, f, ensure_ascii=False, indent=2)
+            except:
+                pass
+
+    # Final save
+    if progress_file:
+        try:
+            with open(progress_file, 'w', encoding='utf-8') as f:
+                json.dump(processed, f, ensure_ascii=False, indent=2)
+        except:
+            pass
+
+    return data
 
 
 def load_benchmark_data(json_paths: list) -> list:
@@ -195,35 +327,223 @@ def generate_gpt_answers(data: list, progress_file: str = None) -> list:
     return data
 
 
-def load_chatgpt_web_answers(web_answers_file: str, data: list) -> list:
+# ============================================================================
+# LLM JUDGE SCORING
+# ============================================================================
+
+JUDGE_SYSTEM_PROMPT = """
+Bạn là giám khảo đánh giá câu trả lời của mô hình AI về văn hóa và pháp luật Việt Nam.
+
+## NHIỆM VỤ:
+So sánh câu trả lời của mô hình với đáp án chuẩn và cho điểm.
+
+## THANG ĐIỂM (0.0 - 1.0):
+- 1.0 (excellent): Câu trả lời đúng hoàn toàn, đầy đủ và chính xác như đáp án chuẩn
+- 0.9 (very_good): Đúng hoàn toàn về ý chính, chỉ khác biệt nhỏ về cách diễn đạt
+- 0.8 (good): Đúng các điểm quan trọng, thiếu 1 chi tiết nhỏ không ảnh hưởng đến ý nghĩa
+- 0.7 (fairly_good): Đúng phần lớn, thiếu 1-2 chi tiết phụ
+- 0.6 (acceptable): Đúng ý chính nhưng thiếu một số thông tin bổ sung quan trọng
+- 0.5 (partial): Đúng khoảng một nửa nội dung, thiếu nhiều thông tin quan trọng
+- 0.4 (weak): Có một số ý đúng nhưng thiếu phần lớn nội dung chính
+- 0.3 (poor): Chỉ đúng một phần nhỏ, phần lớn không chính xác hoặc thiếu
+- 0.2 (very_poor): Hầu như không đúng, chỉ có liên quan mơ hồ đến đáp án
+- 0.1 (almost_wrong): Gần như hoàn toàn sai, chỉ đề cập đúng chủ đề
+- 0.0 (incorrect): Hoàn toàn sai, không liên quan, hoặc trả lời lạc đề
+
+## NGUYÊN TẮC ĐÁNH GIÁ:
+1. Đánh giá dựa trên NỘI DUNG và Ý NGHĨA, không phải cách diễn đạt
+2. Chấp nhận các cách diễn đạt khác nhau nếu ý nghĩa tương đương
+3. Ưu tiên độ chính xác của thông tin cốt lõi
+4. Xem xét tính đầy đủ của câu trả lời so với đáp án chuẩn
+5. Trừ điểm nặng nếu có thông tin SAI (không chỉ thiếu)
+6. Câu trả lời dài hơn không có nghĩa là tốt hơn nếu thêm thông tin sai
+
+## ĐỊNH DẠNG TRẢ LỜI:
+{
+  "score": <điểm từ 0.0 đến 1.0, bước 0.1>,
+  "verdict": "excellent" | "very_good" | "good" | "fairly_good" | "acceptable" | "partial" | "weak" | "poor" | "very_poor" | "almost_wrong" | "incorrect",
+  "reason": "<giải thích ngắn gọn lý do cho điểm>"
+}
+
+Chỉ trả về JSON, không giải thích thêm.
+"""
+
+JUDGE_USER_TEMPLATE = """
+## CÂU HỎI:
+{question}
+
+## ĐÁP ÁN CHUẨN:
+{correct_answer}
+
+## CÂU TRẢ LỜI CỦA MÔ HÌNH:
+{model_answer}
+
+Hãy đánh giá câu trả lời của mô hình.
+"""
+
+
+def judge_response(question: str, correct_answer: str, model_answer: str) -> dict:
     """
-    Load câu trả lời từ ChatGPT web scraper và merge vào data.
+    Use LLM as judge to score model response against reference answer.
 
     Args:
-        web_answers_file: Path to chatgpt_web_answers.json
+        question: The question asked
+        correct_answer: The correct/reference answer
+        model_answer: The model's response to evaluate
+
+    Returns:
+        Dictionary with score, verdict, and reason
+    """
+    try:
+        user_prompt = JUDGE_USER_TEMPLATE.format(
+            question=question,
+            correct_answer=correct_answer,
+            model_answer=model_answer
+        )
+
+        response = client.chat.completions.create(
+            model="gpt-4o-2024-11-20",
+            messages=[
+                {"role": "system", "content": JUDGE_SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt}
+            ],
+            temperature=0.1,
+            max_tokens=500
+        )
+
+        result = response.choices[0].message.content.strip()
+
+        # Parse JSON
+        if "```json" in result:
+            result = result.split("```json")[1].split("```")[0].strip()
+        elif "```" in result:
+            result = result.split("```")[1].split("```")[0].strip()
+
+        return json.loads(result)
+
+    except json.JSONDecodeError as e:
+        return {"score": 0, "verdict": "error", "reason": f"JSON parse error: {str(e)}"}
+    except Exception as e:
+        return {"score": 0, "verdict": "error", "reason": f"Error: {str(e)}"}
+
+
+def run_llm_judge_scoring(data: list, progress_file: str = None) -> list:
+    """
+    Run LLM Judge scoring for all items.
+    Saves progress after each item to JSON file.
+
+    Args:
+        data: List of Q&A dictionaries with gpt_answer field
+        progress_file: Path to save/load progress JSON
+
+    Returns:
+        List of Q&A dictionaries with judge_score, judge_verdict, judge_reason fields
+    """
+    # Load existing progress
+    processed = {}
+    if progress_file and os.path.exists(progress_file):
+        try:
+            with open(progress_file, 'r', encoding='utf-8') as f:
+                processed = json.load(f)
+            print(f"  Loaded {len(processed)} existing judge scores")
+        except:
+            pass
+
+    total = len(data)
+    scored_count = 0
+    skipped_count = 0
+
+    for idx, item in enumerate(data, 1):
+        item_id = item.get("id", f"Q{idx}")
+
+        # Skip if already processed
+        if item_id in processed:
+            item["judge_score"] = processed[item_id].get("score", 0)
+            item["judge_verdict"] = processed[item_id].get("verdict", "")
+            item["judge_reason"] = processed[item_id].get("reason", "")
+            continue
+
+        # Skip if no GPT answer
+        gpt_answer = item.get("gpt_answer", "")
+        if not gpt_answer or gpt_answer.startswith("[ERROR") or gpt_answer == "[NO RESPONSE]":
+            item["judge_score"] = None
+            item["judge_verdict"] = "no_answer"
+            item["judge_reason"] = "Không có câu trả lời GPT"
+            skipped_count += 1
+            continue
+
+        print(f"  [{idx}/{total}] Judging {item_id}...")
+
+        question = item.get("question", "")
+        correct_answer = item.get("answer", "")
+
+        # Get judge score
+        judgment = judge_response(question, correct_answer, gpt_answer)
+
+        item["judge_score"] = judgment.get("score", 0)
+        item["judge_verdict"] = judgment.get("verdict", "error")
+        item["judge_reason"] = judgment.get("reason", "")
+        scored_count += 1
+
+        # Save to processed dict
+        processed[item_id] = {
+            "score": item["judge_score"],
+            "verdict": item["judge_verdict"],
+            "reason": item["judge_reason"]
+        }
+
+        # Save progress after EACH item
+        if progress_file:
+            try:
+                with open(progress_file, 'w', encoding='utf-8') as f:
+                    json.dump(processed, f, ensure_ascii=False, indent=2)
+            except Exception as e:
+                print(f"    ⚠ Error saving progress: {e}")
+
+        # Print progress
+        if scored_count % 10 == 0:
+            print(f"    Progress: {scored_count} scored, {skipped_count} skipped")
+
+    print(f"  ✓ Completed: {scored_count} scored, {skipped_count} skipped (no GPT answer)")
+    return data
+
+
+def load_chatgpt_web_answers(web_answers_files: list, data: list) -> list:
+    """
+    Load câu trả lời từ ChatGPT web scraper và merge vào data.
+    Hỗ trợ load từ nhiều file (văn hóa + pháp luật).
+
+    Args:
+        web_answers_files: List of paths to JSON files (e.g., [culture.json, law.json])
         data: List of Q&A dictionaries
 
     Returns:
         List of Q&A dictionaries with gpt_answer field
     """
-    if not os.path.exists(web_answers_file):
-        print(f"  ⚠ File not found: {web_answers_file}")
-        return data
+    # Merge all answers from multiple files
+    all_web_answers = {}
 
-    try:
-        with open(web_answers_file, 'r', encoding='utf-8') as f:
-            web_answers = json.load(f)
-        print(f"  ✓ Loaded {len(web_answers)} ChatGPT web answers")
-    except Exception as e:
-        print(f"  ✗ Error loading web answers: {e}")
-        return data
+    for web_file in web_answers_files:
+        if not os.path.exists(web_file):
+            print(f"  ⚠ File not found: {web_file}")
+            continue
+
+        try:
+            with open(web_file, 'r', encoding='utf-8') as f:
+                web_answers = json.load(f)
+            all_web_answers.update(web_answers)
+            print(f"  ✓ Loaded {len(web_answers)} answers from {os.path.basename(web_file)}")
+        except Exception as e:
+            print(f"  ✗ Error loading {web_file}: {e}")
+
+    print(f"  Total: {len(all_web_answers)} ChatGPT web answers")
 
     # Merge answers into data
     matched = 0
     for item in data:
         item_id = item.get("id", "")
-        if item_id in web_answers:
-            answer_data = web_answers[item_id]
+        if item_id in all_web_answers:
+            answer_data = all_web_answers[item_id]
             # Get the answer text
             if isinstance(answer_data, dict):
                 item["gpt_answer"] = answer_data.get("gpt_web_answer", "")
@@ -235,7 +555,7 @@ def load_chatgpt_web_answers(web_answers_file: str, data: list) -> list:
     return data
 
 
-def create_validation_excel(data: list, output_path: str, include_gpt_answer: bool = True):
+def create_validation_excel(data: list, output_path: str, include_gpt_answer: bool = True, include_judge_score: bool = False):
     """
     Create Excel file with validation columns for manual scoring.
 
@@ -243,46 +563,50 @@ def create_validation_excel(data: list, output_path: str, include_gpt_answer: bo
         data: List of Q&A dictionaries
         output_path: Path to output Excel file
         include_gpt_answer: Whether to include GPT_Answer column
+        include_judge_score: Whether to include LLM Judge Score columns
     """
+    # Pre-analyze data quality for all items
+    print("  Analyzing data quality...")
+    quality_results = analyze_benchmark_with_status(data)
+    critical_count = sum(1 for r in quality_results.values() if r["status"] == "CRITICAL")
+    warning_count = sum(1 for r in quality_results.values() if r["status"] == "OK (warning)")
+    ok_count = sum(1 for r in quality_results.values() if r["status"] == "OK")
+    print(f"  ✓ OK: {ok_count} | OK (warning): {warning_count} | ✗ CRITICAL: {critical_count}")
+
     # Create workbook and worksheet
     wb = Workbook()
     ws = wb.active
     ws.title = "Validation"
 
-    # Define headers based on whether GPT answer is included
+    # Define headers based on options
+    headers = [
+        "ID",
+        "Source",
+        "Category",
+        "Predicted Topic\n(Chủ đề dự đoán)",
+        "Context",
+        "Question",
+        "Answer\n(Đáp án chuẩn)",
+    ]
+    col_widths = [10, 20, 10, 15, 35, 45, 50]
+
     if include_gpt_answer:
-        headers = [
-            "ID",
-            "Source",
-            "Category",
-            "Context",
-            "Question",
-            "Answer\n(Đáp án chuẩn)",
-            "GPT_Answer\n(GPT trả lời)",
-            "text_based\n(Dựa vào VB)",
-            "no_temporal\n(Không TG)",
-            "relevant\n(Liên quan)",
-            "objective\n(Khách quan)",
-            "Total Score",
-            "Notes"
-        ]
-        col_widths = [10, 20, 10, 35, 45, 50, 50, 12, 12, 12, 12, 10, 30]
-    else:
-        headers = [
-            "ID",
-            "Source",
-            "Category",
-            "Context",
-            "Question",
-            "Answer",
-            "text_based\n(Dựa vào VB)",
-            "no_temporal\n(Không TG)",
-            "relevant\n(Liên quan)",
-            "objective\n(Khách quan)",
-            "Total Score",
-            "Notes"
-        ]
-        col_widths = [10, 20, 10, 35, 45, 55, 12, 12, 12, 12, 10, 30]
+        headers.append("GPT_Answer\n(GPT trả lời)")
+        col_widths.append(50)
+
+    if include_judge_score:
+        headers.extend([
+            "GPT Score\n(Điểm GPT)",
+            "GPT Verdict",
+            "GPT Reason\n(Lý do)"
+        ])
+        col_widths.extend([12, 12, 40])
+
+    headers.extend([
+        "Data Quality\n(Lỗi dữ liệu)",
+        "Notes"
+    ])
+    col_widths.extend([45, 30])
 
     # Styles
     header_font = Font(bold=True, size=11)
@@ -325,6 +649,30 @@ def create_validation_excel(data: list, output_path: str, include_gpt_answer: bo
         ws.cell(row=row_idx, column=col, value=item.get("category", "")).border = thin_border
         col += 1
 
+        # Predicted Topic
+        topic_cell = ws.cell(row=row_idx, column=col, value=item.get("predicted_topic", ""))
+        topic_cell.alignment = center_align
+        topic_cell.border = thin_border
+        # Màu sắc theo chủ đề
+        topic = item.get("predicted_topic", "")
+        topic_colors = {
+            "Pháp luật": "B4C6E7",      # Xanh dương nhạt
+            "Văn hóa": "F8CBAD",         # Cam nhạt
+            "Lịch sử": "FFE699",         # Vàng nhạt
+            "Kinh tế": "C6EFCE",         # Xanh lá nhạt
+            "Chính trị": "D9E1F2",       # Xanh tím nhạt
+            "Xã hội": "E2EFDA",          # Xanh lá nhạt 2
+            "Giáo dục": "FCE4D6",        # Hồng nhạt
+            "Tôn giáo": "DDEBF7",        # Xanh dương nhạt 2
+            "Nghệ thuật": "FFF2CC",      # Vàng nhạt 2
+            "Phong tục tập quán": "E4DFEC",  # Tím nhạt
+            "Địa lý": "D0CECE",          # Xám nhạt
+            "Khác": "F2F2F2"             # Xám rất nhạt
+        }
+        if topic in topic_colors:
+            topic_cell.fill = PatternFill(start_color=topic_colors[topic], end_color=topic_colors[topic], fill_type="solid")
+        col += 1
+
         # Context
         ctx_cell = ws.cell(row=row_idx, column=col, value=item.get("context", ""))
         ctx_cell.alignment = wrap_align
@@ -353,27 +701,75 @@ def create_validation_excel(data: list, output_path: str, include_gpt_answer: bo
                 gpt_cell.fill = PatternFill(start_color="E2EFDA", end_color="E2EFDA", fill_type="solid")
             col += 1
 
-        # Validation columns (empty for manual input)
-        validation_start_col = col
-        for _ in range(4):  # 4 validation criteria
-            cell = ws.cell(row=row_idx, column=col, value="")
-            cell.alignment = center_align
-            cell.border = thin_border
+        # Judge Score columns (nếu có)
+        if include_judge_score:
+            # Score
+            judge_score = item.get("judge_score")
+            score_cell = ws.cell(row=row_idx, column=col, value=judge_score if judge_score is not None else "")
+            score_cell.alignment = center_align
+            score_cell.border = thin_border
+            # Color based on score
+            if judge_score is not None:
+                score_fills = {
+                    1.0: "00B050",  # Dark Green
+                    0.9: "92D050",  # Light Green
+                    0.8: "C6EFCE",  # Pale Green
+                    0.7: "D9EAD3",  # Very Pale Green
+                    0.6: "FFF2CC",  # Light Yellow
+                    0.5: "FFEB9C",  # Yellow
+                    0.4: "FFD966",  # Dark Yellow
+                    0.3: "F4B183",  # Light Orange
+                    0.2: "FF9999",  # Light Red
+                    0.1: "FF6666",  # Red
+                    0.0: "FF0000",  # Dark Red
+                }
+                if judge_score in score_fills:
+                    score_cell.fill = PatternFill(start_color=score_fills[judge_score], end_color=score_fills[judge_score], fill_type="solid")
             col += 1
 
-        # Total Score formula
-        score_col = col
-        validation_end_col = col - 1
-        score_cell = ws.cell(
-            row=row_idx,
-            column=col,
-            value=f"=SUM({get_column_letter(validation_start_col)}{row_idx}:{get_column_letter(validation_end_col)}{row_idx})"
-        )
-        score_cell.alignment = center_align
-        score_cell.border = thin_border
+            # Verdict
+            verdict_cell = ws.cell(row=row_idx, column=col, value=item.get("judge_verdict", ""))
+            verdict_cell.alignment = center_align
+            verdict_cell.border = thin_border
+            col += 1
+
+            # Reason
+            reason_cell = ws.cell(row=row_idx, column=col, value=item.get("judge_reason", ""))
+            reason_cell.alignment = wrap_align
+            reason_cell.border = thin_border
+            col += 1
+
+        # Data Quality Issues
+        item_id = item.get("id", f"Q{row_idx-1}")
+        quality_info = quality_results.get(item_id, {"issues": [], "status": "OK"})
+        quality_status = quality_info["status"]
+        item_issues = quality_info["issues"]
+
+        # Hiển thị status + issues
+        if quality_status == "OK":
+            display_text = "OK"
+        elif quality_status == "OK (warning)":
+            display_text = f"✓ OK"
+        else:
+            display_text = f"✗ CRITICAL\n" + "; ".join(item_issues)
+
+        quality_cell = ws.cell(row=row_idx, column=col, value=display_text)
+        quality_cell.alignment = wrap_align
+        quality_cell.border = thin_border
+
+        # Màu sắc theo status
+        if quality_status == "OK":
+            # Xanh lá đậm - hoàn toàn tốt
+            quality_cell.fill = PatternFill(start_color="C6EFCE", end_color="C6EFCE", fill_type="solid")
+        elif quality_status == "OK (warning)":
+            # Xanh lá nhạt - vẫn ổn
+            quality_cell.fill = PatternFill(start_color="E2EFDA", end_color="E2EFDA", fill_type="solid")
+        else:
+            # Cam - cần xem lại
+            quality_cell.fill = PatternFill(start_color="FFE4B5", end_color="FFE4B5", fill_type="solid")
         col += 1
 
-        # Notes column
+        # Notes column (empty for manual input)
         notes_cell = ws.cell(row=row_idx, column=col, value="")
         notes_cell.alignment = wrap_align
         notes_cell.border = thin_border
@@ -381,12 +777,45 @@ def create_validation_excel(data: list, output_path: str, include_gpt_answer: bo
     # Freeze top row
     ws.freeze_panes = 'A2'
 
+    # Add AutoFilter for sorting/filtering
+    last_col_letter = get_column_letter(len(headers))
+    last_row = len(data) + 1
+    ws.auto_filter.ref = f"A1:{last_col_letter}{last_row}"
+
     # Add instruction sheet
     ws_guide = wb.create_sheet("Hướng dẫn")
     guide_content = [
         ["HƯỚNG DẪN ĐÁNH GIÁ Q&A BENCHMARK"],
         [""],
-        ["Tiêu chí đánh giá (Scoring: 1 = Đạt, 0.5 = Gần đạt, 0 = Không đạt):"],
+        ["=" * 60],
+        ["CỘT DATA QUALITY (Kiểm tra tự động - góc nhìn 'người chưa đọc sách')"],
+        ["=" * 60],
+        [""],
+        ["[NGU_CANH] - Lỗi Mất Ngữ Cảnh:"],
+        ["   - Đại từ mơ hồ (anh ấy, họ, việc đó...)"],
+        ["   - Context quá ngắn hoặc không cung cấp đủ thông tin"],
+        [""],
+        ["[TRI_THUC] - Lỗi Tri thức giả định:"],
+        ["   - Câu hỏi yêu cầu thông tin không có trong context"],
+        ["   - Câu hỏi 'tại sao' nhưng context không giải thích nguyên nhân"],
+        [""],
+        ["[NHIEU] - Lỗi Nhiễu Dữ liệu:"],
+        ["   - Số trang, header/footer lẫn vào nội dung"],
+        ["   - Câu bị ngắt giữa chừng"],
+        [""],
+        ["[MO_HO] - Lỗi Mơ hồ:"],
+        ["   - Câu hỏi thiếu định danh cụ thể"],
+        ["   - Câu hỏi mang tính chủ quan"],
+        [""],
+        ["[CAU_TRUC] - Lỗi Cấu trúc:"],
+        ["   - Context quá ngắn/dài"],
+        ["   - Cắt giữa câu quan trọng"],
+        [""],
+        ["[TRUNG_LAP] - Câu hỏi trùng lặp"],
+        [""],
+        ["=" * 60],
+        ["TIÊU CHÍ ĐÁNH GIÁ THỦ CÔNG (Scoring: 1 = Đạt, 0.5 = Gần đạt, 0 = Không đạt)"],
+        ["=" * 60],
         [""],
         ["1. text_based (Dựa vào văn bản)"],
         ["   - 1: Câu hỏi và đáp án dựa hoàn toàn vào nội dung văn bản gốc"],
@@ -432,13 +861,83 @@ def create_validation_excel(data: list, output_path: str, include_gpt_answer: bo
     ws_summary.append(summary_headers)
 
     total_items = len(data)
+    culture_count = sum(1 for d in data if d.get("category") == "culture")
+    law_count = sum(1 for d in data if d.get("category") == "law")
+
+    # Tính điểm GPT Judge trung bình
+    judge_scores = [d.get("judge_score") for d in data if d.get("judge_score") is not None]
+    avg_judge_score = sum(judge_scores) / len(judge_scores) if judge_scores else 0
+
     ws_summary.append(["Tổng số câu hỏi", total_items])
-    ws_summary.append(["Nguồn: Văn hóa", sum(1 for d in data if d.get("category") == "culture")])
-    ws_summary.append(["Nguồn: Pháp luật", sum(1 for d in data if d.get("category") == "law")])
+    ws_summary.append(["Nguồn: Văn hóa", culture_count])
+    ws_summary.append(["Nguồn: Pháp luật", law_count])
     ws_summary.append([""])
-    ws_summary.append(["Điểm trung bình", f"=AVERAGE(Validation!J2:J{total_items + 1})"])
-    ws_summary.append(["Số câu đạt (>=3)", f"=COUNTIF(Validation!J2:J{total_items + 1},\">=3\")"])
-    ws_summary.append(["Số câu không đạt (<2)", f"=COUNTIF(Validation!J2:J{total_items + 1},\"<2\")"])
+    ws_summary.append(["Có câu trả lời GPT", sum(1 for d in data if d.get("gpt_answer"))])
+    ws_summary.append(["Có điểm Judge", len(judge_scores)])
+    ws_summary.append(["Điểm Judge trung bình", f"{avg_judge_score:.3f}"])
+
+    # Data Quality Statistics
+    ws_summary.append([""])
+    ws_summary.append(["=" * 40, ""])
+    ws_summary.append(["DATA QUALITY (Kiểm tra tự động)", ""])
+    ws_summary.append(["=" * 40, ""])
+
+    # Count by status
+    status_counts = {"OK": ok_count, "OK (warning)": warning_count, "CRITICAL": critical_count}
+    items_ok_total = ok_count + warning_count
+
+    ws_summary.append(["✓ OK (hoàn toàn tốt)", f"{ok_count}"])
+    ws_summary.append(["✓ OK (warning - vẫn ổn)", f"{warning_count} ({warning_count/total_items*100:.1f}%)"])
+    ws_summary.append(["✗ CRITICAL (cần xem lại)", f"{critical_count} ({critical_count/total_items*100:.1f}%)"])
+    ws_summary.append([""])
+    ws_summary.append(["=> Câu hỏi vẫn OK:", f"{items_ok_total} ({items_ok_total/total_items*100:.1f}%)"])
+
+    # Count by issue type
+    issue_type_counts = {
+        "NGU_CANH": 0,
+        "TRI_THUC": 0,
+        "NHIEU": 0,
+        "MO_HO": 0,
+        "CAU_TRUC": 0,
+        "TRUNG_LAP": 0,
+        "KHO_HIEU": 0,
+        "NHAY_CAM": 0,
+    }
+    for item_id, info in quality_results.items():
+        for issue in info["issues"]:
+            for issue_type in issue_type_counts.keys():
+                if f"[{issue_type}]" in issue:
+                    issue_type_counts[issue_type] += 1
+
+    ws_summary.append([""])
+    ws_summary.append(["[WARNING - Vẫn OK]:", ""])
+    ws_summary.append(["  NGU_CANH (Context ngắn)", f"{issue_type_counts['NGU_CANH']}"])
+    ws_summary.append(["  TRI_THUC (Tri thức chung)", f"{issue_type_counts['TRI_THUC']}"])
+    ws_summary.append(["  CAU_TRUC (Cấu trúc)", f"{issue_type_counts['CAU_TRUC']}"])
+
+    ws_summary.append([""])
+    ws_summary.append(["[CRITICAL - Cần sửa]:", ""])
+    ws_summary.append(["  TRUNG_LAP (Trùng lặp)", f"{issue_type_counts['TRUNG_LAP']}"])
+    ws_summary.append(["  NHIEU (Nhiễu)", f"{issue_type_counts['NHIEU']}"])
+    ws_summary.append(["  MO_HO (Mơ hồ)", f"{issue_type_counts['MO_HO']}"])
+    ws_summary.append(["  KHO_HIEU (Khó hiểu)", f"{issue_type_counts['KHO_HIEU']}"])
+    ws_summary.append(["  NHAY_CAM (Nhạy cảm)", f"{issue_type_counts['NHAY_CAM']}"])
+
+    # Topic Statistics
+    ws_summary.append([""])
+    ws_summary.append(["=" * 40, ""])
+    ws_summary.append(["CHỦ ĐỀ DỰ ĐOÁN", ""])
+    ws_summary.append(["=" * 40, ""])
+
+    # Count by topic
+    topic_counts = {}
+    for item in data:
+        topic = item.get("predicted_topic", "Khác")
+        topic_counts[topic] = topic_counts.get(topic, 0) + 1
+
+    # Sort by count descending
+    for topic, count in sorted(topic_counts.items(), key=lambda x: -x[1]):
+        ws_summary.append([f"  {topic}", f"{count} ({count/total_items*100:.1f}%)"])
 
     # Style summary headers
     for cell in ws_summary[1]:
@@ -464,13 +963,21 @@ def main():
     parser.add_argument('--no-gpt', action='store_true',
                         help='Skip generating GPT answers (faster, no API calls)')
     parser.add_argument('--from-web', action='store_true',
-                        help='Load GPT answers from ChatGPT web scraper (chatgpt_web_answers.json)')
+                        help='Load GPT answers from ChatGPT web scraper (both culture and law files)')
     parser.add_argument('--web-file', type=str, default=None,
-                        help='Path to ChatGPT web answers JSON file')
+                        help='Path to additional ChatGPT web answers JSON file')
     parser.add_argument('--limit', type=int, default=None,
                         help='Limit number of questions to process (for testing)')
     parser.add_argument('--from-chunks', action='store_true',
                         help='Load from chunk files (preserves source file paths)')
+    parser.add_argument('--predict-topics', action='store_true',
+                        help='Predict topics for each question using LLM')
+    parser.add_argument('--no-topics', action='store_true',
+                        help='Skip topic prediction (faster)')
+    parser.add_argument('--judge', action='store_true',
+                        help='Run LLM Judge scoring (GPT evaluates GPT answers)')
+    parser.add_argument('--no-judge', action='store_true',
+                        help='Skip LLM Judge scoring')
     args = parser.parse_args()
 
     # Paths
@@ -479,6 +986,8 @@ def main():
 
     output_path = os.path.join(base_dir, "vietnamese_benchmark_validation.xlsx")
     progress_file = os.path.join(base_dir, "gpt_answers_progress.json")
+    topics_progress_file = os.path.join(base_dir, "topics_progress.json")
+    judge_progress_file = os.path.join(base_dir, "judge_scores_progress.json")
 
     print("=" * 60)
     print("EXPORTING VIETNAMESE BENCHMARK TO VALIDATION EXCEL")
@@ -517,14 +1026,23 @@ def main():
         print(f"  Limited to {args.limit} questions for testing")
 
     include_gpt_answer = not args.no_gpt
+    include_judge_score = args.judge and not args.no_judge
 
     # Get GPT answers
     if args.from_web:
-        # Load từ ChatGPT web scraper
-        web_file = args.web_file or os.path.join(base_dir, "chatgpt_web_answers.json")
+        # Load từ ChatGPT web scraper - CẢ 2 FILE (văn hóa + pháp luật)
+        web_files = [
+            os.path.join(base_dir, "chatgpt_web_answers.json"),       # Văn hóa
+            os.path.join(base_dir, "chatgpt_web_answers_law.json"),   # Pháp luật
+        ]
+        # Thêm file custom nếu có
+        if args.web_file:
+            web_files.append(args.web_file)
+
         print(f"\nLoading GPT answers from ChatGPT web scraper...")
-        print(f"  File: {web_file}")
-        data = load_chatgpt_web_answers(web_file, data)
+        for f in web_files:
+            print(f"  - {os.path.basename(f)}")
+        data = load_chatgpt_web_answers(web_files, data)
         include_gpt_answer = True
     elif include_gpt_answer:
         # Generate qua API
@@ -535,9 +1053,41 @@ def main():
     else:
         print("\nSkipping GPT answer generation (--no-gpt flag)")
 
+    # Run LLM Judge scoring
+    if include_judge_score:
+        print(f"\nRunning LLM Judge scoring for {len(data)} questions...")
+        print("  (Progress saved after EACH item to JSON)")
+        print("  (You can stop and resume later.)")
+        data = run_llm_judge_scoring(data, judge_progress_file)
+    else:
+        # Load existing judge scores if available
+        if os.path.exists(judge_progress_file):
+            print(f"\nLoading existing judge scores from {judge_progress_file}...")
+            try:
+                with open(judge_progress_file, 'r', encoding='utf-8') as f:
+                    judge_progress = json.load(f)
+                for item in data:
+                    item_id = item.get("id", "")
+                    if item_id in judge_progress:
+                        item["judge_score"] = judge_progress[item_id].get("score")
+                        item["judge_verdict"] = judge_progress[item_id].get("verdict", "")
+                        item["judge_reason"] = judge_progress[item_id].get("reason", "")
+                include_judge_score = True
+                print(f"  ✓ Loaded {len(judge_progress)} judge scores")
+            except Exception as e:
+                print(f"  ⚠ Error loading judge scores: {e}")
+
+    # Predict topics
+    if not args.no_topics:
+        print(f"\nPredicting topics for {len(data)} questions...")
+        print("  (This may take a while. Progress is saved every 10 items.)")
+        data = predict_topics_batch(data, topics_progress_file)
+    else:
+        print("\nSkipping topic prediction (--no-topics flag)")
+
     # Create Excel
     print(f"\nCreating validation Excel with {len(data)} Q&A pairs...")
-    create_validation_excel(data, output_path, include_gpt_answer)
+    create_validation_excel(data, output_path, include_gpt_answer, include_judge_score)
 
     print("\n" + "=" * 60)
     print("EXPORT COMPLETE")

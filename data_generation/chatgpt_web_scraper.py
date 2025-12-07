@@ -135,9 +135,40 @@ class ChatGPTWebScraper:
             input("  Nhấn Enter sau khi đã đăng nhập...")
             return True
 
+    def is_driver_alive(self):
+        """Kiểm tra xem driver còn hoạt động không."""
+        try:
+            self.driver.current_url
+            return True
+        except:
+            return False
+
+    def restart_driver(self):
+        """Restart Chrome driver khi bị crash."""
+        print("  → Restarting Chrome driver...")
+        try:
+            self.driver.quit()
+        except:
+            pass
+
+        time.sleep(3)
+        self.setup_driver()
+        self.open_chatgpt()
+        return True
+
     def start_new_chat(self, retry_count=0):
         """Bắt đầu cuộc hội thoại mới với retry logic."""
         max_retries = 3
+
+        # Kiểm tra driver còn sống không
+        if not self.is_driver_alive():
+            print("  ⚠ Chrome driver đã crash, đang restart...")
+            try:
+                self.restart_driver()
+                time.sleep(3)
+            except Exception as e:
+                print(f"  ✗ Không thể restart driver: {e}")
+                return False
 
         try:
             # Cách 1: Click nút New Chat trong sidebar
@@ -174,7 +205,18 @@ class ChatGPTWebScraper:
             return True
 
         except Exception as e:
-            print(f"  ⚠ Không thể tạo chat mới: {e}")
+            error_msg = str(e)
+            print(f"  ⚠ Không thể tạo chat mới: {error_msg}")
+
+            # Nếu là lỗi connection (driver crash), thử restart
+            if "connection" in error_msg.lower() or "refused" in error_msg.lower():
+                print("  → Driver crash detected, restarting...")
+                try:
+                    self.restart_driver()
+                    time.sleep(3)
+                    return self.start_new_chat(retry_count + 1)
+                except:
+                    pass
 
             if retry_count < max_retries:
                 print(f"  → Retry {retry_count + 1}/{max_retries} sau 10 giây...")
@@ -502,6 +544,143 @@ def save_progress(progress_file: str, answers: dict):
         json.dump(answers, f, ensure_ascii=False, indent=2)
 
 
+def process_book(scraper, input_file: str, output_file: str, book_name: str, limit: int = None, start_from: int = 0):
+    """
+    Xử lý một cuốn sách.
+
+    Returns:
+        True nếu hoàn thành, False nếu cần restart do rate limit
+    """
+    print("\n" + "=" * 60)
+    print(f"📚 {book_name.upper()}")
+    print("=" * 60)
+    print(f"Input:  {input_file}")
+    print(f"Output: {output_file}")
+
+    # Load data
+    print("\nLoading benchmark data...")
+    data = load_benchmark(input_file)
+
+    if not data:
+        print(f"⚠ Không tìm thấy data trong {input_file}")
+        return True  # Coi như đã xong
+
+    # Load existing answers
+    answers = load_progress(output_file)
+    print(f"  Đã có {len(answers)} câu trả lời từ trước")
+
+    # Apply limit
+    if limit:
+        data = data[:limit]
+
+    print(f"  Tổng số câu hỏi: {len(data)}")
+
+    # Đếm số câu chưa có answer
+    remaining = sum(1 for item in data if item.get("id", f"Q{data.index(item)}") not in answers)
+    if remaining == 0:
+        print(f"✓ Đã hoàn thành tất cả câu hỏi cho {book_name}!")
+        return True
+
+    print(f"  Còn lại: {remaining} câu chưa trả lời")
+
+    print("\n" + "=" * 60)
+    print("BẮT ĐẦU LẤY CÂU TRẢ LỜI")
+    print("=" * 60)
+
+    consecutive_errors = 0
+    max_consecutive_errors = 5
+
+    for idx, item in enumerate(data):
+        if idx < start_from:
+            continue
+
+        item_id = item.get("id", f"Q{idx}")
+
+        # Skip nếu đã có answer
+        if item_id in answers:
+            print(f"[{idx+1}/{len(data)}] {item_id} - Đã có, bỏ qua")
+            continue
+
+        print(f"\n[{idx+1}/{len(data)}] {item_id}")
+
+        # LUÔN tạo chat mới cho mỗi câu hỏi để tránh context pollution
+        print("  → Tạo chat mới...")
+        if not scraper.start_new_chat():
+            print("  ⚠ Không thể tạo chat mới, đợi 30 giây rồi thử lại...")
+            time.sleep(30)
+            if not scraper.start_new_chat():
+                print("  ✗ Vẫn không thể tạo chat mới, bỏ qua câu này")
+                consecutive_errors += 1
+                if consecutive_errors >= max_consecutive_errors:
+                    print(f"\n⚠ Quá nhiều lỗi liên tiếp ({max_consecutive_errors}), dừng script")
+                    break
+                continue
+
+        time.sleep(2)  # Tăng delay sau khi tạo chat mới
+
+        context = item.get("context", "")
+        question = item.get("question", "")
+
+        print(f"  Q: {question[:60]}...")
+
+        # Lấy answer
+        answer = scraper.get_answer(context, question)
+
+        # Kiểm tra answer có hợp lệ không
+        if answer.startswith("[ERROR") or answer == "[NO RESPONSE]":
+            print(f"  ⚠ Lỗi: {answer}")
+            consecutive_errors += 1
+            if consecutive_errors >= max_consecutive_errors:
+                print(f"\n⚠ Quá nhiều lỗi liên tiếp ({max_consecutive_errors}), dừng script")
+                break
+            time.sleep(10)
+            continue
+
+        # === XỬ LÝ RATE LIMIT - TỰ ĐỘNG DỪNG VÀ RESTART ===
+        if answer in ["[RATE_LIMIT]", "[NO_RESPONSE_TIMEOUT]"]:
+            print(f"\n{'='*60}")
+            print("⚠ RATE LIMIT DETECTED - TỰ ĐỘNG RESTART")
+            print("="*60)
+            print(f"  Câu hỏi bị dừng: {item_id}")
+            print(f"  Đã hoàn thành: {len(answers)} câu")
+            print(f"  Còn lại: {len(data) - len(answers)} câu")
+            print()
+            print("  → Đóng browser và restart script...")
+            print("="*60)
+
+            # Đóng browser
+            scraper.close()
+
+            # Restart script
+            import sys
+            import subprocess
+            subprocess.Popen([sys.executable] + sys.argv)
+            sys.exit(0)
+
+        # Reset error counter khi thành công
+        consecutive_errors = 0
+
+        print(f"  A: {answer[:60]}...")
+
+        # Lưu
+        answers[item_id] = {
+            "question": question,
+            "context": context,
+            "gpt_web_answer": answer,
+            "timestamp": datetime.now().isoformat()
+        }
+
+        # Save progress sau mỗi câu
+        save_progress(output_file, answers)
+        print(f"  ✓ Saved ({len(answers)} total)")
+
+        # Delay để tránh rate limit
+        time.sleep(2)
+
+    print(f"\n✓ Hoàn thành {book_name}: {len(answers)} câu trả lời")
+    return True
+
+
 def main():
     parser = argparse.ArgumentParser(description='Lấy câu trả lời từ ChatGPT Web')
 
@@ -519,38 +698,36 @@ def main():
     # Default paths
     base_dir = r"D:/dichdata/vietnamese-culture-eval-2"
 
-    if not args.input:
-        # Load từ chunk files
-        args.input = os.path.join(base_dir, "data_question_answer", "ban_sac_van_hoa_viet_nam", "culture_benchmark.json")
+    # Danh sách các cuốn sách cần chạy (theo thứ tự)
+    # 1. Pháp luật: 1624/1840 - còn 216 câu
+    # 2. Văn hóa: 1640/3295 - còn 1655 câu
+    books = [
+        {
+            "name": "Pháp luật đại cương",
+            "input": os.path.join(base_dir, "data_question_answer", "bai_giang_phap_luat_dai_cuong", "law_benchmark.json"),
+            "output": os.path.join(base_dir, "chatgpt_web_answers_law.json"),
+        },
+        {
+            "name": "Bản sắc văn hóa Việt Nam",
+            "input": os.path.join(base_dir, "data_question_answer", "ban_sac_van_hoa_viet_nam", "culture_benchmark.json"),
+            "output": os.path.join(base_dir, "chatgpt_web_answers.json"),
+        },
+    ]
 
-    if not args.output:
-        args.output = os.path.join(base_dir, "chatgpt_web_answers.json")
-
-    progress_file = args.output  # Dùng luôn output file làm progress
+    # Nếu user chỉ định input/output cụ thể, chỉ chạy file đó
+    if args.input:
+        books = [{
+            "name": "Custom",
+            "input": args.input,
+            "output": args.output or os.path.join(base_dir, "chatgpt_web_answers.json"),
+        }]
 
     print("=" * 60)
-    print("CHATGPT WEB SCRAPER")
+    print("CHATGPT WEB SCRAPER - MULTI-BOOK MODE")
     print("=" * 60)
-    print(f"Input:  {args.input}")
-    print(f"Output: {args.output}")
-
-    # Load data
-    print("\nLoading benchmark data...")
-    data = load_benchmark(args.input)
-
-    if not data:
-        print(f"⚠ Không tìm thấy data trong {args.input}")
-        return
-
-    # Load existing answers
-    answers = load_progress(progress_file)
-    print(f"  Đã có {len(answers)} câu trả lời từ trước")
-
-    # Apply limit
-    if args.limit:
-        data = data[:args.limit]
-
-    print(f"  Tổng số câu hỏi: {len(data)}")
+    print(f"\nSẽ chạy {len(books)} cuốn sách:")
+    for i, book in enumerate(books, 1):
+        print(f"  {i}. {book['name']}")
 
     # Khởi động scraper
     print("\n" + "=" * 60)
@@ -561,9 +738,12 @@ def main():
     print("  2. Lần đầu chạy: cần đăng nhập ChatGPT thủ công")
     print("  3. Các lần sau: đã lưu session, không cần đăng nhập lại")
     print("  4. Progress được lưu sau mỗi câu - có thể dừng và tiếp tục")
+    print("  5. Sau khi xong cuốn 1 sẽ tự động chạy tiếp cuốn 2")
     print()
 
-    input("Nhấn Enter để bắt đầu...")
+    # Tự động chạy, không cần nhấn Enter
+    print("→ Tự động bắt đầu sau 3 giây...")
+    time.sleep(3)
 
     scraper = ChatGPTWebScraper()
 
@@ -571,126 +751,18 @@ def main():
         scraper.setup_driver()
         scraper.open_chatgpt()
 
-        print("\n" + "=" * 60)
-        print("BẮT ĐẦU LẤY CÂU TRẢ LỜI")
-        print("=" * 60)
-
-        consecutive_errors = 0
-        max_consecutive_errors = 5
-
-        for idx, item in enumerate(data):
-            if idx < args.start_from:
-                continue
-
-            item_id = item.get("id", f"Q{idx}")
-
-            # Skip nếu đã có answer
-            if item_id in answers:
-                print(f"[{idx+1}/{len(data)}] {item_id} - Đã có, bỏ qua")
-                continue
-
-            print(f"\n[{idx+1}/{len(data)}] {item_id}")
-
-            # LUÔN tạo chat mới cho mỗi câu hỏi để tránh context pollution
-            print("  → Tạo chat mới...")
-            if not scraper.start_new_chat():
-                print("  ⚠ Không thể tạo chat mới, đợi 30 giây rồi thử lại...")
-                time.sleep(30)
-                if not scraper.start_new_chat():
-                    print("  ✗ Vẫn không thể tạo chat mới, bỏ qua câu này")
-                    consecutive_errors += 1
-                    if consecutive_errors >= max_consecutive_errors:
-                        print(f"\n⚠ Quá nhiều lỗi liên tiếp ({max_consecutive_errors}), dừng script")
-                        break
-                    continue
-
-            time.sleep(2)  # Tăng delay sau khi tạo chat mới
-
-            context = item.get("context", "")
-            question = item.get("question", "")
-
-            print(f"  Q: {question[:60]}...")
-
-            # Lấy answer
-            answer = scraper.get_answer(context, question)
-
-            # Kiểm tra answer có hợp lệ không
-            if answer.startswith("[ERROR") or answer == "[NO RESPONSE]":
-                print(f"  ⚠ Lỗi: {answer}")
-                consecutive_errors += 1
-                if consecutive_errors >= max_consecutive_errors:
-                    print(f"\n⚠ Quá nhiều lỗi liên tiếp ({max_consecutive_errors}), dừng script")
-                    break
-                time.sleep(10)
-                continue
-
-            # === XỬ LÝ RATE LIMIT ===
-            if answer in ["[RATE_LIMIT]", "[NO_RESPONSE_TIMEOUT]"]:
-                print(f"\n{'='*60}")
-                print("⚠ RATE LIMIT DETECTED - TẠM DỪNG")
-                print("="*60)
-                print(f"  Câu hỏi hiện tại: {item_id}")
-                print(f"  Đã hoàn thành: {len(answers)} câu")
-                print()
-
-                # Hỏi user muốn đợi hay dừng
-                print("  Bạn có thể:")
-                print("  1. Đợi 1-2 tiếng rồi tiếp tục (ChatGPT free limit)")
-                print("  2. Dừng script và chạy lại sau")
-                print()
-
-                wait_minutes = 60  # Mặc định đợi 60 phút
-                try:
-                    user_input = input(f"  Nhập số phút muốn đợi (Enter = {wait_minutes} phút, 0 = dừng): ").strip()
-                    if user_input == "0":
-                        print("  → Dừng script theo yêu cầu")
-                        break
-                    elif user_input:
-                        wait_minutes = int(user_input)
-                except:
-                    pass
-
-                print(f"\n  ⏳ Đợi {wait_minutes} phút trước khi tiếp tục...")
-                print(f"  (Có thể nhấn Ctrl+C để dừng)")
-
-                # Đợi với countdown
-                for remaining in range(wait_minutes * 60, 0, -30):
-                    mins = remaining // 60
-                    secs = remaining % 60
-                    print(f"\r  ⏳ Còn {mins:02d}:{secs:02d}...", end="", flush=True)
-                    time.sleep(30)
-
-                print("\n  → Tiếp tục...")
-
-                # Refresh trang và thử lại
-                try:
-                    scraper.driver.get("https://chatgpt.com/")
-                    time.sleep(5)
-                except:
-                    pass
-
-                # Không tăng consecutive_errors vì đã đợi
-                continue
-
-            # Reset error counter khi thành công
-            consecutive_errors = 0
-
-            print(f"  A: {answer[:60]}...")
-
-            # Lưu
-            answers[item_id] = {
-                "question": question,
-                "context": context,
-                "gpt_web_answer": answer,
-                "timestamp": datetime.now().isoformat()
-            }
-
-            # Save progress sau mỗi câu
-            save_progress(progress_file, answers)
-            print(f"  ✓ Saved ({len(answers)} total)")
-
-            # Delay để tránh rate limit
-            time.sleep(2)
+        # Chạy từng cuốn sách
+        for book in books:
+            process_book(
+                scraper=scraper,
+                input_file=book["input"],
+                output_file=book["output"],
+                book_name=book["name"],
+                limit=args.limit,
+                start_from=args.start_from
+            )
+            # Reset start_from cho các cuốn sau
+            args.start_from = 0
 
     except KeyboardInterrupt:
         print("\n\n⚠ Đã dừng bởi người dùng")
@@ -700,10 +772,8 @@ def main():
         scraper.close()
 
     print("\n" + "=" * 60)
-    print("HOÀN THÀNH")
+    print("HOÀN THÀNH TẤT CẢ")
     print("=" * 60)
-    print(f"Đã lấy được {len(answers)} câu trả lời")
-    print(f"Lưu tại: {args.output}")
 
 
 if __name__ == "__main__":

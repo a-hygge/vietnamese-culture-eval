@@ -17,6 +17,12 @@ from openpyxl.styles import Font, Alignment, Border, Side, PatternFill
 from openpyxl.utils import get_column_letter
 from datetime import datetime
 
+# Import data quality checker
+from data_quality_checker import (
+    analyze_benchmark, analyze_benchmark_with_status, analyze_item,
+    generate_quality_report, get_quality_status, classify_issues
+)
+
 # Azure OpenAI Configuration
 client = openai.AzureOpenAI(
     api_key="a6705b22532443ee8c0cfda232e57e06",
@@ -184,6 +190,14 @@ def evaluate_benchmark(benchmark_data: List[Dict], model_name: str = "gpt-4o-202
     results = []
     total = len(benchmark_data)
 
+    # Pre-analyze data quality for all items
+    print(f"\nAnalyzing data quality...")
+    quality_results = analyze_benchmark_with_status(benchmark_data)
+    critical_count = sum(1 for r in quality_results.values() if r["status"] == "CRITICAL")
+    warning_count = sum(1 for r in quality_results.values() if r["status"] == "OK (warning)")
+    print(f"  OK (warning): {warning_count} items (câu hỏi vẫn ổn)")
+    print(f"  CRITICAL: {critical_count} items (cần xem lại)")
+
     print(f"\nEvaluating {total} questions with model: {model_name}")
     print("=" * 60)
 
@@ -202,6 +216,12 @@ def evaluate_benchmark(benchmark_data: List[Dict], model_name: str = "gpt-4o-202
         print(f"  → Judging response...")
         judgment = judge_response(question, correct_answer, model_answer)
 
+        # Get data quality issues for this item
+        quality_info = quality_results.get(item_id, {"issues": [], "status": "OK"})
+        data_quality_status = quality_info["status"]
+        item_issues = quality_info["issues"]
+        data_quality_str = "; ".join(item_issues) if item_issues else "OK"
+
         result = {
             "id": item_id,
             "source": item.get("source", ""),
@@ -211,11 +231,17 @@ def evaluate_benchmark(benchmark_data: List[Dict], model_name: str = "gpt-4o-202
             "model_answer": model_answer,
             "score": judgment.get("score", 0),
             "verdict": judgment.get("verdict", "error"),
-            "reason": judgment.get("reason", "")
+            "reason": judgment.get("reason", ""),
+            "data_quality_status": data_quality_status,
+            "data_quality_issues": data_quality_str
         }
 
         results.append(result)
         print(f"  ✓ Score: {result['score']} ({result['verdict']})")
+        if data_quality_status == "CRITICAL":
+            print(f"  ✗ CRITICAL: {len(item_issues)} issues")
+        elif data_quality_status == "OK (warning)":
+            print(f"  ✓ OK (warning)")
 
     return results
 
@@ -243,10 +269,11 @@ def export_results_to_excel(results: List[Dict], output_path: str, model_name: s
         "Model Answer",
         "Score",
         "Verdict",
-        "Reason"
+        "Reason",
+        "Data Quality Issues"
     ]
 
-    col_widths = [10, 25, 12, 45, 45, 45, 10, 15, 35]
+    col_widths = [10, 25, 12, 45, 45, 45, 10, 15, 35, 50]
 
     # Styles
     header_fill = PatternFill(start_color="4472C4", end_color="4472C4", fill_type="solid")
@@ -317,6 +344,33 @@ def export_results_to_excel(results: List[Dict], output_path: str, model_name: s
         reason_cell.alignment = wrap_align
         reason_cell.border = thin_border
 
+        # Data Quality Issues
+        quality_status = item.get("data_quality_status", "OK")
+        quality_issues = item.get("data_quality_issues", "")
+
+        # Hiển thị status + issues
+        if quality_status == "OK":
+            display_text = "OK"
+        elif quality_status == "OK (warning)":
+            display_text = f"✓ OK (warning)\n{quality_issues}"
+        else:
+            display_text = f"✗ CRITICAL\n{quality_issues}"
+
+        quality_cell = ws.cell(row=row_idx, column=10, value=display_text)
+        quality_cell.alignment = wrap_align
+        quality_cell.border = thin_border
+
+        # Màu sắc theo status
+        if quality_status == "OK":
+            # Xanh lá đậm - hoàn toàn tốt
+            quality_cell.fill = PatternFill(start_color="C6EFCE", end_color="C6EFCE", fill_type="solid")
+        elif quality_status == "OK (warning)":
+            # Xanh lá nhạt - vẫn ổn
+            quality_cell.fill = PatternFill(start_color="E2EFDA", end_color="E2EFDA", fill_type="solid")
+        else:
+            # Cam - cần xem lại
+            quality_cell.fill = PatternFill(start_color="FFE4B5", end_color="FFE4B5", fill_type="solid")
+
     # Freeze top row
     ws.freeze_panes = 'A2'
 
@@ -374,6 +428,64 @@ def export_results_to_excel(results: List[Dict], output_path: str, model_name: s
         cat_avg = sum(r.get("score", 0) for r in cat_results) / len(cat_results) if cat_results else 0
         summary_data.append([f"  {cat}", f"{cat_avg:.3f} avg ({len(cat_results)} questions)"])
 
+    # Add data quality statistics
+    summary_data.append(["", ""])
+    summary_data.append(["=" * 50, ""])
+    summary_data.append(["DATA QUALITY ANALYSIS", ""])
+    summary_data.append(["(Góc nhìn 'người chưa đọc sách')", ""])
+    summary_data.append(["=" * 50, ""])
+
+    # Count by status
+    status_counts = {"OK": 0, "OK (warning)": 0, "CRITICAL": 0}
+    for r in results:
+        status = r.get("data_quality_status", "OK")
+        if status in status_counts:
+            status_counts[status] += 1
+
+    items_ok_total = status_counts["OK"] + status_counts["OK (warning)"]
+    items_critical = status_counts["CRITICAL"]
+
+    summary_data.append(["", ""])
+    summary_data.append(["PHÂN LOẠI TRẠNG THÁI:", ""])
+    summary_data.append(["  ✓ OK (hoàn toàn tốt)", f"{status_counts['OK']} câu"])
+    summary_data.append(["  ✓ OK (warning - vẫn ổn)", f"{status_counts['OK (warning)']} câu ({status_counts['OK (warning)']/total*100:.1f}%)"])
+    summary_data.append(["  ✗ CRITICAL (cần xem lại)", f"{items_critical} câu ({items_critical/total*100:.1f}%)"])
+    summary_data.append(["", ""])
+    summary_data.append(["=> CÂU HỎI VẪN OK:", f"{items_ok_total} ({items_ok_total/total*100:.1f}%)"])
+    summary_data.append(["=> CẦN XEM LẠI:", f"{items_critical} ({items_critical/total*100:.1f}%)"])
+
+    # Count by issue type
+    issue_type_counts = {
+        "NGU_CANH": 0,
+        "TRI_THUC": 0,
+        "NHIEU": 0,
+        "MO_HO": 0,
+        "CAU_TRUC": 0,
+        "TRUNG_LAP": 0,
+        "KHO_HIEU": 0,
+        "NHAY_CAM": 0,
+    }
+    for r in results:
+        issues_str = r.get("data_quality_issues", "")
+        for issue_type in issue_type_counts.keys():
+            if f"[{issue_type}]" in issues_str:
+                issue_type_counts[issue_type] += 1
+
+    summary_data.append(["", ""])
+    summary_data.append(["CHI TIẾT LOẠI LỖI:", ""])
+    summary_data.append(["", ""])
+    summary_data.append(["[WARNING - Câu hỏi vẫn OK]:", ""])
+    summary_data.append(["  NGU_CANH (Context ngắn)", f"{issue_type_counts['NGU_CANH']} lỗi"])
+    summary_data.append(["  TRI_THUC (Tri thức chung)", f"{issue_type_counts['TRI_THUC']} lỗi"])
+    summary_data.append(["  CAU_TRUC (Cấu trúc)", f"{issue_type_counts['CAU_TRUC']} lỗi"])
+    summary_data.append(["", ""])
+    summary_data.append(["[CRITICAL - Cần sửa nội dung]:", ""])
+    summary_data.append(["  TRUNG_LAP (Trùng lặp)", f"{issue_type_counts['TRUNG_LAP']} lỗi"])
+    summary_data.append(["  NHIEU (Nhiễu dữ liệu)", f"{issue_type_counts['NHIEU']} lỗi"])
+    summary_data.append(["  MO_HO (Mơ hồ)", f"{issue_type_counts['MO_HO']} lỗi"])
+    summary_data.append(["  KHO_HIEU (Khó hiểu)", f"{issue_type_counts['KHO_HIEU']} lỗi"])
+    summary_data.append(["  NHAY_CAM (Nhạy cảm)", f"{issue_type_counts['NHAY_CAM']} lỗi"])
+
     for row_idx, row in enumerate(summary_data, 1):
         for col_idx, value in enumerate(row, 1):
             cell = ws_summary.cell(row=row_idx, column=col_idx, value=value)
@@ -403,6 +515,21 @@ def export_results_to_excel(results: List[Dict], output_path: str, model_name: s
     print(f"  Poor (0.0-0.2):      {poor_count} ({poor_count/total*100:.1f}%)")
     print(f"\nAverage score: {avg_score:.3f}")
     print(f"Total points:  {sum(r.get('score', 0) for r in results):.1f} / {total}")
+
+    # Print data quality summary
+    status_counts = {"OK": 0, "OK (warning)": 0, "CRITICAL": 0}
+    for r in results:
+        status = r.get("data_quality_status", "OK")
+        if status in status_counts:
+            status_counts[status] += 1
+
+    items_ok_total = status_counts["OK"] + status_counts["OK (warning)"]
+    items_critical = status_counts["CRITICAL"]
+
+    print(f"\nData Quality:")
+    print(f"  ✓ OK (warning - vẫn ổn): {status_counts['OK (warning)']} ({status_counts['OK (warning)']/total*100:.1f}%)")
+    print(f"  ✗ CRITICAL (cần xem lại): {items_critical} ({items_critical/total*100:.1f}%)")
+    print(f"  => Câu hỏi vẫn OK: {items_ok_total} ({items_ok_total/total*100:.1f}%)")
     print(f"{'='*60}")
 
 
